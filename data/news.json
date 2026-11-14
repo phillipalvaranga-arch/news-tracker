@@ -1,8 +1,242 @@
 {
-  "updated": "2026-11-13T20:40:51.753668-06:00",
+  "updated": "2026-11-14T03:25:03.176415-06:00",
   "timezone": "America/Chicago",
   "item_count": 300,
   "items": [
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite",
+      "title": "Massie's push to impeach Hegseth splits constituents in his own backyard: 'Pure spite'",
+      "summary": "Northern Kentucky residents offer sharply divided takes on Thomas Massie's push to impeach Pete Hegseth over the Iran war and his true motives.",
+      "url": "https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-14T04:00:19-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pete-hegseth-pointed-response.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/blue-wave-meets-ballot-box-surprises-voters-split-abortion-voter-id-billionaire-taxes",
+      "title": "Blue wave meets ballot box surprises as voters split on abortion, voter ID and billionaire taxes",
+      "summary": "Voters in three states approved voter ID measures, while California rejected a billionaire wealth tax and Idaho turned down a proposal to expand abortion rights.",
+      "url": "https://www.foxnews.com/politics/blue-wave-meets-ballot-box-surprises-voters-split-abortion-voter-id-billionaire-taxes",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-14T04:00:00-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/vote-here-sign-madison-wis-scaled.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "yt:D6Ax_ebbxYA",
+      "title": "BREAKING: Online Power Outages Across U.S. - Bomb Squad Deployed In London",
+      "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=D6Ax_ebbxYA",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-14T03:43:34+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i1.ytimg.com/vi/D6Ax_ebbxYA/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "D6Ax_ebbxYA"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting",
+      "title": "Democrat flips Alaska governor's mansion after Trump-backed GOP infighting",
+      "summary": "President Trump endorsed Republican Bernadette Wilson for Alaska governor, but bitter GOP infighting and ranked-choice voting complicated the race to succeed Mike Dunleavy.",
+      "url": "https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-14T01:09:34-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jonathan-kreiss-tomkins-alaska.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "yt:lgcF0qAQkmM",
+      "title": "Microsoft Outage Raises a BIG Question",
+      "summary": "Microsoft's disruption highlights the difference between cybersecurity and operational reliability, raising questions about system resilience, recovery procedures and dependence on cloud services.",
+      "url": "https://www.youtube.com/watch?v=lgcF0qAQkmM",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-14T01:00:11+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i1.ytimg.com/vi/lgcF0qAQkmM/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "lgcF0qAQkmM"
+    },
+    {
+      "id": "yt:Jzo_dg9MNes",
+      "title": "Is AI the Reason Every Flight Is Cancelled?",
+      "summary": "Homeland Security Secretary Markwayne Mullin says investigators can’t rule out AI as the cause of the nationwide ground stop that grounded every flight in America. With no timeline for flights to resume, the question is whether this was a simple telecommunications failure or something bigger. The PBD Podcast is hosted…",
+      "url": "https://www.youtube.com/watch?v=Jzo_dg9MNes",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-13T23:45:38+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i3.ytimg.com/vi/Jzo_dg9MNes/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "Jzo_dg9MNes"
+    },
+    {
+      "id": "yt:xVwDg_C8WWo",
+      "title": "Elon's Leaving the Country 🤣",
+      "summary": "Every Flight in America Is Grounded, Except Elon’s The PBD Podcast is hosted by Patrick Bet David, CEO of Valuetainment. Join us live every Monday, Wednesday, and Friday at 9 AM EST as we break down the biggest stories in news, politics, business, current events, and pop culture, plus interviews with today’s most…",
+      "url": "https://www.youtube.com/watch?v=xVwDg_C8WWo",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-13T23:40:13+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i1.ytimg.com/vi/xVwDg_C8WWo/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "xVwDg_C8WWo"
+    },
+    {
+      "id": "yt:cNC7hIZI8GM",
+      "title": "PBD is Lucky Social Media Wasn't Around for This",
+      "summary": "The panel raises questions about digital footprints, public judgment and whether parents can prepare their children for the consequences of being recorded and shared without context.",
+      "url": "https://www.youtube.com/watch?v=cNC7hIZI8GM",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-13T23:00:33+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i4.ytimg.com/vi/cNC7hIZI8GM/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "cNC7hIZI8GM"
+    },
+    {
+      "id": "yt:pyQ85cN4e4o",
+      "title": "BREAKING: All Flights Grounded In U.S. - Oil Tanker Hits Cruise Ship In New Orleans",
+      "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=pyQ85cN4e4o",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-13T22:55:03+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i1.ytimg.com/vi/pyQ85cN4e4o/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "pyQ85cN4e4o"
+    },
+    {
+      "id": "yt:X1WFZnQcouA",
+      "title": "Breaking: FAA Grounds U.S. Flights After Air Traffic Control Outage | PBD Emergency Podcast",
+      "summary": "Patrick Bet-David breaks down the FAA’s nationwide ground stop after a communications outage hit all 22 regional air traffic control centers. The PBD Podcast looks at why takeoffs were halted, how the disruption rippled across the country, and the push for another $30 billion to upgrade the system. ------ 👞 Get the…",
+      "url": "https://www.youtube.com/watch?v=X1WFZnQcouA",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-13T22:51:44+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i1.ytimg.com/vi/X1WFZnQcouA/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "X1WFZnQcouA"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/mike-evans-ruled-out-trent-williams-questionable-nfc-leading-49ers-injury-concerns-persist",
+      "title": "Mike Evans ruled out, Trent Williams questionable as NFC-leading 49ers' injury concerns persist",
+      "summary": "San Francisco 49ers receiver Mike Evans will miss a third straight game, but Deebo Samuel and Keenan Allen are set to boost the receiving corps.",
+      "url": "https://www.foxnews.com/outkick-sports/mike-evans-ruled-out-trent-williams-questionable-nfc-leading-49ers-injury-concerns-persist",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-13T22:45:06-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/mike-evans-niners-nfl.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/kentucky-needs-buzzer-beating-three-survive-northern-arizona-upset-bid-rupp-arena",
+      "title": "Kentucky needs buzzer-beating three to survive Northern Arizona's upset bid at Rupp Arena",
+      "summary": "The Kentucky Wildcats needed Alex Wilkins' last-second three-pointer to escape winless Northern Arizona 78-77 at Rupp Arena on Friday night.",
+      "url": "https://www.foxnews.com/outkick-sports/kentucky-needs-buzzer-beating-three-survive-northern-arizona-upset-bid-rupp-arena",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-13T22:25:11-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/alex-wilkins-kentucky-wildcats-celebrates-fox-news_.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-business:https://www.foxbusiness.com/politics/duffy-sounds-alarm-over-aging-faa-system-after-nationwide-air-travel-shutdown",
+      "title": "Duffy sounds alarm over aging FAA system after nationwide air travel shutdown",
+      "summary": "Sean Duffy blamed outdated routers and 1980s-era copper lines for the FAA ground stop, demanding Congress approve $50 billion in emergency funding.",
+      "url": "https://www.foxbusiness.com/politics/duffy-sounds-alarm-over-aging-faa-system-after-nationwide-air-travel-shutdown",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-13T22:16:39-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/sean-duffy-faa-nationwide-ground-stop.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/cowboys-owner-jerry-jones-updates-timeline-nfl-18-game-schedule-floats-preseason-reduction",
+      "title": "Cowboys owner Jerry Jones updates timeline for NFL's 18-game schedule, floats preseason reduction",
+      "summary": "Jerry Jones says the NFL could move to an 18-game schedule as soon as next year, but the NFLPA has vowed to defend player health and safety.",
+      "url": "https://www.foxnews.com/outkick-sports/cowboys-owner-jerry-jones-updates-timeline-nfl-18-game-schedule-floats-preseason-reduction",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-13T21:55:41-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/nfl-cowboys-jerry-jones-100625-1.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
     {
       "id": "fox-news:https://www.foxnews.com/outkick-sports/nba-star-dejounte-murray-requests-trade-pelicans-clash-public-frustration-spills-social-media",
       "title": "NBA star Dejounte Murray requests trade after Pelicans clash, public frustration spills onto social media",
@@ -36,6 +270,23 @@
       "feed_id": "fox-news-latest"
     },
     {
+      "id": "yt:ZlTcLc71m6w",
+      "title": "Nvidia's CEO Scandal Goes BEYOND Cheating",
+      "summary": "The debate examines where private behavior becomes a corporate responsibility, especially when a leader's relationships could create conflicts of interest or expose sensitive business information.",
+      "url": "https://www.youtube.com/watch?v=ZlTcLc71m6w",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-13T21:00:04+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i3.ytimg.com/vi/ZlTcLc71m6w/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "ZlTcLc71m6w"
+    },
+    {
       "id": "fox-news:https://www.foxnews.com/media/joe-rogan-says-podcasters-no-business-trump-press-conferences-alongside-real-journalists",
       "title": "Joe Rogan says podcasters have no business at Trump press conferences alongside real journalists",
       "summary": "Joe Rogan rejected White House advisor David Sacks' push to give podcasters front-row seats at press conferences, declaring \"we talk s---\" and aren't journalists.",
@@ -66,6 +317,25 @@
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/faa-groundstop-fox-news-004.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "yt:J-weHQRVmHw",
+      "title": "Trump Finally WINS - Liberal Media Furious - IRGC Fails To Defeat America",
+      "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=J-weHQRVmHw",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-13T18:56:28+00:00",
+      "published_precision": "minute",
+      "published_text": "7 hours ago",
+      "thumbnail": "https://i3.ytimg.com/vi/J-weHQRVmHw/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "J-weHQRVmHw",
+      "published_date_text": "Nov 13, 2026"
     },
     {
       "id": "fox-news:https://www.foxnews.com/outkick-sports/bruce-arians-andrew-luck-rare-skill-peyton-manning-tom-brady-lacked",
@@ -244,6 +514,23 @@
       "feed_id": "fox-news-latest"
     },
     {
+      "id": "yt:xBt_kzjFyFE",
+      "title": "Brian Banks Lost Five Years Of His LIFE to a FALSE Accusation",
+      "summary": "Brian Banks' case raises questions about plea bargains, legal representation and the lasting consequences of imprisonment, even when a conviction is eventually overturned and a person's innocence is recognized.",
+      "url": "https://www.youtube.com/watch?v=xBt_kzjFyFE",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-13T17:00:26+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i1.ytimg.com/vi/xBt_kzjFyFE/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "xBt_kzjFyFE"
+    },
+    {
       "id": "fox-news:https://www.foxnews.com/outkick-sports/5-unluckiest-plays-sports-history-revisit-honor-friday-13th",
       "title": "5 of the unluckiest plays in sports history to revisit in honor of Friday the 13th",
       "summary": "From Leon Lett's Super Bowl fumble to the Kick Six, these five unlucky plays prove Friday the 13th has nothing on sports history's cruelest moments.",
@@ -275,6 +562,23 @@
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/teen-boy-energy-drink.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-health"
+    },
+    {
+      "id": "yt:INSFUnJWFdI",
+      "title": "Jensen Huang Quits NVIDIA & Microsoft Suffers Global Outage | PBD Podcast #890",
+      "summary": "Patrick Bet-David and the Home Team break down what Jensen Huang’s resignation from NVIDIA means for the AI boom as alleged ties to Chinese intelligence come under scrutiny. They dig into how Pete Hegseth’s impeachment bid collapsed and why Nayib Bukele’s fight against gangs in Haiti has put El Salvador at odds with…",
+      "url": "https://www.youtube.com/watch?v=INSFUnJWFdI",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-13T16:32:16+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i2.ytimg.com/vi/INSFUnJWFdI/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "INSFUnJWFdI"
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/fox-news-us/nationwide-faa-ground-stop-lifted-cancellations-significant-delays-continue-transportation-secretary",
@@ -424,6 +728,23 @@
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/thomas-massie-november-9-2026.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "yt:KNp7TD9r8RA",
+      "title": "88% Of Employees DONT Want Him To Resign",
+      "summary": "The discussion raises questions about accountability, workplace confidence and the relationship between executives and their teams when an organization faces controversy or pressure for change.",
+      "url": "https://www.youtube.com/watch?v=KNp7TD9r8RA",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-13T15:11:29+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i4.ytimg.com/vi/KNp7TD9r8RA/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "KNp7TD9r8RA"
     },
     {
       "id": "fox-news:https://www.foxnews.com/entertainment/hunting-wives-star-malin-akerman-ditches-la-lifestyle-dream-raising-son-1950s",
@@ -1115,23 +1436,21 @@
       "feed_id": "fox-news-sports"
     },
     {
-      "id": "yt:J-weHQRVmHw",
-      "title": "Trump Finally WINS - Liberal Media Furious - IRGC Fails To Defeat America",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=J-weHQRVmHw",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
+      "id": "yt:xUXo2bu4poE",
+      "title": "Ron DeSantis HELPED Byron Donalds Win",
+      "summary": "Did DeSantis's political legacy help Byron Donalds win, or does the narrow result reveal a changing Florida electorate? The Home Team debates what the contrast between two Republican gubernatorial victories says about political influence, turnout, and party strength.",
+      "url": "https://www.youtube.com/watch?v=xUXo2bu4poE",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
       "sections": [
         "video"
       ],
-      "published": "2026-11-13T00:00:00-06:00",
-      "published_precision": "day",
-      "published_text": "7 hours ago",
-      "thumbnail": "https://i.ytimg.com/vi/J-weHQRVmHw/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLB7ypQG8Et8VNPuMRzqiP0f-o6xRw",
+      "published": "2026-11-13T00:00:10+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i1.ytimg.com/vi/xUXo2bu4poE/hqdefault.jpg",
       "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "J-weHQRVmHw",
-      "published_date_text": "Nov 13, 2026"
+      "feed_id": "pbd-podcast",
+      "video_id": "xUXo2bu4poE"
     },
     {
       "id": "fox-news:https://www.foxnews.com/sports/commanders-giants-takeaways",
@@ -1150,6 +1469,23 @@
       "feed_id": "fox-news-sports"
     },
     {
+      "id": "yt:KI7HthL4oyQ",
+      "title": "Texas Democrats Got a MAJOR Youth Boost",
+      "summary": "What does overwhelming support from young voters reveal about Texas politics? Talarico's victory raises questions about generational voting patterns, Republican support among younger Texans, and whether the state's recent electoral shift will persist beyond 2026",
+      "url": "https://www.youtube.com/watch?v=KI7HthL4oyQ",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-12T23:00:25+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i4.ytimg.com/vi/KI7HthL4oyQ/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "KI7HthL4oyQ"
+    },
+    {
       "id": "fox-news:https://www.foxnews.com/sports/tom-brady-nfl-international-ac-milan",
       "title": "Tom Brady Shares Ideal International Soccer Stadium To Host An NFL Game",
       "summary": "Tom Brady would have loved to play an international NFL game in this Italian soccer stadium.",
@@ -1164,6 +1500,23 @@
       "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/490e212c-tom-brady-soccer-stadium.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-sports"
+    },
+    {
+      "id": "yt:kNoHuRuTB8M",
+      "title": "Britain's Future Faces a BIG Question",
+      "summary": "PBD discusses questions about immigration, integration, national identity, and representation, while highlighting the importance of distinguishing measurable trends from predictions.",
+      "url": "https://www.youtube.com/watch?v=kNoHuRuTB8M",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-12T22:00:01+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i4.ytimg.com/vi/kNoHuRuTB8M/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "kNoHuRuTB8M"
     },
     {
       "id": "fox-news:https://www.foxnews.com/us/dhs-touts-highest-ice-deportations-history-mullin-says-agency-unleashed",
@@ -1247,6 +1600,40 @@
       "feed_id": "fox-news-us"
     },
     {
+      "id": "yt:PD8evbVmpro",
+      "title": "Dominik Tarczyński Responds To DEATH THREATS",
+      "summary": "Tarczyński's account raises questions about intimidation, political expression, and the emotional cost of public life, while highlighting the importance of reporting credible threats.",
+      "url": "https://www.youtube.com/watch?v=PD8evbVmpro",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-12T21:00:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i1.ytimg.com/vi/PD8evbVmpro/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "PD8evbVmpro"
+    },
+    {
+      "id": "yt:-v4R0x-YZRw",
+      "title": "You Wont Believe What Dominik Tarczyński Almost Became",
+      "summary": "What happens when your original career dream doesn't become your life's purpose? Tarczyński discusses the difference between wanting to enter the priesthood and believing you've received a religious calling, connecting his faith to his understanding of public service.",
+      "url": "https://www.youtube.com/watch?v=-v4R0x-YZRw",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-12T20:00:31+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i2.ytimg.com/vi/-v4R0x-YZRw/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "-v4R0x-YZRw"
+    },
+    {
       "id": "fox-business:https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress",
       "title": "Meet Nvidia’s new interim CEO: The fortune and rise of Colette Kress",
       "summary": "Nvidia’s new interim CEO joined the chipmaker after her sons touted its gaming technology, years before its rise to the center of the AI boom.",
@@ -1262,6 +1649,23 @@
       "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/nvidia-chief-financial-officer-colette-kress.jpg",
       "kind": "article",
       "feed_id": "fox-business-technology"
+    },
+    {
+      "id": "yt:ZavNrnX-RvI",
+      "title": "LIVE: Trump Removes Vance From Iran Talks - U.S. Launch Strikes On IRGC Bases",
+      "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=ZavNrnX-RvI",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-12T19:51:17+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i3.ytimg.com/vi/ZavNrnX-RvI/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "ZavNrnX-RvI"
     },
     {
       "id": "fox-news:https://www.foxnews.com/sports/italy-stuns-france-3-takeaways-from-thursdays-nations-league-matches",
@@ -1280,6 +1684,23 @@
       "feed_id": "fox-news-sports"
     },
     {
+      "id": "yt:b-gP38g32DM",
+      "title": "Is It To Late to Save France?",
+      "summary": "Could El Salvador's security strategy work in France? The debate examines whether decisive leadership can restore public order and how far governments should go to combat violence while protecting civil liberties, democratic institutions and the right to protest.",
+      "url": "https://www.youtube.com/watch?v=b-gP38g32DM",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-12T19:00:26+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i3.ytimg.com/vi/b-gP38g32DM/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "b-gP38g32DM"
+    },
+    {
       "id": "fox-news:https://www.foxnews.com/sports/tcu-is-working-to-add-former-saint-louis-player-robbie-avila-after-return-to-billikens-was-nixed",
       "title": "Robbie Avila Expected To Join TCU After Saint Louis Return Denied",
       "summary": "TCU is working to add Robbie Avila to its roster after the former Saint Louis player was cleared to play but barred from returning to the Billikens.",
@@ -1294,6 +1715,23 @@
       "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/gettyimages-2267482339.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-sports"
+    },
+    {
+      "id": "yt:-BFjCxXNxT8",
+      "title": "Trump demotes Vance!",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=-BFjCxXNxT8",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-12T18:31:08+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i2.ytimg.com/vi/-BFjCxXNxT8/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "-BFjCxXNxT8"
     },
     {
       "id": "fox-news:https://www.foxnews.com/us/former-owner-peanut-squirrel-viral-pet-euthanized-ny-officials-detained-ice",
@@ -1374,6 +1812,23 @@
       "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/nvidia-chief-financial-officer-colette-kress.jpg",
       "kind": "article",
       "feed_id": "fox-business-markets"
+    },
+    {
+      "id": "yt:_poPnBy2mow",
+      "title": "BREAKING: Active Shooting In Washington DC - Multiple Casualties Reported",
+      "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=_poPnBy2mow",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-12T16:09:17+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i4.ytimg.com/vi/_poPnBy2mow/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "_poPnBy2mow"
     },
     {
       "id": "fox-news:https://www.foxnews.com/politics/democrats-turn-schumer-historic-election-wins-potential-challenger-emerges",
@@ -2340,6 +2795,23 @@
       "feed_id": "fox-news-world"
     },
     {
+      "id": "yt:uRd_aUt3CcY",
+      "title": "LIVE: Iraq Civil War ERUPTING - IRGC To Target Baghdad Leadership",
+      "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com 📲 Download Tousi TV app — available on iPhone and Android. X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=uRd_aUt3CcY",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-10T19:44:58+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i2.ytimg.com/vi/uRd_aUt3CcY/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "uRd_aUt3CcY"
+    },
+    {
       "id": "fox-business:https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
       "title": "Gas prices fall below $4 a gallon for first time since July",
       "summary": "AAA data shows the national average gas price dropped below $4 a gallon for the first time in months as winter blend fuel and lower demand ease costs.",
@@ -2665,6 +3137,23 @@
       "feed_id": "fox-news-sports"
     },
     {
+      "id": "yt:y9fWZi6kRPo",
+      "title": "LIVE: Vance Moves To Save IRGC - Rubio Rejects Iran Deal - U.S. Military Deploy Towards Iran",
+      "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com 📲 Download Tousi TV app — available on iPhone and Android. X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=y9fWZi6kRPo",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-09T20:15:57+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i2.ytimg.com/vi/y9fWZi6kRPo/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "y9fWZi6kRPo"
+    },
+    {
       "id": "fox-news:https://www.foxnews.com/sports/eagles-updated-draft-capital-following-jordan-davis-trade",
       "title": "Eagles Updated Draft Capital Following The Jordan Davis Trade",
       "summary": "Here is a breakdown of the Philadelphia Eagles' updated draft capital over the next three drafts following the Jordan Davis trade.",
@@ -2858,6 +3347,23 @@
       "feed_id": "fox-news-world"
     },
     {
+      "id": "yt:AziSuh_tMKE",
+      "title": "BREAKING: U.S. Strikes Iran - Trump Tells Israel To Prepare For WAR With IRGC",
+      "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com 📲 Download Tousi TV app — available on iPhone and Android. X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=AziSuh_tMKE",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-09T00:31:46+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i2.ytimg.com/vi/AziSuh_tMKE/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "AziSuh_tMKE"
+    },
+    {
       "id": "fox-news:https://www.foxnews.com/world/trumps-proposed-russia-deal-raises-nato-alarm-ex-commander-warns-putin-seeks-influence-over-europe",
       "title": "Trump’s proposed Russia deal raises NATO alarm as ex-commander warns Putin seeks influence over Europe",
       "summary": "President Donald Trump says a Russia deal could involve \"all of Europe\" as retired Gen. Philip Breedlove warns Putin wants spheres of influence.",
@@ -3016,6 +3522,59 @@
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/couple-dealing-with-depression.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-health"
+    },
+    {
+      "id": "yt:L44gJxqEu88",
+      "title": "Democrats' War To DESTROY America",
+      "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com 📲 Download Tousi TV app — available on iPhone and Android. X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=L44gJxqEu88",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-07T23:00:34+00:00",
+      "published_precision": "minute",
+      "published_text": "6 days ago",
+      "thumbnail": "https://i1.ytimg.com/vi/L44gJxqEu88/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "L44gJxqEu88",
+      "published_date_text": "Nov 7, 2026"
+    },
+    {
+      "id": "yt:byJZlOvtTLE",
+      "title": "LIVE: Iranians Rise Up For Pahlavi - Islamists & Leftists Target Anti-IRGC Rally In Frankfurt",
+      "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com 📲 Download Tousi TV app — available on iPhone and Android. X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=byJZlOvtTLE",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-07T20:49:57+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i3.ytimg.com/vi/byJZlOvtTLE/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "byJZlOvtTLE"
+    },
+    {
+      "id": "yt:QmoF1hykLGE",
+      "title": "BREAKING: Terror Attack Hits Poland - Multiple Casualties In Krakow",
+      "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com 📲 Download Tousi TV app — available on iPhone and Android. X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=QmoF1hykLGE",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-07T17:52:37+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i2.ytimg.com/vi/QmoF1hykLGE/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "QmoF1hykLGE"
     },
     {
       "id": "fox-news:https://www.foxnews.com/health/simple-bedtime-change-help-individuals-lose-weight-study-finds",
@@ -3178,23 +3737,38 @@
       "feed_id": "fox-news-world"
     },
     {
-      "id": "yt:L44gJxqEu88",
-      "title": "Democrats' War To DESTROY America",
+      "id": "yt:x4RxDIxLyOI",
+      "title": "Big Hasan Piker Video Tomorrow…",
       "summary": "",
-      "url": "https://www.youtube.com/watch?v=L44gJxqEu88",
+      "url": "https://www.youtube.com/watch?v=x4RxDIxLyOI",
       "source": "Tousi TV",
       "source_id": "tousi-tv",
       "sections": [
         "video"
       ],
-      "published": "2026-11-07T00:00:00-06:00",
-      "published_precision": "day",
-      "published_text": "6 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/L44gJxqEu88/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLA9kye7rpa6PDtbh-cmBkpuXFmaCw",
+      "published": "2026-11-06T23:39:19+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i1.ytimg.com/vi/x4RxDIxLyOI/hqdefault.jpg",
       "kind": "video",
       "feed_id": "tousi-tv",
-      "video_id": "L44gJxqEu88",
-      "published_date_text": "Nov 7, 2026"
+      "video_id": "x4RxDIxLyOI"
+    },
+    {
+      "id": "yt:1tdTJF_92dg",
+      "title": "LIVE: Pahlavi Assassination Plot By IRGC - Iran Protest Targeted",
+      "summary": "⭐ Explore Tousi Capital: https://tousicapital.com/ 🔴 Become a member of Tousi TV+ at https://tousi.tv 📲 Download Tousi TV app — available on iPhone and Android. X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=1tdTJF_92dg",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-06T20:16:30+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i2.ytimg.com/vi/1tdTJF_92dg/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "1tdTJF_92dg"
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/economy/companies-urged-adapt-restaurant-franchisee-files-bankruptcy-businesses-want-make-excuses",
@@ -3472,6 +4046,25 @@
       "published_date_text": "Nov 6, 2026"
     },
     {
+      "id": "yt:T18mCvFkUUo",
+      "title": "Islamic Grooming Gangs Go Back To 1916 In Britain | Tommy Robinson",
+      "summary": "⭐ Explore Tousi Capital: https://tousicapital.com/ 🔴 Become a member of Tousi TV+ at https://tousi.tv 📲 Download Tousi TV app — available on iPhone and Android. X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=T18mCvFkUUo",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-05T22:15:03+00:00",
+      "published_precision": "minute",
+      "published_text": "8 days ago",
+      "thumbnail": "https://i1.ytimg.com/vi/T18mCvFkUUo/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "T18mCvFkUUo",
+      "published_date_text": "Nov 5, 2026"
+    },
+    {
       "id": "fox-business:https://www.foxbusiness.com/markets/whats-fueling-wall-streets-growing-concerns-about-ai",
       "title": "What’s fueling Wall Street’s growing concerns about AI?",
       "summary": "A sharp sell-off has put a spotlight on the risks facing the AI boom, from heavy spending and borrowing to power constraints and political uncertainty.",
@@ -3631,25 +4224,6 @@
       "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/blood-bank-cold-storage-cyberattack-france.jpg",
       "kind": "article",
       "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "yt:T18mCvFkUUo",
-      "title": "Islamic Grooming Gangs Go Back To 1916 In Britain | Tommy Robinson",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=T18mCvFkUUo",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-11-05T00:00:00-06:00",
-      "published_precision": "day",
-      "published_text": "8 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/T18mCvFkUUo/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCGj1YrURCldy8FB5Yem05LFCj8cg",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "T18mCvFkUUo",
-      "published_date_text": "Nov 5, 2026"
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/technology/google-expands-voluntary-buyouts-5-countries-ai-spending-fuels-cost-cuts",
@@ -4044,122 +4618,6 @@
       "published_date_text": "Oct 29, 2026"
     },
     {
-      "id": "fox-business:https://www.foxbusiness.com/technology/trump-administration-sanctions-north-korean-network-accused-infiltrating-us-companies",
-      "title": "Trump administration sanctions North Korean network accused of infiltrating US companies",
-      "summary": "Treasury sanctioned ten individuals and one entity tied to North Korean IT workers who allegedly used stolen identities to infiltrate U.S. companies.",
-      "url": "https://www.foxbusiness.com/technology/trump-administration-sanctions-north-korean-network-accused-infiltrating-us-companies",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-10-28T22:09:04-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/scott-bessent-september-2026.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/alphabet-microsoft-earnings-reveal-surging-ai-demand-spending-soars",
-      "title": "Alphabet, Microsoft earnings reveal surging AI demand as spending soars",
-      "summary": "Alphabet and Microsoft reported strong earnings fueled by growing AI demand, even as the tech giants continue investing billions in data centers and cloud infrastructure.",
-      "url": "https://www.foxbusiness.com/technology/alphabet-microsoft-earnings-reveal-surging-ai-demand-spending-soars",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-10-28T20:45:28-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/google-microsoft-split.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices",
-      "title": "Apple breaks with longtime MacBook policy, introduces touchscreen laptops at higher prices",
-      "summary": "Apple is changing its longtime approach to MacBook design with the introduction of touchscreen models carrying higher starting prices than their predecessors.",
-      "url": "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-10-28T18:56:46-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/apple-touchscreen-macbook-002.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/san-francisco-startup-offered-20-hour-walk-robot-dogs-ai-training-report",
-      "title": "San Francisco startup offered $20 an hour to walk robot dogs for AI training: report",
-      "summary": "The $20-an-hour job posting sought workers to operate four-legged robots on outdoor testing routes through San Francisco with no robotics experience required.",
-      "url": "https://www.foxbusiness.com/technology/san-francisco-startup-offered-20-hour-walk-robot-dogs-ai-training-report",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-10-28T18:41:22-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/robot-dog-walker.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-october-28-2026",
-      "title": "Federal Reserve makes interest rate decision ahead of midterms",
-      "summary": "Federal Reserve policymakers left interest rates unchanged at their October meeting ahead of next week's midterm elections while inflation remains elevated.",
-      "url": "https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-october-28-2026",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-10-28T14:00:55-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/fed-chair-kevin-warsh-first-press-conference.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/nelson-peltz-led-group-offers-buy-wendys-1-4b",
-      "title": "Nelson Peltz-led group offers to buy Wendy’s for $1.4B",
-      "summary": "Nelson Peltz's Trian Fund Management offered $7.35 per share to take Wendy's private, a 20% premium as the burger chain faces a critical turnaround.",
-      "url": "https://www.foxbusiness.com/markets/nelson-peltz-led-group-offers-buy-wendys-1-4b",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-10-28T10:35:49-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/wendys-brampton-ontario.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
-      "title": "General Motors to move stock listing from NYSE to Nasdaq in technology-focused shift",
-      "summary": "GM will move its shares from the New York Stock Exchange to Nasdaq, a change that could make the Detroit automaker eligible for inclusion in the Nasdaq-100 Index",
-      "url": "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-10-27T09:26:44-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/gm-president-marc-reuss.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
       "id": "yt:ChrdIPZKfLI",
       "title": "Clavicular Reveals the Dark Side of His Viral Lifestyle | PBD Podcast #880",
       "summary": "",
@@ -4273,25 +4731,6 @@
       "published_date_text": "Oct 13, 2026"
     },
     {
-      "id": "yt:vGvx82X8SPc",
-      "title": "Is Islam the Problem or Has the West Become Weak? | Raymond Ibrahim | PBD Podcast #869",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=vGvx82X8SPc",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-08T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/vGvx82X8SPc/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCxtQ6TlUKQLJbROUywJEOHfPH1cw",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "vGvx82X8SPc",
-      "published_date_text": "Oct 8, 2026"
-    },
-    {
       "id": "yt:pyihDwVCc_M",
       "title": "October 7: Beyond Survival Documentary",
       "summary": "",
@@ -4311,25 +4750,6 @@
       "published_date_text": "Oct 7, 2026"
     },
     {
-      "id": "yt:Qpuj1nhcxiI",
-      "title": "Ex-Anthropic Insider Tells All | PBD Podcast #868",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=Qpuj1nhcxiI",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-06T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/Qpuj1nhcxiI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD-9vCnVDleG9ZOulNje9nRzNEsaA",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "Qpuj1nhcxiI",
-      "published_date_text": "Oct 6, 2026"
-    },
-    {
       "id": "yt:AX-1zZ4WrEU",
       "title": "Deporting Mahyar Tousi To Middle East",
       "summary": "",
@@ -4347,154 +4767,6 @@
       "feed_id": "tousi-tv",
       "video_id": "AX-1zZ4WrEU",
       "published_date_text": "Oct 6, 2026"
-    },
-    {
-      "id": "yt:9dtgxIdK8Ng",
-      "title": "“Why Did You Kill My Father?” — Ex-Mafia Underboss Reveals the Call | PBD Podcast #865",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=9dtgxIdK8Ng",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-01T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/9dtgxIdK8Ng/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDQjwv7LqlDg28yUgxi1rDYZXZCAw",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "9dtgxIdK8Ng",
-      "published_date_text": "Oct 1, 2026"
-    },
-    {
-      "id": "yt:IB56sQDcIYQ",
-      "title": "Ex-Disney CEO BREAKS SILENCE on Bob Iger & The Truth About Disney | PBD Podcast #864",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=IB56sQDcIYQ",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-09-29T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/IB56sQDcIYQ/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBly8bWb1CHZaPVAsBc5CwuVuOaSA",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "IB56sQDcIYQ",
-      "published_date_text": "Premiered Sep 29, 2026"
-    },
-    {
-      "id": "yt:ipoLo_2kf-c",
-      "title": "Tony Robbins: The Next 36 Months Will Change Everything | PBD Podcast #860",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=ipoLo_2kf-c",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-09-22T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/ipoLo_2kf-c/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDwiXCrjnHgm_OBhwehrZy1Rkre2g",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "ipoLo_2kf-c",
-      "published_date_text": "Sep 22, 2026"
-    },
-    {
-      "id": "yt:KzvQ9tenLgY",
-      "title": "5 Things That Could Destroy America — Victor Davis Hanson | PBD Podcast #857",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=KzvQ9tenLgY",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-09-17T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/KzvQ9tenLgY/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLA0nWWwbFdDK9xiE3ZXWjgNa-RyAg",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "KzvQ9tenLgY",
-      "published_date_text": "Sep 17, 2026"
-    },
-    {
-      "id": "yt:uR74ry0IpBU",
-      "title": "The Hard Truth About Success, Family & Love | PBD Podcast #853",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=uR74ry0IpBU",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-09-14T20:40:51.751420-05:00",
-      "published_precision": "relative",
-      "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/uR74ry0IpBU/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDUamjP1EuCtDlKRqaYBUiKBOD7SA",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "uR74ry0IpBU"
-    },
-    {
-      "id": "yt:Jbg1w4WlW1g",
-      "title": "Ted Cruz Reveals What Trump Told Him Behind Closed Doors | PBD Podcast #851",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=Jbg1w4WlW1g",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-09-14T20:40:51.751420-05:00",
-      "published_precision": "relative",
-      "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/Jbg1w4WlW1g/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBSNJ0fTj4clBJtyciMTyEhXWFQuA",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "Jbg1w4WlW1g"
-    },
-    {
-      "id": "yt:5QwpHRu51fw",
-      "title": "AI Expert’s Chilling Warning About Super-intelligence - 99.9999% Chance Human Extinction",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=5QwpHRu51fw",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-09-14T20:40:51.751420-05:00",
-      "published_precision": "relative",
-      "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/5QwpHRu51fw/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAnXSNgyI74jNs8Q27Hf2uWsjQxBg",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "5QwpHRu51fw"
-    },
-    {
-      "id": "yt:Z0ffCKngeNc",
-      "title": "This Pastor Wants ONLY Christians in Power | PBD Podcast #846",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=Z0ffCKngeNc",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-09-14T20:40:51.751420-05:00",
-      "published_precision": "relative",
-      "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/Z0ffCKngeNc/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDrzkr9ayvL7XokPgAh76y26hrcCA",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "Z0ffCKngeNc"
     },
     {
       "id": "yt:EsXqKAALqOg",
@@ -4533,96 +4805,6 @@
       "feed_id": "tousi-tv",
       "video_id": "BH4X449Og-o",
       "published_date_text": "Aug 29, 2026"
-    },
-    {
-      "id": "yt:4sizH0Z_8HY",
-      "title": "Ben Shapiro Admits His Biggest Blind Spot | PBD Podcast #842",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=4sizH0Z_8HY",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-08-15T20:40:51.751420-05:00",
-      "published_precision": "relative",
-      "published_text": "3 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/4sizH0Z_8HY/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLARSGrGlieP6jM3yiKVZXD_AhT5Tg",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "4sizH0Z_8HY"
-    },
-    {
-      "id": "yt:aKsZTBllWRQ",
-      "title": "Would You Have Kids Today? Economist's Dark Warning About the Future | PBD Podcast #835",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=aKsZTBllWRQ",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-08-15T20:40:51.751420-05:00",
-      "published_precision": "relative",
-      "published_text": "3 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/aKsZTBllWRQ/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLB5K7arZv58B29_g8_BMC2EjJoUqA",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "aKsZTBllWRQ"
-    },
-    {
-      "id": "yt:z2xJxQLUOy4",
-      "title": "Two Ex-CIA Officers Clash Over China, Israel & Surveillance | PBD Podcast #832",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=z2xJxQLUOy4",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-08-15T20:40:51.751420-05:00",
-      "published_precision": "relative",
-      "published_text": "3 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/z2xJxQLUOy4/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBCw_zVXMw9X8xHyJ1sfEMB7dSYDw",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "z2xJxQLUOy4"
-    },
-    {
-      "id": "yt:Y8uqTJPuMvE",
-      "title": "The Truth Behind Citizen Vigilante - Uwe Boll  | PBD Podcast | #829",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=Y8uqTJPuMvE",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-07-16T20:40:51.751420-05:00",
-      "published_precision": "relative",
-      "published_text": "4 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/Y8uqTJPuMvE/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDtiIuvKRdTWdDnv-qiLCSvZgNAig",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "Y8uqTJPuMvE"
-    },
-    {
-      "id": "yt:U5aThzB6oak",
-      "title": "Inside Daily Wire: Jeremy Boreing Breaks Silence on Ben, Candace & Tucker | PBD #819",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=U5aThzB6oak",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-07-16T20:40:51.751420-05:00",
-      "published_precision": "relative",
-      "published_text": "4 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/U5aThzB6oak/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDF3P0BlPfcN25BR0ILaqJqdJvCqQ",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "U5aThzB6oak"
     },
     {
       "id": "yt:9Dfu9_z3574",
@@ -4736,225 +4918,6 @@
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "wJlyO6gVPcA"
-    },
-    {
-      "id": "yt:BOyQoNExzHQ",
-      "title": "Trump Official Joe Kent EXPOSED After Flipping From Anti-IRGC to Pro-IRGC",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=BOyQoNExzHQ",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-04-17T20:40:36.085621-05:00",
-      "published_precision": "relative",
-      "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/BOyQoNExzHQ/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAkP5vyjXwLnY44Dbu76HjXRxsCMg",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "BOyQoNExzHQ"
-    },
-    {
-      "id": "yt:8nTU_8ICKiU",
-      "title": "Mahyar Tousi On Fox News: The End Of Ayatollah Rule In Iran",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=8nTU_8ICKiU",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-04-17T20:40:36.085621-05:00",
-      "published_precision": "relative",
-      "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/8nTU_8ICKiU/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBwyT3xJXhIJp4Y24uN513_HFofYg",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "8nTU_8ICKiU"
-    },
-    {
-      "id": "yt:x3b2n1HkILM",
-      "title": "Mahyar Tousi On Fox News: How IRGC Tricked Tucker Carlson",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=x3b2n1HkILM",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-04-11T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/x3b2n1HkILM/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBFNaRwT-FCAzRFBn6FvMKZoRMq2g",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "x3b2n1HkILM",
-      "published_date_text": "Apr 11, 2026"
-    },
-    {
-      "id": "yt:tWj9wMonsJs",
-      "title": "Mahyar Tousi On Fox News: Regime Change In Iran Explained",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=tWj9wMonsJs",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-03-30T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/tWj9wMonsJs/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDSPqXck5GjmZ69mGPJmtJAe3j7Rw",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "tWj9wMonsJs",
-      "published_date_text": "Mar 30, 2026"
-    },
-    {
-      "id": "yt:5whSphcKtEA",
-      "title": "The Truth About Trump’s War In Iran",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=5whSphcKtEA",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-03-26T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/5whSphcKtEA/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD0Wd3RAS-FXjIYON9ZJbzqQ3FHeA",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "5whSphcKtEA",
-      "published_date_text": "Mar 26, 2026"
-    },
-    {
-      "id": "yt:-RPX9Js2hoI",
-      "title": "Khamenei’s £100m Mansion In London Exposed",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=-RPX9Js2hoI",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-02-16T20:40:36.085621-06:00",
-      "published_precision": "relative",
-      "published_text": "9 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/-RPX9Js2hoI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBW0WdZOXp1Wl6NOZOqZnxunSpVZA",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "-RPX9Js2hoI"
-    },
-    {
-      "id": "yt:aDKO14ZOyHw",
-      "title": "CNN Come Out In SUPPORT Of Islamic Republic of Iran - IRGCNN Exposed",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=aDKO14ZOyHw",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-02-16T20:40:36.085621-06:00",
-      "published_precision": "relative",
-      "published_text": "9 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/aDKO14ZOyHw/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBvI2MZjzuI6Ya9bI1pdcgOuHxaUQ",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "aDKO14ZOyHw"
-    },
-    {
-      "id": "yt:cLtuV7SPufw",
-      "title": "Qatar's Opposition Leader EXPOSES Muslim Brotherhood And IRGC",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=cLtuV7SPufw",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-01-17T20:40:36.085621-06:00",
-      "published_precision": "relative",
-      "published_text": "10 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/cLtuV7SPufw/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLADEb80RLeoi7ub7BT36VAMZ0ZCdg",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "cLtuV7SPufw"
-    },
-    {
-      "id": "yt:G-MFyPNag-U",
-      "title": "Somali Criminals Accidentally CONFESS To Fraud In Minnesota",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=G-MFyPNag-U",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-01-17T20:40:36.085621-06:00",
-      "published_precision": "relative",
-      "published_text": "10 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/G-MFyPNag-U/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDOQyI90q_ocN-ZtV_OyIbQDUD6VQ",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "G-MFyPNag-U"
-    },
-    {
-      "id": "yt:LB4x7KPRDJA",
-      "title": "Palestinians Want To TAKE Big Ben From UK",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=LB4x7KPRDJA",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-01-17T20:40:36.085621-06:00",
-      "published_precision": "relative",
-      "published_text": "10 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/LB4x7KPRDJA/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDdjhO8zuNR82QyKVK61VENzT8s1w",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "LB4x7KPRDJA"
-    },
-    {
-      "id": "yt:MXo4sYYH8mE",
-      "title": "BBC Exposed For Spreading Lies About Iranian Uprising",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=MXo4sYYH8mE",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-01-17T20:40:36.085621-06:00",
-      "published_precision": "relative",
-      "published_text": "10 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/MXo4sYYH8mE/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCp95bmxYdzheEy4lsDnEZXaAKMxw",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "MXo4sYYH8mE"
-    },
-    {
-      "id": "yt:_AcS9UfaTMo",
-      "title": "October 7: Beyond Survival [Documentary Trailer]",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=_AcS9UfaTMo",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2025-11-13T20:40:36.085621-06:00",
-      "published_precision": "relative",
-      "published_text": "1 year ago",
-      "thumbnail": "https://i.ytimg.com/vi/_AcS9UfaTMo/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCk6OnJCoSZjIiqPkgF9VeqqFkN-Q",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "_AcS9UfaTMo"
     }
   ],
   "status": [
@@ -4965,7 +4928,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:22.534578-06:00",
+      "checked": "2026-11-14T03:25:01.156564-06:00",
       "error": null
     },
     {
@@ -4975,7 +4938,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:22.575117-06:00",
+      "checked": "2026-11-14T03:25:01.310544-06:00",
       "error": null
     },
     {
@@ -4985,7 +4948,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:22.629296-06:00",
+      "checked": "2026-11-14T03:25:01.373372-06:00",
       "error": null
     },
     {
@@ -4995,7 +4958,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:22.654356-06:00",
+      "checked": "2026-11-14T03:25:01.490762-06:00",
       "error": null
     },
     {
@@ -5005,7 +4968,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:22.852151-06:00",
+      "checked": "2026-11-14T03:25:01.547557-06:00",
       "error": null
     },
     {
@@ -5015,7 +4978,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:22.877819-06:00",
+      "checked": "2026-11-14T03:25:01.688220-06:00",
       "error": null
     },
     {
@@ -5025,7 +4988,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:22.915970-06:00",
+      "checked": "2026-11-14T03:25:01.815756-06:00",
       "error": null
     },
     {
@@ -5035,7 +4998,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:22.938825-06:00",
+      "checked": "2026-11-14T03:25:01.945999-06:00",
       "error": null
     },
     {
@@ -5045,7 +5008,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:23.002138-06:00",
+      "checked": "2026-11-14T03:25:02.138120-06:00",
       "error": null
     },
     {
@@ -5055,7 +5018,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:23.036827-06:00",
+      "checked": "2026-11-14T03:25:02.166024-06:00",
       "error": null
     },
     {
@@ -5065,7 +5028,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:23.079174-06:00",
+      "checked": "2026-11-14T03:25:02.261548-06:00",
       "error": null
     },
     {
@@ -5075,7 +5038,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:23.123901-06:00",
+      "checked": "2026-11-14T03:25:02.365184-06:00",
       "error": null
     },
     {
@@ -5085,7 +5048,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:40:23.173681-06:00",
+      "checked": "2026-11-14T03:25:02.446699-06:00",
       "error": null
     },
     {
@@ -5094,11 +5057,11 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjJec0wv1EUomjrBNt1xCTA",
       "channel_id": "UCjJec0wv1EUomjrBNt1xCTA",
       "ok": true,
-      "count": 30,
-      "http": "404,200",
-      "checked": "2026-11-13T20:40:23.220828-06:00",
+      "count": 15,
+      "http": 200,
+      "checked": "2026-11-14T03:25:02.484147-06:00",
       "error": null,
-      "method": "youtube-channel-page"
+      "method": "youtube-atom"
     },
     {
       "id": "pbd-podcast",
@@ -5106,11 +5069,11 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGX7nGXpz-CmO_Arg-cgJ7A",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "ok": true,
-      "count": 30,
-      "http": "404,200",
-      "checked": "2026-11-13T20:40:36.085759-06:00",
+      "count": 15,
+      "http": 200,
+      "checked": "2026-11-14T03:25:02.810312-06:00",
       "error": null,
-      "method": "youtube-channel-page"
+      "method": "youtube-atom"
     }
   ],
   "sources": [
