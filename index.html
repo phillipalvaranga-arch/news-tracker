@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>News Tracker</title>
+  <meta name="description" content="Headlines from Fox News, Fox Business, Tousi TV and the PBD Podcast, updated throughout the day.">
+  <meta name="theme-color" content="#0b1f4b">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="News Tracker">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/favicon.png" type="image/png">
+  <link rel="icon" href="icon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="style.css">
+  <script>
+    try {
+      var t = localStorage.getItem("nt-theme");
+      if (t === "dark" || t === "light") document.documentElement.dataset.theme = t;
+      else if (matchMedia("(prefers-color-scheme: dark)").matches) document.documentElement.dataset.theme = "dark";
+    } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="top">
+    <div class="brand">
+      <img src="icons/icon-192.png" alt="" width="44" height="44">
+      <div>
+        <h1>News Tracker</h1>
+        <p id="updatedLine" class="sub">Loading headlines…</p>
+      </div>
+    </div>
+    <div class="top-actions">
+      <button type="button" id="refreshBtn" class="btn">Refresh</button>
+      <button type="button" id="themeBtn" class="btn ghost" aria-pressed="false">Dark mode</button>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <label class="search-wrap">
+      <span class="sr">Search headlines</span>
+      <input id="searchBox" type="search" placeholder="Search headlines and summaries" autocomplete="off" enterkeyhint="search">
+    </label>
+    <div class="filters" role="group" aria-label="Filter by source">
+      <button type="button" class="chip on" data-source="all">All sources</button>
+      <button type="button" class="chip" data-source="fox-news">Fox News</button>
+      <button type="button" class="chip" data-source="fox-business">Fox Business</button>
+      <button type="button" class="chip" data-source="tousi-tv">Tousi TV</button>
+      <button type="button" class="chip" data-source="pbd-podcast">PBD Podcast</button>
+      <button type="button" class="chip last-hour" id="lastHourBtn" aria-pressed="false">Last hour</button>
+    </div>
+  </div>
+
+  <nav class="sections" aria-label="News sections" id="sectionNav"></nav>
+
+  <main id="main" tabindex="-1">
+    <p class="loading" id="loadingMsg">Loading headlines…</p>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>
