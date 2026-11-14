@@ -1,8 +1,155 @@
 {
-  "updated": "2026-11-14T09:55:38.167936-06:00",
+  "updated": "2026-11-14T14:20:22.497831-06:00",
   "timezone": "America/Chicago",
   "item_count": 300,
   "items": [
+    {
+      "id": "yt:Sti7OBB6KBQ",
+      "title": "Could Iran Use the SAME Espionage Tactics",
+      "summary": "The discussion explores how foreign intelligence services might exploit trust, access and professional connections to obtain sensitive information from executives, researchers and government personnel.",
+      "url": "https://www.youtube.com/watch?v=Sti7OBB6KBQ",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-14T17:00:33+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i4.ytimg.com/vi/Sti7OBB6KBQ/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "Sti7OBB6KBQ"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/media/deprogrammed-kind-offer-death-sent-couple-running-universal-health-care",
+      "title": "DEPROGRAMMED: A 'kind offer' of death sent this couple running from universal health care",
+      "summary": "Donovan James calls Canada's MAID program \"evil\" after his wife Kristin says she received end-of-life info before even getting an oncology appointment.",
+      "url": "https://www.foxnews.com/media/deprogrammed-kind-offer-death-sent-couple-running-universal-health-care",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T15:00:48-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/veteran-flees-canada-in-cancer-fight.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/faa-ground-stop-forces-changes-tna-wrestling-destination-x-pay-per-view",
+      "title": "FAA ground stop forces changes for TNA Wrestling's Destination X pay-per-view",
+      "summary": "TNA Wrestling's Destination X in Edmonton faces lineup changes after the FAA nationwide ground stop stranded wrestlers trying to reach the event.",
+      "url": "https://www.foxnews.com/outkick-sports/faa-ground-stop-forces-changes-tna-wrestling-destination-x-pay-per-view",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T14:42:41-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/couple-flight-status-george-bush-airport.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-business:https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage",
+      "title": "Who is L3Harris, the federal contractor Sec. Duffy says may have caused the FAA outage?",
+      "summary": "Sec. Sean Duffy says L3Harris may be to blame after routine fiber optic work on an FAA telecom line triggered a router failure and nationwide ground stop.",
+      "url": "https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-14T14:32:37-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/l3harris.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/media/shane-gillis-says-he-promised-no-controversy-before-snl-monologue-sparked-backlash",
+      "title": "Shane Gillis says he promised 'no controversy' before 'SNL' monologue that sparked backlash",
+      "summary": "Shane Gillis said on \"The Joe Rogan Experience\" that \"Saturday Night Live\" producers didn't approve his monologue he called a \"solid C minus.\"",
+      "url": "https://www.foxnews.com/media/shane-gillis-says-he-promised-no-controversy-before-snl-monologue-sparked-backlash",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T14:31:39-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/SHANE-GILLIS-FOX-NEWS-6.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere",
+      "title": "Justice Alito warns America must preserve 3 core principles regardless of country’s ‘atmosphere’",
+      "summary": "Supreme Court Justice Samuel Alito outlined three principles he says Americans must always prioritize amid the 2026 midterms and the Iran War.",
+      "url": "https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-14T14:29:34-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/alito-2.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/health/us-loses-longstanding-measles-elimination-status-cases-surge-nationwide",
+      "title": "US reportedly loses longstanding measles elimination status as cases surge nationwide",
+      "summary": "PAHO has reportedly revoked the U.S. measles elimination status held since 2000, with over 5,412 confirmed cases in 2026 signaling continuous spread.",
+      "url": "https://www.foxnews.com/health/us-loses-longstanding-measles-elimination-status-cases-surge-nationwide",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "health"
+      ],
+      "published": "2026-11-14T14:17:16-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/boy-with-measles.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-health"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/nfl-official-don-willard-referee-two-games-one-day-faa-ground-stop-disrupts-travel-league-says",
+      "title": "NFL official Don Willard will referee two games in one day after FAA ground stop disrupts travel, league says",
+      "summary": "NFL official Don Willard will referee two games in one day, driving 110 miles from Indianapolis to Cincinnati after the FAA ground stop hit Week 10.",
+      "url": "https://www.foxnews.com/outkick-sports/nfl-official-don-willard-referee-two-games-one-day-faa-ground-stop-disrupts-travel-league-says",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T14:04:37-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/don-willard-side-judge-lambeau-field.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/princess-diana-legendary-white-house-dance-john-travolta-almost-didnt-happen",
+      "title": "Princess Diana’s legendary White House dance with John Travolta almost didn’t happen",
+      "summary": "Princess Diana danced with Clint Eastwood, Tom Selleck and Ronald Reagan that evening, but it took coaxing to get John Travolta onto the floor.",
+      "url": "https://www.foxnews.com/entertainment/princess-diana-legendary-white-house-dance-john-travolta-almost-didnt-happen",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T14:00:35-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/John-Travolta-Princess-Diana-Dance.jpeg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
     {
       "id": "yt:EfxxvO6cryU",
       "title": "Michael Jordan's Comeback Was PERSONAL",
@@ -19,6 +166,329 @@
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "EfxxvO6cryU"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/hugh-jackman-sutton-foster-enjoy-romantic-beach-day-australia",
+      "title": "Hugh Jackman, Sutton Foster enjoy romantic beach day in Australia",
+      "summary": "Hugh Jackman and Sutton Foster were photographed sharing a kiss and playing Frisbee at Sydney's Bondi Beach.",
+      "url": "https://www.foxnews.com/entertainment/hugh-jackman-sutton-foster-enjoy-romantic-beach-day-australia",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T14:00:03-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/sutton-jackman.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/world/two-americans-drowned-strong-current-ripped-them-bahaman-sea-police-say",
+      "title": "Two Americans drown after Caribbean current pulls them out to sea",
+      "summary": "Two American tourists drowned off Birimi island after swimming beyond a warning sign area and being swept out by a strong current, Bahamas police said.",
+      "url": "https://www.foxnews.com/world/two-americans-drowned-strong-current-ripped-them-bahaman-sea-police-say",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "world"
+      ],
+      "published": "2026-11-14T13:42:12-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Bahamas_Bimini.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-world"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/health/new-prostate-cancer-guidelines-urge-men-start-screening-specific-age",
+      "title": "New prostate cancer guidelines urge men to start screening at specific age",
+      "summary": "American Cancer Society guidelines now recommend PSA blood tests every two years for men 50-69, with Black men urged to start annual screening at 45.",
+      "url": "https://www.foxnews.com/health/new-prostate-cancer-guidelines-urge-men-start-screening-specific-age",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "health"
+      ],
+      "published": "2026-11-14T12:48:19-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/man-at-doctor.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-health"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/ufc-334-odds-betting-promos-how-bet-hokit-vs-gane-any-other-fight-claim-2000-bonuses",
+      "title": "UFC 334 Odds and Betting Promos: How to Bet on Hokit vs Gane, Any Other Fight and Claim $2000+ in Bonuses",
+      "summary": "UFC 334 odds and betting promos for Gane vs Hokit and Harrison vs Nunes, with $2,000+ in bonuses from BetMGM, FanDuel, Fanatics, Hard Rock Bet, Underdog and Betr.",
+      "url": "https://www.foxnews.com/outkick-betting/ufc-334-odds-betting-promos-how-bet-hokit-vs-gane-any-other-fight-claim-2000-bonuses",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T12:33:39-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/06/931/524/Amanda-Nunes.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/college-football-betting-promos-2000-up-grabs-stacked-cfb-schedule-including-georgia-missouri",
+      "title": "College Football Betting Promos: $2,000+ up for Grabs for a Stacked CFB Schedule Including Georgia-Missouri",
+      "summary": "College football betting promos worth $2,000+ from BetMGM, Hard Rock Bet, Fanatics, FanDuel, Betr and Underdog for Week 11, including Missouri at Georgia.",
+      "url": "https://www.foxnews.com/outkick-betting/college-football-betting-promos-2000-up-grabs-stacked-cfb-schedule-including-georgia-missouri",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T12:27:43-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/524/georgia-kirby-smart-091625-2.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-cfb-bet-up-1500-georgia-vs-missouri-texas-lsu",
+      "title": "BetMGM Bonus Code FOXNEWS: Cover Your First CFB Bet up to $1500, Georgia vs Missouri, Texas-LSU",
+      "summary": "BetMGM bonus code FOXNEWS covers new users’ first college football bet up to $1,500, including Missouri at Georgia and Texas at LSU.",
+      "url": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-cfb-bet-up-1500-georgia-vs-missouri-texas-lsu",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T12:23:49-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/Steve-Sarkisian-Texas-Longhorns-head-coach.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/fanduel-promo-code-bet-5-get-200-your-chosen-cfb-game-today-including-georgia-vs-missouri",
+      "title": "FanDuel Promo Code: Bet $5, Get $200 on Your Chosen CFB Game Today Including Georgia vs Missouri",
+      "summary": "FanDuel gives new users $200 in bonus bets for betting $5 a day for four days, starting with today’s college football slate including Missouri at Georgia.",
+      "url": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-bet-5-get-200-your-chosen-cfb-game-today-including-georgia-vs-missouri",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T12:20:35-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/georgia-number-one-featured.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/how-bet-todays-stacked-college-football-slate-including-georgia-missouri-texas-lsu-more",
+      "title": "How to Bet on Today’s Stacked College Football Slate, Including Georgia-Missouri, Texas-LSU and More",
+      "summary": "How to bet today’s stacked college football slate, with promos from BetMGM, Fanatics, FanDuel, Hard Rock Bet, Underdog and Betr for Georgia-Missouri, Texas-LSU and more.",
+      "url": "https://www.foxnews.com/outkick-betting/how-bet-todays-stacked-college-football-slate-including-georgia-missouri-texas-lsu-more",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T12:18:05-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/arch-manning-texas-longhorns-touchdown.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-on-texas-vs-lsu",
+      "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Texas vs LSU",
+      "summary": "Fanatics Sportsbook promo code FOXNEWS350 lets new users bet $20 and get $350 in FanCash on No. 7 Texas at No. 14 LSU on Saturday night.",
+      "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-on-texas-vs-lsu",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T12:12:41-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/lane-kiffin-louisiana-state-tigers-mississippi.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlocks-play-10-get-50-georgia-vs-missouri-any-other-game",
+      "title": "Underdog Promo Code FOXNEWS Unlocks Play $10, Get $50 for Georgia vs Missouri or Any Other Game",
+      "summary": "Underdog promo code FOXNEWS lets new users play $10 and get $50 in bonus entries on Missouri at Georgia or any other game this weekend.",
+      "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlocks-play-10-get-50-georgia-vs-missouri-any-other-game",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T12:09:51-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/gunner-stockton-georgia-alabama-football.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-unlock-200-bonuses-4-free-picks-any-cfb-game-including-texas-lsu",
+      "title": "Betr Promo Code FOXNEWS: Unlock $200 in Bonuses and 4 Free Picks for Any CFB Game Including Texas-LSU",
+      "summary": "Betr promo code FOXNEWS unlocks $200 in bonuses and four free picks for new users on any college football game, including No. 7 Texas at No. 14 LSU.",
+      "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-unlock-200-bonuses-4-free-picks-any-cfb-game-including-texas-lsu",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T12:06:26-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/sam-leavitt-lsu-clemson-tiger-stadium-fox-news_.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-any-cfb-game-including-georgia-missouri-texas-lsu",
+      "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Any CFB Game Including Georgia-Missouri, Texas-LSU",
+      "summary": "Underdog promo code FOXNEWS lets new users play $10 and get $50 in bonus entries on any college football game, including Missouri at Georgia and Texas at LSU.",
+      "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-any-cfb-game-including-georgia-missouri-texas-lsu",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T12:03:16-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/arch-manning-texas-longhorns-warmup-scaled.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/media/bill-maher-warns-democrats-not-go-back-bad-ideas-after-sweeping-midterm-victories",
+      "title": "Bill Maher warns Democrats not to 'go back to bad ideas' after sweeping midterm victories",
+      "summary": "Comedian Bill Maher warns Democrats not to revive \"bad ideas\" like defunding the police after sweeping midterm wins on \"Real Time\" Friday.",
+      "url": "https://www.foxnews.com/media/bill-maher-warns-democrats-not-go-back-bad-ideas-after-sweeping-midterm-victories",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T12:03:15-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/bill-maher-nov-13-episode.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/travel/4-critical-travel-issues-those-still-scrambling-after-faa-nationwide-ground-stop",
+      "title": "4 critical travel issues for those delayed and disrupted by FAA nationwide ground stop",
+      "summary": "The FAA ground stop left airplanes and flight crews out of position, and airlines like Delta, United and Southwest are now offering waivers and free rebooking.",
+      "url": "https://www.foxnews.com/travel/4-critical-travel-issues-those-still-scrambling-after-faa-nationwide-ground-stop",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T12:00:30-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/faa-groundstop-fox-news-009.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/below-deck-star-arrested-after-brawl-leaves-17-year-old-dead",
+      "title": "‘Below Deck’ star arrested after brawl leaves 17-year-old dead",
+      "summary": "João Franco, the former \"Below Deck Mediterranean\" star, and his brother claim self-defense after their arrest in Turkey following a fatal brawl.",
+      "url": "https://www.foxnews.com/entertainment/below-deck-star-arrested-after-brawl-leaves-17-year-old-dead",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T12:00:27-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/joao-franco.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/white-house-lawyers-hardball-warning-dems-has-legal-experts-both-sides-questioning-one-key-threat",
+      "title": "White House lawyer's hardball warning to Dems has legal experts on both sides questioning one key threat",
+      "summary": "William Scharf's letter warns Democrats that abusive subpoenas could cross into criminality, but Rep. Robert Garcia says Trump has something to hide.",
+      "url": "https://www.foxnews.com/politics/white-house-lawyers-hardball-warning-dems-has-legal-experts-both-sides-questioning-one-key-threat",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-14T12:00:05-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/robert-garcia_001.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-georgia-vs-missouri",
+      "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Georgia vs Missouri",
+      "summary": "Fanatics Sportsbook promo code FOXNEWS350 lets new users bet $20 and get $350 in FanCash on No. 18 Missouri at No. 2 Georgia at Sanford Stadium.",
+      "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-georgia-vs-missouri",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T11:59:54-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/gunner-stockton-georgia-bulldogs-florida-gators.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/la-gang-member-helped-olympian-turned-billion-dollar-drug-trafficker-charged-federal-indictment",
+      "title": "LA gang member, who helped Olympian turned into billion-dollar drug trafficker, charged in federal indictment",
+      "summary": "Roberto Gomez allegedly fed sensitive law enforcement intel to Olympic snowboarder Ryan Wedding's billion-dollar cocaine trafficking operation.",
+      "url": "https://www.foxnews.com/outkick-sports/la-gang-member-helped-olympian-turned-billion-dollar-drug-trafficker-charged-federal-indictment",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T11:53:33-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/fbi-ryan-wedding-arrest-111925-1.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/dems-seize-midterm-rout-demand-ice-reform-polls-reveal-twist-prioritized-immigration",
+      "title": "Dems seize on midterm rout to demand ICE reform but polls reveal a twist in who prioritized immigration",
+      "summary": "Rep.-elect Bobby Pulido and Texas Democrats push 2028 candidates to prioritize immigration reform after flipping Republican-leaning districts.",
+      "url": "https://www.foxnews.com/politics/dems-seize-midterm-rout-demand-ice-reform-polls-reveal-twist-prioritized-immigration",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-14T11:36:20-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/immigration-reform-press-conference-scaled.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/democrats-eye-killing-senate-filibuster-lawmaker-warns-move-could-double-edged-sword",
+      "title": "Democrats eye killing Senate filibuster as lawmaker warns move could be a 'double-edged sword'",
+      "summary": "Ed Markey says the filibuster must be \"on the table\" as Democrats take the Senate, while Andy Kim warns the move could be a \"double-edged sword.\"",
+      "url": "https://www.foxnews.com/politics/democrats-eye-killing-senate-filibuster-lawmaker-warns-move-could-double-edged-sword",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-14T11:00:48-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/chuck-schumer-senate-democratic-caucus-press-conference-fox-news_-scaled.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
     },
     {
       "id": "fox-news:https://www.foxnews.com/outkick-betting/five-college-football-bets-saturday-two-road-dogs-being-slept",
@@ -577,7 +1047,7 @@
     {
       "id": "fox-news:https://www.foxnews.com/politics/socialist-la-mayor-bold-homelessness-promise-ahead-2028-olympics-hit-reality-check-not-optimistic",
       "title": "Socialist LA mayor's bold homelessness promise ahead of 2028 Olympics hit with reality check: 'Not optimistic'",
-      "summary": "Los Angeles mayor-elect Nithya Raman pledges to halve homeless encampments before the 2028 Olympics, but a local activist warns it won't work.",
+      "summary": "Los Angeles Mayor-elect Nithya Raman pledges to halve homeless encampments before the 2028 Olympics, but a local activist warns it won't work.",
       "url": "https://www.foxnews.com/politics/socialist-la-mayor-bold-homelessness-promise-ahead-2028-olympics-hit-reality-check-not-optimistic",
       "source": "Fox News",
       "source_id": "fox-news",
@@ -1233,7 +1703,7 @@
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/fox-news-us/nationwide-faa-ground-stop-lifted-cancellations-significant-delays-continue-transportation-secretary",
-      "title": "Nationwide FAA ground stop lifted but cancellations, significant delays to continue: Transportation secretary",
+      "title": "Nationwide FAA ground stop lifted but cancellations, significant delays to continue: transportation secretary",
       "summary": "The Federal Aviation Administration lifted a nationwide ground stop after more than four hours due to communication issues impacted Air Route Traffic Control Centers on Friday.",
       "url": "https://www.foxbusiness.com/fox-news-us/nationwide-faa-ground-stop-lifted-cancellations-significant-delays-continue-transportation-secretary",
       "source": "Fox Business",
@@ -4047,166 +4517,6 @@
       "video_id": "AziSuh_tMKE"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/world/trumps-proposed-russia-deal-raises-nato-alarm-ex-commander-warns-putin-seeks-influence-over-europe",
-      "title": "Trump’s proposed Russia deal raises NATO alarm as ex-commander warns Putin seeks influence over Europe",
-      "summary": "President Donald Trump says a Russia deal could involve \"all of Europe\" as retired Gen. Philip Breedlove warns Putin wants spheres of influence.",
-      "url": "https://www.foxnews.com/world/trumps-proposed-russia-deal-raises-nato-alarm-ex-commander-warns-putin-seeks-influence-over-europe",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-08T18:48:13-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/trump-putin-talk-alaska.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/iran-vows-astonishing-strikes-lifts-missile-range-limit-us-targets-land-routes",
-      "title": "Iran vows ‘astonishing’ strikes and lifts missile-range limit as US targets land routes",
-      "summary": "Iran's IRGC lifted its 2,000-kilometer ballistic missile-range limit and threatened new weapons hours after U.S. Central Command launched a new task force.",
-      "url": "https://www.foxnews.com/world/iran-vows-astonishing-strikes-lifts-missile-range-limit-us-targets-land-routes",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-08T18:08:57-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/2025-03-28t105439z_2869375_rc2t5bajz4tp_rtrmadp_3_iran-nuclear-usa-scaled.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/forget-prunes-popular-green-fruit-shows-promise-constipation-relief",
-      "title": "Forget prunes: Popular green fruit shows promise for constipation relief",
-      "summary": "A review of 33 studies links eating two green kiwis daily for four weeks to more regular bowel movements in people with constipation or IBS-C.",
-      "url": "https://www.foxnews.com/health/forget-prunes-popular-green-fruit-shows-promise-constipation-relief",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-08T14:37:24-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/woman-vitamin-c-kiwi-fruit-skin-health.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/pro-life-pregnancy-center-expands-mission-help-patients-embrace-god-given-gender",
-      "title": "Pro-life pregnancy center expands mission to help patients embrace their God-given gender",
-      "summary": "By listening to the Holy Spirit, Heidi Matzke, executive director of the Alternatives Pregnancy Center, said her clinic helps women embrace the gender they were given by God.",
-      "url": "https://www.foxnews.com/health/pro-life-pregnancy-center-expands-mission-help-patients-embrace-god-given-gender",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-08T11:34:28-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/newborn-baby-ivf.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/facebook-recovery-scams-use-fake-fbi-profiles",
-      "title": "Facebook recovery scams use fake FBI profiles",
-      "summary": "Facebook ads promising to recover stolen funds are targeting scam victims again, and Meta confirmed removing flagged accounts after investigation.",
-      "url": "https://www.foxnews.com/tech/facebook-recovery-scams-use-fake-fbi-profiles",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-08T11:28:23-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/retiree-data-protection.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/tesla-plans-wind-down-cybertruck-production-after-sales-slump",
-      "title": "Tesla plans to wind down Cybertruck production after sales slump",
-      "summary": "Tesla Cybertruck production is winding down at Gigafactory Texas to make room for Cybercab robotaxi manufacturing, but key questions remain for owners.",
-      "url": "https://www.foxnews.com/tech/tesla-plans-wind-down-cybertruck-production-after-sales-slump",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-08T07:30:56-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tesla-cybertrucks-starbase-texas.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/how-to-watch-lions-vs-dolphins-tv-channel-live-stream-time-nov-8-2026",
-      "title": "How to Watch Lions vs. Dolphins: TV Channel, Live Stream, Time",
-      "summary": "How to watch the Detroit Lions vs. Miami Dolphins on Sunday, November 8, 2026, plus key players to watch in this NFL matchup at Hard Rock Stadium.",
-      "url": "https://www.foxnews.com/sports/how-to-watch-lions-vs-dolphins-tv-channel-live-stream-time-nov-8-2026",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-08T07:16:59-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/3b869057bf8838fe5926c23244029eb2159f07781b66e7a2011c8755401a0f6c.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/how-to-watch-rams-vs-commanders-tv-channel-live-stream-time-nov-8-2026",
-      "title": "How to Watch Rams vs. Commanders: TV Channel, Live Stream, Time",
-      "summary": "How to watch the Los Angeles Rams vs. Washington Commanders in Week 9 of the 2026 NFL season, plus players to watch at Northwest Stadium on November 8.",
-      "url": "https://www.foxnews.com/sports/how-to-watch-rams-vs-commanders-tv-channel-live-stream-time-nov-8-2026",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-08T07:13:45-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/how-to-watch-los-angeles-rams-vs-washington-commanders-horizontal.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/how-to-watch-cowboys-vs-colts-tv-channel-live-stream-time-nov-8-2026",
-      "title": "How to Watch Cowboys vs. Colts: TV Channel, Live Stream, Time",
-      "summary": "Cowboys vs. Colts kicks off Sunday, Nov. 8, at 1 p.m. ET on FOX. Get the players to watch for this Week 9 game in Indianapolis.",
-      "url": "https://www.foxnews.com/sports/how-to-watch-cowboys-vs-colts-tv-channel-live-stream-time-nov-8-2026",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-08T07:10:41-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/e29057a18c7ce59a3d1b6d124280cab90b112212fa7d584a84e7051b64937315.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/struggling-depression-psychiatrist-says-6-habits-making-worse",
-      "title": "Struggling with depression? Psychiatrist says 6 habits may be making it worse",
-      "summary": "Dr. Daniel Amen reveals the everyday habits that worsen depression, from alcohol use and isolation to processed foods and unchecked negative thoughts.",
-      "url": "https://www.foxnews.com/health/struggling-depression-psychiatrist-says-6-habits-making-worse",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-08T06:00:35-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/couple-dealing-with-depression.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
       "id": "yt:L44gJxqEu88",
       "title": "Democrats' War To DESTROY America",
       "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com 📲 Download Tousi TV app — available on iPhone and Android. X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
@@ -4260,166 +4570,6 @@
       "video_id": "QmoF1hykLGE"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/health/simple-bedtime-change-help-individuals-lose-weight-study-finds",
-      "title": "Simple bedtime change may help some individuals lose weight, study finds",
-      "summary": "An NYU clinical trial found that moving bedtime just one hour earlier led to weight loss in prediabetes patients, even without longer sleep.",
-      "url": "https://www.foxnews.com/health/simple-bedtime-change-help-individuals-lose-weight-study-finds",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-07T17:34:20-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/couple-laying-in-bed.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms",
-      "title": "Israeli president taps Netanyahu rival to form government as coalition battle looms",
-      "summary": "Gadi Eisenkot secured 67 Knesset endorsements over Benjamin Netanyahu, but deep coalition divisions over Arab parties and conscription cloud his path.",
-      "url": "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-07T17:17:37-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/israeli-president-isaac-herzog-fox-news-digital-interview.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/certain-sleep-habits-could-offer-clues-hidden-type-depression-scientists-say",
-      "title": "Certain sleep habits could offer clues to hidden type of depression, scientists say",
-      "summary": "A study of over 11,000 Australian adults links specific sleep habits and circadian rhythm disruptions to a newly proposed subtype of depression.",
-      "url": "https://www.foxnews.com/health/certain-sleep-habits-could-offer-clues-hidden-type-depression-scientists-say",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-07T15:28:59-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/woman-waking-up-after-insomnia.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/paris-agitators-defy-police-orders-renew-nationwide-protests-centered-paris",
-      "title": "Paris agitators defy police orders, renew nationwide protests centered in Paris",
-      "summary": "Videos and photos show tear gas and fires throughout Paris as 70,000 security forces deploy against France protests despite police bans on gatherings.",
-      "url": "https://www.foxnews.com/world/paris-agitators-defy-police-orders-renew-nationwide-protests-centered-paris",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-07T14:32:27-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Paris_tear_gas.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/someone-already-using-your-identity-check-these-8-places",
-      "title": "Is someone already using your identity? Check these 8 places",
-      "summary": "Identity theft can hide in phone accounts, medical records and utility bills long before it shows on a credit report. Eight places to check now.",
-      "url": "https://www.foxnews.com/tech/someone-already-using-your-identity-check-these-8-places",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-07T13:02:45-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Identity-Theft-Photo-3.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded",
-      "title": "Gunman opens fire from moving car in European tourist hot spot, leaving 6 dead and at least 15 wounded",
-      "summary": "A gunman, reportedly wearing military-style fatigues, allegedly opened fire from a moving vehicle on Kraków, Poland's Main Square, killing five and injuring at least 15.",
-      "url": "https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-07T12:37:33-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/krakow-square.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/irs-announces-2027-tax-changes-what-taxpayers-need-know",
-      "title": "IRS announces 2027 tax changes: What taxpayers need to know",
-      "summary": "The IRS released its 2027 tax brackets with a boost to the standard deduction and a $100 increase to the child tax credit for families.",
-      "url": "https://www.foxbusiness.com/economy/irs-announces-2027-tax-changes-what-taxpayers-need-know",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-07T12:10:38-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/tax-planning-people-laptop-1.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/popular-drinks-linked-heart-attacks-cardiac-arrest-young-adults-study-finds",
-      "title": "Popular drinks linked to heart attacks, cardiac arrest in young adults, study finds",
-      "summary": "Energy drinks with caffeine and stimulants were linked to cardiac arrest reports 11 times more often than non-stimulant products, per AHA research.",
-      "url": "https://www.foxnews.com/health/popular-drinks-linked-heart-attacks-cardiac-arrest-young-adults-study-finds",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-07T08:00:19-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/young-adult-holding-drink.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/chainsaw-robot-looks-terrifying-real-job",
-      "title": "Chainsaw robot looks terrifying but has a real job",
-      "summary": "JR East's towering ZIZAI ZX-3 chainsaw robot tackles dangerous branch-cutting along Japan's Koumi Line while a trained operator controls it remotely.",
-      "url": "https://www.foxnews.com/tech/chainsaw-robot-looks-terrifying-real-job",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-07T07:58:55-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/2-Chainsaw-robot-looks-terrifying-but-has-a-real-job.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/gulf-official-glimmer-hope-trump-iran-nuclear-talks-threat-war-hangs-region",
-      "title": "Top Gulf official offers glimmer of hope on Trump-Iran nuclear talks as threat of war hangs over region",
-      "summary": "A senior United Arab Emirates official says he is cautiously optimistic about U.S.-Iran nuclear talks through Qatari mediation but won't rule out war.",
-      "url": "https://www.foxnews.com/world/gulf-official-glimmer-hope-trump-iran-nuclear-talks-threat-war-hangs-region",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-07T04:00:39-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/uae-arrival-scaled.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
       "id": "yt:x4RxDIxLyOI",
       "title": "Big Hasan Piker Video Tomorrow…",
       "summary": "",
@@ -4452,134 +4602,6 @@
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "1tdTJF_92dg"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/companies-urged-adapt-restaurant-franchisee-files-bankruptcy-businesses-want-make-excuses",
-      "title": "Companies urged to adapt as restaurant franchisee files for bankruptcy: 'Businesses want to make excuses'",
-      "summary": "Marcus Lemonis urges businesses to adapt to rising costs rather than \"make excuses\" after an Outback Steakhouse franchisee filed for bankruptcy with $449 million in debt.",
-      "url": "https://www.foxbusiness.com/economy/companies-urged-adapt-restaurant-franchisee-files-bankruptcy-businesses-want-make-excuses",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-06T17:58:13-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/outback-steakhouse-bankruptcy.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/fitness-influencer-vacation-getaway-takes-scary-turn-headache-leads-icu",
-      "title": "Fitness influencer's vacation getaway takes scary turn after headache leads to ICU",
-      "summary": "Khiana Smith was rushed by ambulance to a Bali hospital after a severe headache and light sensitivity led to a meningitis diagnosis in the ICU.",
-      "url": "https://www.foxnews.com/health/fitness-influencer-vacation-getaway-takes-scary-turn-headache-leads-icu",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-06T16:14:45-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/khiana-smith-bali.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/tesla-wind-down-cybertruck-production-texas-factory-next-year-make-room-cybercab",
-      "title": "Tesla to wind down Cybertruck production at Texas factory next year to make room for Cybercab",
-      "summary": "Elon Musk says Tesla will wind down Cybertruck production at Gigafactory Texas by mid-2027 to make room for increased Cybercab robotaxi output.",
-      "url": "https://www.foxbusiness.com/markets/tesla-wind-down-cybertruck-production-texas-factory-next-year-make-room-cybercab",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-06T15:57:25-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/05/tesla-cybertrucks-starbase-texas.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/amc-ceo-says-movie-theater-giant-has-finally-recovered-from-pandemic-era-struggles",
-      "title": "AMC CEO says movie theater giant has finally 'recovered' from pandemic-era struggles",
-      "summary": "AMC Entertainment CEO Adam Aron declared the company has finally recovered, posting record revenue and adjusted EBITDA for a second straight quarter.",
-      "url": "https://www.foxbusiness.com/markets/amc-ceo-says-movie-theater-giant-has-finally-recovered-from-pandemic-era-struggles",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-06T14:52:19-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/amc-movie-theater-01.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/alzheimers-warning-signs-emerge-years-before-memory-loss-study-finds",
-      "title": "Alzheimer's warning signs could emerge years before memory loss, study finds",
-      "summary": "A Science Advances study reveals how brain scan connectivity patterns predict Alzheimer's disease years before memory loss or cognitive decline.",
-      "url": "https://www.foxnews.com/health/alzheimers-warning-signs-emerge-years-before-memory-loss-study-finds",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-06T14:34:29-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/woman-holding-doctor-hand.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/homeland-security-data-leak-exposes-41k-workers",
-      "title": "Homeland Security data leak exposes 41K workers",
-      "summary": "A massive DHS data leak exposed records of over 41,000 employees, revealing links to undercover ICE operations, Palantir tools and AI platforms.",
-      "url": "https://www.foxnews.com/tech/homeland-security-data-leak-exposes-41k-workers",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-06T14:30:08-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/ice-agents-immigration-enforcement-police-vests.jpeg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/fox-completes-acquisition-streaming-giant-roku",
-      "title": "Fox completes acquisition of streaming giant Roku",
-      "summary": "Fox announced the completion of its deal to acquire streaming platform Roku, which the company expects will expand opportunities to serve audiences and partners.",
-      "url": "https://www.foxbusiness.com/markets/fox-completes-acquisition-streaming-giant-roku",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-06T13:27:34-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/Roku.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/fox-news-ai-newsletter-voters-unmistakable-message",
-      "title": "Fox News AI Newsletter: Voters' unmistakable message",
-      "summary": "The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.",
-      "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-voters-unmistakable-message",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-06T11:12:01-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/data-center-nevada-construction.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
     },
     {
       "id": "yt:rP1Tr46xhx4",
@@ -4713,24 +4735,6 @@
       "feed_id": "pbd-podcast",
       "video_id": "-ulnlWH7JqQ",
       "published_date_text": "Oct 15, 2026"
-    },
-    {
-      "id": "yt:7GLlKU1Jq7Q",
-      "title": "Logan Paul Reveals the $100 Million Mistake He Made With Prime | PBD Podcast #856",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=7GLlKU1Jq7Q",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-14T20:40:51.751420-05:00",
-      "published_precision": "relative",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/7GLlKU1Jq7Q/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDUbk4D-ku2oN4raBjQuBikRs6MhQ",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "7GLlKU1Jq7Q"
     },
     {
       "id": "yt:pyihDwVCc_M",
@@ -4930,7 +4934,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:36.740930-06:00",
+      "checked": "2026-11-14T14:20:20.620285-06:00",
       "error": null
     },
     {
@@ -4940,7 +4944,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:36.876989-06:00",
+      "checked": "2026-11-14T14:20:20.733345-06:00",
       "error": null
     },
     {
@@ -4950,7 +4954,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:36.929727-06:00",
+      "checked": "2026-11-14T14:20:20.849300-06:00",
       "error": null
     },
     {
@@ -4960,7 +4964,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:36.988283-06:00",
+      "checked": "2026-11-14T14:20:20.913665-06:00",
       "error": null
     },
     {
@@ -4970,7 +4974,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:37.038959-06:00",
+      "checked": "2026-11-14T14:20:20.988337-06:00",
       "error": null
     },
     {
@@ -4980,7 +4984,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:37.088747-06:00",
+      "checked": "2026-11-14T14:20:21.078228-06:00",
       "error": null
     },
     {
@@ -4990,7 +4994,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:37.141301-06:00",
+      "checked": "2026-11-14T14:20:21.163463-06:00",
       "error": null
     },
     {
@@ -5000,7 +5004,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:37.191229-06:00",
+      "checked": "2026-11-14T14:20:21.264911-06:00",
       "error": null
     },
     {
@@ -5010,7 +5014,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:37.296294-06:00",
+      "checked": "2026-11-14T14:20:21.410131-06:00",
       "error": null
     },
     {
@@ -5020,7 +5024,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:37.382122-06:00",
+      "checked": "2026-11-14T14:20:21.495560-06:00",
       "error": null
     },
     {
@@ -5030,7 +5034,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:37.452325-06:00",
+      "checked": "2026-11-14T14:20:21.686192-06:00",
       "error": null
     },
     {
@@ -5040,7 +5044,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:37.509840-06:00",
+      "checked": "2026-11-14T14:20:21.764986-06:00",
       "error": null
     },
     {
@@ -5050,7 +5054,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T09:55:37.684237-06:00",
+      "checked": "2026-11-14T14:20:21.986325-06:00",
       "error": null
     },
     {
@@ -5061,7 +5065,7 @@
       "ok": true,
       "count": 15,
       "http": 200,
-      "checked": "2026-11-14T09:55:37.816336-06:00",
+      "checked": "2026-11-14T14:20:22.189164-06:00",
       "error": null,
       "method": "youtube-atom"
     },
@@ -5073,7 +5077,7 @@
       "ok": true,
       "count": 15,
       "http": 200,
-      "checked": "2026-11-14T09:55:38.117304-06:00",
+      "checked": "2026-11-14T14:20:22.420527-06:00",
       "error": null,
       "method": "youtube-atom"
     }
