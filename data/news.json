@@ -1,8 +1,611 @@
 {
-  "updated": "2026-11-14T03:25:03.176415-06:00",
+  "updated": "2026-11-14T09:55:38.167936-06:00",
   "timezone": "America/Chicago",
   "item_count": 300,
   "items": [
+    {
+      "id": "yt:EfxxvO6cryU",
+      "title": "Michael Jordan's Comeback Was PERSONAL",
+      "summary": "Jordan's response to Detroit's physical style illustrates how setbacks can influence preparation, discipline and competitive strategy long before the results become visible.",
+      "url": "https://www.youtube.com/watch?v=EfxxvO6cryU",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-14T14:00:09+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i2.ytimg.com/vi/EfxxvO6cryU/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "EfxxvO6cryU"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/five-college-football-bets-saturday-two-road-dogs-being-slept",
+      "title": "Five college football bets for Saturday, including two road dogs that are being slept on",
+      "summary": "College football Week 11 best bets feature road underdogs, opportunities to fade the public and picks for Saturday’s biggest matchups.",
+      "url": "https://www.foxnews.com/outkick-betting/five-college-football-bets-saturday-two-road-dogs-being-slept",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T10:35:16-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/lanorris-sellers-touchdown-south-carolina.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/lane-kiffin-owes-lsu-fans-more-than-hype-texas-threatens-bury-40-million-playoff-dream",
+      "title": "Lane Kiffin owes LSU fans more than hype as Texas threatens to bury $40 million playoff dream",
+      "summary": "Arch Manning and No. 6 Texas head into Tiger Stadium for a Saturday showdown that could officially end LSU's playoff hopes under Lane Kiffin.",
+      "url": "https://www.foxnews.com/outkick-sports/lane-kiffin-owes-lsu-fans-more-than-hype-texas-threatens-bury-40-million-playoff-dream",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T10:29:47-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/lane-kiffin-louisiana-state-tigers-mississippi.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/clown-desmond-howard-takes-disgusting-shot-jeremiah-smith-buy-melania-swimsuit-butler-blue-v-debuts",
+      "title": "Clown Desmond Howard takes a disgusting shot at Jeremiah Smith, buy Melania's swimsuit & Butler Blue V debuts",
+      "summary": "Desmond Howard questioned when Jeremiah Smith has been the difference in big games, igniting fury among Ohio State fans during Heisman voting season.",
+      "url": "https://www.foxnews.com/outkick-sports/clown-desmond-howard-takes-disgusting-shot-jeremiah-smith-buy-melania-swimsuit-butler-blue-v-debuts",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T10:23:22-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/desmond-howard-peach-bowl-playoff.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/dems-descend-denver-size-2028-who-wants-race",
+      "title": "Dems descend on Denver to size up 2028. We asked who wants in the race",
+      "summary": "Josh Shapiro, Elissa Slotkin, Cory Booker and Ruben Gallego tested 2028 messaging at a Denver conference as Chris Van Hollen bowed out early.",
+      "url": "https://www.foxnews.com/politics/dems-descend-denver-size-2028-who-wants-race",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-14T10:22:21-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dem-potential-2028.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/travel/grandmother-mistakes-medieval-gold-cross-costume-jewelry-learning-five-figure-value",
+      "title": "Grandmother mistakes medieval gold cross for costume jewelry before learning its five-figure value",
+      "summary": "A United Kingdom grandmother nearly tossed the medieval gold reliquary cross aside as costume jewelry before fellow hobbyists confirmed it was real gold.",
+      "url": "https://www.foxnews.com/travel/grandmother-mistakes-medieval-gold-cross-costume-jewelry-learning-five-figure-value",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T10:00:44-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/UK-GRANDMA-DISCOVERS-GOLD-CROSS-ANCIENT-HISTORY-ARCHAEOLOGY-DISCOVERY-1.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/media/comedians-call-out-dave-chappelle-disgusting-routine-celebrating-charlie-kirks-murder",
+      "title": "Comedians call out Dave Chappelle over 'disgusting' routine celebrating Charlie Kirk's murder",
+      "summary": "Comedians including Rob Schneider and Tim Young condemned Dave Chappelle after leaked video showed him saying he feels better following Charlie Kirk's assassination.",
+      "url": "https://www.foxnews.com/media/comedians-call-out-dave-chappelle-disgusting-routine-celebrating-charlie-kirks-murder",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T10:00:07-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/dave-chappelle-fox-news.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/architect-dems-california-redistricting-win-makes-ironic-call-helping-flip-5-gop-seats-kill",
+      "title": "Dems' California redistricting mastermind flips script after helping party win 5 GOP seats: 'Kill'",
+      "summary": "Paul Mitchell, architect of California's Prop 50, claims Democrats should establish national standards to end partisan gerrymandering for good.",
+      "url": "https://www.foxnews.com/politics/architect-dems-california-redistricting-win-makes-ironic-call-helping-flip-5-gop-seats-kill",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-14T10:00:06-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/gavin-newsom-prop-50.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/ufc-star-21-year-old-friend-reportedly-cleared-wrestle-raf-days-after-fending-off-hotel-lobby-ambush",
+      "title": "UFC star and 21-year-old friend reportedly cleared to wrestle at RAF days after fending off hotel lobby ambush",
+      "summary": "Merab Dvalishvili will reportedly compete at RAF Abu Dhabi tonight on Fox Nation despite being ambushed in a hotel lobby earlier this week in a wild seven-on-two brawl.",
+      "url": "https://www.foxnews.com/outkick-sports/ufc-star-21-year-old-friend-reportedly-cleared-wrestle-raf-days-after-fending-off-hotel-lobby-ambush",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T09:53:15-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/merab-dvalishvili-ufc-bantamweight-championship.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/wwe-tiffany-stratton-leaves-little-imagination-mocks-rival-first-appearance-since-title-win",
+      "title": "WWE's Tiffany Stratton leaves little to the imagination as she mocks rival in first appearance since title win",
+      "summary": "Tiffany Stratton mocked Chelsea Green on \"Friday Night SmackDown\" after cashing in her Money in the Bank contract at Crown Jewel for the title.",
+      "url": "https://www.foxnews.com/outkick-sports/wwe-tiffany-stratton-leaves-little-imagination-mocks-rival-first-appearance-since-title-win",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T09:51:24-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tiffany-stratton-smackdown-sunrise.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/faa-groundstop-obstacle-social-media-stars-aew-full-gear-ppv",
+      "title": "FAA ground stop puts obstacle in front of social media stars trying to get to AEW's Full Gear PPV",
+      "summary": "The FAA nationwide ground stop left NBA, NHL and college football reeling while AEW's Costco Guys scrambled to reach Full Gear in Phoenix by Saturday.",
+      "url": "https://www.foxnews.com/outkick-sports/faa-groundstop-obstacle-social-media-stars-aew-full-gear-ppv",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T09:28:40-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/a-j-big-justice-claman-countdown-christmas-tree.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/anti-trump-republican-courts-other-defectors-house-weighs-another-vote-against-iran-war",
+      "title": "Anti-Trump Republican courts other defectors as House weighs another vote against Iran war",
+      "summary": "Thomas Massie says he's offering Republicans a \"life boat from MAGA\" as he pushes a new Iran War Powers resolution to the House floor soon..",
+      "url": "https://www.foxnews.com/politics/anti-trump-republican-courts-other-defectors-house-weighs-another-vote-against-iran-war",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-14T09:00:51-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/donald-trump-2.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/pentagons-former-ufo-investigator-offers-simple-theory-mysterious-jellyfish-shaped-object-video",
+      "title": "Pentagon's former UFO investigator offers simple theory for mysterious jellyfish-shaped object on video",
+      "summary": "Video near Joint Base Elmendorf-Richardson captures a jellyfish-shaped object with dangling strands, but a former Pentagon UFO investigator suggests kite.",
+      "url": "https://www.foxnews.com/us/pentagons-former-ufo-investigator-offers-simple-theory-mysterious-jellyfish-shaped-object-video",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "us"
+      ],
+      "published": "2026-11-14T09:00:38-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jellyfish-ufo.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/florida-republican-democrats-strategy-thats-choice-have-make-persecution-policy",
+      "title": "Florida Republican on Democrats' strategy: 'That's the choice they have to make...persecution or policy'",
+      "summary": "Controversial Florida congressman charges Democrats will choose to pursue persecution over policy, but also signals willingness to compromise, given the right conditions.",
+      "url": "https://www.foxnews.com/politics/florida-republican-democrats-strategy-thats-choice-have-make-persecution-policy",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-14T09:00:09-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/randy-fine-december-18-2025.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/ring-honor-deonna-purrazzo-talks-possibility-steve-maclin-joining-all-elite-wrestling",
+      "title": "Ring of Honor's Deonna Purrazzo talks possibility of Steve Maclin joining All Elite Wrestling",
+      "summary": "Deonna Purrazzo says she sees a spot for Steve Maclin in AEW, even floating a potential Ring of Honor World Championship match against Bandido.",
+      "url": "https://www.foxnews.com/outkick-sports/ring-honor-deonna-purrazzo-talks-possibility-steve-maclin-joining-all-elite-wrestling",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T08:42:02-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/donna-purrazzo-steve-maclin-good-night-new-york.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/jayden-maiava-josh-hoover-face-off-usc-visits-defending-national-champion-indiana",
+      "title": "Jayden Maiava and Josh Hoover face off as USC visits defending national champion Indiana",
+      "summary": "USC's Jayden Maiava faces Josh Hoover and Indiana in a College Football Playoffs-relevant clash, but the Hoosiers' four straight close games raise doubts.",
+      "url": "https://www.foxnews.com/outkick-betting/jayden-maiava-josh-hoover-face-off-usc-visits-defending-national-champion-indiana",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T08:31:11-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/indiana-curt-cignetti-011926-2.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/college-football-legend-brian-bosworth-supports-controversial-24-team-expanded-playoff",
+      "title": "College football legend Brian Bosworth says he supports the controversial 24-team expanded playoff",
+      "summary": "College Football great Brian Bosworth said he likes the new College Football Playoff format as it gives more programs an opportunity to showcase themselves.",
+      "url": "https://www.foxnews.com/outkick-sports/college-football-legend-brian-bosworth-supports-controversial-24-team-expanded-playoff",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T08:23:05-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/brian-bosworth-austin-city-limits.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/media/ben-shapiro-warns-democrats-strong-incentive-crater-economy-blame-trump",
+      "title": "Ben Shapiro warns Democrats have 'strong incentive' to crater the economy and blame Trump",
+      "summary": "Ben Shapiro warns that Democrats have a strong incentive to crater the American economy after their sweeping midterm wins and blame Trump for it.",
+      "url": "https://www.foxnews.com/media/ben-shapiro-warns-democrats-strong-incentive-crater-economy-blame-trump",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T08:16:29-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/ben-shapiro-speaking.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-business:https://www.foxbusiness.com/technology/software-company-thousands-fortune-500-clients-joins-microsoft-experiencing-major-outage",
+      "title": "Software company with thousands of Fortune 500 clients joins Microsoft in experiencing major outage",
+      "summary": "Workday's major outage left 11,500 companies unable to access payroll and HR software, affecting Walmart, Target, Netflix and government agencies.",
+      "url": "https://www.foxbusiness.com/technology/software-company-thousands-fortune-500-clients-joins-microsoft-experiencing-major-outage",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business",
+        "tech"
+      ],
+      "published": "2026-11-14T08:13:18-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/workday.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-technology"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/wwe-champion-wants-no-part-john-cena-classic",
+      "title": "WWE champion wants no part of the John Cena Classic",
+      "summary": "Ethan Page explains why he refuses to enter the John Cena Classic, saying WWE fans would vote against him no matter how dominant his performance.",
+      "url": "https://www.foxnews.com/outkick-sports/wwe-champion-wants-no-part-john-cena-classic",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T08:07:12-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/john-cena-classic-championship-debut-raw.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/tech/ford-privacy-promise-raises-questions-car-data",
+      "title": "Ford privacy promise raises questions about your car data",
+      "summary": "Ford's new privacy promise pledges not to sell driving data to insurers or brokers, but disabling connected car data sharing could cost you key features.",
+      "url": "https://www.foxnews.com/tech/ford-privacy-promise-raises-questions-car-data",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "tech"
+      ],
+      "published": "2026-11-14T08:00:55-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/7e9eec51-news-image-fox-news_052.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-tech"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/gop-midterm-bloodbath-exposes-cracks-vances-2028-white-house-ambitions",
+      "title": "GOP midterm bloodbath exposes cracks in Vance's 2028 White House ambitions",
+      "summary": "Rep. Randy Fine compared JD Vance's post-midterm remarks on the Iran war to 1932 Germany, vowing he will not support a 2028 presidential bid.",
+      "url": "https://www.foxnews.com/politics/gop-midterm-bloodbath-exposes-cracks-vances-2028-white-house-ambitions",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-14T08:00:38-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jd-vance-9-3-26.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/health/stroke-survivors-get-fda-approved-daily-pill-shown-cut-repeat-risk",
+      "title": "Stroke survivors get FDA-approved daily pill shown to cut repeat risk by 26%",
+      "summary": "Sunharbo (asundexian) is the first FDA-approved factor XIa inhibitor for secondary stroke prevention, but key limitations and risks do remain.",
+      "url": "https://www.foxnews.com/health/stroke-survivors-get-fda-approved-daily-pill-shown-cut-repeat-risk",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "health"
+      ],
+      "published": "2026-11-14T08:00:31-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/woman-holding-head-stroke.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-health"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/opinion/thad-rothrock-bible-reminds-us-keep-serving-god-even-after-we-retire",
+      "title": "THAD ROTHROCK: Bible reminds us to keep serving God even after we retire",
+      "summary": "Barna Group found only 19% of Christians say their church provides intergenerational connections, yet older adults have decades of wisdom to offer.",
+      "url": "https://www.foxnews.com/opinion/thad-rothrock-bible-reminds-us-keep-serving-god-even-after-we-retire",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T08:00:09-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/church-community-holding-hands.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/opinion/media-cant-muster-outrage-coverage-violent-comments-left",
+      "title": "Media can’t muster any outrage or coverage of violent comments from the left",
+      "summary": "Jennifer Welch and Angie Sullivan laughed about the Charlie Kirk assassination on their podcast, sparking outrage across conservative media.",
+      "url": "https://www.foxnews.com/opinion/media-cant-muster-outrage-coverage-violent-comments-left",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T08:00:03-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ive-had-it-jennifer-welch-angie-sullivan.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/natalee-holloway-confessed-killer-caught-trying-extort-250k-grieving-mother-fbi-sting-video",
+      "title": "Natalee Holloway's confessed killer caught trying to extort $250K from grieving mother in FBI sting video",
+      "summary": "Previously unseen FBI sting video captures Joran van der Sloot's attempt to extort Beth Holloway for information about her daughter Natalee Holloway.",
+      "url": "https://www.foxnews.com/us/natalee-holloway-confessed-killer-caught-trying-extort-250k-grieving-mother-fbi-sting-video",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "us"
+      ],
+      "published": "2026-11-14T08:00:02-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Natalee-Holloway-Beth-Holloway-Joran-Van-Der-Sloot.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/play-sunday-forfeit-oklahoma-ad-rips-sec-commissioner-controversial-ole-miss-faa-scheduling-decision",
+      "title": "Play Sunday or forfeit: Oklahoma AD rips SEC commissioner over controversial Ole Miss FAA scheduling decision",
+      "summary": "Oklahoma AD Roger Denny says SEC commissioner Greg Sankey forced the Sooners to play Sunday or forfeit after Ole Miss couldn't fly to Norman.",
+      "url": "https://www.foxnews.com/outkick-sports/play-sunday-forfeit-oklahoma-ad-rips-sec-commissioner-controversial-ole-miss-faa-scheduling-decision",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T07:53:02-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/brent-venables-florida-oklahoma-sooners.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/industry-drove-dc-lobbying-337-percent-trump-whats-driving-push",
+      "title": "One industry surged DC lobbying 337% under Trump — here’s what’s driving the push",
+      "summary": "Lobbying spending on tariff-related filings surged 337% in 2026, Advancing American Freedom found, as businesses scramble to navigate trade shifts.",
+      "url": "https://www.foxnews.com/politics/industry-drove-dc-lobbying-337-percent-trump-whats-driving-push",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-14T07:30:39-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/capitol-dome-road-congress.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/michael-ruiz-montauk-bikini-designer-50m-yacht-death-lawsuit-frozen-owner-asks-judge-exoneration",
+      "title": "MICHAEL RUIZ: Montauk bikini designer's $50M yacht death lawsuit frozen as owner asks judge for exoneration",
+      "summary": "Christopher Durnan invoked maritime law to cap liability after Martha Nolan-O'Slatarra was found dead on a New York yacht at Montauk Yacht Club.",
+      "url": "https://www.foxnews.com/us/michael-ruiz-montauk-bikini-designer-50m-yacht-death-lawsuit-frozen-owner-asks-judge-exoneration",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "us"
+      ],
+      "published": "2026-11-14T07:00:53-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/ny-montauk-4.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/world/inside-arab-nations-battle-against-radicalism-top-official-warns-threat-brewing-europes-streets",
+      "title": "Inside Arab nation's battle against radicalism as top official warns of threat brewing on Europe's streets",
+      "summary": "A senior United Arab Emirates official warns that European protests have crossed into national security threats, urging coexistence education first.",
+      "url": "https://www.foxnews.com/world/inside-arab-nations-battle-against-radicalism-top-official-warns-threat-brewing-europes-streets",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "world"
+      ],
+      "published": "2026-11-14T07:00:53-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pope_uae.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-world"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/gop-newcomer-who-toppled-cory-mills-sets-sights-fraud-inflation-he-heads-capitol-hill",
+      "title": "GOP newcomer who toppled Cory Mills sets sights on fraud, inflation as he heads to Capitol Hill",
+      "summary": "Rep.-elect Ryan Elijah, R-Fla., told Fox News Digital he wants to crack down on fraud and congressional insider trading.",
+      "url": "https://www.foxnews.com/politics/gop-newcomer-who-toppled-cory-mills-sets-sights-fraud-inflation-he-heads-capitol-hill",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-14T07:00:08-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ryan-elijah.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/inside-house-gop-strategy-capitalize-democrats-warring-factions-new-congress",
+      "title": "Inside the House GOP strategy to capitalize on Democrats' warring factions in the new Congress",
+      "summary": "Tom Emmer says House Republicans will use committee hearings and floor votes to hold Democrats accountable as the GOP shifts to minority status.",
+      "url": "https://www.foxnews.com/politics/inside-house-gop-strategy-capitalize-democrats-warring-factions-new-congress",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-14T06:00:13-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/emmer-at-podium.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/trump-keeps-signaling-end-iran-war-expert-warns-crucial-piece-his-strategy-missing",
+      "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
+      "summary": "President Donald Trump declared on Truth Social the U.S. no longer needs a deal with Iran, one day after proclaiming victory at Arlington.",
+      "url": "https://www.foxnews.com/politics/trump-keeps-signaling-end-iran-war-expert-warns-crucial-piece-his-strategy-missing",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-14T06:00:05-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/1-image-drag-and-drop-70.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/sexual-predator-deported-mexico-hauled-back-us-assault-murder-american-mom",
+      "title": "Sexual predator deported to Mexico hauled back to US for assault and murder of American mom",
+      "summary": "Miguel Angel Urbano-Vazquez was deported to Mexico after Sharon Van Gilder's 2002 murder but was later extradited and convicted decades later.",
+      "url": "https://www.foxnews.com/us/sexual-predator-deported-mexico-hauled-back-us-assault-murder-american-mom",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "us"
+      ],
+      "published": "2026-11-14T06:00:02-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/serial-rapist-convicted-of-murder-5.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/nyc-woman-allegedly-struck-lgbtq-activist-after-questioning-trans-youth-treatments-never-have-answers",
+      "title": "NYC woman allegedly struck by LGBTQ+ activist after questioning trans youth treatments: 'Never have answers'",
+      "summary": "LGBTQ+ activist Jay Walker allegedly elbowed a counter-protester outside Mount Sinai Hospital in New York City as she questioned his support for youth transgender procedures.",
+      "url": "https://www.foxnews.com/us/nyc-woman-allegedly-struck-lgbtq-activist-after-questioning-trans-youth-treatments-never-have-answers",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "us"
+      ],
+      "published": "2026-11-14T05:56:50-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jay-walker-queer-nyc-activist.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/socialist-la-mayor-bold-homelessness-promise-ahead-2028-olympics-hit-reality-check-not-optimistic",
+      "title": "Socialist LA mayor's bold homelessness promise ahead of 2028 Olympics hit with reality check: 'Not optimistic'",
+      "summary": "Los Angeles mayor-elect Nithya Raman pledges to halve homeless encampments before the 2028 Olympics, but a local activist warns it won't work.",
+      "url": "https://www.foxnews.com/politics/socialist-la-mayor-bold-homelessness-promise-ahead-2028-olympics-hit-reality-check-not-optimistic",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-14T05:30:51-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Ramen-Homeless.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead",
+      "title": "Democrats seize on midterm wins to push massive minimum wage hikes, but economists see trouble ahead",
+      "summary": "Josh Shapiro says he wants to more than double Pennsylvania's minimum wage and codify abortion rights with the new Democratic trifecta.",
+      "url": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-14T05:00:15-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/pennsylvania-governor-josh-shapiro.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
     {
       "id": "fox-news:https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite",
       "title": "Massie's push to impeach Hegseth splits constituents in his own backyard: 'Pure spite'",
@@ -434,6 +1037,22 @@
       "feed_id": "fox-news-latest"
     },
     {
+      "id": "fox-news:https://www.foxnews.com/sports/sean-mcvay-myles-garrett-trent-mcduffie-injury-update-rams-cardinals",
+      "title": "Sean McVay Gives Injury Updates On Rams Stars Myles Garrett, Trent McDuffie",
+      "summary": "Rams head coach Sean McVay provided an injury update on superstar defensive end Myles Garrett and All-Pro cornerback Trent McDuffie.",
+      "url": "https://www.foxnews.com/sports/sean-mcvay-myles-garrett-trent-mcduffie-injury-update-rams-cardinals",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-13T17:40:43-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/31bfbe9c-myles2.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-sports"
+    },
+    {
       "id": "fox-news:https://www.foxnews.com/media/ufc-boss-dana-white-brushes-off-democratic-probe-threats-recalls-crazy-48-hours-around-trump-job-offer",
       "title": "UFC boss Dana White brushes off Democratic probe threats, recalls 'crazy 48 hours' around Trump job offer",
       "summary": "UFC CEO Dana White told Lara Trump he has nothing to hide from post-midterm Democratic probes and recounted his \"crazy 48 hours\" around President Donald Trump's press secretary joke.",
@@ -448,6 +1067,22 @@
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dana-white-trump-fox-news.png?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/sports/xavis-netherlands-routs-greece-70-in-nations-league-and-klopps-germany-also-wins",
+      "title": "Dutch Romp Greece, Germany Cruises In UEFA Nations League Action",
+      "summary": "Netherlands coach Xavi Hernandez and Germany boss Jurgen Klopp got some statement wins, respectively.",
+      "url": "https://www.foxnews.com/sports/xavis-netherlands-routs-greece-70-in-nations-league-and-klopps-germany-also-wins",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-13T17:38:27-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/dutch2-scaled.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-sports"
     },
     {
       "id": "fox-news:https://www.foxnews.com/outkick-sports/sophie-cunningham-laughs-stephen-smith-belittling-claim-white-nba-players",
@@ -529,6 +1164,22 @@
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "xBt_kzjFyFE"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/sports/vikings-quarterbacks-kirk-cousins-kevin-oconnell-press-conference",
+      "title": "That Was Fast! Vikings HC Kevin O'Connell Reveals Kirk Cousins Timeline",
+      "summary": "Vikings head coach Kevin O'Connell announced that the recently acquired Kirk Cousins will start at QB in Week 10 vs. the Packers.",
+      "url": "https://www.foxnews.com/sports/vikings-quarterbacks-kirk-cousins-kevin-oconnell-press-conference",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-13T16:49:05-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/1f652802-kirk2.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-sports"
     },
     {
       "id": "fox-news:https://www.foxnews.com/outkick-sports/5-unluckiest-plays-sports-history-revisit-honor-friday-13th",
@@ -627,6 +1278,22 @@
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/524/galaxy-s26ultra_family-scaled-1.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/sports/nfl-trade-deadline-who-were-biggest-winners-losers-league-execs-react-top-deals",
+      "title": "NFL Trade Deadline: Who Were Biggest Winners, Losers? League Execs React To Top Deals",
+      "summary": "From the Kirk Cousins deal to the biggest winners and losers, NFL execs dish on this year's trade deadline.",
+      "url": "https://www.foxnews.com/sports/nfl-trade-deadline-who-were-biggest-winners-losers-league-execs-react-top-deals",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-13T15:45:30-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/artboard-1jeff-2.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-sports"
     },
     {
       "id": "fox-news:https://www.foxnews.com/us/tanker-slams-docked-new-orleans-river-cruiser-carrying-129-passengers-sparking-rescue",
@@ -745,6 +1412,22 @@
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "KNp7TD9r8RA"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/sports/pochettino-manchester-united-manager-top-issues",
+      "title": "4 Things Pochettino Must Fix At Manchester United",
+      "summary": "What do Mauricio Pochettino and Mary Poppins have in common?",
+      "url": "https://www.foxnews.com/sports/pochettino-manchester-united-manager-top-issues",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-13T15:07:23-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/pochettino_on_the_move.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-sports"
     },
     {
       "id": "fox-news:https://www.foxnews.com/entertainment/hunting-wives-star-malin-akerman-ditches-la-lifestyle-dream-raising-son-1950s",
@@ -3899,134 +4582,6 @@
       "feed_id": "fox-news-tech"
     },
     {
-      "id": "fox-business:https://www.foxbusiness.com/markets/stocks-11-6-2026",
-      "title": "Nasdaq rallies as chip stocks recover from brutal losses",
-      "summary": "The Nasdaq closed higher after AI and chip stocks dragged it into correction territory in the prior session amid fears over the midterm election results' impacts on regulation.",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-6-2026",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-06T09:33:26-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/04/trader-nyse-2.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/us-jobs-report-october-2026",
-      "title": "US economy adds 165,000 jobs in October, blowing past expectations",
-      "summary": "The Labor Department released the October 2026 jobs report on Friday which showed employers added 165,000 jobs amid economic uncertainty.",
-      "url": "https://www.foxbusiness.com/economy/us-jobs-report-october-2026",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-06T08:32:54-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/jobs-29.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/old-android-phone-become-walking-robot",
-      "title": "Your old Android phone could become a walking robot",
-      "summary": "UCLA's PhoneBot turns old Android phones into the brain of a two-legged humanoid robot that walks, follows people and stands up after falling.",
-      "url": "https://www.foxnews.com/tech/old-android-phone-become-walking-robot",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-06T08:23:08-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/box-electronic-waste-broken-devices.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/occasional-marijuana-use-linked-higher-stroke-risk-study-finds",
-      "title": "Even occasional marijuana use linked to higher stroke risk, study finds",
-      "summary": "A study of nearly 450,000 adults found that both casual and heavy marijuana users faced higher odds of stroke and cardiovascular disease than non-users.",
-      "url": "https://www.foxnews.com/health/occasional-marijuana-use-linked-higher-stroke-risk-study-finds",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-06T07:00:55-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/man-lighting-joint.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/real-estate/florida-approves-property-tax-relief-why-insiders-say-sunshine-state-just-made-itself-unbeatable",
-      "title": "Florida approves property tax relief: Why insiders say the Sunshine State just made itself 'unbeatable'",
-      "summary": "Voters and real estate leaders tell Fox News Digital why Florida's historic property tax relief makes the Sunshine State \"unbeatable\" while brushing off critics' warnings.",
-      "url": "https://www.foxbusiness.com/real-estate/florida-approves-property-tax-relief-why-insiders-say-sunshine-state-just-made-itself-unbeatable",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-06T06:00:19-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/florida-home-for-sale-sign-trees.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-real-estate"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/oil-rich-uae-makes-massive-ai-bet-sam-altman-unveils-ambitious-plan-transform-energy-industry",
-      "title": "Oil-rich UAE makes massive AI bet as Sam Altman unveils ambitious plan to transform energy industry",
-      "summary": "OpenAI's Sam Altman named energy as his biggest challenge at ADIPEC 2026, where Abu Dhabi unveiled ambitious AI partnerships with ADNOC and G42.",
-      "url": "https://www.foxnews.com/world/oil-rich-uae-makes-massive-ai-bet-sam-altman-unveils-ambitious-plan-transform-energy-industry",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-06T05:00:17-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ABU.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/asian-stock-markets-plunge-japan-nikkei-south-korea-kospi-taiwan-stocks-fall",
-      "title": "Asian stock markets plunge as Japan Nikkei, South Korea KOSPI and Taiwan stocks fall",
-      "summary": "South Korea's KOSPI plunged over 8%, triggering a trading halt, while Japan's Nikkei and Taiwan's stock index fell sharply amid AI stock selling.",
-      "url": "https://www.foxbusiness.com/markets/asian-stock-markets-plunge-japan-nikkei-south-korea-kospi-taiwan-stocks-fall",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-06T04:51:34-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-stock-market-selloff-asian-market.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/wisconsin-infant-dies-measles-state-first-death-disease-since-1990",
-      "title": "Wisconsin infant dies of measles as state sees first death from disease since 1990",
-      "summary": "Wisconsin's health officials announced an infant's measles-associated death, marking the state's first in 36 years, amid 431 cases in 13 counties.",
-      "url": "https://www.foxnews.com/health/wisconsin-infant-dies-measles-state-first-death-disease-since-1990",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-06T01:36:22-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/2025-03-14t190045z_1786195902_rc20ddas7n8v_rtrmadp_3_usa-health-measles-new-york.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
       "id": "yt:rP1Tr46xhx4",
       "title": "Pete Buttigieg DEFENDS Democrats 2028 Agenda & Wealth Taxes | PBD Podcast #886",
       "summary": "",
@@ -4063,540 +4618,6 @@
       "feed_id": "tousi-tv",
       "video_id": "T18mCvFkUUo",
       "published_date_text": "Nov 5, 2026"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/whats-fueling-wall-streets-growing-concerns-about-ai",
-      "title": "What’s fueling Wall Street’s growing concerns about AI?",
-      "summary": "A sharp sell-off has put a spotlight on the risks facing the AI boom, from heavy spending and borrowing to power constraints and political uncertainty.",
-      "url": "https://www.foxbusiness.com/markets/whats-fueling-wall-streets-growing-concerns-about-ai",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-05T18:53:04-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/nyse-stocks-floor.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/wall-street-stocks-tech-sell-off-november-5-2026",
-      "title": "What Wall Street's tech stock sell-off means for your 401(k)",
-      "summary": "A sharp stock market sell-off sent major indexes tumbling Thursday, prompting financial experts to offer advice for Americans worried about their 401(k) retirement savings.",
-      "url": "https://www.foxbusiness.com/economy/wall-street-stocks-tech-sell-off-november-5-2026",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-05T17:40:08-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/retirement-planning-couple-home.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/stocks-nov-5-2026",
-      "title": "Stocks plunge as Dem midterm sweep fuels AI regulatory concerns",
-      "summary": "Wall Street suffered steep losses as investors reassessed the outlook for the AI boom following Democrats' sweeping midterm election victories.",
-      "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-05T15:52:46-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/us-stocks-sink.gif",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/fake-amazon-invoice-scam-uses-988-ipad-order-bait",
-      "title": "Fake Amazon invoice scam uses $988 iPad order as bait",
-      "summary": "A fake Amazon invoice charging $988.18 for an iPad lists the same customer support phone number three times to steer panicked victims into calling.",
-      "url": "https://www.foxnews.com/tech/fake-amazon-invoice-scam-uses-988-ipad-order-bait",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-05T14:30:44-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/man-works-laptop-computer.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/mcdonalds-plans-new-value-menu-offerings-next-year-us-traffic-declines",
-      "title": "McDonald's plans new value menu offerings next year to boost sluggish sales",
-      "summary": "McDonald's is testing new value menu constructs in 1,900 restaurants, with CEO Christopher Kempczinski eyeing a national launch in early 2027.",
-      "url": "https://www.foxbusiness.com/markets/mcdonalds-plans-new-value-menu-offerings-next-year-us-traffic-declines",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-05T13:57:10-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/05/mcdonalds-workers.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia",
-      "title": "Melania Trump hails Oleshky ceasefire as potential ‘spark’ for progress amid Ukraine-Russia war",
-      "summary": "Melania Trump called the Oleshky ceasefire \"a spark in a world of darkness\" as Russian and Ukrainian envoys praised the deal at a rare White House event.",
-      "url": "https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-05T13:26:07-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/melania-trump-ceasefire-oleshky-white-house.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/protests-erupt-across-france-left-wing-groups-call-mobilization",
-      "title": "Protests erupt across France after left-wing groups call for mobilization",
-      "summary": "An estimated 270,000 people joined nationwide strikes and protests across France on Thursday, putting pressure on President Emmanuel Macron's government.",
-      "url": "https://www.foxnews.com/world/protests-erupt-across-france-left-wing-groups-call-mobilization",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-05T10:36:30-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/riot-police-detain-protester-lyon-france.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/treasury-irs-opportunity-zones-investment-tax-incentives",
-      "title": "Trump admin names new economic Opportunity Zones to spur private investment in struggling communities",
-      "summary": "The Treasury Department and IRS announced 6,576 new Opportunity Zones nationwide, including thousands of rural communities, as the tax incentive program enters a new era.",
-      "url": "https://www.foxbusiness.com/economy/treasury-irs-opportunity-zones-investment-tax-incentives",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-05T09:41:59-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/treasury-secretary-scott-bessent.png",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/why-people-attacking-food-delivery-robots",
-      "title": "Why are people attacking food delivery robots?",
-      "summary": "A handful of food delivery robots from Uber Eats and other platforms have gotten kicked and knocked over in Philadelphia and Los Angeles.",
-      "url": "https://www.foxnews.com/tech/why-people-attacking-food-delivery-robots",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-05T07:54:03-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/autonomous-food-delivery-robot-downtown-los-angeles.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/france-blood-bank-cyberattack-targets-refrigeration-systems-european-supermarkets-hit",
-      "title": "France blood bank cyberattack targets refrigeration systems as European supermarkets hit",
-      "summary": "Hackers targeted cold storage systems at three French blood banks, but staff quickly moved supplies to uncompromised refrigerators before damage could be done.",
-      "url": "https://www.foxbusiness.com/technology/france-blood-bank-cyberattack-targets-refrigeration-systems-european-supermarkets-hit",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-11-05T02:27:27-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/blood-bank-cold-storage-cyberattack-france.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/google-expands-voluntary-buyouts-5-countries-ai-spending-fuels-cost-cuts",
-      "title": "Google expands voluntary buyouts to 5 countries as AI spending fuels cost cuts",
-      "summary": "Google expanded voluntary exit packages to employees in Canada, France, Germany, Japan and Switzerland as heavy AI spending weighs on Alphabet stock.",
-      "url": "https://www.foxbusiness.com/technology/google-expands-voluntary-buyouts-5-countries-ai-spending-fuels-cost-cuts",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-11-04T22:54:25-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/google-hq-employees-building.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/why-removing-data-online-may-still-leave-family-exposed",
-      "title": "Why removing your data online may still leave your family exposed",
-      "summary": "Data broker opt-out forms may not protect your family. People search sites can still expose your info through a spouse's or parent's profile.",
-      "url": "https://www.foxnews.com/tech/why-removing-data-online-may-still-leave-family-exposed",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-04T14:30:53-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/retiree-data-protection-002.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/canva-restructuring-affect-22-workforce-growth-slows",
-      "title": "Canva to restructure operations, affecting 22% of workforce as growth slows",
-      "summary": "Canva CEO Melanie Perkins announced a major restructuring affecting 22% of employees, including layoffs, team consolidation, relocation requests and office changes.",
-      "url": "https://www.foxbusiness.com/economy/canva-restructuring-affect-22-workforce-growth-slows",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-04T12:34:44-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/canva-melbourne.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/private-sector-added-86000-jobs-october-above-expectations-adp-says",
-      "title": "Private sector added 86,000 jobs in October, above expectations, ADP says",
-      "summary": "The figure reported on Wednesday is above economists’ estimates of an increase of 69,000 jobs. The prior month's reading was revised lower to 86,000.",
-      "url": "https://www.foxbusiness.com/economy/private-sector-added-86000-jobs-october-above-expectations-adp-says",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-04T10:20:39-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/job-seekers-job-fair.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/apples-first-touchscreen-macbook-comes-price",
-      "title": "Apple's first touchscreen MacBook comes at a price",
-      "summary": "Apple's first touchscreen MacBook Pro starts at $2,899 with a PROLED XDR OLED display, but the non-touch M6 model costs $900 less at $1,999.",
-      "url": "https://www.foxnews.com/tech/apples-first-touchscreen-macbook-comes-price",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-04T07:48:11-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/macbook-pro-touch-screen-launch-los-angeles.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/us-stock-futures-mixed-democrats-score-key-midterm-election-wins",
-      "title": "US stock futures mixed as Democrats score key midterm election wins",
-      "summary": "Wall Street faces fresh uncertainty over what Democratic control of Congress could mean for taxes, government spending and regulation.",
-      "url": "https://www.foxbusiness.com/markets/us-stock-futures-mixed-democrats-score-key-midterm-election-wins",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-03T23:57:40-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/voter-midterms-1.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/binance-co-ceo-says-customers-wont-lose-dime-after-massive-6b-heist",
-      "title": "Binance co-CEO says customers won't lose a dime after massive $6B heist",
-      "summary": "Binance co-CEO Richard Teng reveals Binance used dedicated reserve funds to cover the massive North Korea-linked crypto theft, with 98% of assets already replenished.",
-      "url": "https://www.foxbusiness.com/markets/binance-co-ceo-says-customers-wont-lose-dime-after-massive-6b-heist",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-03T12:07:06-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/binance-richard-teng-ceo.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/affordability-takes-center-stage-americans-cast-ballots-high-stakes-midterms",
-      "title": "Affordability takes center stage as Americans cast their ballots in high-stakes midterms",
-      "summary": "High prices for gasoline and other goods are key issues for midterm voters, with six in 10 Americans citing the cost of living as their chief concern.",
-      "url": "https://www.foxbusiness.com/economy/affordability-takes-center-stage-americans-cast-ballots-high-stakes-midterms",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-03T06:00:41-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/voting-2.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/apple-posts-record-september-quarter-under-new-ceo-iphone-mac-sales-surge",
-      "title": "Apple posts record September quarter under new CEO as iPhone, Mac sales surge",
-      "summary": "Apple reported record September-quarter revenue of $114.5 billion, driven by strong iPhone 18 Pro and Mac sales despite price increases.",
-      "url": "https://www.foxbusiness.com/markets/apple-posts-record-september-quarter-under-new-ceo-iphone-mac-sales-surge",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-02T18:13:01-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/apple-store-shenzhen-china-2026.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/billionaire-tax-puts-californias-economic-future-before-midterm-voters",
-      "title": "Billionaire tax puts California’s economic future before midterm voters",
-      "summary": "The Golden State's Proposition 40 billionaire tax could raise far less than $100 billion as wealthy residents flee California before the vote.",
-      "url": "https://www.foxbusiness.com/economy/billionaire-tax-puts-californias-economic-future-before-midterm-voters",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-02T14:58:00-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/ca-billionaire-tax-supporters.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/virgin-galactic-apeiron-spaceship-commercial-spaceflights",
-      "title": "Virgin Galactic unveils new spaceship Apeiron, targets commercial spaceflight return in 2027",
-      "summary": "Virgin Galactic's new Apeiron spacecraft has arrived at Spaceport America, where testing will precede a planned return to commercial spaceflights in 2027.",
-      "url": "https://www.foxbusiness.com/technology/virgin-galactic-apeiron-spaceship-commercial-spaceflights",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-11-02T12:38:38-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/virgin-galactic-apeiron-1.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/north-korea-responsible-6-billion-binance-cryptocurrency-hack-fbi-says",
-      "title": "North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says",
-      "summary": "North Korean hackers converted stolen Binance assets into Ethereum, prompting the FBI to urge crypto firms to block wallet addresses tied to the $6 billion theft.",
-      "url": "https://www.foxbusiness.com/technology/north-korea-responsible-6-billion-binance-cryptocurrency-hack-fbi-says",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-11-01T01:37:42-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/kim-jong-un-north-korea-binance-crypto-hack.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/health-insurance-open-enrollment-5-things-review-before-choosing-plan",
-      "title": "Health insurance open enrollment: 5 things to review before choosing a plan",
-      "summary": "From checking in-network doctors to weighing high deductible plans and HSA benefits, here's what to know before open enrollment closes Dec. 15.",
-      "url": "https://www.foxbusiness.com/economy/health-insurance-open-enrollment-5-things-review-before-choosing-plan",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-10-31T06:00:59-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/doctor-visit.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/expert-warns-ai-hacking-bloodbath-following-massive-binance-cryptocurrency-theft",
-      "title": "Expert warns of 'AI hacking bloodbath' following massive Binance cryptocurrency theft",
-      "summary": "Eric Schiffer warns the $6.3 billion Binance hack signals a coming \"bloodbath of AI hacking\" as cybersecurity threats grow more sophisticated.",
-      "url": "https://www.foxbusiness.com/technology/expert-warns-ai-hacking-bloodbath-following-massive-binance-cryptocurrency-theft",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-10-30T23:09:55-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/changpeng-zhao-binance-6-billion-hack.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/grocery-shopping-habits-can-help-lower-your-bill",
-      "title": "These grocery shopping habits can help lower your bill",
-      "summary": "With inflation stubbornly above the Federal Reserve's 2% target, financial experts reveal grocery store strategies using digital coupons and meal planning.",
-      "url": "https://www.foxbusiness.com/economy/grocery-shopping-habits-can-help-lower-your-bill",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-10-30T16:49:31-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/shoppers-at-a-grocery-store.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/oil-giants-post-billions-profits-americans-feel-pain-pump",
-      "title": "Oil giants post billions in profits as Americans feel pain at the pump",
-      "summary": "ExxonMobil and Chevron posted massive quarterly profits as Middle East and Russia-Ukraine conflicts drove gas prices up 34.2% year over year.",
-      "url": "https://www.foxbusiness.com/economy/oil-giants-post-billions-profits-americans-feel-pain-pump",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-10-30T14:52:47-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/gas-pump-prices-iran-conflict.png",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/key-hurdle-homebuyers-may-stick-around-through-2027",
-      "title": "A key hurdle for homebuyers may stick around through 2027",
-      "summary": "The Mortgage Bankers Association forecasts 30-year fixed mortgage rates staying above 7% through 2027, creating major hurdles for first-time home buyers.",
-      "url": "https://www.foxbusiness.com/economy/key-hurdle-homebuyers-may-stick-around-through-2027",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-10-30T08:50:05-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/home-for-sale-person-walking-getty.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/binance-says-security-incident-had-estimated-6-3b-impact-3b-assets-frozen",
-      "title": "Thieves make off with $6.3B from Binance: 'Biggest hack in history'",
-      "summary": "Binance froze $3 billion in assets after a major security incident, with Changpeng Zhao suggesting the crypto exchange appears to have been hacked.",
-      "url": "https://www.foxbusiness.com/technology/binance-says-security-incident-had-estimated-6-3b-impact-3b-assets-frozen",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-10-29T23:52:33-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/changpeng-zhao-binance-6-billion-security-incident.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/google-parent-alphabet-suffers-nearly-500b-wall-street-wipeout-amid-ai-spending-fears",
-      "title": "Google parent Alphabet suffers nearly $500B Wall Street wipeout amid AI spending fears",
-      "summary": "Alphabet suffered one of the largest stock market wipeouts in history after investors questioned the Google parent's massive artificial intelligence spending.",
-      "url": "https://www.foxbusiness.com/markets/google-parent-alphabet-suffers-nearly-500b-wall-street-wipeout-amid-ai-spending-fears",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-10-29T19:17:47-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/google-ceo-sundar-pichai-google-io-ai-event.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/wall-street-law-firm-handled-enron-lehman-brothers-bankruptcies-plans-dissolve-nearly-century",
-      "title": "Wall Street law firm that handled Enron, Lehman Brothers bankruptcies plans to dissolve after nearly a century",
-      "summary": "Major law firm Weil, Gotshal & Manges plans an orderly wind-down after losing top attorneys, with partners expected to vote on the proposal in the coming days.",
-      "url": "https://www.foxbusiness.com/economy/wall-street-law-firm-handled-enron-lehman-brothers-bankruptcies-plans-dissolve-nearly-century",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-10-29T09:53:28-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/weil-gotshal-manges.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/doordash-strikes-17b-deal-rival-instacart-bets-grocery-delivery",
-      "title": "DoorDash strikes $17B deal for rival Instacart in bet on grocery delivery",
-      "summary": "DoorDash is buying grocery delivery platform Instacart as it looks to expand beyond restaurant delivery and strengthen its position in the U.S. grocery market.",
-      "url": "https://www.foxbusiness.com/markets/doordash-strikes-17b-deal-rival-instacart-bets-grocery-delivery",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-10-29T09:25:14-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/door-dash-driver.png",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/september-2026-pce-inflation",
-      "title": "Fed’s preferred inflation gauge rose in September as third-quarter GDP beats expectations",
-      "summary": "The Commerce Department released the Federal Reserve's preferred inflation gauge, which showed inflation trended higher in September, as third-quarter GDP rose more than expected.",
-      "url": "https://www.foxbusiness.com/economy/september-2026-pce-inflation",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-10-29T08:33:50-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/kroger-grocery-store-shoppers.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/personal-finance/ftc-probes-whether-major-us-companies-charge-customers-different-prices-using-personal-data",
-      "title": "FTC probes whether major US companies charge customers different prices using personal data",
-      "summary": "The FTC ordered nine major companies including Delta, Uber and Walmart to reveal whether they use personal data for surveillance pricing tactics.",
-      "url": "https://www.foxbusiness.com/personal-finance/ftc-probes-whether-major-us-companies-charge-customers-different-prices-using-personal-data",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-10-29T02:19:03-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/walmart-ftc-surveillance-pricing-investigation.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-personal-finance"
     },
     {
       "id": "yt:NpjEK5BtjQ0",
@@ -4710,25 +4731,6 @@
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "7GLlKU1Jq7Q"
-    },
-    {
-      "id": "yt:nMa-azgWbQo",
-      "title": "Hollywood Star Reveals Why Actors Are Afraid to Speak Out - Zachary Levi | PBD Podcast #872",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=nMa-azgWbQo",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-13T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/nMa-azgWbQo/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCFHYI8xhidteOLpbBtWJ-E5rHGpw",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "nMa-azgWbQo",
-      "published_date_text": "Oct 13, 2026"
     },
     {
       "id": "yt:pyihDwVCc_M",
@@ -4928,7 +4930,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:01.156564-06:00",
+      "checked": "2026-11-14T09:55:36.740930-06:00",
       "error": null
     },
     {
@@ -4938,7 +4940,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:01.310544-06:00",
+      "checked": "2026-11-14T09:55:36.876989-06:00",
       "error": null
     },
     {
@@ -4948,7 +4950,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:01.373372-06:00",
+      "checked": "2026-11-14T09:55:36.929727-06:00",
       "error": null
     },
     {
@@ -4958,7 +4960,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:01.490762-06:00",
+      "checked": "2026-11-14T09:55:36.988283-06:00",
       "error": null
     },
     {
@@ -4968,7 +4970,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:01.547557-06:00",
+      "checked": "2026-11-14T09:55:37.038959-06:00",
       "error": null
     },
     {
@@ -4978,7 +4980,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:01.688220-06:00",
+      "checked": "2026-11-14T09:55:37.088747-06:00",
       "error": null
     },
     {
@@ -4988,7 +4990,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:01.815756-06:00",
+      "checked": "2026-11-14T09:55:37.141301-06:00",
       "error": null
     },
     {
@@ -4998,7 +5000,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:01.945999-06:00",
+      "checked": "2026-11-14T09:55:37.191229-06:00",
       "error": null
     },
     {
@@ -5008,7 +5010,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:02.138120-06:00",
+      "checked": "2026-11-14T09:55:37.296294-06:00",
       "error": null
     },
     {
@@ -5018,7 +5020,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:02.166024-06:00",
+      "checked": "2026-11-14T09:55:37.382122-06:00",
       "error": null
     },
     {
@@ -5028,7 +5030,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:02.261548-06:00",
+      "checked": "2026-11-14T09:55:37.452325-06:00",
       "error": null
     },
     {
@@ -5038,7 +5040,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:02.365184-06:00",
+      "checked": "2026-11-14T09:55:37.509840-06:00",
       "error": null
     },
     {
@@ -5048,7 +5050,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T03:25:02.446699-06:00",
+      "checked": "2026-11-14T09:55:37.684237-06:00",
       "error": null
     },
     {
@@ -5059,7 +5061,7 @@
       "ok": true,
       "count": 15,
       "http": 200,
-      "checked": "2026-11-14T03:25:02.484147-06:00",
+      "checked": "2026-11-14T09:55:37.816336-06:00",
       "error": null,
       "method": "youtube-atom"
     },
@@ -5071,7 +5073,7 @@
       "ok": true,
       "count": 15,
       "http": 200,
-      "checked": "2026-11-14T03:25:02.810312-06:00",
+      "checked": "2026-11-14T09:55:38.117304-06:00",
       "error": null,
       "method": "youtube-atom"
     }
