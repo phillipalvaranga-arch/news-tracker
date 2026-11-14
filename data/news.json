@@ -1,8 +1,24 @@
 {
-  "updated": "2026-11-13T20:39:40.564547-06:00",
+  "updated": "2026-11-13T20:40:51.753668-06:00",
   "timezone": "America/Chicago",
   "item_count": 300,
   "items": [
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/nba-star-dejounte-murray-requests-trade-pelicans-clash-public-frustration-spills-social-media",
+      "title": "NBA star Dejounte Murray requests trade after Pelicans clash, public frustration spills onto social media",
+      "summary": "Dejounte Murray's representatives at Klutch Sports requested a trade from the New Orleans Pelicans, who say they will evaluate opportunities.",
+      "url": "https://www.foxnews.com/outkick-sports/nba-star-dejounte-murray-requests-trade-pelicans-clash-public-frustration-spills-social-media",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-13T21:30:13-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Dejounte-Murray-New-Orleans-NBA.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
     {
       "id": "fox-news:https://www.foxnews.com/outkick-sports/adf-seeks-defend-washington-girls-sports-measure-argues-state-cannot-fully-represent-female-athletes",
       "title": "ADF seeks to defend Washington girls' sports measure, argues state cannot fully represent female athletes",
@@ -554,24 +570,6 @@
       "feed_id": "fox-business-latest"
     },
     {
-      "id": "yt:J-weHQRVmHw",
-      "title": "Trump Finally WINS - Liberal Media Furious - IRGC Fails To Defeat America",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=J-weHQRVmHw",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-11-13T13:39:33.956743-06:00",
-      "published_precision": "relative",
-      "published_text": "7 hours ago",
-      "thumbnail": "https://i.ytimg.com/vi/J-weHQRVmHw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcLGc6DKhNCfbHoTSjoWUrkPz2OQ",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "J-weHQRVmHw"
-    },
-    {
       "id": "fox-news:https://www.foxnews.com/us/school-investigating-viral-video-10th-grade-girl-punched-chokehold-ohio-school-bus",
       "title": "School investigating after viral video shows 10th grade girl punched, put in chokehold on Ohio school bus",
       "summary": "Viral video shows a male student repeatedly punching, kicking and choking a 10th grade girl on an Ohio school bus as other students laughed.",
@@ -1117,6 +1115,25 @@
       "feed_id": "fox-news-sports"
     },
     {
+      "id": "yt:J-weHQRVmHw",
+      "title": "Trump Finally WINS - Liberal Media Furious - IRGC Fails To Defeat America",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=J-weHQRVmHw",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-13T00:00:00-06:00",
+      "published_precision": "day",
+      "published_text": "7 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/J-weHQRVmHw/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLB7ypQG8Et8VNPuMRzqiP0f-o6xRw",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "J-weHQRVmHw",
+      "published_date_text": "Nov 13, 2026"
+    },
+    {
       "id": "fox-news:https://www.foxnews.com/sports/commanders-giants-takeaways",
       "title": "A Season-Saving Win: 3 Takeaways From Commanders Dramatic Victory Over Giants",
       "summary": "Here's what we learned from the Commanders' victory over the Giants.",
@@ -1228,24 +1245,6 @@
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/execution-rubio.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-us"
-    },
-    {
-      "id": "yt:HpCaV_uw0Uc",
-      "title": "“England Is Done” - Dominik Tarczyński on Mass Immigration & Europe’s Future | PBD Podcast #889",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=HpCaV_uw0Uc",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-11-12T20:39:40.564022-06:00",
-      "published_precision": "relative",
-      "published_text": "1 day ago",
-      "thumbnail": "https://i.ytimg.com/vi/HpCaV_uw0Uc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAvTj-u5-v3bVmsSDcHDgUxhOsTzQ",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "HpCaV_uw0Uc"
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress",
@@ -1922,6 +1921,25 @@
       "feed_id": "fox-business-latest"
     },
     {
+      "id": "yt:HpCaV_uw0Uc",
+      "title": "“England Is Done” - Dominik Tarczyński on Mass Immigration & Europe’s Future | PBD Podcast #889",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=HpCaV_uw0Uc",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-12T00:00:00-06:00",
+      "published_precision": "day",
+      "published_text": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/HpCaV_uw0Uc/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD_n2x3WDGcoUoFJegVVlnjEcDFKA",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "HpCaV_uw0Uc",
+      "published_date_text": "Nov 12, 2026"
+    },
+    {
       "id": "fox-business:https://www.foxbusiness.com/economy/polymarket-confirms-layoffs-prediction-market-giant-undergoes-major-restructuring",
       "title": "Polymarket confirms layoffs as prediction market giant undergoes major restructuring",
       "summary": "Polymarket confirmed layoffs and contractor cuts to FOX Business as new leadership restructures the prediction market platform amid Kalshi competition.",
@@ -2306,24 +2324,6 @@
       "feed_id": "fox-news-sports"
     },
     {
-      "id": "yt:u3VNZaqPqFI",
-      "title": "Facebook Whistleblower Fears Zuckerberg More Than Musk | PBD Podcast #888",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=u3VNZaqPqFI",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-11-10T20:39:40.564022-06:00",
-      "published_precision": "relative",
-      "published_text": "3 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/u3VNZaqPqFI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAb2wsz60GwZXt17jqmepXWUIuIpQ",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "u3VNZaqPqFI"
-    },
-    {
       "id": "fox-news:https://www.foxnews.com/world/us-evacuates-13-military-aircraft-second-uk-base-new-iran-threat-raises-alarm",
       "title": "US evacuates 13 military aircraft from second UK base as new Iran threat raises alarm",
       "summary": "More than a dozen U.S. Air Force aircraft left RAF Mildenhall after a reported Iran-linked threat triggered the second-highest military alert level.",
@@ -2612,6 +2612,25 @@
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/woman-pouring-tap-water.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-health"
+    },
+    {
+      "id": "yt:u3VNZaqPqFI",
+      "title": "Facebook Whistleblower Fears Zuckerberg More Than Musk | PBD Podcast #888",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=u3VNZaqPqFI",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-10T00:00:00-06:00",
+      "published_precision": "day",
+      "published_text": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/u3VNZaqPqFI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD1Ognsjf5qiicdv34ZQWuddQ62jA",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "u3VNZaqPqFI",
+      "published_date_text": "Nov 10, 2026"
     },
     {
       "id": "fox-news:https://www.foxnews.com/sports/minnesotas-offense-comes-up-short-3-takeaways-from-bills-monday-night-win",
@@ -2999,24 +3018,6 @@
       "feed_id": "fox-news-health"
     },
     {
-      "id": "yt:L44gJxqEu88",
-      "title": "Democrats' War To DESTROY America",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=L44gJxqEu88",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-11-07T20:39:33.956743-06:00",
-      "published_precision": "relative",
-      "published_text": "6 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/L44gJxqEu88/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDf6y_FEmHYr6hCfgRggC0JHqLk-w",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "L44gJxqEu88"
-    },
-    {
       "id": "fox-news:https://www.foxnews.com/health/simple-bedtime-change-help-individuals-lose-weight-study-finds",
       "title": "Simple bedtime change may help some individuals lose weight, study finds",
       "summary": "An NYU clinical trial found that moving bedtime just one hour earlier led to weight loss in prediabetes patients, even without longer sleep.",
@@ -3177,22 +3178,23 @@
       "feed_id": "fox-news-world"
     },
     {
-      "id": "yt:rP1Tr46xhx4",
-      "title": "Pete Buttigieg DEFENDS Democrats 2028 Agenda & Wealth Taxes | PBD Podcast #886",
+      "id": "yt:L44gJxqEu88",
+      "title": "Democrats' War To DESTROY America",
       "summary": "",
-      "url": "https://www.youtube.com/watch?v=rP1Tr46xhx4",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
+      "url": "https://www.youtube.com/watch?v=L44gJxqEu88",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
       "sections": [
         "video"
       ],
-      "published": "2026-11-06T20:39:40.564022-06:00",
-      "published_precision": "relative",
-      "published_text": "7 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/rP1Tr46xhx4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDCI3b5YvBN4syQv98LBt5ddT4Wmg",
+      "published": "2026-11-07T00:00:00-06:00",
+      "published_precision": "day",
+      "published_text": "6 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/L44gJxqEu88/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLA9kye7rpa6PDtbh-cmBkpuXFmaCw",
       "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "rP1Tr46xhx4"
+      "feed_id": "tousi-tv",
+      "video_id": "L44gJxqEu88",
+      "published_date_text": "Nov 7, 2026"
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/economy/companies-urged-adapt-restaurant-franchisee-files-bankruptcy-businesses-want-make-excuses",
@@ -3451,22 +3453,23 @@
       "feed_id": "fox-news-health"
     },
     {
-      "id": "yt:T18mCvFkUUo",
-      "title": "Islamic Grooming Gangs Go Back To 1916 In Britain | Tommy Robinson",
+      "id": "yt:rP1Tr46xhx4",
+      "title": "Pete Buttigieg DEFENDS Democrats 2028 Agenda & Wealth Taxes | PBD Podcast #886",
       "summary": "",
-      "url": "https://www.youtube.com/watch?v=T18mCvFkUUo",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
+      "url": "https://www.youtube.com/watch?v=rP1Tr46xhx4",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
       "sections": [
         "video"
       ],
-      "published": "2026-11-05T20:39:33.956743-06:00",
-      "published_precision": "relative",
-      "published_text": "8 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/T18mCvFkUUo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDUOwE4TT3sPmGrDqFC2eGYh0oQJA",
+      "published": "2026-11-06T00:00:00-06:00",
+      "published_precision": "day",
+      "published_text": "7 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/rP1Tr46xhx4/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAAD3HoSya_jYFySKuy1irCAcX-PQ",
       "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "T18mCvFkUUo"
+      "feed_id": "pbd-podcast",
+      "video_id": "rP1Tr46xhx4",
+      "published_date_text": "Nov 6, 2026"
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/markets/whats-fueling-wall-streets-growing-concerns-about-ai",
@@ -3628,6 +3631,25 @@
       "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/blood-bank-cold-storage-cyberattack-france.jpg",
       "kind": "article",
       "feed_id": "fox-business-technology"
+    },
+    {
+      "id": "yt:T18mCvFkUUo",
+      "title": "Islamic Grooming Gangs Go Back To 1916 In Britain | Tommy Robinson",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=T18mCvFkUUo",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-05T00:00:00-06:00",
+      "published_precision": "day",
+      "published_text": "8 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/T18mCvFkUUo/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCGj1YrURCldy8FB5Yem05LFCj8cg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "T18mCvFkUUo",
+      "published_date_text": "Nov 5, 2026"
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/technology/google-expands-voluntary-buyouts-5-countries-ai-spending-fuels-cost-cuts",
@@ -3858,42 +3880,6 @@
       "feed_id": "fox-business-technology"
     },
     {
-      "id": "yt:NpjEK5BtjQ0",
-      "title": "Kalshi's $40 Billion CEO Is Taking On Wall Street and Vegas | PBD Podcast #881",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=NpjEK5BtjQ0",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-30T20:39:40.564022-05:00",
-      "published_precision": "relative",
-      "published_text": "2 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/NpjEK5BtjQ0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfJDKusmptNyY4fXEbjugnjLWqGA",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "NpjEK5BtjQ0"
-    },
-    {
-      "id": "yt:ChrdIPZKfLI",
-      "title": "Clavicular Reveals the Dark Side of His Viral Lifestyle | PBD Podcast #880",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=ChrdIPZKfLI",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-30T20:39:40.564022-05:00",
-      "published_precision": "relative",
-      "published_text": "2 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/ChrdIPZKfLI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAkG8lPJj7A9qxKHcqgzg7QrKiMlg",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "ChrdIPZKfLI"
-    },
-    {
       "id": "fox-business:https://www.foxbusiness.com/economy/grocery-shopping-habits-can-help-lower-your-bill",
       "title": "These grocery shopping habits can help lower your bill",
       "summary": "With inflation stubbornly above the Federal Reserve's 2% target, financial experts reveal grocery store strategies using digital coupons and meal planning.",
@@ -4039,6 +4025,25 @@
       "feed_id": "fox-business-personal-finance"
     },
     {
+      "id": "yt:NpjEK5BtjQ0",
+      "title": "Kalshi's $40 Billion CEO Is Taking On Wall Street and Vegas | PBD Podcast #881",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=NpjEK5BtjQ0",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-10-29T00:00:00-05:00",
+      "published_precision": "day",
+      "published_text": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/NpjEK5BtjQ0/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLA2HhpRM4Z0q4usJYdPeBdK5RJwnQ",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "NpjEK5BtjQ0",
+      "published_date_text": "Oct 29, 2026"
+    },
+    {
       "id": "fox-business:https://www.foxbusiness.com/technology/trump-administration-sanctions-north-korean-network-accused-infiltrating-us-companies",
       "title": "Trump administration sanctions North Korean network accused of infiltrating US companies",
       "summary": "Treasury sanctioned ten individuals and one entity tied to North Korean IT workers who allegedly used stolen identities to infiltrate U.S. companies.",
@@ -4155,21 +4160,23 @@
       "feed_id": "fox-business-markets"
     },
     {
-      "id": "fox-business:https://www.foxbusiness.com/technology/spacex-secures-40b-financing-gpus-elon-musk-warns-ai-cloud-industry-consolidation",
-      "title": "SpaceX secures $40B in financing for GPUs as Elon Musk warns of AI cloud industry consolidation",
-      "summary": "SpaceX closed $40 billion in debt financing for GPU purchases as Elon Musk warns AI debt markets have shut off access for most companies.",
-      "url": "https://www.foxbusiness.com/technology/spacex-secures-40b-financing-gpus-elon-musk-warns-ai-cloud-industry-consolidation",
-      "source": "Fox Business",
-      "source_id": "fox-business",
+      "id": "yt:ChrdIPZKfLI",
+      "title": "Clavicular Reveals the Dark Side of His Viral Lifestyle | PBD Podcast #880",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=ChrdIPZKfLI",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
       "sections": [
-        "business",
-        "tech"
+        "video"
       ],
-      "published": "2026-10-26T01:09:45-04:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/elon-musk.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
+      "published": "2026-10-27T00:00:00-05:00",
+      "published_precision": "day",
+      "published_text": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/ChrdIPZKfLI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDa645_ZsuO7Fv4lmWVNYMSs0Fndw",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "ChrdIPZKfLI",
+      "published_date_text": "Oct 27, 2026"
     },
     {
       "id": "yt:9ja9bgGqlvI",
@@ -4181,13 +4188,14 @@
       "sections": [
         "video"
       ],
-      "published": "2026-10-23T20:39:40.564022-05:00",
-      "published_precision": "relative",
+      "published": "2026-10-22T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "3 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/9ja9bgGqlvI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDxmLYdSaZcve2DltxiZT5pttADnQ",
+      "thumbnail": "https://i.ytimg.com/vi/9ja9bgGqlvI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLC2BRR2ooPwNNCmvP2Qqq1AhLpgwA",
       "kind": "video",
       "feed_id": "pbd-podcast",
-      "video_id": "9ja9bgGqlvI"
+      "video_id": "9ja9bgGqlvI",
+      "published_date_text": "Oct 22, 2026"
     },
     {
       "id": "yt:3UgyPEqnOBE",
@@ -4199,13 +4207,14 @@
       "sections": [
         "video"
       ],
-      "published": "2026-10-23T20:39:40.564022-05:00",
-      "published_precision": "relative",
+      "published": "2026-10-20T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "3 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/3UgyPEqnOBE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC0ohLYH64RTF_whymEe4ia7z9-LA",
+      "thumbnail": "https://i.ytimg.com/vi/3UgyPEqnOBE/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD4-vAawtkP6uamN657Pv1ga0575A",
       "kind": "video",
       "feed_id": "pbd-podcast",
-      "video_id": "3UgyPEqnOBE"
+      "video_id": "3UgyPEqnOBE",
+      "published_date_text": "Oct 20, 2026"
     },
     {
       "id": "yt:-ulnlWH7JqQ",
@@ -4217,139 +4226,14 @@
       "sections": [
         "video"
       ],
-      "published": "2026-10-16T20:39:40.564022-05:00",
-      "published_precision": "relative",
+      "published": "2026-10-15T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "4 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/-ulnlWH7JqQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBwi73NdnGRS3Bex3ZReVGi4NNG1A",
+      "thumbnail": "https://i.ytimg.com/vi/-ulnlWH7JqQ/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBQpLtMKZYLYUVzLfupsTAS4tYHHw",
       "kind": "video",
       "feed_id": "pbd-podcast",
-      "video_id": "-ulnlWH7JqQ"
-    },
-    {
-      "id": "yt:nMa-azgWbQo",
-      "title": "Hollywood Star Reveals Why Actors Are Afraid to Speak Out - Zachary Levi | PBD Podcast #872",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=nMa-azgWbQo",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-14T20:39:40.564022-05:00",
-      "published_precision": "relative",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/nMa-azgWbQo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDjP87x-LH4JhU5F2_hE9IZFXk9OA",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "nMa-azgWbQo"
-    },
-    {
-      "id": "yt:vGvx82X8SPc",
-      "title": "Is Islam the Problem or Has the West Become Weak? | Raymond Ibrahim | PBD Podcast #869",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=vGvx82X8SPc",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-14T20:39:40.564022-05:00",
-      "published_precision": "relative",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/vGvx82X8SPc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAVIi-oFHWKi8XPjoIkNXty3WEuzA",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "vGvx82X8SPc"
-    },
-    {
-      "id": "yt:Qpuj1nhcxiI",
-      "title": "Ex-Anthropic Insider Tells All | PBD Podcast #868",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=Qpuj1nhcxiI",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-14T20:39:40.564022-05:00",
-      "published_precision": "relative",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/Qpuj1nhcxiI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCqjqRQ3nIyGV6_6xiiPhFwcb2FfQ",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "Qpuj1nhcxiI"
-    },
-    {
-      "id": "yt:9dtgxIdK8Ng",
-      "title": "“Why Did You Kill My Father?” — Ex-Mafia Underboss Reveals the Call | PBD Podcast #865",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=9dtgxIdK8Ng",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-14T20:39:40.564022-05:00",
-      "published_precision": "relative",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/9dtgxIdK8Ng/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAsBnJqvumZwVhyIolGpw_EM2hHGA",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "9dtgxIdK8Ng"
-    },
-    {
-      "id": "yt:IB56sQDcIYQ",
-      "title": "Ex-Disney CEO BREAKS SILENCE on Bob Iger & The Truth About Disney | PBD Podcast #864",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=IB56sQDcIYQ",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-14T20:39:40.564022-05:00",
-      "published_precision": "relative",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/IB56sQDcIYQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBDjN9XCBaNy5AU8LcmpjoWyYJ_gQ",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "IB56sQDcIYQ"
-    },
-    {
-      "id": "yt:ipoLo_2kf-c",
-      "title": "Tony Robbins: The Next 36 Months Will Change Everything | PBD Podcast #860",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=ipoLo_2kf-c",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-14T20:39:40.564022-05:00",
-      "published_precision": "relative",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/ipoLo_2kf-c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD4EIfAXkz2IeDCe6XsAj2bEyuFIg",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "ipoLo_2kf-c"
-    },
-    {
-      "id": "yt:KzvQ9tenLgY",
-      "title": "5 Things That Could Destroy America — Victor Davis Hanson | PBD Podcast #857",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=KzvQ9tenLgY",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-14T20:39:40.564022-05:00",
-      "published_precision": "relative",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/KzvQ9tenLgY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAfC1X2TQQ2DtUshKErLiuyxRHWWw",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "KzvQ9tenLgY"
+      "video_id": "-ulnlWH7JqQ",
+      "published_date_text": "Oct 15, 2026"
     },
     {
       "id": "yt:7GLlKU1Jq7Q",
@@ -4361,13 +4245,51 @@
       "sections": [
         "video"
       ],
-      "published": "2026-10-14T20:39:40.564022-05:00",
+      "published": "2026-10-14T20:40:51.751420-05:00",
       "published_precision": "relative",
       "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/7GLlKU1Jq7Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBf-UkE_m1LW5_OXn5znPF02o2s2w",
+      "thumbnail": "https://i.ytimg.com/vi/7GLlKU1Jq7Q/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDUbk4D-ku2oN4raBjQuBikRs6MhQ",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "7GLlKU1Jq7Q"
+    },
+    {
+      "id": "yt:nMa-azgWbQo",
+      "title": "Hollywood Star Reveals Why Actors Are Afraid to Speak Out - Zachary Levi | PBD Podcast #872",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=nMa-azgWbQo",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-10-13T00:00:00-05:00",
+      "published_precision": "day",
+      "published_text": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/nMa-azgWbQo/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCFHYI8xhidteOLpbBtWJ-E5rHGpw",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "nMa-azgWbQo",
+      "published_date_text": "Oct 13, 2026"
+    },
+    {
+      "id": "yt:vGvx82X8SPc",
+      "title": "Is Islam the Problem or Has the West Become Weak? | Raymond Ibrahim | PBD Podcast #869",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=vGvx82X8SPc",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-10-08T00:00:00-05:00",
+      "published_precision": "day",
+      "published_text": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/vGvx82X8SPc/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCxtQ6TlUKQLJbROUywJEOHfPH1cw",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "vGvx82X8SPc",
+      "published_date_text": "Oct 8, 2026"
     },
     {
       "id": "yt:pyihDwVCc_M",
@@ -4379,13 +4301,33 @@
       "sections": [
         "video"
       ],
-      "published": "2026-10-14T20:39:33.956743-05:00",
-      "published_precision": "relative",
+      "published": "2026-10-07T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/pyihDwVCc_M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAEHNaWu3_2PnxLGfFoW-rFyEaO5w",
+      "thumbnail": "https://i.ytimg.com/vi/pyihDwVCc_M/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLC7J7S4JZGmLcWaW6xD2KUzDkAAsg",
       "kind": "video",
       "feed_id": "tousi-tv",
-      "video_id": "pyihDwVCc_M"
+      "video_id": "pyihDwVCc_M",
+      "published_date_text": "Oct 7, 2026"
+    },
+    {
+      "id": "yt:Qpuj1nhcxiI",
+      "title": "Ex-Anthropic Insider Tells All | PBD Podcast #868",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=Qpuj1nhcxiI",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-10-06T00:00:00-05:00",
+      "published_precision": "day",
+      "published_text": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/Qpuj1nhcxiI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD-9vCnVDleG9ZOulNje9nRzNEsaA",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "Qpuj1nhcxiI",
+      "published_date_text": "Oct 6, 2026"
     },
     {
       "id": "yt:AX-1zZ4WrEU",
@@ -4397,13 +4339,90 @@
       "sections": [
         "video"
       ],
-      "published": "2026-10-14T20:39:33.956743-05:00",
-      "published_precision": "relative",
+      "published": "2026-10-06T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/AX-1zZ4WrEU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCcVlGH_Ud41erh7efD-USMFfNdNg",
+      "thumbnail": "https://i.ytimg.com/vi/AX-1zZ4WrEU/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAygWfdPmhniiCS-Z7E6q_YBRRGjg",
       "kind": "video",
       "feed_id": "tousi-tv",
-      "video_id": "AX-1zZ4WrEU"
+      "video_id": "AX-1zZ4WrEU",
+      "published_date_text": "Oct 6, 2026"
+    },
+    {
+      "id": "yt:9dtgxIdK8Ng",
+      "title": "“Why Did You Kill My Father?” — Ex-Mafia Underboss Reveals the Call | PBD Podcast #865",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=9dtgxIdK8Ng",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-10-01T00:00:00-05:00",
+      "published_precision": "day",
+      "published_text": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/9dtgxIdK8Ng/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDQjwv7LqlDg28yUgxi1rDYZXZCAw",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "9dtgxIdK8Ng",
+      "published_date_text": "Oct 1, 2026"
+    },
+    {
+      "id": "yt:IB56sQDcIYQ",
+      "title": "Ex-Disney CEO BREAKS SILENCE on Bob Iger & The Truth About Disney | PBD Podcast #864",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=IB56sQDcIYQ",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-09-29T00:00:00-05:00",
+      "published_precision": "day",
+      "published_text": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/IB56sQDcIYQ/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBly8bWb1CHZaPVAsBc5CwuVuOaSA",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "IB56sQDcIYQ",
+      "published_date_text": "Premiered Sep 29, 2026"
+    },
+    {
+      "id": "yt:ipoLo_2kf-c",
+      "title": "Tony Robbins: The Next 36 Months Will Change Everything | PBD Podcast #860",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=ipoLo_2kf-c",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-09-22T00:00:00-05:00",
+      "published_precision": "day",
+      "published_text": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/ipoLo_2kf-c/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDwiXCrjnHgm_OBhwehrZy1Rkre2g",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "ipoLo_2kf-c",
+      "published_date_text": "Sep 22, 2026"
+    },
+    {
+      "id": "yt:KzvQ9tenLgY",
+      "title": "5 Things That Could Destroy America — Victor Davis Hanson | PBD Podcast #857",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=KzvQ9tenLgY",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-09-17T00:00:00-05:00",
+      "published_precision": "day",
+      "published_text": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/KzvQ9tenLgY/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLA0nWWwbFdDK9xiE3ZXWjgNa-RyAg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "KzvQ9tenLgY",
+      "published_date_text": "Sep 17, 2026"
     },
     {
       "id": "yt:uR74ry0IpBU",
@@ -4415,10 +4434,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-09-14T20:39:40.564022-05:00",
+      "published": "2026-09-14T20:40:51.751420-05:00",
       "published_precision": "relative",
       "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/uR74ry0IpBU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAZJVtPXJFbQQDPbSq5W_IGglubQQ",
+      "thumbnail": "https://i.ytimg.com/vi/uR74ry0IpBU/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDUamjP1EuCtDlKRqaYBUiKBOD7SA",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "uR74ry0IpBU"
@@ -4433,10 +4452,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-09-14T20:39:40.564022-05:00",
+      "published": "2026-09-14T20:40:51.751420-05:00",
       "published_precision": "relative",
       "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/Jbg1w4WlW1g/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBLosyv2mcw88AschF99EkQLAR6mA",
+      "thumbnail": "https://i.ytimg.com/vi/Jbg1w4WlW1g/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBSNJ0fTj4clBJtyciMTyEhXWFQuA",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "Jbg1w4WlW1g"
@@ -4451,10 +4470,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-09-14T20:39:40.564022-05:00",
+      "published": "2026-09-14T20:40:51.751420-05:00",
       "published_precision": "relative",
       "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/5QwpHRu51fw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAV05jqg63mxSugtVsppB5W4x8VgQ",
+      "thumbnail": "https://i.ytimg.com/vi/5QwpHRu51fw/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAnXSNgyI74jNs8Q27Hf2uWsjQxBg",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "5QwpHRu51fw"
@@ -4469,10 +4488,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-09-14T20:39:40.564022-05:00",
+      "published": "2026-09-14T20:40:51.751420-05:00",
       "published_precision": "relative",
       "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/Z0ffCKngeNc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDhSIZxi_USQbKeJxzaAAiEVy68Hg",
+      "thumbnail": "https://i.ytimg.com/vi/Z0ffCKngeNc/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDrzkr9ayvL7XokPgAh76y26hrcCA",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "Z0ffCKngeNc"
@@ -4487,13 +4506,14 @@
       "sections": [
         "video"
       ],
-      "published": "2026-09-14T20:39:33.956743-05:00",
-      "published_precision": "relative",
+      "published": "2026-08-31T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/EsXqKAALqOg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBROOfbighAWilkIY2ww4S_mF7E0A",
+      "thumbnail": "https://i.ytimg.com/vi/EsXqKAALqOg/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLA37scdQ--SU0VH6Kch2yIiT7ZF-Q",
       "kind": "video",
       "feed_id": "tousi-tv",
-      "video_id": "EsXqKAALqOg"
+      "video_id": "EsXqKAALqOg",
+      "published_date_text": "Aug 31, 2026"
     },
     {
       "id": "yt:BH4X449Og-o",
@@ -4505,13 +4525,14 @@
       "sections": [
         "video"
       ],
-      "published": "2026-09-14T20:39:33.956743-05:00",
-      "published_precision": "relative",
+      "published": "2026-08-29T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/BH4X449Og-o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjDP6787zMeNv02nM-o_Fm-qRj5g",
+      "thumbnail": "https://i.ytimg.com/vi/BH4X449Og-o/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAKMF0sL9vMccSIfg4NS2SYn5ibVQ",
       "kind": "video",
       "feed_id": "tousi-tv",
-      "video_id": "BH4X449Og-o"
+      "video_id": "BH4X449Og-o",
+      "published_date_text": "Aug 29, 2026"
     },
     {
       "id": "yt:4sizH0Z_8HY",
@@ -4523,10 +4544,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-08-15T20:39:40.564022-05:00",
+      "published": "2026-08-15T20:40:51.751420-05:00",
       "published_precision": "relative",
       "published_text": "3 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/4sizH0Z_8HY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHmKeJ1HlqzeJ5eFQyq5ycjnDOTQ",
+      "thumbnail": "https://i.ytimg.com/vi/4sizH0Z_8HY/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLARSGrGlieP6jM3yiKVZXD_AhT5Tg",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "4sizH0Z_8HY"
@@ -4541,10 +4562,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-08-15T20:39:40.564022-05:00",
+      "published": "2026-08-15T20:40:51.751420-05:00",
       "published_precision": "relative",
       "published_text": "3 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/aKsZTBllWRQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCW19uKlE0vgBiFblIXtP3oKErjqQ",
+      "thumbnail": "https://i.ytimg.com/vi/aKsZTBllWRQ/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLB5K7arZv58B29_g8_BMC2EjJoUqA",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "aKsZTBllWRQ"
@@ -4559,10 +4580,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-08-15T20:39:40.564022-05:00",
+      "published": "2026-08-15T20:40:51.751420-05:00",
       "published_precision": "relative",
       "published_text": "3 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/z2xJxQLUOy4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBCzkXeDSeovvxey8DFQE0lAq_TXw",
+      "thumbnail": "https://i.ytimg.com/vi/z2xJxQLUOy4/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBCw_zVXMw9X8xHyJ1sfEMB7dSYDw",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "z2xJxQLUOy4"
@@ -4577,10 +4598,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-07-16T20:39:40.564022-05:00",
+      "published": "2026-07-16T20:40:51.751420-05:00",
       "published_precision": "relative",
       "published_text": "4 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/Y8uqTJPuMvE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgjfuNOd8ZlbnY4gi49tDZj81etQ",
+      "thumbnail": "https://i.ytimg.com/vi/Y8uqTJPuMvE/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDtiIuvKRdTWdDnv-qiLCSvZgNAig",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "Y8uqTJPuMvE"
@@ -4595,10 +4616,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-07-16T20:39:40.564022-05:00",
+      "published": "2026-07-16T20:40:51.751420-05:00",
       "published_precision": "relative",
       "published_text": "4 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/U5aThzB6oak/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC066pWlvliBstBWT6cp-EbE7rrcg",
+      "thumbnail": "https://i.ytimg.com/vi/U5aThzB6oak/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDF3P0BlPfcN25BR0ILaqJqdJvCqQ",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "U5aThzB6oak"
@@ -4613,13 +4634,14 @@
       "sections": [
         "video"
       ],
-      "published": "2026-07-16T20:39:33.956743-05:00",
-      "published_precision": "relative",
+      "published": "2026-07-08T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "4 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/9Dfu9_z3574/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjFYhUykYFQ2nGgzDYWnNFNpJ9Nw",
+      "thumbnail": "https://i.ytimg.com/vi/9Dfu9_z3574/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD4Pm20rUEszrkMoQwbqzSm8NeQPQ",
       "kind": "video",
       "feed_id": "tousi-tv",
-      "video_id": "9Dfu9_z3574"
+      "video_id": "9Dfu9_z3574",
+      "published_date_text": "Jul 8, 2026"
     },
     {
       "id": "yt:oZldWNKgRww",
@@ -4631,13 +4653,14 @@
       "sections": [
         "video"
       ],
-      "published": "2026-06-16T20:39:33.956743-05:00",
-      "published_precision": "relative",
+      "published": "2026-06-13T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "5 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/oZldWNKgRww/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD3PKMxcmIEDN3ErU2oiZtPh4B0KQ",
+      "thumbnail": "https://i.ytimg.com/vi/oZldWNKgRww/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDXB-SlxajTvyijympBmFm8it6kiA",
       "kind": "video",
       "feed_id": "tousi-tv",
-      "video_id": "oZldWNKgRww"
+      "video_id": "oZldWNKgRww",
+      "published_date_text": "Jun 13, 2026"
     },
     {
       "id": "yt:F4KyDSLLW2I",
@@ -4649,13 +4672,14 @@
       "sections": [
         "video"
       ],
-      "published": "2026-06-16T20:39:33.956743-05:00",
-      "published_precision": "relative",
+      "published": "2026-05-17T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "5 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/F4KyDSLLW2I/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC8MzsBLXEPLuooWmO0O0eW1YGOTQ",
+      "thumbnail": "https://i.ytimg.com/vi/F4KyDSLLW2I/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBgnPwbifRJMGOIiMXwN1Su-LL4_Q",
       "kind": "video",
       "feed_id": "tousi-tv",
-      "video_id": "F4KyDSLLW2I"
+      "video_id": "F4KyDSLLW2I",
+      "published_date_text": "May 17, 2026"
     },
     {
       "id": "yt:N_Fm6doDZu4",
@@ -4667,13 +4691,14 @@
       "sections": [
         "video"
       ],
-      "published": "2026-05-17T20:39:33.956743-05:00",
-      "published_precision": "relative",
+      "published": "2026-05-05T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "6 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/N_Fm6doDZu4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDgZkgORvTpR57PHIm6qhe-28cJmQ",
+      "thumbnail": "https://i.ytimg.com/vi/N_Fm6doDZu4/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDiOnMZCiDJZVxLn4fa_x-sHPcabA",
       "kind": "video",
       "feed_id": "tousi-tv",
-      "video_id": "N_Fm6doDZu4"
+      "video_id": "N_Fm6doDZu4",
+      "published_date_text": "May 5, 2026"
     },
     {
       "id": "yt:o8hE33ilMwk",
@@ -4685,67 +4710,14 @@
       "sections": [
         "video"
       ],
-      "published": "2026-05-17T20:39:33.956743-05:00",
-      "published_precision": "relative",
+      "published": "2026-05-03T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "6 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/o8hE33ilMwk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAjQB1vGto-x0cKgdfiecDXGDuPqg",
+      "thumbnail": "https://i.ytimg.com/vi/o8hE33ilMwk/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDYQfnq7hSyAj6SnppLKJjxoku6ig",
       "kind": "video",
       "feed_id": "tousi-tv",
-      "video_id": "o8hE33ilMwk"
-    },
-    {
-      "id": "yt:x3b2n1HkILM",
-      "title": "Mahyar Tousi On Fox News: How IRGC Tricked Tucker Carlson",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=x3b2n1HkILM",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-04-17T20:39:33.956743-05:00",
-      "published_precision": "relative",
-      "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/x3b2n1HkILM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCRddOm_yDAhS9ojyEauIPpeUZr7A",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "x3b2n1HkILM"
-    },
-    {
-      "id": "yt:tWj9wMonsJs",
-      "title": "Mahyar Tousi On Fox News: Regime Change In Iran Explained",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=tWj9wMonsJs",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-04-17T20:39:33.956743-05:00",
-      "published_precision": "relative",
-      "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/tWj9wMonsJs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLcKW4h-FeL6dpXSXc9SuhSjrJuw",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "tWj9wMonsJs"
-    },
-    {
-      "id": "yt:5whSphcKtEA",
-      "title": "The Truth About Trump’s War In Iran",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=5whSphcKtEA",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-04-17T20:39:33.956743-05:00",
-      "published_precision": "relative",
-      "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/5whSphcKtEA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDsDWvqzMHcfaJL-sV3sppw6RfRsQ",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "5whSphcKtEA"
+      "video_id": "o8hE33ilMwk",
+      "published_date_text": "May 3, 2026"
     },
     {
       "id": "yt:wJlyO6gVPcA",
@@ -4757,10 +4729,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-04-17T20:39:33.956743-05:00",
+      "published": "2026-04-17T20:40:36.085621-05:00",
       "published_precision": "relative",
       "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/wJlyO6gVPcA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDLOL5j_NbvzHZ6MNp2aQSIn8rNFg",
+      "thumbnail": "https://i.ytimg.com/vi/wJlyO6gVPcA/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLB5r0jp8yL5P_lU14CyDmeJGAPHkw",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "wJlyO6gVPcA"
@@ -4775,10 +4747,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-04-17T20:39:33.956743-05:00",
+      "published": "2026-04-17T20:40:36.085621-05:00",
       "published_precision": "relative",
       "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/BOyQoNExzHQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC1RvC_eifivxNAG83Bc4u4z8NbMg",
+      "thumbnail": "https://i.ytimg.com/vi/BOyQoNExzHQ/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAkP5vyjXwLnY44Dbu76HjXRxsCMg",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "BOyQoNExzHQ"
@@ -4793,13 +4765,70 @@
       "sections": [
         "video"
       ],
-      "published": "2026-04-17T20:39:33.956743-05:00",
+      "published": "2026-04-17T20:40:36.085621-05:00",
       "published_precision": "relative",
       "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/8nTU_8ICKiU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBz7oa-lN2Qleg-jkLbRIGzjR4N-w",
+      "thumbnail": "https://i.ytimg.com/vi/8nTU_8ICKiU/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBwyT3xJXhIJp4Y24uN513_HFofYg",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "8nTU_8ICKiU"
+    },
+    {
+      "id": "yt:x3b2n1HkILM",
+      "title": "Mahyar Tousi On Fox News: How IRGC Tricked Tucker Carlson",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=x3b2n1HkILM",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-04-11T00:00:00-05:00",
+      "published_precision": "day",
+      "published_text": "7 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/x3b2n1HkILM/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBFNaRwT-FCAzRFBn6FvMKZoRMq2g",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "x3b2n1HkILM",
+      "published_date_text": "Apr 11, 2026"
+    },
+    {
+      "id": "yt:tWj9wMonsJs",
+      "title": "Mahyar Tousi On Fox News: Regime Change In Iran Explained",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=tWj9wMonsJs",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-03-30T00:00:00-05:00",
+      "published_precision": "day",
+      "published_text": "7 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/tWj9wMonsJs/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDSPqXck5GjmZ69mGPJmtJAe3j7Rw",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "tWj9wMonsJs",
+      "published_date_text": "Mar 30, 2026"
+    },
+    {
+      "id": "yt:5whSphcKtEA",
+      "title": "The Truth About Trump’s War In Iran",
+      "summary": "",
+      "url": "https://www.youtube.com/watch?v=5whSphcKtEA",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-03-26T00:00:00-05:00",
+      "published_precision": "day",
+      "published_text": "7 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/5whSphcKtEA/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD0Wd3RAS-FXjIYON9ZJbzqQ3FHeA",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "5whSphcKtEA",
+      "published_date_text": "Mar 26, 2026"
     },
     {
       "id": "yt:-RPX9Js2hoI",
@@ -4811,10 +4840,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-02-16T20:39:33.956743-06:00",
+      "published": "2026-02-16T20:40:36.085621-06:00",
       "published_precision": "relative",
       "published_text": "9 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/-RPX9Js2hoI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC6B_om9G9rQ10yyEmUPlv5pIJmHg",
+      "thumbnail": "https://i.ytimg.com/vi/-RPX9Js2hoI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBW0WdZOXp1Wl6NOZOqZnxunSpVZA",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "-RPX9Js2hoI"
@@ -4829,10 +4858,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-02-16T20:39:33.956743-06:00",
+      "published": "2026-02-16T20:40:36.085621-06:00",
       "published_precision": "relative",
       "published_text": "9 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/aDKO14ZOyHw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_ozLuECS6iUBMF13klyteINkeqA",
+      "thumbnail": "https://i.ytimg.com/vi/aDKO14ZOyHw/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBvI2MZjzuI6Ya9bI1pdcgOuHxaUQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "aDKO14ZOyHw"
@@ -4847,10 +4876,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-01-17T20:39:33.956743-06:00",
+      "published": "2026-01-17T20:40:36.085621-06:00",
       "published_precision": "relative",
       "published_text": "10 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/cLtuV7SPufw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA8K__qPEeOhRmQj_OAfexxiD5aKw",
+      "thumbnail": "https://i.ytimg.com/vi/cLtuV7SPufw/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLADEb80RLeoi7ub7BT36VAMZ0ZCdg",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "cLtuV7SPufw"
@@ -4865,10 +4894,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-01-17T20:39:33.956743-06:00",
+      "published": "2026-01-17T20:40:36.085621-06:00",
       "published_precision": "relative",
       "published_text": "10 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/G-MFyPNag-U/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBwc_APOfGwaAE-aQa4UOKty0CxvA",
+      "thumbnail": "https://i.ytimg.com/vi/G-MFyPNag-U/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDOQyI90q_ocN-ZtV_OyIbQDUD6VQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "G-MFyPNag-U"
@@ -4883,10 +4912,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-01-17T20:39:33.956743-06:00",
+      "published": "2026-01-17T20:40:36.085621-06:00",
       "published_precision": "relative",
       "published_text": "10 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/LB4x7KPRDJA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCkIybEUkRlh0vBew-vqG7pFoJtJg",
+      "thumbnail": "https://i.ytimg.com/vi/LB4x7KPRDJA/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDdjhO8zuNR82QyKVK61VENzT8s1w",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "LB4x7KPRDJA"
@@ -4901,10 +4930,10 @@
       "sections": [
         "video"
       ],
-      "published": "2026-01-17T20:39:33.956743-06:00",
+      "published": "2026-01-17T20:40:36.085621-06:00",
       "published_precision": "relative",
       "published_text": "10 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/MXo4sYYH8mE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD5tRqudbf6CJA6UR9zx-Lc7atNJQ",
+      "thumbnail": "https://i.ytimg.com/vi/MXo4sYYH8mE/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCp95bmxYdzheEy4lsDnEZXaAKMxw",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "MXo4sYYH8mE"
@@ -4919,10 +4948,10 @@
       "sections": [
         "video"
       ],
-      "published": "2025-11-13T20:39:33.956743-06:00",
+      "published": "2025-11-13T20:40:36.085621-06:00",
       "published_precision": "relative",
       "published_text": "1 year ago",
-      "thumbnail": "https://i.ytimg.com/vi/_AcS9UfaTMo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAuw3gXyWgzLEaWxP6Xsh6VliNncQ",
+      "thumbnail": "https://i.ytimg.com/vi/_AcS9UfaTMo/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCk6OnJCoSZjIiqPkgF9VeqqFkN-Q",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "_AcS9UfaTMo"
@@ -4936,7 +4965,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:25.803244-06:00",
+      "checked": "2026-11-13T20:40:22.534578-06:00",
       "error": null
     },
     {
@@ -4946,7 +4975,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:25.912086-06:00",
+      "checked": "2026-11-13T20:40:22.575117-06:00",
       "error": null
     },
     {
@@ -4956,7 +4985,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:26.006691-06:00",
+      "checked": "2026-11-13T20:40:22.629296-06:00",
       "error": null
     },
     {
@@ -4966,7 +4995,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:26.112210-06:00",
+      "checked": "2026-11-13T20:40:22.654356-06:00",
       "error": null
     },
     {
@@ -4976,7 +5005,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:26.209812-06:00",
+      "checked": "2026-11-13T20:40:22.852151-06:00",
       "error": null
     },
     {
@@ -4986,7 +5015,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:26.284272-06:00",
+      "checked": "2026-11-13T20:40:22.877819-06:00",
       "error": null
     },
     {
@@ -4996,7 +5025,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:26.387219-06:00",
+      "checked": "2026-11-13T20:40:22.915970-06:00",
       "error": null
     },
     {
@@ -5006,7 +5035,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:26.468828-06:00",
+      "checked": "2026-11-13T20:40:22.938825-06:00",
       "error": null
     },
     {
@@ -5016,7 +5045,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:26.518095-06:00",
+      "checked": "2026-11-13T20:40:23.002138-06:00",
       "error": null
     },
     {
@@ -5026,7 +5055,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:26.582252-06:00",
+      "checked": "2026-11-13T20:40:23.036827-06:00",
       "error": null
     },
     {
@@ -5036,7 +5065,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:26.637566-06:00",
+      "checked": "2026-11-13T20:40:23.079174-06:00",
       "error": null
     },
     {
@@ -5046,7 +5075,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:26.697955-06:00",
+      "checked": "2026-11-13T20:40:23.123901-06:00",
       "error": null
     },
     {
@@ -5056,7 +5085,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-13T20:39:26.749303-06:00",
+      "checked": "2026-11-13T20:40:23.173681-06:00",
       "error": null
     },
     {
@@ -5067,7 +5096,7 @@
       "ok": true,
       "count": 30,
       "http": "404,200",
-      "checked": "2026-11-13T20:39:26.822923-06:00",
+      "checked": "2026-11-13T20:40:23.220828-06:00",
       "error": null,
       "method": "youtube-channel-page"
     },
@@ -5079,7 +5108,7 @@
       "ok": true,
       "count": 30,
       "http": "404,200",
-      "checked": "2026-11-13T20:39:33.956889-06:00",
+      "checked": "2026-11-13T20:40:36.085759-06:00",
       "error": null,
       "method": "youtube-channel-page"
     }
