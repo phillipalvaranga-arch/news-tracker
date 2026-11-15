@@ -1,8 +1,625 @@
 {
-  "updated": "2026-11-15T00:24:16.270448-06:00",
+  "updated": "2026-11-15T08:11:33.070572-06:00",
   "timezone": "America/Chicago",
   "item_count": 300,
   "items": [
+    {
+      "id": "yt:9f6k2uv7-Hs",
+      "title": "Would You Kiss Leonardo DiCaprio for $6.2 MILLION",
+      "summary": "The panel's reactions turn a ridiculous movie scenario into a debate about comfort, professional acting, financial incentives and whether personal limits change when millions of dollars are involved.",
+      "url": "https://www.youtube.com/watch?v=9f6k2uv7-Hs",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-15T14:00:26+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i2.ytimg.com/vi/9f6k2uv7-Hs/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "9f6k2uv7-Hs"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/world/putins-war-machine-tied-troubling-recruitment-young-women-new-deals-emerge",
+      "title": "Putin's war machine tied to troubling recruitment of young women as new deals emerge",
+      "summary": "Two African governments signed deals with Russia's Alabuga drone factory zone as a Ukrainian probe alleges deceptive recruitment of young African women.",
+      "url": "https://www.foxnews.com/world/putins-war-machine-tied-troubling-recruitment-young-women-new-deals-emerge",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "world"
+      ],
+      "published": "2026-11-15T09:00:46-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/unmanned-drone-military-drills.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-world"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/onlyfans-model-courtney-clenney-moved-new-prison-listed-minimum-custody-inmate-records",
+      "title": "OnlyFans model Courtney Clenney moved to new prison, listed as minimum custody inmate: records",
+      "summary": "Courtney Clenney is now minimum custody at a Florida prison. The National Domestic Violence Hotline offers help for those in abusive situations.",
+      "url": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-moved-new-prison-listed-minimum-custody-inmate-records",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T09:00:44-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/courtney-clenney-plea-deal-1.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/johnny-depp-fled-hollywood-spotlight-quiet-bahamas-life-nobody-pointing-camera",
+      "title": "Johnny Depp fled Hollywood spotlight for quiet Bahamas life where 'nobody’s pointing a camera at me'",
+      "summary": "Johnny Depp opens up about how his 1940s Bahamas wood house with a yurt and painting studio became his sanctuary away from cameras and fame.",
+      "url": "https://www.foxnews.com/entertainment/johnny-depp-fled-hollywood-spotlight-quiet-bahamas-life-nobody-pointing-camera",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T09:00:32-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/depp.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/luxury-real-estate-expert-reveals-benefits-kirk-cousins-selling-home-privately-trade-vikings",
+      "title": "Luxury real estate expert reveals benefits of Kirk Cousins selling his home privately after trade to Vikings",
+      "summary": "Kirk Cousins sold his Minnesota home off-market through a neighbor before joining the Atlanta Falcons, avoiding the public listing process entirely.",
+      "url": "https://www.foxnews.com/outkick-sports/luxury-real-estate-expert-reveals-benefits-kirk-cousins-selling-home-privately-trade-vikings",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T08:22:35-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kirk-cousins-vikings-panthers-nfl.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/sports/how-to-watch-49ers-vs-cowboys-tv-channel-live-stream-time-nov-15-2026",
+      "title": "How to Watch 49ers vs. Cowboys: TV Channel, Live Stream, Time",
+      "summary": "49ers vs. Cowboys kicks off Sunday, Nov. 15, at 4:25 p.m. ET on FOX. Get the FOX One streaming info and players to watch for this game in Arlington.",
+      "url": "https://www.foxnews.com/sports/how-to-watch-49ers-vs-cowboys-tv-channel-live-stream-time-nov-15-2026",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-15T08:15:40-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/676e74cdfd615cad1a1c53601aeaa2dd31f6345971739b13b1743794da286ef8.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-sports"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/sports/how-to-watch-vikings-vs-packers-tv-channel-live-stream-time-nov-15-2026",
+      "title": "How to Watch Vikings vs. Packers: TV Channel, Live Stream, Time",
+      "summary": "Vikings vs. Packers kicks off Sunday, Nov. 15, at 1 p.m. ET on FOX. Get the FOX One streaming info and players to watch for this game in Green Bay.",
+      "url": "https://www.foxnews.com/sports/how-to-watch-vikings-vs-packers-tv-channel-live-stream-time-nov-15-2026",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-15T08:14:49-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/f6de0aa13105bebc1457683959ea1d1f43974bf6dce0abf7ba82e623e8bbe7c9.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-sports"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/seahawks-vs-raiders-vikings-vs-packers-picks-trade-deadline-quarterback-swaps",
+      "title": "Seahawks vs Raiders and Vikings vs Packers picks after trade deadline quarterback swaps",
+      "summary": "The trade deadline reshaped two key matchups as the Seahawks face the Raiders and Kirk Cousins makes his Vikings debut on the road at Green Bay.",
+      "url": "https://www.foxnews.com/outkick-betting/seahawks-vs-raiders-vikings-vs-packers-picks-trade-deadline-quarterback-swaps",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T08:12:49-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kirk-cousins-vikings-bench-lions.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/steelers-bengals-meet-afc-north-showdown-sunday-night-football-both-teams-6-2",
+      "title": "Steelers and Bengals meet in AFC North showdown on Sunday Night Football with both teams at 6-2",
+      "summary": "Pittsburgh Steelers bring a 6-2 record to Cincinnati for a Sunday Night Football AFC North clash, but their 2-2 road record raises questions.",
+      "url": "https://www.foxnews.com/outkick-betting/steelers-bengals-meet-afc-north-showdown-sunday-night-football-both-teams-6-2",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T08:11:34-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/joe-burrow-injury-2.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/week-10-nfl-betting-promos-claim-over-2000-bonuses-from-our-favorite-betting-apps",
+      "title": "Week 10 NFL Betting Promos: Claim Over $2,000 in Bonuses From Our Favorite Betting Apps",
+      "summary": "Claim over $2,000 in NFL Week 10 betting promos from BetMGM, Hard Rock Bet, Fanatics, FanDuel, Underdog and Betr, with a play at each app.",
+      "url": "https://www.foxnews.com/outkick-betting/week-10-nfl-betting-promos-claim-over-2000-bonuses-from-our-favorite-betting-apps",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T08:06:32-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/jared-goff-lions-saints.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/sports/how-to-watch-texans-vs-browns-tv-channel-live-stream-time-nov-15-2026",
+      "title": "How to Watch Texans vs. Browns: TV Channel, Live Stream, Time",
+      "summary": "Texans vs. Browns kicks off Sunday, Nov. 15, at 1 p.m. ET on FOX. Get the FOX One streaming info and players to watch for this game in Cleveland.",
+      "url": "https://www.foxnews.com/sports/how-to-watch-texans-vs-browns-tv-channel-live-stream-time-nov-15-2026",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-15T08:04:48-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/60d761fc03fae0d7899c3f76028c9de2c3927fd7f173d59517a6e07c0ca0a2be.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-sports"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/best-sportsbook-promos-sunday-night-football-bengals-vs-steelers-offers",
+      "title": "Best Sportsbook Promos for Sunday Night Football: Bengals vs Steelers Offers",
+      "summary": "The best sportsbook promos for Sunday Night Football, with $2,800 in bonuses from BetMGM, Fanatics, Hard Rock Bet, FanDuel, Underdog and Betr for Steelers at Bengals.",
+      "url": "https://www.foxnews.com/outkick-betting/best-sportsbook-promos-sunday-night-football-bengals-vs-steelers-offers",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T08:04:35-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/jamarr-chase-touchdown-reaction-bengals.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/sports/how-to-watch-jaguars-vs-titans-tv-channel-live-stream-time-nov-15-2026",
+      "title": "How to Watch Jaguars vs. Titans: TV Channel, Live Stream, Time",
+      "summary": "Jaguars vs. Titans kicks off Sunday, Nov. 15, at 1 p.m. ET on FOX. Get the FOX One streaming info and players to watch for this game in Nashville.",
+      "url": "https://www.foxnews.com/sports/how-to-watch-jaguars-vs-titans-tv-channel-live-stream-time-nov-15-2026",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-15T08:03:53-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/2f693960810fd97202496ad1e2c35bbbf9ac907c7f53085fd73b2dc56ebea697.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-sports"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-cowboys-49ers-bengals-steelers",
+      "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Cowboys-49ers, Bengals-Steelers",
+      "summary": "Underdog promo code FOXNEWS lets new users play $10 and get $50 in bonus entries on 49ers at Cowboys and Steelers at Bengals on Sunday Night Football.",
+      "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-cowboys-49ers-bengals-steelers",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T08:02:13-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/524/dak-prescott-ceedee-lamb.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/sports/how-to-watch-panthers-vs-saints-tv-channel-live-stream-time-nov-15-2026",
+      "title": "How to Watch Panthers vs. Saints: TV Channel, Live Stream, Time",
+      "summary": "Panthers vs. Saints kicks off Sunday, Nov. 15, at 1 p.m. ET on FOX. Get the FOX One streaming info and players to watch for this game in New Orleans.",
+      "url": "https://www.foxnews.com/sports/how-to-watch-panthers-vs-saints-tv-channel-live-stream-time-nov-15-2026",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-15T08:01:53-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/360c46c03a27e617a95cc96f52467d2a987432cd352e8508cd30d634628e0a5c.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-sports"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/murders-plunge-us-cities-americans-reclaim-streets-thugs",
+      "title": "Murders plunge in US cities as Americans reclaim their streets from thugs",
+      "summary": "Major U.S. cities saw violent crime drop in 2026, with Tulsa, Oklahoma, leading homicide reductions at 71%, according to the MCCA report.",
+      "url": "https://www.foxnews.com/us/murders-plunge-us-cities-americans-reclaim-streets-thugs",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "us"
+      ],
+      "published": "2026-11-15T08:00:48-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/memphis-tennessee-national-guard-federal-trump_09.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-packers-vs-vikings-nfc-north-showdown",
+      "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 for the Packers vs Vikings NFC North Showdown",
+      "summary": "Underdog promo code FOXNEWS lets new users play $10 and get $50 in bonus entries on Vikings at Packers in an NFC North showdown at Lambeau Field.",
+      "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-packers-vs-vikings-nfc-north-showdown",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T08:00:39-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/jordan-love-packers-warmup.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/health/simple-salt-substitute-could-prevent-three-million-deaths-year-worldwide-study-estimates",
+      "title": "Simple salt substitute could prevent three million deaths a year worldwide, study estimates",
+      "summary": "A Nature Health study finds potassium salt substitutes could prevent nearly 3 million deaths yearly, but hyperkalemia poses risks for some patients.",
+      "url": "https://www.foxnews.com/health/simple-salt-substitute-could-prevent-three-million-deaths-year-worldwide-study-estimates",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "health"
+      ],
+      "published": "2026-11-15T08:00:28-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/woman-salting-eggs.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-health"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/trumps-top-officials-retreat-behind-military-gates-ex-fbi-deputy-points-whats-fueling-threats",
+      "title": "Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats",
+      "summary": "Scott Bessent joins Todd Blanche, Marco Rubio and Pete Hegseth at Washington D.C. military bases amid Iranian assassination threats.",
+      "url": "https://www.foxnews.com/politics/trumps-top-officials-retreat-behind-military-gates-ex-fbi-deputy-points-whats-fueling-threats",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-15T08:00:14-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/scott-bessent-mamdani.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/opinion/chuck-devore-texas-turns-blue-next-4-big-battles-coming",
+      "title": "CHUCK DEVORE: Texas turns blue, but here’s where the next 4 big battles are coming",
+      "summary": "Gov.-elect Gina Hinojosa's new agenda could reshape Texas on taxes, spending, regulation, DEI policy, border security and Operation Lone Star.",
+      "url": "https://www.foxnews.com/opinion/chuck-devore-texas-turns-blue-next-4-big-battles-coming",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T08:00:02-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/obama-talarico-hinojosa-austin-fox-news-001.jpeg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/fanduel-promo-code-bet-5-get-200-any-nfl-week-10-game-including-packers-vikings-cowboys-49ers",
+      "title": "FanDuel Promo Code: Bet $5, Get $200 on Any NFL Week 10 Game Including Packers-Vikings, Cowboys-49ers",
+      "summary": "FanDuel gives new users $200 in bonus bets for betting $5 a day for four days, starting with NFL Week 10 including Vikings at Packers and 49ers at Cowboys.",
+      "url": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-bet-5-get-200-any-nfl-week-10-game-including-packers-vikings-cowboys-49ers",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T07:59:39-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/NFL-Cowboys-Dak-Prescott-092126-1.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-packers-vs-vikings-cowboys-vs-49ers",
+      "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Packers vs Vikings, Cowboys vs 49ers",
+      "summary": "Fanatics Sportsbook promo code FOXNEWS350 lets new users bet $20 and get $350 in FanCash on Vikings at Packers and 49ers at Cowboys in NFL Week 10.",
+      "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-packers-vs-vikings-cowboys-vs-49ers",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T07:58:59-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/kirk-cousins-vikings-49ers-pass-fox-news_.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-nfl-week-10-bet-up-1500",
+      "title": "BetMGM Bonus Code FOXNEWS: Cover Your First NFL Week 10 Bet up to $1500",
+      "summary": "BetMGM bonus code FOXNEWS covers new users’ first NFL Week 10 bet up to $1,500, including Lions-Patriots in Munich and Steelers at Bengals on Sunday Night Football.",
+      "url": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-nfl-week-10-bet-up-1500",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T07:58:13-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/Burrow-2026-bengals-fox-news-001.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-unlocks-200-bonus-4x-free-picks-lions-vs-patriots-any-other-week-10-game",
+      "title": "Betr Promo Code FOXNEWS Unlocks $200 Bonus and 4x Free Picks for Lions vs Patriots, Any Other Week 10 Game",
+      "summary": "Betr promo code FOXNEWS unlocks a $200 bonus and four free picks for new users on Lions vs. Patriots in Munich and any other NFL Week 10 game.",
+      "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-unlocks-200-bonus-4x-free-picks-lions-vs-patriots-any-other-week-10-game",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T07:57:34-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/524/nfl-lions-jahmyr-gibbs-111325-1.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-lions-patriots-munich-game",
+      "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Lions-Patriots, Munich Game",
+      "summary": "Fanatics Sportsbook promo code FOXNEWS350 lets new users bet $20 and get $350 in FanCash on Lions vs. Patriots at Allianz Arena in Munich.",
+      "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-lions-patriots-munich-game",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T07:56:50-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/mike-vrabel-patriots-seahawks-lumen-field.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-lions-vs-patriots-munich",
+      "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Lions vs Patriots in Munich",
+      "summary": "Underdog promo code FOXNEWS lets new users play $10 and get $50 in bonus entries on Lions vs. Patriots in Munich, Germany, on Sunday morning.",
+      "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-lions-vs-patriots-munich",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T07:55:37-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/drake-maye-patriots-bears-soldier-field.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-betting/bets-breakfast-looking-winners-nfl-early-game-munich",
+      "title": "Bets and Breakfast: Looking for winners in the NFL’s early game in Munich",
+      "summary": "Patriots vs. Lions Munich betting preview: Why the Patriots moneyline at +130 is the play, plus three player props to pair with it.",
+      "url": "https://www.foxnews.com/outkick-betting/bets-breakfast-looking-winners-nfl-early-game-munich",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T07:49:20-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/drake-maye-patriots-bears-soldier-field.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/faa-says-air-travel-should-be-back-normal-sunday-after-nationwide-ground-stop",
+      "title": "FAA says air travel should be back to normal Sunday after nationwide ground stop",
+      "summary": "FAA Administrator Bryan Bedford says the worst is over after the longest nationwide ground stop in 25 years disrupted around 15,000 flights.",
+      "url": "https://www.foxnews.com/us/faa-says-air-travel-should-be-back-normal-sunday-after-nationwide-ground-stop",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "us"
+      ],
+      "published": "2026-11-15T07:36:46-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/faa-ground-stop.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/inside-senate-gops-tense-post-election-reckoning-thune-clashes-republican-critics",
+      "title": "Inside Senate GOP's tense post-election reckoning as Thune clashes with Republican critics",
+      "summary": "Senate Republicans kept John Thune as leader by acclamation after a heated closed-door meeting that some lawmakers compared to \"Festivus.\"",
+      "url": "https://www.foxnews.com/politics/inside-senate-gops-tense-post-election-reckoning-thune-clashes-republican-critics",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-15T07:00:37-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/thune-senate-republican-leadership-elections.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/sammy-kershaw-accepts-cma-apology-country-stars-speak-red-carpet-access",
+      "title": "Sammy Kershaw accepts CMA apology after country stars speak out over red carpet access",
+      "summary": "Sammy Kershaw's CMA Awards red carpet denial ignited a firestorm among country music artists who say the industry sidelines legends for influencers.",
+      "url": "https://www.foxnews.com/entertainment/sammy-kershaw-accepts-cma-apology-country-stars-speak-red-carpet-access",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T07:00:33-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/sammy-kershaw.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-business:https://www.foxbusiness.com/business-leaders/ceo-sunday-blackberry-boss-companys-evolution-from-smartphone-giant-software-powerhouse",
+      "title": "CEO SUNDAY: BlackBerry boss on the company's evolution from smartphone giant to software powerhouse",
+      "summary": "BlackBerry CEO John Giamatteo discusses the company's shift from smartphones to software, including QNX technology used in more than 275 million vehicles.",
+      "url": "https://www.foxbusiness.com/business-leaders/ceo-sunday-blackberry-boss-companys-evolution-from-smartphone-giant-software-powerhouse",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-15T07:00:32-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/blackberry-ceo-john-giamatteo-1.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/purge-masked-suspect-accused-killing-college-student-halloween-bash-sister-helps-nab-him",
+      "title": "'Purge'-masked suspect accused of killing college student at Halloween bash — before his sister helps nab him",
+      "summary": "Omar Perez's sister identified him using police photos and the family's Life360 app after the University of Colorado Boulder student's killing.",
+      "url": "https://www.foxnews.com/us/purge-masked-suspect-accused-killing-college-student-halloween-bash-sister-helps-nab-him",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "us"
+      ],
+      "published": "2026-11-15T07:00:31-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Luca-Hanlon-killed-in-Boulder-Colorado.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-business:https://www.foxbusiness.com/personal-finance/us-credit-card-debt-hits-1-29t-bank-algorithms-rejecting-debt-free-six-figure-earners",
+      "title": "As US credit card debt hits $1.29T, bank algorithms are rejecting debt-free, six-figure earners",
+      "summary": "Across the country, debt-free Americans earning six figures face credit card denials as bank algorithms flag thin credit files as high-risk behavior.",
+      "url": "https://www.foxbusiness.com/personal-finance/us-credit-card-debt-hits-1-29t-bank-algorithms-rejecting-debt-free-six-figure-earners",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-15T07:00:18-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/us-man-credit-card-stress.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-personal-finance"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/harvard-scientist-pushes-back-nasa-chief-mystery-space-object-not-asteroid",
+      "title": "Harvard scientist pushes back on NASA chief over mystery space object: 'It's not an asteroid'",
+      "summary": "Avi Loeb challenges NASA's Jared Isaacman, arguing 1998 KY26 is not an asteroid and could be a lost Soviet spacecraft from a failed Mars mission.",
+      "url": "https://www.foxnews.com/us/harvard-scientist-pushes-back-nasa-chief-mystery-space-object-not-asteroid",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "us"
+      ],
+      "published": "2026-11-15T06:00:34-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/NASA-ASTEROID-ALERT-3.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/small-town-residents-cry-help-immigrant-influx-fueled-trucking-industry-unintended-consequences",
+      "title": "Small town residents cry for help as immigrant influx fueled by trucking industry has unintended consequences",
+      "summary": "A Fox News Digital investigation reveals Hamilton Township's freight fraud crackdown yielded 561 traffic stops and 36 arrests in southwest Ohio.",
+      "url": "https://www.foxnews.com/politics/small-town-residents-cry-help-immigrant-influx-fueled-trucking-industry-unintended-consequences",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-15T05:00:51-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Broken-Glass-Trucks.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "yt:lhsdGr2XI5E",
+      "title": "BREAKING: IRGC Launch Preemptive WAR - Bahrain & Saudi Under Attack",
+      "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
+      "url": "https://www.youtube.com/watch?v=lhsdGr2XI5E",
+      "source": "Tousi TV",
+      "source_id": "tousi-tv",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-15T03:39:01+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i1.ytimg.com/vi/lhsdGr2XI5E/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "tousi-tv",
+      "video_id": "lhsdGr2XI5E"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/sports/how-to-watch-patriots-vs-lions-tv-channel-live-stream-time-nov-15-2026",
+      "title": "How to Watch Patriots vs. Lions: TV Channel, Live Stream, Time",
+      "summary": "Patriots vs. Lions kicks off Sunday, Nov. 15, at 9:30 a.m. ET on FOX. Get the FOX One streaming info and players to watch for this game in Munich.",
+      "url": "https://www.foxnews.com/sports/how-to-watch-patriots-vs-lions-tv-channel-live-stream-time-nov-15-2026",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-15T03:31:52-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/cbc54acd66fc80e9abead28f5fa6b48d50442fec3ad85d2fbeb8158bb68bfbcf.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-sports"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/ups-cargo-plane-copa-airlines-passenger-jet-collide-miami-airport-leaving-2-injured",
+      "title": "UPS cargo plane, Copa Airlines passenger jet collide at Miami airport, leaving 2 injured",
+      "summary": "A UPS Airlines cargo plane and a Copa Airlines passenger jet collided on the ground at Miami International Airport on Saturday night, leaving two people with minor injuries.",
+      "url": "https://www.foxnews.com/us/ups-cargo-plane-copa-airlines-passenger-jet-collide-miami-airport-leaving-2-injured",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "us"
+      ],
+      "published": "2026-11-15T02:43:15-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ups-copa-airlines-miami-airport-collision.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
     {
       "id": "fox-news:https://www.foxnews.com/outkick-sports/arch-manning-overcomes-sloppy-performance-clutch-td-pass-lift-texas-lsu-crucial-matchup",
       "title": "Arch Manning turns Death Valley into LSU’s funeral as Texas buries Lane Kiffin’s CFP hopes",
@@ -163,6 +780,23 @@
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/myles-mayfield-unc-asheville-georgia-tech.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "yt:ywN0JthcK0E",
+      "title": "Trump Could Pardon His ENTIRE Administration",
+      "summary": "The debate raises questions about executive power, accountability and how decisions by one administration may influence the choices of its successors.",
+      "url": "https://www.youtube.com/watch?v=ywN0JthcK0E",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-14T21:00:02+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i2.ytimg.com/vi/ywN0JthcK0E/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "ywN0JthcK0E"
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/technology/tesla-makes-major-cybercab-announcement-driverless-vehicle-goes-sale",
@@ -2082,7 +2716,7 @@
       "published": "2026-11-13T18:56:28+00:00",
       "published_precision": "minute",
       "published_text": "1 day ago",
-      "thumbnail": "https://i.ytimg.com/vi/J-weHQRVmHw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcLGc6DKhNCfbHoTSjoWUrkPz2OQ",
+      "thumbnail": "https://i3.ytimg.com/vi/J-weHQRVmHw/hqdefault.jpg",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "J-weHQRVmHw",
@@ -3855,358 +4489,6 @@
       "feed_id": "fox-news-sports"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/us/watch-deranged-animal-rights-activist-arrested-allegedly-hitting-carriage-driver-skateboard",
-      "title": "WATCH: Deranged animal rights activist arrested after allegedly hitting carriage driver with skateboard",
-      "summary": "Video captures Abigail Holbrook allegedly striking a Central Park horse carriage driver with a skateboard while shouting about animal abuse.",
-      "url": "https://www.foxnews.com/us/watch-deranged-animal-rights-activist-arrested-allegedly-hitting-carriage-driver-skateboard",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-12T12:00:31-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/woman-accu-sed-of-wacking-man-with-skateboard.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/michigan-wolverines-vanderbilt-commodores-mia-woolfolk-ucla-bruins",
-      "title": "College Basketball Catchup: Michigan Rebounds, Vandy Got Better, UCLA Is Hot",
-      "summary": "Michigan bounces back, Mia Woolfolk shows why Vanderbilt wanted her, Ethan Roberts makes Notre Dame history and more from Wednesday's college basketball action.",
-      "url": "https://www.foxnews.com/sports/michigan-wolverines-vanderbilt-commodores-mia-woolfolk-ucla-bruins",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-12T11:22:43-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/costelloh1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/mysterious-object-moving-through-space-could-be-lost-soviet-probe-nasa-weighs-theory",
-      "title": "Mysterious object moving through space could be lost Soviet probe as NASA weighs in on theory",
-      "summary": "Near-Earth asteroid 1998 KY26 shows nongravitational acceleration, and Harvard researchers say it closely matches lost Soviet spacecraft Phobos 1.",
-      "url": "https://www.foxnews.com/us/mysterious-object-moving-through-space-could-be-lost-soviet-probe-nasa-weighs-theory",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-12T11:13:44-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/asteroid-approaching-earth.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hate-strikes-out-philly",
-      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Hate strikes out in Philly",
-      "summary": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
-      "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hate-strikes-out-philly",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-12T11:06:18-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/931/523/reggie-jackson.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/trump-jensen-huang-nvidia-ceo-replacement",
-      "title": "Trump says 'there is only one man' to replace Jensen Huang as Nvidia CEO",
-      "summary": "President Donald Trump endorsed Apple CEO Tim Cook as a potential successor to Jensen Huang following the Nvidia co-founder's resignation and the appointment of an interim CEO.",
-      "url": "https://www.foxbusiness.com/markets/trump-jensen-huang-nvidia-ceo-replacement",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-12T10:51:31-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/trump-huang.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/nyc-building-collapse-timeline-deadly-disaster-rescuers-race-pull-survivors-rubble",
-      "title": "NYC building collapse: Timeline of deadly disaster as rescuers race to pull survivors from rubble",
-      "summary": "A timeline reveals how the deadly New York City building collapse at 1321 Flatbush Ave. unfolded, from the first 911 call to a frantic rescue.",
-      "url": "https://www.foxnews.com/us/nyc-building-collapse-timeline-deadly-disaster-rescuers-race-pull-survivors-rubble",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-12T10:31:02-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/new-york-city-building-collapse5.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/sports/cosmic-sports-founder-rapid-growth-hockey-expansion-entertainment-sports-new-heights",
-      "title": "Cosmic Sports founder talks rapid growth, hockey expansion and taking entertainment sports to new heights",
-      "summary": "After selling 750,000 tickets on its 2026 baseball tour, Cosmic Sports is expanding into hockey. Founder Chris Martin explains what's behind the growing success.",
-      "url": "https://www.foxbusiness.com/sports/cosmic-sports-founder-rapid-growth-hockey-expansion-entertainment-sports-new-heights",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-12T10:18:54-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/cosmic-sports-1-111026.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach",
-      "title": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
-      "summary": "Two Iranian men convicted of spying in Britain as France accuses the IRGC of cyberattacks and UAE officials warn of Iranian sleeper cells abroad.",
-      "url": "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-12T10:10:49-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/iran-military-rally-001.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/nonprofit-offers-veterans-second-career-through-commercial-drone-pilot-training",
-      "title": "Nonprofit offers veterans second career through commercial drone pilot training",
-      "summary": "After the military, some veterans are left wondering what's next? Nonprofit organization Vets to Drones is helping them take on a new path by becoming certified drone pilots.",
-      "url": "https://www.foxnews.com/tech/nonprofit-offers-veterans-second-career-through-commercial-drone-pilot-training",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-12T10:02:23-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/drone-no-bug.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/how-to-watch-commanders-vs-giants-tv-channel-live-stream-time-nov-12-2026",
-      "title": "How to Watch Commanders vs. Giants: TV Channel, Live Stream, Time",
-      "summary": "Commanders vs. Giants kicks off Thursday, Nov. 12, at 8:15 p.m. ET on Amazon Prime Video. Get the TV channel, streaming options and players to watch for this game in East Rutherford.",
-      "url": "https://www.foxnews.com/sports/how-to-watch-commanders-vs-giants-tv-channel-live-stream-time-nov-12-2026",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-12T10:00:22-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/191b91a024b027706b69f83f37799fa2eaea37d8fb4894ccd9e0839055ae849d.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/roll-tape-can-kirk-cousins-save-vikings-super-bowl-hopes",
-      "title": "Roll The Tape: Can Kirk Cousins Save The Vikings' Super Bowl Hopes?",
-      "summary": "After diving into the All-22 coaches' film from Week 9, Bucky Brooks examines three new developments to watch.",
-      "url": "https://www.foxnews.com/sports/roll-tape-can-kirk-cousins-save-vikings-super-bowl-hopes",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-12T09:52:02-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/63d064a2-artboard-1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/colin-cowherd-indiana-the-offense-bb-gun-without-fernando-mendoza",
-      "title": "Colin Cowherd On Indiana: ‘The Offense Is A BB Gun Without Fernando Mendoza’",
-      "summary": "Colin Cowherd thinks Curt Cignetti got too much of the credit for Indiana’s national championship, and he says the Hoosiers’ recent offense is evidence of it.",
-      "url": "https://www.foxnews.com/sports/colin-cowherd-indiana-the-offense-bb-gun-without-fernando-mendoza",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-12T09:47:44-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/cignetti-1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/cop-fired-over-fake-facebook-page-targeting-mom",
-      "title": "Cop fired over fake Facebook page targeting mom",
-      "summary": "Natasha Lopez says a Flock camera system helped a Georgia deputy track her family, and after she spoke out, a fake Facebook page targeted her children.",
-      "url": "https://www.foxnews.com/tech/cop-fired-over-fake-facebook-page-targeting-mom",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-12T09:22:24-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/charles-mills-deputy-fired.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/shooting-near-dc-fitness-center-leaves-multiple-people-injured-officials-say",
-      "title": "Mold dispute emerges as key focus in deadly DC shooting spree near White House, police say",
-      "summary": "Police identified Dr. Matt Wade Lambert, 55, as the gunman in a deadly Washington, D.C., shooting that killed building manager James Stewart, 46, over alleged ongoing condo dispute.",
-      "url": "https://www.foxnews.com/us/shooting-near-dc-fitness-center-leaves-multiple-people-injured-officials-say",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-12T08:58:06-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dc-shooter-matt-lambert.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/business-leaders/nvidia-ceo-jensen-huang-resigns-amid-investigation-relationship-alleged-chinese-spy",
-      "title": "Nvidia CEO Jensen Huang resigns amid investigation into relationship with alleged Chinese spy",
-      "summary": "Nvidia CEO Jensen Huang is stepping down from his role after an internal investigation into his relationship with an alleged Chinese spy.",
-      "url": "https://www.foxbusiness.com/business-leaders/nvidia-ceo-jensen-huang-resigns-amid-investigation-relationship-alleged-chinese-spy",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-12T08:57:12-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/nvidia-jensen-huang-ces-2026.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-latest"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/nvidia-shares-plunge-more-7-premarket-trading-ceo-uncertainty-rattles-ai-stocks",
-      "title": "Nvidia shares sell off as CEO Jensen Huang resigns",
-      "summary": "Nvidia shares sold off Thursday after CEO Jensen Huang stepped down. CFO Colette Kress will lead the AI chipmaker on an interim basis.",
-      "url": "https://www.foxbusiness.com/markets/nvidia-shares-plunge-more-7-premarket-trading-ceo-uncertainty-rattles-ai-stocks",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-12T08:30:26-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/nvidia.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/5-myths-about-data-broker-opt-outs-expose-retirees",
-      "title": "5 myths about data broker opt-outs that expose retirees",
-      "summary": "Data broker opt-outs may not keep your personal information private for long. Five common myths leave retirees especially vulnerable to scams.",
-      "url": "https://www.foxnews.com/tech/5-myths-about-data-broker-opt-outs-expose-retirees",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-12T08:08:42-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/elderly-couple-finance-401k.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/sound-off-what-happen-jensen-huang-amid-nvidia-scandals",
-      "title": "Sound off on Jensen Huang's resignation from Nvidia",
-      "summary": "What's Nvidia's future after the resignation of CEO Jensen Huang amid scandals? Weigh in here!",
-      "url": "https://www.foxnews.com/tech/sound-off-what-happen-jensen-huang-amid-nvidia-scandals",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-12T08:06:29-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/1200/675/Jensen-Huang-Nvidia.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/ozempic-zepbound-users-face-6-rebound-risks-stopping-doctor-warns",
-      "title": "Ozempic and Zepbound users face 6 rebound risks after stopping, doctor warns",
-      "summary": "Thinking of quitting a GLP-1? A physician outlines six risks, from weight regain and muscle loss to worsening biomarkers and mental health consequences.",
-      "url": "https://www.foxnews.com/health/ozempic-zepbound-users-face-6-rebound-risks-stopping-doctor-warns",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-12T08:00:40-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/woman-in-front-of-fridge.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/fox-news-tech/musk-says-honor-hire-nvidias-embatteled-jensen-huang",
-      "title": "Musk says it would be 'an honor' to hire Nvidia's embattled Jensen Huang",
-      "summary": "Nvidia reportedly faces a potential leadership shakeup as Elon Musk weighs in on Jensen Huang's future following allegations, a board investigation and analyst downgrades.",
-      "url": "https://www.foxbusiness.com/fox-news-tech/musk-says-honor-hire-nvidias-embatteled-jensen-huang",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-12T07:51:36-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/musk-kennedy-center.png",
-      "kind": "article",
-      "feed_id": "fox-business-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/jim-jordan-predicts-who-dems-quickly-go-after-trump-admin-once-take-power-more-top-headlines",
-      "title": "Jim Jordan predicts who Dems will quickly go after in Trump admin once they take power and more top headlines",
-      "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "url": "https://www.foxnews.com/us/jim-jordan-predicts-who-dems-quickly-go-after-trump-admin-once-take-power-more-top-headlines",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-12T07:06:11-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/jim-jordan3.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/politics/democratic-senators-demand-nvidia-records-from-trump-administration-over-alleged-chinese-spy-ties",
-      "title": "Democratic senators demand NVIDIA records from Trump administration over alleged Chinese spy ties",
-      "summary": "Two Democratic senators demand the Trump administration preserve Nvidia records amid reports linking CEO Jensen Huang to a suspected Chinese spy.",
-      "url": "https://www.foxbusiness.com/politics/democratic-senators-demand-nvidia-records-from-trump-administration-over-alleged-chinese-spy-ties",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-12T02:22:56-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-nvidia-chinese-spy-allegations.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-latest"
-    },
-    {
       "id": "yt:HpCaV_uw0Uc",
       "title": "“England Is Done” - Dominik Tarczyński on Mass Immigration & Europe’s Future | PBD Podcast #889",
       "summary": "",
@@ -4224,230 +4506,6 @@
       "feed_id": "pbd-podcast",
       "video_id": "HpCaV_uw0Uc",
       "published_date_text": "Nov 12, 2026"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/polymarket-confirms-layoffs-prediction-market-giant-undergoes-major-restructuring",
-      "title": "Polymarket confirms layoffs as prediction market giant undergoes major restructuring",
-      "summary": "Polymarket confirmed layoffs and contractor cuts to FOX Business as new leadership restructures the prediction market platform amid Kalshi competition.",
-      "url": "https://www.foxbusiness.com/economy/polymarket-confirms-layoffs-prediction-market-giant-undergoes-major-restructuring",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-11T23:08:54-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/polymarket-layoffs-company-restructuring-2026.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/real-estate/veterans-widow-feared-losing-michigan-home-before-discovering-overlooked-property-tax-benefit",
-      "title": "Veteran's widow feared losing Michigan home before discovering overlooked property tax benefit",
-      "summary": "A Michigan widow whose husband served 21 years in the Army says refinancing her mortgage and discovering a property tax exemption helped her avoid selling her beloved lakeside home.",
-      "url": "https://www.foxbusiness.com/real-estate/veterans-widow-feared-losing-michigan-home-before-discovering-overlooked-property-tax-benefit",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-11T21:28:48-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/va-rocket-mortgage-display.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-real-estate"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/tom-bradys-nfl-power-rankings-bears-bills-49ers-chiefs",
-      "title": "Tom Brady's NFL Power Rankings: Was Bills' Win Convincing Enough To Move To No. 1?",
-      "summary": "The Bears won in Week 9, but it didn't look pretty. Was that enough for the Bills or 49ers to take the top spot in Tom Brady's power rankings.",
-      "url": "https://www.foxnews.com/sports/tom-bradys-nfl-power-rankings-bears-bills-49ers-chiefs",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-11T20:32:52-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/26brady-power-rankings-week-9-b.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops",
-      "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
-      "summary": "Helicopters struck Haiti gang compound, dozens fled and President Bukele touted the assault amid a search for four missing Salvadoran personnel.",
-      "url": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-11T20:04:45-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/rendered-helicopter-attack-gif-final.gif",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/nvidia-preparing-replace-ceo-jensen-huang-second-alleged-affair-emerges-report",
-      "title": "Nvidia preparing to replace CEO Jensen Huang as second alleged affair emerges: report",
-      "summary": "Nvidia CEO Jensen Huang faces a reported push to remove him from the company as allegations of a second extramarital affair emerge, adding to an ongoing board investigation.",
-      "url": "https://www.foxbusiness.com/markets/nvidia-preparing-replace-ceo-jensen-huang-second-alleged-affair-emerges-report",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-11T19:13:21-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/05/jensen-huang-nvidia-may-2026.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
-      "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
-      "summary": "Iran claims its Revolutionary Guard struck navigation equipment on Oman's Didamar Island in the Strait of Hormuz, but Omani officials dispute damage.",
-      "url": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-11T17:48:03-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/iran-boat.gif",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/death-reported-e-coli-outbreak-linked-california-pumpkin-patch-more-cases-emerge",
-      "title": "Death reported in E coli outbreak linked to California pumpkin patch as more cases emerge",
-      "summary": "An E. coli outbreak linked to California’s Brookshire Farms has left one person dead, five confirmed infections and 10 suspected cases.",
-      "url": "https://www.foxnews.com/health/death-reported-e-coli-outbreak-linked-california-pumpkin-patch-more-cases-emerge",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-11T17:34:53-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/childen-at-pumpkin-patch.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/fiery-chaos-erupts-spain-protesters-clash-police-massive-nationwide-strike",
-      "title": "Fiery chaos erupts across Spain as protesters clash with police during massive nationwide strike",
-      "summary": "Spain's first general strike in 14 years turned violent in Barcelona as protesters set fires and launched fireworks at riot police on Paseo de Gracia.",
-      "url": "https://www.foxnews.com/world/fiery-chaos-erupts-spain-protesters-clash-police-massive-nationwide-strike",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-11T16:46:50-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/spain-riots-police-protest.gif",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/weight-loss-drug-wipes-chronic-knee-pain-patients-researchers-say",
-      "title": "New weight-loss drug wipes out chronic knee pain in some patients, researchers say",
-      "summary": "Northwestern University-led trials found retatrutide helped two-thirds of obese knee osteoarthritis patients cut pain by half in late-stage studies.",
-      "url": "https://www.foxnews.com/health/weight-loss-drug-wipes-chronic-knee-pain-patients-researchers-say",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-11T16:10:40-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/mature-woman-knee-pain.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/dna-links-4-grizzly-bears-deadly-attack-mother-daughter-canada-officials-say",
-      "title": "DNA links 4 grizzly bears to deadly attack on mother and daughter in Canada, officials say",
-      "summary": "DNA evidence linked four grizzly bears to the deaths of Jennifer Balcarras and Selah Reed near Bella Coola, British Columbia, officials said.",
-      "url": "https://www.foxnews.com/world/dna-links-4-grizzly-bears-deadly-attack-mother-daughter-canada-officials-say",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-11T15:59:30-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/balcarras.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/nvidia-stock-faces-rare-downgrades-board-investigates-ceo-jensen-huangs-admitted-affair",
-      "title": "Nvidia stock faces rare downgrades as board investigates CEO Jensen Huang's admitted affair",
-      "summary": "Baird issued a rare downgrade of Nvidia stock to neutral as CEO Jensen Huang's affair with an alleged Chinese spy clouds the AI giant's outlook.",
-      "url": "https://www.foxbusiness.com/markets/nvidia-stock-faces-rare-downgrades-board-investigates-ceo-jensen-huangs-admitted-affair",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-11T15:51:22-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/jensen-huang-nvidia-ceo-g20.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/gas-prices-estimate-rises-2027-though-consumers-could-still-see-relief-from-pain-pump-eia",
-      "title": "Gas prices estimate rises for 2027, though consumers could still see relief from pain at the pump: EIA",
-      "summary": "The EIA raised its 2027 gas price forecast 5% from last month, citing global petroleum supply constraints and wider crack spreads through year's end.",
-      "url": "https://www.foxbusiness.com/economy/gas-prices-estimate-rises-2027-though-consumers-could-still-see-relief-from-pain-pump-eia",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-11T14:15:50-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/gas-station-texas.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/russian-ambassador-us-alexander-darchiev-dies-suddenly-66",
-      "title": "Russian Ambassador to US Alexander Darchiev dies suddenly at 66",
-      "summary": "Russia's ambassador to the United States Alexander Darchiev, 66, had been appointed by Putin to lead a rapprochement with the Trump administration.",
-      "url": "https://www.foxnews.com/world/russian-ambassador-us-alexander-darchiev-dies-suddenly-66",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-11T14:02:20-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/alexander-darchiyev-russian-ambassador-candidate.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/silicon-valley-center-espionage-former-fbi-agent-warns-nvidia-spy-scandal",
-      "title": "Silicon Valley is 'a center for espionage,' former FBI agent warns after Nvidia spy scandal",
-      "summary": "A former FBI agent warns Silicon Valley is a center for espionage as Nvidia's board probes whether CEO Jensen Huang's affair compromised secrets.",
-      "url": "https://www.foxbusiness.com/economy/silicon-valley-center-espionage-former-fbi-agent-warns-nvidia-spy-scandal",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-11T13:53:26-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/san-francisco-city-view-golden-gate-bridge-01.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
     },
     {
       "id": "yt:uRd_aUt3CcY",
@@ -4532,7 +4590,7 @@
       "published": "2026-11-07T23:00:34+00:00",
       "published_precision": "minute",
       "published_text": "7 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/L44gJxqEu88/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDf6y_FEmHYr6hCfgRggC0JHqLk-w",
+      "thumbnail": "https://i1.ytimg.com/vi/L44gJxqEu88/hqdefault.jpg",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "L44gJxqEu88",
@@ -4700,43 +4758,6 @@
       "feed_id": "pbd-podcast",
       "video_id": "9ja9bgGqlvI",
       "published_date_text": "Oct 22, 2026"
-    },
-    {
-      "id": "yt:3UgyPEqnOBE",
-      "title": "Floyd Mayweather Reveals How $550 MILLION Was Stolen From Him | PBD Podcast #876",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=3UgyPEqnOBE",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-20T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "3 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/3UgyPEqnOBE/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD4-vAawtkP6uamN657Pv1ga0575A",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "3UgyPEqnOBE",
-      "published_date_text": "Oct 20, 2026"
-    },
-    {
-      "id": "yt:-ulnlWH7JqQ",
-      "title": "Delta Force Legend Reveals What War Really Does to a Man - John McPhee | PBD Podcast #873",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=-ulnlWH7JqQ",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-18T00:24:16.268209-05:00",
-      "published_precision": "relative",
-      "published_text": "4 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/-ulnlWH7JqQ/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBQpLtMKZYLYUVzLfupsTAS4tYHHw",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "-ulnlWH7JqQ"
     },
     {
       "id": "yt:pyihDwVCc_M",
@@ -4908,24 +4929,6 @@
       "feed_id": "tousi-tv",
       "video_id": "o8hE33ilMwk",
       "published_date_text": "May 3, 2026"
-    },
-    {
-      "id": "yt:tWj9wMonsJs",
-      "title": "Mahyar Tousi On Fox News: Regime Change In Iran Explained",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=tWj9wMonsJs",
-      "source": "Tousi TV",
-      "source_id": "tousi-tv",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-04-19T00:24:10.276979-05:00",
-      "published_precision": "relative",
-      "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/tWj9wMonsJs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLcKW4h-FeL6dpXSXc9SuhSjrJuw",
-      "kind": "video",
-      "feed_id": "tousi-tv",
-      "video_id": "tWj9wMonsJs"
     }
   ],
   "status": [
@@ -4936,7 +4939,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:03.906985-06:00",
+      "checked": "2026-11-15T08:11:32.457992-06:00",
       "error": null
     },
     {
@@ -4946,7 +4949,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:04.035745-06:00",
+      "checked": "2026-11-15T08:11:32.588669-06:00",
       "error": null
     },
     {
@@ -4956,7 +4959,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:04.053693-06:00",
+      "checked": "2026-11-15T08:11:32.610210-06:00",
       "error": null
     },
     {
@@ -4966,7 +4969,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:04.069681-06:00",
+      "checked": "2026-11-15T08:11:32.636261-06:00",
       "error": null
     },
     {
@@ -4976,7 +4979,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:04.083663-06:00",
+      "checked": "2026-11-15T08:11:32.658694-06:00",
       "error": null
     },
     {
@@ -4986,7 +4989,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:04.095072-06:00",
+      "checked": "2026-11-15T08:11:32.681838-06:00",
       "error": null
     },
     {
@@ -4996,7 +4999,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:04.111275-06:00",
+      "checked": "2026-11-15T08:11:32.705389-06:00",
       "error": null
     },
     {
@@ -5006,7 +5009,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:04.128437-06:00",
+      "checked": "2026-11-15T08:11:32.726220-06:00",
       "error": null
     },
     {
@@ -5016,7 +5019,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:04.175794-06:00",
+      "checked": "2026-11-15T08:11:32.804188-06:00",
       "error": null
     },
     {
@@ -5026,7 +5029,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:04.200022-06:00",
+      "checked": "2026-11-15T08:11:32.831666-06:00",
       "error": null
     },
     {
@@ -5036,7 +5039,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:04.249273-06:00",
+      "checked": "2026-11-15T08:11:32.859057-06:00",
       "error": null
     },
     {
@@ -5046,7 +5049,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:04.299204-06:00",
+      "checked": "2026-11-15T08:11:32.888667-06:00",
       "error": null
     },
     {
@@ -5056,7 +5059,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T00:24:04.323544-06:00",
+      "checked": "2026-11-15T08:11:32.920124-06:00",
       "error": null
     },
     {
@@ -5065,11 +5068,11 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjJec0wv1EUomjrBNt1xCTA",
       "channel_id": "UCjJec0wv1EUomjrBNt1xCTA",
       "ok": true,
-      "count": 30,
-      "http": "404,200",
-      "checked": "2026-11-15T00:24:04.347373-06:00",
+      "count": 15,
+      "http": 200,
+      "checked": "2026-11-15T08:11:32.954427-06:00",
       "error": null,
-      "method": "youtube-channel-page"
+      "method": "youtube-atom"
     },
     {
       "id": "pbd-podcast",
@@ -5077,11 +5080,11 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGX7nGXpz-CmO_Arg-cgJ7A",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "ok": true,
-      "count": 30,
-      "http": "404,200",
-      "checked": "2026-11-15T00:24:10.277118-06:00",
+      "count": 15,
+      "http": 200,
+      "checked": "2026-11-15T08:11:33.050471-06:00",
       "error": null,
-      "method": "youtube-channel-page"
+      "method": "youtube-atom"
     }
   ],
   "sources": [
