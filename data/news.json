@@ -1,8 +1,105 @@
 {
-  "updated": "2026-11-14T14:20:22.497831-06:00",
+  "updated": "2026-11-14T18:02:32.355841-06:00",
   "timezone": "America/Chicago",
   "item_count": 300,
   "items": [
+    {
+      "id": "fox-business:https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time",
+      "title": "SpaceX makes history as Starship spacecraft caught by launch tower for first time",
+      "summary": "SpaceX achieved a historic first Saturday as its Mechazilla launch tower caught a returning Starship spacecraft after 22 hours in space, advancing its reusable rocket ambitions.",
+      "url": "https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business",
+        "tech"
+      ],
+      "published": "2026-11-14T18:46:56-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/spacex-landing.gif",
+      "kind": "article",
+      "feed_id": "fox-business-technology"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/kathy-irelands-husband-escapes-burning-boat-after-engine-explodes-20-miles-offshore",
+      "title": "Kathy Ireland’s husband escapes burning boat after engine explodes 20 miles offshore",
+      "summary": "Kathy Ireland shared dramatic footage of husband Greg Olsen's boat engulfed in flames after an engine explosion 20 miles west of Santa Barbara.",
+      "url": "https://www.foxnews.com/entertainment/kathy-irelands-husband-escapes-burning-boat-after-engine-explodes-20-miles-offshore",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T18:00:19-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kathy-ireland-gold.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/kai-trump-opens-relationship-tiger-woods-mothers-boyfriend-love-him-so-much",
+      "title": "Kai Trump opens up about relationship with Tiger Woods, her mother's boyfriend: 'I love him so much'",
+      "summary": "Kai Trump revealed how Tiger Woods helps with her golf game, calling her mother Vanessa Trump's boyfriend \"the best\" in a Golfweek interview.",
+      "url": "https://www.foxnews.com/outkick-sports/kai-trump-opens-relationship-tiger-woods-mothers-boyfriend-love-him-so-much",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T17:50:07-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/tiger-kai.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/media/fetterman-warns-no-longer-common-ground-far-left-democrats-israel",
+      "title": "Fetterman warns there is no longer 'common ground' with far-left Democrats over Israel",
+      "summary": "Sen. John Fetterman says he no longer sees any common ground with the far left on Israel and calls his 2028 primary challenger Ahmed Moor \"pro-Hamas.\"",
+      "url": "https://www.foxnews.com/media/fetterman-warns-no-longer-common-ground-far-left-democrats-israel",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T17:26:31-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/fetterman-senate-fox-news.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/iowa-state-running-back-massive-3-td-opening-quarter-caps-michael-jackson-impression",
+      "title": "Iowa State running back has massive 3 TD opening quarter, caps it off with Michael Jackson impression",
+      "summary": "Aiden Flora scored three first-quarter touchdowns and rushed for 216 yards as Iowa State routed the Cincinnati Bearcats 41-13 at Jack Trice Stadium.",
+      "url": "https://www.foxnews.com/outkick-sports/iowa-state-running-back-massive-3-td-opening-quarter-caps-michael-jackson-impression",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T17:22:37-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/aiden-flora-mj.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-business:https://www.foxbusiness.com/politics/mamdani-thanks-trump-helping-small-businesses-nyc-nationwide-president-delivered-relief",
+      "title": "Mamdani thanks Trump for helping small businesses in NYC, nationwide: 'President has delivered relief'",
+      "summary": "New York City Mayor Zohran Mamdani announced President Donald Trump agreed to a 90-day extension for SNAP-accepting bodegas and grocery stores facing new USDA stocking rules.",
+      "url": "https://www.foxbusiness.com/politics/mamdani-thanks-trump-helping-small-businesses-nyc-nationwide-president-delivered-relief",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-14T17:17:29-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/mayor-mamdani-bodegas-new-york3.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-latest"
+    },
     {
       "id": "yt:Sti7OBB6KBQ",
       "title": "Could Iran Use the SAME Espionage Tactics",
@@ -19,6 +116,263 @@
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "Sti7OBB6KBQ"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/trump-takes-parting-shot-dc-golf-course-conditions-one-day-before-major-overhaul-begins",
+      "title": "Trump takes parting shot at DC golf course conditions one day before major overhaul begins",
+      "summary": "Trump shared photos of what he calls \"Trash Island\" on Truth Social, blasting U.S. District Judge Ana Reyes for slowing the East Potomac overhaul.",
+      "url": "https://www.foxnews.com/outkick-sports/trump-takes-parting-shot-dc-golf-course-conditions-one-day-before-major-overhaul-begins",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T16:55:15-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-course-split.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/tom-arnold-ready-date-again-nine-years-single-despite-thinking-age-disgusting",
+      "title": "Tom Arnold admits he hasn’t dated in nearly 10 years after calling people his age ‘disgusting’",
+      "summary": "Tom Arnold reveals he hasn't dated in nearly ten years but says his \"My Crazy X-Wife\" comedy tour changed his outlook on finding love.",
+      "url": "https://www.foxnews.com/entertainment/tom-arnold-ready-date-again-nine-years-single-despite-thinking-age-disgusting",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T16:43:02-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tom-arnold.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/ohio-state-jeremiah-smith-becomes-big-ten-all-time-leading-receiver-third-college-season",
+      "title": "Ohio State's Jeremiah Smith becomes Big Ten's all-time leading receiver in just his third college season",
+      "summary": "Jeremiah Smith broke the Big Ten all-time receiving yards record in just three college seasons at Ohio State, surpassing Purdue's John Standeford.",
+      "url": "https://www.foxnews.com/outkick-sports/ohio-state-jeremiah-smith-becomes-big-ten-all-time-leading-receiver-third-college-season",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T16:30:06-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jeremiah-smith-ohio-state-northwestern-fox-news_.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/media/maher-challenges-sarah-huckabee-sanders-socialism-arkansas-governor-defends-free-school-breakfasts",
+      "title": "Maher challenges Sarah Huckabee Sanders on 'socialism' as Arkansas governor defends free school breakfasts",
+      "summary": "Arkansas Gov. Sarah Huckabee Sanders pushed back after Bill Maher asked why free school breakfasts count as socialism only when Democrats offer them.",
+      "url": "https://www.foxnews.com/media/maher-challenges-sarah-huckabee-sanders-socialism-arkansas-governor-defends-free-school-breakfasts",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T16:17:47-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/bill-maher-sarah-huckabee-sanders-split.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/100-people-pulled-mississippi-river-new-orleans-ship-crash-salvage-effort",
+      "title": "At least 100 people pulled from Mississippi River after New Orleans ship crash as lengthy salvage effort looms",
+      "summary": "Officials say roughly 100 people were pulled from the Mississippi River after the Atlantic Asphalt tanker struck the docked American Heritage cruise ship in New Orleans on Friday.",
+      "url": "https://www.foxnews.com/us/100-people-pulled-mississippi-river-new-orleans-ship-crash-salvage-effort",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "us"
+      ],
+      "published": "2026-11-14T16:13:55-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/riverboat-american-heritage-capsized-mississippi-river.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/pat-mcafee-kirk-herbstreit-apologize-picking-smu-over-wake-forest-college-gameday",
+      "title": "Pat McAfee and Kirk Herbstreit apologize for picking SMU over Wake Forest on College GameDay",
+      "summary": "Pat McAfee and Kirk Herbstreit posted a humbling apology video after picking the SMU Mustangs, who found themselves trailing Wake Forrest 42-0 at halftime.",
+      "url": "https://www.foxnews.com/outkick-sports/pat-mcafee-kirk-herbstreit-apologize-picking-smu-over-wake-forest-college-gameday",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T16:13:08-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kirk-herbstreit-fiesta-bowl-semifinal.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/food-drink/5-restaurant-chains-serving-best-bbq-brisket-america-new-york-oklahoma",
+      "title": "5 restaurant chains serving some of the best BBQ brisket in America, from New York to Oklahoma",
+      "summary": "From Mission BBQ to Dinosaur Bar-B-Que, these top barbecue chains serve up tender, slow-smoked beef brisket worth traveling for across America. Check out the list of winners.",
+      "url": "https://www.foxnews.com/food-drink/5-restaurant-chains-serving-best-bbq-brisket-america-new-york-oklahoma",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T16:03:49-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/people-eating-barbecue-at-restaurant.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/dallas-star-patrick-duffy-says-mother-killed-rushing-husband-gunmen-opened-fire-bar",
+      "title": "'Dallas’ star Patrick Duffy says mother was killed rushing to husband after gunmen opened fire at bar",
+      "summary": "Patrick Duffy described how his father took a step toward the returning gunmen before they opened fire, killing both parents in their Montana bar.",
+      "url": "https://www.foxnews.com/entertainment/dallas-star-patrick-duffy-says-mother-killed-rushing-husband-gunmen-opened-fire-bar",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T16:00:27-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Patrick-Duffy-Dallas.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/minnesota-wild-brock-faber-season-debut-seven-weeks-skull-fracture",
+      "title": "Minnesota Wild's Brock Faber to make season debut just seven weeks after suffering skull fracture",
+      "summary": "Brock Faber is set for his season debut with the Minnesota Wild just seven weeks after undergoing surgery for a skull fracture in the preseason.",
+      "url": "https://www.foxnews.com/outkick-sports/minnesota-wild-brock-faber-season-debut-seven-weeks-skull-fracture",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T15:57:45-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/brock-faber-handshake.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/democrats-push-back-across-nation-after-voters-approve-girls-sports-protections",
+      "title": "Democrats push back across the nation after voters approve girls' sports protections",
+      "summary": "Proposition 318 and similar transgender school sports bans passed in four states, but Democratic leaders in Washington and Colorado push back.",
+      "url": "https://www.foxnews.com/outkick-sports/democrats-push-back-across-nation-after-voters-approve-girls-sports-protections",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T15:55:11-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/1200/675/scotus-trans-sports.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/bruce-buffer-recalls-wildest-ufc-brawls-octagon-strong-words-banned-dillon-danis",
+      "title": "Bruce Buffer recalls wildest UFC brawls in and out of octagon, has strong words for banned Dillon Danis",
+      "summary": "Bruce Buffer recalls the Khabib Nurmagomedov and Conor McGregor cage brawl and shares his take on the Merab Dvalishvili hotel ambush in Abu Dhabi.",
+      "url": "https://www.foxnews.com/outkick-sports/bruce-buffer-recalls-wildest-ufc-brawls-octagon-strong-words-banned-dillon-danis",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T15:43:51-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/bruce-buffer-ufc-327-miami-fox-news-001.jpeg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/kim-kardashian-poses-barely-there-knit-beach-dress-fans-calling-most-beautiful-woman",
+      "title": "Kim Kardashian poses in barely-there knit beach dress with fans calling her 'the most beautiful woman'",
+      "summary": "Photos show Kim Kardashian posing in a barely-there green beach dress on Instagram as fans flooded the comments section with praise for the look.",
+      "url": "https://www.foxnews.com/entertainment/kim-kardashian-poses-barely-there-knit-beach-dress-fans-calling-most-beautiful-woman",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T15:38:53-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/kim-kardashian-alls-fair.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/boise-state-head-coach-provides-refreshing-faith-filled-college-gameday-interview",
+      "title": "Boise State head coach provides a refreshing, faith-filled College GameDay interview",
+      "summary": "Spencer Danielson's faith-focused responses on ESPN College GameDay in Boise Idaho ignited the crowd and drew massive praise from fans online.",
+      "url": "https://www.foxnews.com/outkick-sports/boise-state-head-coach-provides-refreshing-faith-filled-college-gameday-interview",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T15:35:03-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/spencer-danielson-boise-state-touchdown-celebration_001-scaled.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/kentucky-coach-mark-pope-tone-deaf-answer-wildcats-nearly-lose-30-point-favorites",
+      "title": "Kentucky coach Mark Pope gives insanely tone-deaf answer after Wildcats nearly lose as 30-point favorites",
+      "summary": "Mark Pope told Rupp Arena fans he hopes they \"had fun\" after Kentucky needed a near-miracle to escape Northern Arizona 78-77 as 30-point favorites.",
+      "url": "https://www.foxnews.com/outkick-sports/kentucky-coach-mark-pope-tone-deaf-answer-wildcats-nearly-lose-30-point-favorites",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T15:19:31-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/kentucky-wildcats-mark-pope.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/lifestyle/weatherman-umbrellas-meteorologist",
+      "title": "Built from Scratch: How a meteorologist built a better umbrella",
+      "summary": "Rick Reichmuth, after 19 years as a Fox meteorologist, turned his sights on creating the perfect umbrella. Now, Weatherman sells five categories of umbrellas, ponchos, hats and more.",
+      "url": "https://www.foxnews.com/lifestyle/weatherman-umbrellas-meteorologist",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T15:17:21-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/untitled-design-93.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/media/former-top-faa-official-warns-48-hour-recovery-aging-tech-overwhelmed-ground-stop",
+      "title": "Former top FAA official warns of 48-hour recovery after aging tech 'overwhelmed' ahead of ground stop",
+      "summary": "Pilots, a former FAA official and Transportation Secretary Sean Duffy explain the nationwide ground stop, detailing the telecom overload, 48-hour recovery and funding push.",
+      "url": "https://www.foxnews.com/media/former-top-faa-official-warns-48-hour-recovery-aging-tech-overwhelmed-ground-stop",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T15:09:00-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/sean-duffy-faa-fox-news.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
     },
     {
       "id": "fox-news:https://www.foxnews.com/media/deprogrammed-kind-offer-death-sent-couple-running-universal-health-care",
@@ -203,7 +557,7 @@
     {
       "id": "fox-news:https://www.foxnews.com/health/new-prostate-cancer-guidelines-urge-men-start-screening-specific-age",
       "title": "New prostate cancer guidelines urge men to start screening at specific age",
-      "summary": "American Cancer Society guidelines now recommend PSA blood tests every two years for men 50-69, with Black men urged to start annual screening at 45.",
+      "summary": "The American Cancer Society's new guidelines now recommend PSA blood tests every two years for men 50-69, with Black men urged to start annual screening at 45.",
       "url": "https://www.foxnews.com/health/new-prostate-cancer-guidelines-urge-men-start-screening-specific-age",
       "source": "Fox News",
       "source_id": "fox-news",
@@ -655,7 +1009,7 @@
     {
       "id": "fox-news:https://www.foxnews.com/politics/anti-trump-republican-courts-other-defectors-house-weighs-another-vote-against-iran-war",
       "title": "Anti-Trump Republican courts other defectors as House weighs another vote against Iran war",
-      "summary": "Thomas Massie says he's offering Republicans a \"life boat from MAGA\" as he pushes a new Iran War Powers resolution to the House floor soon..",
+      "summary": "Thomas Massie says he's offering Republicans a \"life boat from MAGA\" as he prepares to push a new Iran War Powers resolution to the House floor.",
       "url": "https://www.foxnews.com/politics/anti-trump-republican-courts-other-defectors-house-weighs-another-vote-against-iran-war",
       "source": "Fox News",
       "source_id": "fox-news",
@@ -688,8 +1042,8 @@
     },
     {
       "id": "fox-news:https://www.foxnews.com/politics/florida-republican-democrats-strategy-thats-choice-have-make-persecution-policy",
-      "title": "Florida Republican on Democrats' strategy: 'That's the choice they have to make...persecution or policy'",
-      "summary": "Controversial Florida congressman charges Democrats will choose to pursue persecution over policy, but also signals willingness to compromise, given the right conditions.",
+      "title": "Florida Republican on Democrats' strategy: 'That's the choice they have to make ... persecution or policy'",
+      "summary": "Controversial Florida congressman says Democrats will choose to pursue persecution over policy but also signals a willingness to compromise, given the right conditions.",
       "url": "https://www.foxnews.com/politics/florida-republican-democrats-strategy-thats-choice-have-make-persecution-policy",
       "source": "Fox News",
       "source_id": "fox-news",
@@ -886,7 +1240,7 @@
     {
       "id": "fox-news:https://www.foxnews.com/us/natalee-holloway-confessed-killer-caught-trying-extort-250k-grieving-mother-fbi-sting-video",
       "title": "Natalee Holloway's confessed killer caught trying to extort $250K from grieving mother in FBI sting video",
-      "summary": "Previously unseen FBI sting video captures Joran van der Sloot's attempt to extort Beth Holloway for information about her daughter Natalee Holloway.",
+      "summary": "Previously unseen FBI sting video captures Joran van der Sloot's attempt to extort Beth Holloway for information about her daughter, Natalee Holloway.",
       "url": "https://www.foxnews.com/us/natalee-holloway-confessed-killer-caught-trying-extort-250k-grieving-mother-fbi-sting-video",
       "source": "Fox News",
       "source_id": "fox-news",
@@ -918,8 +1272,8 @@
     },
     {
       "id": "fox-news:https://www.foxnews.com/politics/industry-drove-dc-lobbying-337-percent-trump-whats-driving-push",
-      "title": "One industry surged DC lobbying 337% under Trump — here’s what’s driving the push",
-      "summary": "Lobbying spending on tariff-related filings surged 337% in 2026, Advancing American Freedom found, as businesses scramble to navigate trade shifts.",
+      "title": "One industry increased DC lobbying 337% under Trump; here’s what’s driving the push",
+      "summary": "Lobbying spending on tariff-related filings surged 337% in 2026 as businesses scrambled to navigate trade shifts, Advancing American Freedom found.",
       "url": "https://www.foxnews.com/politics/industry-drove-dc-lobbying-337-percent-trump-whats-driving-push",
       "source": "Fox News",
       "source_id": "fox-news",
@@ -967,7 +1321,7 @@
     {
       "id": "fox-news:https://www.foxnews.com/politics/gop-newcomer-who-toppled-cory-mills-sets-sights-fraud-inflation-he-heads-capitol-hill",
       "title": "GOP newcomer who toppled Cory Mills sets sights on fraud, inflation as he heads to Capitol Hill",
-      "summary": "Rep.-elect Ryan Elijah, R-Fla., told Fox News Digital he wants to crack down on fraud and congressional insider trading.",
+      "summary": "Rep.-elect Ryan Elijah, R-Fla., told Fox News Digital he wants to crack down on fraud and congressional insider trading after his midterm victory.",
       "url": "https://www.foxnews.com/politics/gop-newcomer-who-toppled-cory-mills-sets-sights-fraud-inflation-he-heads-capitol-hill",
       "source": "Fox News",
       "source_id": "fox-news",
@@ -1403,8 +1757,8 @@
       ],
       "published": "2026-11-13T18:56:28+00:00",
       "published_precision": "minute",
-      "published_text": "7 hours ago",
-      "thumbnail": "https://i3.ytimg.com/vi/J-weHQRVmHw/hqdefault.jpg",
+      "published_text": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/J-weHQRVmHw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcLGc6DKhNCfbHoTSjoWUrkPz2OQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "J-weHQRVmHw",
@@ -3540,8 +3894,8 @@
       ],
       "published": "2026-11-12T00:00:00-06:00",
       "published_precision": "day",
-      "published_text": "1 day ago",
-      "thumbnail": "https://i.ytimg.com/vi/HpCaV_uw0Uc/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD_n2x3WDGcoUoFJegVVlnjEcDFKA",
+      "published_text": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/HpCaV_uw0Uc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAvTj-u5-v3bVmsSDcHDgUxhOsTzQ",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "HpCaV_uw0Uc",
@@ -4109,136 +4463,6 @@
       "feed_id": "fox-news-tech"
     },
     {
-      "id": "fox-business:https://www.foxbusiness.com/technology/amazon-ring-launches-flying-security-drones-patrol-robots-guard-homes-businesses",
-      "title": "Amazon's Ring launches flying security drones, patrol robots to guard homes, businesses",
-      "summary": "Ring expands beyond fixed cameras with a new flying indoor drone and autonomous business robot built to patrol, investigate and eliminate blind spots.",
-      "url": "https://www.foxbusiness.com/technology/amazon-ring-launches-flying-security-drones-patrol-robots-guard-homes-businesses",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-11-10T13:41:47-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/amazon-ring.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/riot-torn-france-struggles-chaos-home-macron-eyes-military-mission-thousands-miles-away",
-      "title": "Riot-torn France struggles with chaos at home as Macron eyes military mission thousands of miles away",
-      "summary": "French President Emmanuel Macron's Lebanon military force plan hits resistance from Italy as Marco Rubio floats a civilian alternative to UNIFIL.",
-      "url": "https://www.foxnews.com/world/riot-torn-france-struggles-chaos-home-macron-eyes-military-mission-thousands-miles-away",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-10T11:22:36-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/macron-military.jpeg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/college-basketball-catchup-syracuse-orange-uconn-huskies-dan-hurley",
-      "title": "College Basketball Catchup: Indiana-Syracuse, A 20-Rebound Game, Hurley Thoughts",
-      "summary": "A Syracuse freshman showed no fear in the paint, a freshman scoring record for Mizzou, a transfer showed off and more from Monday's college basketball action.",
-      "url": "https://www.foxnews.com/sports/college-basketball-catchup-syracuse-orange-uconn-huskies-dan-hurley",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-10T10:40:50-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/orangeh1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/anthropic-targets-valuation-around-1t-blockbuster-ai-ipo-below-initial-expectation",
-      "title": "Anthropic targets valuation around $1T in blockbuster AI IPO, below initial expectation",
-      "summary": "Anthropic's IPO targets up to $1.02 trillion, falling well short of the $1.5 trillion valuation previously discussed as Wall Street reassesses AI costs.",
-      "url": "https://www.foxbusiness.com/markets/anthropic-targets-valuation-around-1t-blockbuster-ai-ipo-below-initial-expectation",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-10T09:24:14-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/dario-amodei-anthropic-ceo.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/adobe-google-broaden-ai-partnership-across-creative-workplace-apps",
-      "title": "Adobe, Google broaden AI partnership across creative and workplace apps",
-      "summary": "Adobe Acrobat is coming to Google Drive and Gmail, while Google DeepMind's AI models will power new capabilities in Photoshop, Firefly and Premiere.",
-      "url": "https://www.foxbusiness.com/technology/adobe-google-broaden-ai-partnership-across-creative-workplace-apps",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-11-10T08:56:18-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/artificial-intelligence-workplace-people-skills-employees.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/cpi-inflation-october-2026",
-      "title": "Consumer inflation rises faster than expected in October, CPI report shows",
-      "summary": "The Labor Department released the latest consumer price index data for October, which showed CPI inflation rose 0.4% on a monthly basis.",
-      "url": "https://www.foxbusiness.com/economy/cpi-inflation-october-2026",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-10T08:36:12-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/grocery-shop-costco-va.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/ai-phishing-scams-turn-your-social-posts-against-you",
-      "title": "AI phishing scams turn your social posts against you",
-      "summary": "University of Texas at Arlington researchers reveal how AI analyzes public Instagram posts to craft spear phishing emails that feel personal.",
-      "url": "https://www.foxnews.com/tech/ai-phishing-scams-turn-your-social-posts-against-you",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-10T07:33:37-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/senior-woman-reading-phone-worried.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/aggressive-cancer-type-linked-common-chemical-exposure-new-study",
-      "title": "Aggressive cancer type linked to common chemical exposure in new study",
-      "summary": "A new NIH study links PFOA and PFOS forever chemicals to a 67% and 93% higher rate of ER-negative breast cancer, raising urgent questions. Experts weigh in.",
-      "url": "https://www.foxnews.com/health/aggressive-cancer-type-linked-common-chemical-exposure-new-study",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-10T07:00:00-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/woman-pouring-tap-water.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
       "id": "yt:u3VNZaqPqFI",
       "title": "Facebook Whistleblower Fears Zuckerberg More Than Musk | PBD Podcast #888",
       "summary": "",
@@ -4250,44 +4474,12 @@
       ],
       "published": "2026-11-10T00:00:00-06:00",
       "published_precision": "day",
-      "published_text": "3 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/u3VNZaqPqFI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD1Ognsjf5qiicdv34ZQWuddQ62jA",
+      "published_text": "4 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/u3VNZaqPqFI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAb2wsz60GwZXt17jqmepXWUIuIpQ",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "u3VNZaqPqFI",
       "published_date_text": "Nov 10, 2026"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/minnesotas-offense-comes-up-short-3-takeaways-from-bills-monday-night-win",
-      "title": "Minnesota's Offense Comes Up Short: 3 Takeaways From The Bills' Monday Night Win",
-      "summary": "The Minnesota Vikings couldn't keep up with the Buffalo Bills on offense. Here are takeaways from Monday night's game.",
-      "url": "https://www.foxnews.com/sports/minnesotas-offense-comes-up-short-3-takeaways-from-bills-monday-night-win",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-09T23:48:29-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/8de7f1cb-nfl-16x9-1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/2026-nfl-playoff-picture-bracket-schedule",
-      "title": "2026 NFL Playoff Picture, Bracket After Week 9",
-      "summary": "Here's what the NFL playoff picture looks like after Week 9 of the regular season.",
-      "url": "https://www.foxnews.com/sports/2026-nfl-playoff-picture-bracket-schedule",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-09T23:28:38-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/playoff-picture-16x9-nfl.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
     },
     {
       "id": "yt:y9fWZi6kRPo",
@@ -4305,199 +4497,6 @@
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "y9fWZi6kRPo"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/eagles-updated-draft-capital-following-jordan-davis-trade",
-      "title": "Eagles Updated Draft Capital Following The Jordan Davis Trade",
-      "summary": "Here is a breakdown of the Philadelphia Eagles' updated draft capital over the next three drafts following the Jordan Davis trade.",
-      "url": "https://www.foxnews.com/sports/eagles-updated-draft-capital-following-jordan-davis-trade",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-09T19:15:49-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/eagles.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/packers-josh-jacobs-finger-injury-update",
-      "title": "Packers RB Josh Jacobs Needs Surgery On Finger, Could Go On IR",
-      "summary": "Packers running back Josh Jacobs suffered a fractured ring finger and will need surgery following Sunday's win over the Patriots.",
-      "url": "https://www.foxnews.com/sports/packers-josh-jacobs-finger-injury-update",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-09T19:08:26-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/jsh.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/economy/nvidia-case-highlights-risks-alleged-honeypot-schemes-targeting-executives",
-      "title": "Nvidia case highlights risks of alleged 'honeypot' schemes targeting executives",
-      "summary": "Security experts warn \"honeypot\" schemes targeting executives like Nvidia's Jensen Huang can expose trade secrets, strategic plans and national security.",
-      "url": "https://www.foxbusiness.com/economy/nvidia-case-highlights-risks-alleged-honeypot-schemes-targeting-executives",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-09T16:18:58-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/jensen-huang-nvidia-ceo-g20.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/california-law-restrict-sales-muscle-building-supplements-minors",
-      "title": "New California law will restrict sales of some muscle-building supplements to minors",
-      "summary": "Gavin Newsom signed AB 2030 restricting diet pills and muscle building supplements for minors, but questions remain about creatine and protein products.",
-      "url": "https://www.foxnews.com/health/california-law-restrict-sales-muscle-building-supplements-minors",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-09T15:43:50-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/young-man-workout-supplement.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/new-ai-malware-ranks-victims-how-much-theyre-worth",
-      "title": "New AI malware ranks victims by how much they're worth",
-      "summary": "VOLTA-AUTODOXER malware uses AI to analyze stolen data and rank victims by potential value, helping criminals target the most profitable accounts.",
-      "url": "https://www.foxnews.com/tech/new-ai-malware-ranks-victims-how-much-theyre-worth",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-09T14:30:21-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/person-typing-on-computer-1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict",
-      "title": "Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict",
-      "summary": "Trump met Qatar's prime minister at the White House as Marco Rubio warns Iran negotiations are far from a breakthrough amid Strait of Hormuz chaos.",
-      "url": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-09T13:27:23-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/UAE-PORT.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/china-denies-spy-plot-targeting-nvidia-ceo-jensen-huang-calls-allegations-smear",
-      "title": "China denies spy plot targeting Nvidia CEO Jensen Huang, calls allegations ‘smear’",
-      "summary": "China calls the alleged spy operation targeting Nvidia CEO Jensen Huang a \"groundless\" smear as Beijing pushes back against U.S. intelligence claims.",
-      "url": "https://www.foxbusiness.com/technology/china-denies-spy-plot-targeting-nvidia-ceo-jensen-huang-calls-allegations-smear",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-11-09T12:15:07-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/nvidia-jensen-huang-ces-2026.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/men-women-smoke-marijuana-may-experience-different-effects-study-suggests",
-      "title": "Men and women who smoke marijuana may experience different effects, study suggests",
-      "summary": "UCLA researchers found occasional male cannabis users reported stronger effects like anxiety and elevated heart rate than women with similar THC levels.",
-      "url": "https://www.foxnews.com/health/men-women-smoke-marijuana-may-experience-different-effects-study-suggests",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-09T11:55:22-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/man-lighting-joint.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/new-big-rig-safety-tech-could-save-your-life",
-      "title": "New big rig safety tech could save your life",
-      "summary": "Daimler Truck's Oregon demos show how a Freightliner Cascadia's automatic emergency braking responds when dummy cars suddenly cross a moving truck's path.",
-      "url": "https://www.foxnews.com/tech/new-big-rig-safety-tech-could-save-your-life",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-09T10:48:02-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/florida-tractor-trailer-cab-child-neglect.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/nvidia-shares-fall-after-investigation-ceos-relationship-alleged-chinese-spy",
-      "title": "Nvidia shares fall after investigation into CEO's relationship with alleged Chinese spy",
-      "summary": "Nvidia's board launched an internal probe into CEO Jensen Huang's relationship with an alleged Chinese spy who reportedly passed info to Beijing.",
-      "url": "https://www.foxbusiness.com/markets/nvidia-shares-fall-after-investigation-ceos-relationship-alleged-chinese-spy",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-09T10:20:45-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/nvidia-jensen-huang-ces-2026.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/6-minute-daily-habit-help-ozempic-users-preserve-muscle-expert-says",
-      "title": "6-minute daily habit could help Ozempic users preserve muscle, expert says",
-      "summary": "Gary Brecka says just six minutes of daily resistance training can help protect lean body mass during Ozempic and Wegovy weight loss journeys.",
-      "url": "https://www.foxnews.com/health/6-minute-daily-habit-help-ozempic-users-preserve-muscle-expert-says",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-09T07:00:49-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/man-lifting-weights.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/poland-krakow-square-shooting-gunman-dies",
-      "title": "Gunman who killed 6 in Poland's Krakow square dies in hospital after police shootout",
-      "summary": "The Krakow shooter, 24, died Monday after police shot him during Saturday's mass shooting that killed six and wounded 15 in the historic square.",
-      "url": "https://www.foxnews.com/world/poland-krakow-square-shooting-gunman-dies",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-09T04:05:26-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/krakow-square.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
     },
     {
       "id": "yt:AziSuh_tMKE",
@@ -4528,8 +4527,8 @@
       ],
       "published": "2026-11-07T23:00:34+00:00",
       "published_precision": "minute",
-      "published_text": "6 days ago",
-      "thumbnail": "https://i1.ytimg.com/vi/L44gJxqEu88/hqdefault.jpg",
+      "published_text": "7 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/L44gJxqEu88/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDf6y_FEmHYr6hCfgRggC0JHqLk-w",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "L44gJxqEu88",
@@ -4615,8 +4614,8 @@
       ],
       "published": "2026-11-06T00:00:00-06:00",
       "published_precision": "day",
-      "published_text": "7 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/rP1Tr46xhx4/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAAD3HoSya_jYFySKuy1irCAcX-PQ",
+      "published_text": "8 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/rP1Tr46xhx4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDCI3b5YvBN4syQv98LBt5ddT4Wmg",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "rP1Tr46xhx4",
@@ -4634,8 +4633,8 @@
       ],
       "published": "2026-11-05T22:15:03+00:00",
       "published_precision": "minute",
-      "published_text": "8 days ago",
-      "thumbnail": "https://i1.ytimg.com/vi/T18mCvFkUUo/hqdefault.jpg",
+      "published_text": "9 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/T18mCvFkUUo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDUOwE4TT3sPmGrDqFC2eGYh0oQJA",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "T18mCvFkUUo",
@@ -4654,7 +4653,7 @@
       "published": "2026-10-29T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "2 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/NpjEK5BtjQ0/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLA2HhpRM4Z0q4usJYdPeBdK5RJwnQ",
+      "thumbnail": "https://i.ytimg.com/vi/NpjEK5BtjQ0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfJDKusmptNyY4fXEbjugnjLWqGA",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "NpjEK5BtjQ0",
@@ -4673,7 +4672,7 @@
       "published": "2026-10-27T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "2 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/ChrdIPZKfLI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDa645_ZsuO7Fv4lmWVNYMSs0Fndw",
+      "thumbnail": "https://i.ytimg.com/vi/ChrdIPZKfLI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAkG8lPJj7A9qxKHcqgzg7QrKiMlg",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "ChrdIPZKfLI",
@@ -4692,7 +4691,7 @@
       "published": "2026-10-22T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "3 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/9ja9bgGqlvI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLC2BRR2ooPwNNCmvP2Qqq1AhLpgwA",
+      "thumbnail": "https://i.ytimg.com/vi/9ja9bgGqlvI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDxmLYdSaZcve2DltxiZT5pttADnQ",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "9ja9bgGqlvI",
@@ -4711,30 +4710,29 @@
       "published": "2026-10-20T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "3 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/3UgyPEqnOBE/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD4-vAawtkP6uamN657Pv1ga0575A",
+      "thumbnail": "https://i.ytimg.com/vi/3UgyPEqnOBE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC0ohLYH64RTF_whymEe4ia7z9-LA",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "3UgyPEqnOBE",
       "published_date_text": "Oct 20, 2026"
     },
     {
-      "id": "yt:-ulnlWH7JqQ",
-      "title": "Delta Force Legend Reveals What War Really Does to a Man - John McPhee | PBD Podcast #873",
+      "id": "yt:7GLlKU1Jq7Q",
+      "title": "Logan Paul Reveals the $100 Million Mistake He Made With Prime | PBD Podcast #856",
       "summary": "",
-      "url": "https://www.youtube.com/watch?v=-ulnlWH7JqQ",
+      "url": "https://www.youtube.com/watch?v=7GLlKU1Jq7Q",
       "source": "PBD Podcast",
       "source_id": "pbd-podcast",
       "sections": [
         "video"
       ],
-      "published": "2026-10-15T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "4 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/-ulnlWH7JqQ/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBQpLtMKZYLYUVzLfupsTAS4tYHHw",
+      "published": "2026-10-15T18:02:32.354294-05:00",
+      "published_precision": "relative",
+      "published_text": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/7GLlKU1Jq7Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBf-UkE_m1LW5_OXn5znPF02o2s2w",
       "kind": "video",
       "feed_id": "pbd-podcast",
-      "video_id": "-ulnlWH7JqQ",
-      "published_date_text": "Oct 15, 2026"
+      "video_id": "7GLlKU1Jq7Q"
     },
     {
       "id": "yt:pyihDwVCc_M",
@@ -4749,7 +4747,7 @@
       "published": "2026-10-07T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/pyihDwVCc_M/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLC7J7S4JZGmLcWaW6xD2KUzDkAAsg",
+      "thumbnail": "https://i.ytimg.com/vi/pyihDwVCc_M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAEHNaWu3_2PnxLGfFoW-rFyEaO5w",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "pyihDwVCc_M",
@@ -4768,7 +4766,7 @@
       "published": "2026-10-06T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/AX-1zZ4WrEU/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAygWfdPmhniiCS-Z7E6q_YBRRGjg",
+      "thumbnail": "https://i.ytimg.com/vi/AX-1zZ4WrEU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCcVlGH_Ud41erh7efD-USMFfNdNg",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "AX-1zZ4WrEU",
@@ -4787,7 +4785,7 @@
       "published": "2026-08-31T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/EsXqKAALqOg/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLA37scdQ--SU0VH6Kch2yIiT7ZF-Q",
+      "thumbnail": "https://i.ytimg.com/vi/EsXqKAALqOg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBROOfbighAWilkIY2ww4S_mF7E0A",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "EsXqKAALqOg",
@@ -4806,7 +4804,7 @@
       "published": "2026-08-29T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/BH4X449Og-o/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAKMF0sL9vMccSIfg4NS2SYn5ibVQ",
+      "thumbnail": "https://i.ytimg.com/vi/BH4X449Og-o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjDP6787zMeNv02nM-o_Fm-qRj5g",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "BH4X449Og-o",
@@ -4825,7 +4823,7 @@
       "published": "2026-07-08T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "4 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/9Dfu9_z3574/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD4Pm20rUEszrkMoQwbqzSm8NeQPQ",
+      "thumbnail": "https://i.ytimg.com/vi/9Dfu9_z3574/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjFYhUykYFQ2nGgzDYWnNFNpJ9Nw",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "9Dfu9_z3574",
@@ -4844,7 +4842,7 @@
       "published": "2026-06-13T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "5 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/oZldWNKgRww/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDXB-SlxajTvyijympBmFm8it6kiA",
+      "thumbnail": "https://i.ytimg.com/vi/oZldWNKgRww/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD3PKMxcmIEDN3ErU2oiZtPh4B0KQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "oZldWNKgRww",
@@ -4863,7 +4861,7 @@
       "published": "2026-05-17T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "5 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/F4KyDSLLW2I/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBgnPwbifRJMGOIiMXwN1Su-LL4_Q",
+      "thumbnail": "https://i.ytimg.com/vi/F4KyDSLLW2I/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC8MzsBLXEPLuooWmO0O0eW1YGOTQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "F4KyDSLLW2I",
@@ -4882,7 +4880,7 @@
       "published": "2026-05-05T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "6 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/N_Fm6doDZu4/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDiOnMZCiDJZVxLn4fa_x-sHPcabA",
+      "thumbnail": "https://i.ytimg.com/vi/N_Fm6doDZu4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDgZkgORvTpR57PHIm6qhe-28cJmQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "N_Fm6doDZu4",
@@ -4901,29 +4899,30 @@
       "published": "2026-05-03T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "6 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/o8hE33ilMwk/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDYQfnq7hSyAj6SnppLKJjxoku6ig",
+      "thumbnail": "https://i.ytimg.com/vi/o8hE33ilMwk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAjQB1vGto-x0cKgdfiecDXGDuPqg",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "o8hE33ilMwk",
       "published_date_text": "May 3, 2026"
     },
     {
-      "id": "yt:wJlyO6gVPcA",
-      "title": "Trump Said WHAT About Reza Pahlavi?!",
+      "id": "yt:x3b2n1HkILM",
+      "title": "Mahyar Tousi On Fox News: How IRGC Tricked Tucker Carlson",
       "summary": "",
-      "url": "https://www.youtube.com/watch?v=wJlyO6gVPcA",
+      "url": "https://www.youtube.com/watch?v=x3b2n1HkILM",
       "source": "Tousi TV",
       "source_id": "tousi-tv",
       "sections": [
         "video"
       ],
-      "published": "2026-04-17T20:40:36.085621-05:00",
-      "published_precision": "relative",
+      "published": "2026-04-11T00:00:00-05:00",
+      "published_precision": "day",
       "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/wJlyO6gVPcA/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLB5r0jp8yL5P_lU14CyDmeJGAPHkw",
+      "thumbnail": "https://i.ytimg.com/vi/x3b2n1HkILM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCRddOm_yDAhS9ojyEauIPpeUZr7A",
       "kind": "video",
       "feed_id": "tousi-tv",
-      "video_id": "wJlyO6gVPcA"
+      "video_id": "x3b2n1HkILM",
+      "published_date_text": "Apr 11, 2026"
     }
   ],
   "status": [
@@ -4934,7 +4933,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:20.620285-06:00",
+      "checked": "2026-11-14T18:02:03.184586-06:00",
       "error": null
     },
     {
@@ -4944,7 +4943,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:20.733345-06:00",
+      "checked": "2026-11-14T18:02:03.391207-06:00",
       "error": null
     },
     {
@@ -4954,7 +4953,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:20.849300-06:00",
+      "checked": "2026-11-14T18:02:03.517743-06:00",
       "error": null
     },
     {
@@ -4964,7 +4963,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:20.913665-06:00",
+      "checked": "2026-11-14T18:02:03.627641-06:00",
       "error": null
     },
     {
@@ -4974,7 +4973,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:20.988337-06:00",
+      "checked": "2026-11-14T18:02:03.734856-06:00",
       "error": null
     },
     {
@@ -4984,7 +4983,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:21.078228-06:00",
+      "checked": "2026-11-14T18:02:03.839300-06:00",
       "error": null
     },
     {
@@ -4994,7 +4993,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:21.163463-06:00",
+      "checked": "2026-11-14T18:02:03.962106-06:00",
       "error": null
     },
     {
@@ -5004,7 +5003,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:21.264911-06:00",
+      "checked": "2026-11-14T18:02:04.069173-06:00",
       "error": null
     },
     {
@@ -5014,7 +5013,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:21.410131-06:00",
+      "checked": "2026-11-14T18:02:04.368928-06:00",
       "error": null
     },
     {
@@ -5024,7 +5023,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:21.495560-06:00",
+      "checked": "2026-11-14T18:02:04.583833-06:00",
       "error": null
     },
     {
@@ -5034,7 +5033,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:21.686192-06:00",
+      "checked": "2026-11-14T18:02:04.824300-06:00",
       "error": null
     },
     {
@@ -5044,7 +5043,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:21.764986-06:00",
+      "checked": "2026-11-14T18:02:04.949383-06:00",
       "error": null
     },
     {
@@ -5054,7 +5053,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T14:20:21.986325-06:00",
+      "checked": "2026-11-14T18:02:05.226947-06:00",
       "error": null
     },
     {
@@ -5063,11 +5062,11 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjJec0wv1EUomjrBNt1xCTA",
       "channel_id": "UCjJec0wv1EUomjrBNt1xCTA",
       "ok": true,
-      "count": 15,
-      "http": 200,
-      "checked": "2026-11-14T14:20:22.189164-06:00",
+      "count": 30,
+      "http": "404,200",
+      "checked": "2026-11-14T18:02:05.398513-06:00",
       "error": null,
-      "method": "youtube-atom"
+      "method": "youtube-channel-page"
     },
     {
       "id": "pbd-podcast",
@@ -5075,11 +5074,11 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGX7nGXpz-CmO_Arg-cgJ7A",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "ok": true,
-      "count": 15,
-      "http": 200,
-      "checked": "2026-11-14T14:20:22.420527-06:00",
+      "count": 30,
+      "http": "404,200",
+      "checked": "2026-11-14T18:02:19.083088-06:00",
       "error": null,
-      "method": "youtube-atom"
+      "method": "youtube-channel-page"
     }
   ],
   "sources": [
