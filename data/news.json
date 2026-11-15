@@ -1,8 +1,106 @@
 {
-  "updated": "2026-11-15T08:11:33.070572-06:00",
+  "updated": "2026-11-15T13:46:49.083256-06:00",
   "timezone": "America/Chicago",
   "item_count": 300,
   "items": [
+    {
+      "id": "yt:Eaf2MMYyGts",
+      "title": "Nvidia's Scandal BURIED the Midterms",
+      "summary": "The discussion examines how competing headlines shape public attention, whether media coverage affects political accountability and why a change in the news cycle does not erase election results.",
+      "url": "https://www.youtube.com/watch?v=Eaf2MMYyGts",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-15T19:00:09+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i2.ytimg.com/vi/Eaf2MMYyGts/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "Eaf2MMYyGts"
+    },
+    {
+      "id": "yt:kaCMZ6wn3q4",
+      "title": "Nvidia's Next CEO Could Be a Unknown Person",
+      "summary": "Nvidia's succession debate highlights the difference between public recognition and operational expertise, especially when replacing a founder who shaped the company's technology and culture.",
+      "url": "https://www.youtube.com/watch?v=kaCMZ6wn3q4",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-15T16:00:17+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i4.ytimg.com/vi/kaCMZ6wn3q4/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "kaCMZ6wn3q4"
+    },
+    {
+      "id": "fox-business:https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo",
+      "title": "Bessent calls for Nvidia leadership shake-up amid China chip scandal, urges outside CEO",
+      "summary": "Following the resignation of Nvidia founder and CEO Jensen Huang, Secretary of the Treasury Scott Bessent urged the company to choose an outsidse candidate as his replacement.",
+      "url": "https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-15T14:25:00-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-at-wef.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/wwe-brie-bella-recalls-paiges-surprise-return-wrestlemania-42-magical-moment",
+      "title": "WWE's Brie Bella recalls Paige's surprise return at WrestleMania 42: 'Magical moment'",
+      "summary": "Brie Bella recalls the \"magical moment\" when Paige replaced injured Nikki Bella at WrestleMania 42 to capture the WWE Women's Tag Team titles.",
+      "url": "https://www.foxnews.com/outkick-sports/wwe-brie-bella-recalls-paiges-surprise-return-wrestlemania-42-magical-moment",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T14:16:04-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/paige-brie-bella-wrestlemania-42.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/taylor-swift-husband-travis-kelce-injures-ankle-falcons-questionable-return",
+      "title": "Taylor Swift’s husband Travis Kelce injures ankle against Falcons, returns to game",
+      "summary": "Travis Kelce limped off with a left ankle injury after a 23-yard catch from Patrick Mahomes as the Chiefs listed him questionable against the Falcons.",
+      "url": "https://www.foxnews.com/outkick-sports/taylor-swift-husband-travis-kelce-injures-ankle-falcons-questionable-return",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T14:14:29-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/travis-kelce-kansas-city-chiefs-injury.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/media/bessent-blasts-wall-street-journal-editor-in-chief-reckless-journalism-iran-threats-force-move",
+      "title": "Bessent blasts newspaper editor over 'reckless journalism' after Iran threats force move to military base",
+      "summary": "Scott Bessent accuses a newspaper editor of \"reckless journalism\" after publishing a geolocated photo of his D.C. home, forcing a military base move.",
+      "url": "https://www.foxnews.com/media/bessent-blasts-wall-street-journal-editor-in-chief-reckless-journalism-iran-threats-force-move",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T14:05:31-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Scott-Bessent-at-China-Relations-Gala.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
     {
       "id": "yt:9f6k2uv7-Hs",
       "title": "Would You Kiss Leonardo DiCaprio for $6.2 MILLION",
@@ -19,6 +117,380 @@
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "9f6k2uv7-Hs"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/duffy-investigators-examining-2-routers-nationwide-faa-ground-stop-no-signs-foreign-cyberattack",
+      "title": "Duffy: Investigators examining 2 routers after nationwide FAA ground stop, no signs of foreign cyberattack",
+      "summary": "Transportation Secretary Sean Duffy says two routers from FAA facilities in Texas and Arkansas are undergoing deep diagnostics after the ground stop.",
+      "url": "https://www.foxnews.com/us/duffy-investigators-examining-2-routers-nationwide-faa-ground-stop-no-signs-foreign-cyberattack",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "us"
+      ],
+      "published": "2026-11-15T13:20:11-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/sean-duffy-bryan-bedford-transportation-presser.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/wyatt-hammond-makes-kayak-fishing-history-third-straight-national-title-kbf-record",
+      "title": "Wyatt Hammond makes kayak fishing history with third straight national title and KBF record",
+      "summary": "Wyatt Hammond set a new KBF record with 310 combined inches across three days while claiming his fourth national title and Angler of the Year.",
+      "url": "https://www.foxnews.com/outkick-sports/wyatt-hammond-makes-kayak-fishing-history-third-straight-national-title-kbf-record",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T13:17:58-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/wyatt-hammond-kayak-fishing.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/chiefs-chris-jones-explains-why-opinions-are-like-buttholes-national-television",
+      "title": "Chiefs' Chris Jones explains why opinions 'are like buttholes' on national television",
+      "summary": "Chris Jones delivered a colorful on-air response to Kansas City Chiefs critics on CBS as the team battles Denver for the AFC West this NFL season.",
+      "url": "https://www.foxnews.com/outkick-sports/chiefs-chris-jones-explains-why-opinions-are-like-buttholes-national-television",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T13:06:45-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/chris-jones-chiefs-1-080125.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/food-drink/classic-american-pantry-staples-getting-major-protein-fiber-packed-makeover",
+      "title": "Classic American pantry staples are getting a major protein- and fiber-packed makeover",
+      "summary": "Kraft Heinz CEO Steve Cahillane says brands were underinvested for over a decade as the company unveils protein Jell-O and cheesy ramen cups.",
+      "url": "https://www.foxnews.com/food-drink/classic-american-pantry-staples-getting-major-protein-fiber-packed-makeover",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T12:59:58-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kraft-heinz-mac-and-cheese.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/former-nhl-player-monster-catch-inspires-missouri-woman-reel-1200-pound-sturgeon",
+      "title": "Former NHL player's monster catch inspires Missouri woman to reel in 1,200-pound sturgeon",
+      "summary": "Katharine Eckert's 11-foot, 4-inch white sturgeon from the Fraser River may be the largest freshwater fish ever caught by a woman, her guide says.",
+      "url": "https://www.foxnews.com/outkick-sports/former-nhl-player-monster-catch-inspires-missouri-woman-reel-1200-pound-sturgeon",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T12:39:10-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lake-sturgeon-scaled.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/tcus-most-famous-cheerleader-sideline-landman-filmed-during-horned-frogs-win",
+      "title": "TCU's most famous cheerleader on the sideline as 'Landman' filmed during Horned Frogs win",
+      "summary": "Michelle Randolph and Ali Larter filmed \"Landman\" season three scenes on the TCU sideline during the Horned Frogs' 20-10 win over Kansas State.",
+      "url": "https://www.foxnews.com/outkick-sports/tcus-most-famous-cheerleader-sideline-landman-filmed-during-horned-frogs-win",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T12:36:37-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/michelle-randolph-ainsley-randolph-tcu-cheerleader-landman.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/arch-manning-delivers-ice-cold-quote-texas-closes-door-lsu-college-football-playoff-dreams",
+      "title": "Arch Manning delivers ice-cold quote after Texas closes door on LSU's College Football Playoff dreams",
+      "summary": "Arch Manning threw three interceptions but delivered a game-winning TD to Raleek Brown, and his postgame comments sent a pointed message to LSU fans.",
+      "url": "https://www.foxnews.com/outkick-sports/arch-manning-delivers-ice-cold-quote-texas-closes-door-lsu-college-football-playoff-dreams",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T12:17:33-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arch-manning-touchdown-texas-lsu_001.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/tech/ai-mosquito-trap-targets-deadly-dengue-outbreak",
+      "title": "AI mosquito trap targets deadly dengue outbreak",
+      "summary": "USF researchers built an AI mosquito trap with over 98% accuracy as Florida battles its largest dengue outbreak in decades with 524 local cases.",
+      "url": "https://www.foxnews.com/tech/ai-mosquito-trap-targets-deadly-dengue-outbreak",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "tech"
+      ],
+      "published": "2026-11-15T11:46:51-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ai-mosquito-trap-bug.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-tech"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/buttigieg-takes-swipe-trump-administration-amid-faa-flight-chaos",
+      "title": "Buttigieg takes swipe at Trump administration amid FAA flight chaos",
+      "summary": "Former Transportation Secretary Pete Buttigieg joked he'd help travelers rebook flights at a hotel bar after the FAA's nationwide ground stop Friday.",
+      "url": "https://www.foxnews.com/politics/buttigieg-takes-swipe-trump-administration-amid-faa-flight-chaos",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-15T11:28:15-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/pete-buttigieg-politics-democrats-fox-news.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/travel/cruise-passengers-sharply-divided-cutting-buffet-lines-sneak-bites",
+      "title": "Cruise passengers sharply divided over cutting buffet lines to sneak quick bites",
+      "summary": "Etiquette expert Diane Gottsman of Texas reveals why grabbing just one item while on a cruise ship buffet line still counts as cutting — and when rare exceptions apply.",
+      "url": "https://www.foxnews.com/travel/cruise-passengers-sharply-divided-cutting-buffet-lines-sneak-bites",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T11:15:21-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/buffets-explore-in-popularity-health-money-reasons-food-drink-2.gif",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/general-hospital-star-cameron-mathison-red-flags-drove-him-demand-answers-cancer-diagnosis",
+      "title": "'General Hospital' star Cameron Mathison says ‘red flags’ drove him to demand answers before cancer diagnosis",
+      "summary": "Cameron Mathison opens up to Fox News Digital about kidney cancer, divorce, wildfire loss and how those struggles led him to \"A Very Arctic Christmas\" with Jill Wagner.",
+      "url": "https://www.foxnews.com/entertainment/general-hospital-star-cameron-mathison-red-flags-drove-him-demand-answers-cancer-diagnosis",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T11:00:36-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/cameron-mathison-thumbnail.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/opinion/americas-first-muslim-senator-exposes-political-blind-spot",
+      "title": "America's first Muslim senator exposes a political blind spot",
+      "summary": "Abdul El-Sayed's election as the first Muslim senator-elect puts Islamism, the Muslim Brotherhood and antisemitism at the heart of a national debate.",
+      "url": "https://www.foxnews.com/opinion/americas-first-muslim-senator-exposes-political-blind-spot",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T10:55:53-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/abdul-el-sayed-michigan-democratic-convention-fox-news_.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/nyc-dsa-urges-aoc-run-president-planning-take-over-city-council",
+      "title": "NYC DSA urges AOC to run for president while planning to take over City Council",
+      "summary": "NYC's Democratic Socialists of America voted to urge AOC to run for president in 2028, but some resolutions sparked an AI-generated controversy.",
+      "url": "https://www.foxnews.com/politics/nyc-dsa-urges-aoc-run-president-planning-take-over-city-council",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-15T10:55:47-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/socialists-democratic-party-zohran-mamdani.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/rex-ryan-returns-espn-nfl-analysis-week-arrested-hit-and-run-driving-incident",
+      "title": "Rex Ryan returns to ESPN for NFL analysis same week he was arrested in hit-and-run driving incident",
+      "summary": "Rex Ryan appeared on ESPN's \"NFL Countdown\" without addressing his Nashville arrest on six misdemeanor charges stemming from an alleged hit and run.",
+      "url": "https://www.foxnews.com/outkick-sports/rex-ryan-returns-espn-nfl-analysis-week-arrested-hit-and-run-driving-incident",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T10:51:53-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/rex-ryan-bills.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/tech/fake-ai-event-invites-target-microsoft-google-logins",
+      "title": "Fake AI event invites target Microsoft and Google logins",
+      "summary": "Fake OpenAI event pages promise free ChatGPT Pro subscriptions, then trick employees into handing over Microsoft and Google account credentials.",
+      "url": "https://www.foxnews.com/tech/fake-ai-event-invites-target-microsoft-google-logins",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "tech"
+      ],
+      "published": "2026-11-15T10:51:15-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tech-giants-anti-scam-accord-1.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-tech"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/dana-white-confused-ufc-reporter-long-winded-question-what-did-you-just-ask-me",
+      "title": "Dana White confused after UFC reporter's long-winded question: 'What the f— did you just ask me?'",
+      "summary": "Dana White's stunned reaction to a rambling question stole the UFC 334 post-fight presser as Ciryl Gane and Kayla Harrison defended their titles.",
+      "url": "https://www.foxnews.com/outkick-sports/dana-white-confused-ufc-reporter-long-winded-question-what-did-you-just-ask-me",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T10:40:43-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dana-white-ufc-press-conference-madison-square-garden.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/lions-star-knee-buckles-celebrating-sack-patriots-drake-maye-both-injured-same-play",
+      "title": "Lions star’s knee buckles celebrating sack of Patriots’ Drake Maye as both injured on same play",
+      "summary": "Aidan Hutchinson injured his right knee during a sack celebration at Munich's Allianz Arena on the same play that Drake Maye hurt his ankle.",
+      "url": "https://www.foxnews.com/outkick-sports/lions-star-knee-buckles-celebrating-sack-patriots-drake-maye-both-injured-same-play",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T10:24:35-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/aidan-hutchinson-injury-sack-celebration.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/golf-influencer-claire-hogle-bunker-caroline-wozniacki-ladies-night-mcconaughey-manning-beat-lsu",
+      "title": "Golf influencer Claire Hogle from the bunker, Caroline Wozniacki's ladies night & McConaughey-Manning beat LSU",
+      "summary": "Paige Spiranac calls Claire Hogle a \"beautiful golf fairy\" after her bunker content, while Bigfoot sighting emails flood the inbox from readers.",
+      "url": "https://www.foxnews.com/outkick-sports/golf-influencer-claire-hogle-bunker-caroline-wozniacki-ladies-night-mcconaughey-manning-beat-lsu",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T10:02:17-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/golf-influencer-claire-hogle-tinker-bell.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/congress-incoming-wealthiest-member-vows-crack-down-politicians-getting-rich-office",
+      "title": "Congress' incoming wealthiest member vows to crack down on politicians getting rich in office",
+      "summary": "Joe Strada said he plans to crack down on congressional insider trading and politicians enriching themselves, drawing on his rise from bowling alley mechanic.",
+      "url": "https://www.foxnews.com/politics/congress-incoming-wealthiest-member-vows-crack-down-politicians-getting-rich-office",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-15T10:00:17-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/us-capitol-building-2026.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/travel/loch-ness-monster-sightings-jump-2026-scientist-drills-legendary-mystery",
+      "title": "Loch Ness Monster sightings jump in 2026 as scientist drills into legendary mystery",
+      "summary": "Even though Loch Ness Monster sightings have more than doubled in 2026, a University of St Andrews researcher explains that the spike is \"nothing special\" in his view.",
+      "url": "https://www.foxnews.com/travel/loch-ness-monster-sightings-jump-2026-scientist-drills-legendary-mystery",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T10:00:00-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/SCOTLAND-LOCH-NESS-MONSTER-SIGHTINGS-ODD-NEWS-TRAVEL-1.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/opinion/david-marcus-big-techs-weekend-hell-means-future-data-centers",
+      "title": "DAVID MARCUS: What big tech’s weekend from hell means for the future of data centers",
+      "summary": "Microsoft Outlook's Thursday shutdown and the FAA's Friday flight grounding highlight why data center advocates say this infrastructure is essential.",
+      "url": "https://www.foxnews.com/opinion/david-marcus-big-techs-weekend-hell-means-future-data-centers",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T09:56:47-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/data-centers-trump.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/lsu-mascot-mike-tiger-goes-after-texas-player-longhorns-stun-tigers-death-valley",
+      "title": "LSU mascot Mike the Tiger goes after Texas player after Longhorns stun Tigers in Death Valley",
+      "summary": "The clip shows Mike the Tiger charging at Texas wide receiver Chris Stewart after the taunting freshman celebrated in LSU's end zone postgame.",
+      "url": "https://www.foxnews.com/outkick-sports/lsu-mascot-mike-tiger-goes-after-texas-player-longhorns-stun-tigers-death-valley",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T09:38:49-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lsu-mike-the-tiger-featured.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/virginia-parents-charged-house-party-hundreds-teens-fireworks-alleged-underage-drinking",
+      "title": "Virginia parents charged after house party draws hundreds of teens, fireworks and alleged underage drinking",
+      "summary": "Fairfax County police charged Lisa and Aubrey Vaughan after their 13-year-old sons' small backyard party spiraled into a massive gathering with fireworks and crowds.",
+      "url": "https://www.foxnews.com/us/virginia-parents-charged-house-party-hundreds-teens-fireworks-alleged-underage-drinking",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "us"
+      ],
+      "published": "2026-11-15T09:01:57-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lisa-aubrey-vaughan-home-bodycam.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
     },
     {
       "id": "fox-news:https://www.foxnews.com/world/putins-war-machine-tied-troubling-recruitment-young-women-new-deals-emerge",
@@ -45,13 +517,14 @@
       "source": "Fox News",
       "source_id": "fox-news",
       "sections": [
-        "latest"
+        "latest",
+        "us"
       ],
       "published": "2026-11-15T09:00:44-05:00",
       "published_precision": "minute",
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/courtney-clenney-plea-deal-1.jpg?ve=1&tl=1",
       "kind": "article",
-      "feed_id": "fox-news-latest"
+      "feed_id": "fox-news-us"
     },
     {
       "id": "fox-news:https://www.foxnews.com/entertainment/johnny-depp-fled-hollywood-spotlight-quiet-bahamas-life-nobody-pointing-camera",
@@ -1366,7 +1839,7 @@
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage",
-      "title": "Who is L3Harris, the federal contractor Sec. Duffy says may have caused the FAA outage?",
+      "title": "Who is L3Harris, the federal contractor Sec Duffy says may have caused the FAA outage?",
       "summary": "Sec. Sean Duffy says L3Harris may be to blame after routine fiber optic work on an FAA telecom line triggered a router failure and nationwide ground stop.",
       "url": "https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage",
       "source": "Fox Business",
@@ -3773,22 +4246,6 @@
       "feed_id": "fox-news-politics"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/us/michael-ruiz-jonbenet-ramsey-investigators-retesting-evidence-newer-technology-police-chief-says",
-      "title": "MICHAEL RUIZ: JonBenet Ramsey investigators are retesting evidence with newer technology, police chief says",
-      "summary": "Boulder investigators are retesting decades-old DNA evidence in the JonBenet Ramsey cold case using advanced technology that didn't exist in 1997.",
-      "url": "https://www.foxnews.com/us/michael-ruiz-jonbenet-ramsey-investigators-retesting-evidence-newer-technology-police-chief-says",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-13T06:00:37-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jonbenet-ramsey-studio-session.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
       "id": "fox-business:https://www.foxbusiness.com/lifestyle/ford-opens-massive-new-archive-putting-over-century-automotive-history-display",
       "title": "Ford opens massive new archive putting over a century of automotive history on display",
       "summary": "The 79,000-square-foot archive brings together roughly 150 vehicles, from a 1910 Model T and World War II-era military vehicles to concept cars and racing machines.",
@@ -3805,22 +4262,6 @@
       "feed_id": "fox-business-latest"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/politics/pence-leaves-door-open-2028-white-house-run-issues-stark-warning-gop-after-midterm-disaster",
-      "title": "Pence leaves door open to 2028 White House run, issues stark warning to GOP after midterm disaster",
-      "summary": "Mike Pence says he's heard from people across the country about a 2028 presidential bid and warns the GOP must return to conservative principles.",
-      "url": "https://www.foxnews.com/politics/pence-leaves-door-open-2028-white-house-run-issues-stark-warning-gop-after-midterm-disaster",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-13T04:00:24-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Mike-Pence-Fox-Digital-interview-Nov.-11_-2026.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
       "id": "fox-business:https://www.foxbusiness.com/lifestyle/thanksgiving-staple-recalled-costco-over-possible-contamination-cleaning-chemical",
       "title": "Thanksgiving staple recalled at Costco over possible contamination with cleaning chemical",
       "summary": "Costco's Kirkland Signature whipped cream may be contaminated with a cleaning chemical, prompting a voluntary recall of 15-ounce cans sold across 12 states.",
@@ -3835,70 +4276,6 @@
       "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/costco-nj.png",
       "kind": "article",
       "feed_id": "fox-business-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/couple-accused-killing-registered-sex-offender-pre-planned-stabbing-arizona-desert",
-      "title": "Couple accused of killing registered sex offender in pre-planned stabbing in Arizona desert",
-      "summary": "A couple allegedly planned the stabbing of a registered sex offender in a desert area in Arizona and now face first-degree homicide charges, police say.",
-      "url": "https://www.foxnews.com/us/couple-accused-killing-registered-sex-offender-pre-planned-stabbing-arizona-desert",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-13T02:43:08-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arizona-sex-pred-killers.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation",
-      "title": "Newsom reveals when he'll decide on 2028 White House bid amid growing speculation",
-      "summary": "Democratic California Gov. Gavin Newsom says he will decide on a 2028 presidential bid by early January, but Kamala Harris could complicate those plans.",
-      "url": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-13T02:08:17-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/newsom-2028-frontrunner.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/highly-contagious-bird-flu-detected-wisconsin-officials-euthanize-infected-flock",
-      "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock",
-      "summary": "Wisconsin officials euthanized a backyard poultry flock in Rusk County after confirming a case of highly pathogenic avian influenza in the birds.",
-      "url": "https://www.foxnews.com/health/highly-contagious-bird-flu-detected-wisconsin-officials-euthanize-infected-flock",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-13T00:20:20-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/wisconsin-bird-flu-outbreak-rusk-county.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/should-usa-fans-feel-jilted-over-pochettinos-exit-manchester-united",
-      "title": "Should USA Fans Feel Jilted Over Pochettino's Exit To Manchester United?",
-      "summary": "Should U.S. men's national team fans feel some type of way for Mauricio Pochettino bolting?",
-      "url": "https://www.foxnews.com/sports/should-usa-fans-feel-jilted-over-pochettinos-exit-manchester-united",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-13T00:11:32-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/20eccb33-poch1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
     },
     {
       "id": "yt:xUXo2bu4poE",
@@ -3918,22 +4295,6 @@
       "video_id": "xUXo2bu4poE"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/sports/commanders-giants-takeaways",
-      "title": "A Season-Saving Win: 3 Takeaways From Commanders Dramatic Victory Over Giants",
-      "summary": "Here's what we learned from the Commanders' victory over the Giants.",
-      "url": "https://www.foxnews.com/sports/commanders-giants-takeaways",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-12T23:55:17-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/commanders-giants-takeaways.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
       "id": "yt:KI7HthL4oyQ",
       "title": "Texas Democrats Got a MAJOR Youth Boost",
       "summary": "What does overwhelming support from young voters reveal about Texas politics? Talarico's victory raises questions about generational voting patterns, Republican support among younger Texans, and whether the state's recent electoral shift will persist beyond 2026",
@@ -3949,22 +4310,6 @@
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "KI7HthL4oyQ"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/tom-brady-nfl-international-ac-milan",
-      "title": "Tom Brady Shares Ideal International Soccer Stadium To Host An NFL Game",
-      "summary": "Tom Brady would have loved to play an international NFL game in this Italian soccer stadium.",
-      "url": "https://www.foxnews.com/sports/tom-brady-nfl-international-ac-milan",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-12T22:50:25-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/490e212c-tom-brady-soccer-stadium.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
     },
     {
       "id": "yt:kNoHuRuTB8M",
@@ -3984,54 +4329,6 @@
       "video_id": "kNoHuRuTB8M"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/us/dhs-touts-highest-ice-deportations-history-mullin-says-agency-unleashed",
-      "title": "DHS touts highest ICE deportations in history, as Mullin says agency has been ‘unleashed’",
-      "summary": "DHS Secretary Markwayne Mullin announced record ICE arrests and deportations in fiscal 2026, with arrests exceeding three Biden fiscal years combined.",
-      "url": "https://www.foxnews.com/us/dhs-touts-highest-ice-deportations-history-mullin-says-agency-unleashed",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-12T21:54:59-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/sec-mullin.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/dan-patrick-concedes-texas-turned-purple-democrats-historic-blue-wave",
-      "title": "Dan Patrick concedes Texas ‘turned purple’ after Democrats’ historic blue wave",
-      "summary": "Outgoing Texas Lt. Gov. Dan Patrick says the state has \"turned purple\" after Democrats swept statewide races but warns the GOP must fight back.",
-      "url": "https://www.foxnews.com/politics/dan-patrick-concedes-texas-turned-purple-democrats-historic-blue-wave",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-12T21:49:23-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dan-patrick-texas-republican.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/van-hollen-challenges-schumer-senate-leadership-after-democratic-election-sweep",
-      "title": "Van Hollen challenges Schumer for Senate leadership after Democratic election sweep",
-      "summary": "Chuck Schumer faces a formal challenge from Chris Van Hollen for Senate Democratic leader after Van Hollen accused him of siding with AIPAC.",
-      "url": "https://www.foxnews.com/politics/van-hollen-challenges-schumer-senate-leadership-after-democratic-election-sweep",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-12T21:45:42-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/chris-van-hollen-maryland-delegation-meeting.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
       "id": "fox-business:https://www.foxbusiness.com/technology/us-authorities-freeze-billions-stolen-binance-crypto-massive-north-korean-hack",
       "title": "US authorities freeze billions in stolen Binance crypto after massive North Korean hack",
       "summary": "Federal authorities froze over $2.7 billion in cryptocurrency stolen from Binance during a massive North Korean cyberattack totaling $6 billion.",
@@ -4047,22 +4344,6 @@
       "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/binance-richard-teng-ceo.jpg",
       "kind": "article",
       "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/texas-man-executed-beheading-3-children-going-my-kids",
-      "title": "Texas man executed for beheading 3 children: 'Going to be with my kids'",
-      "summary": "John Allen Rubio thanked loved ones and said he would soon be with the three children he killed before receiving a lethal injection in Texas.",
-      "url": "https://www.foxnews.com/us/texas-man-executed-beheading-3-children-going-my-kids",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-12T21:04:46-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/execution-rubio.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
     },
     {
       "id": "yt:PD8evbVmpro",
@@ -4133,22 +4414,6 @@
       "video_id": "ZavNrnX-RvI"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/sports/italy-stuns-france-3-takeaways-from-thursdays-nations-league-matches",
-      "title": "Italy Stuns France: 3 Takeaways From Thursday's Nations League Matches",
-      "summary": "We had ourselves quite an evening of UEFA Nations League football. From euphoria at the San Siro and consistent Spanish omnipotence in Prague to the coronation of an English star at Wembley.",
-      "url": "https://www.foxnews.com/sports/italy-stuns-france-3-takeaways-from-thursdays-nations-league-matches",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-12T19:08:55-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/takeaways1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
       "id": "yt:b-gP38g32DM",
       "title": "Is It To Late to Save France?",
       "summary": "Could El Salvador's security strategy work in France? The debate examines whether decisive leadership can restore public order and how far governments should go to combat violence while protecting civil liberties, democratic institutions and the right to protest.",
@@ -4164,22 +4429,6 @@
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "b-gP38g32DM"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/tcu-is-working-to-add-former-saint-louis-player-robbie-avila-after-return-to-billikens-was-nixed",
-      "title": "Robbie Avila Expected To Join TCU After Saint Louis Return Denied",
-      "summary": "TCU is working to add Robbie Avila to its roster after the former Saint Louis player was cleared to play but barred from returning to the Billikens.",
-      "url": "https://www.foxnews.com/sports/tcu-is-working-to-add-former-saint-louis-player-robbie-avila-after-return-to-billikens-was-nixed",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-12T18:44:49-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/gettyimages-2267482339.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
     },
     {
       "id": "yt:-BFjCxXNxT8",
@@ -4199,22 +4448,6 @@
       "video_id": "-BFjCxXNxT8"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/us/former-owner-peanut-squirrel-viral-pet-euthanized-ny-officials-detained-ice",
-      "title": "Former owner of Peanut the squirrel, viral pet euthanized by NY officials, detained by ICE",
-      "summary": "Nearly two years after New York officials euthanized Peanut the squirrel, his former owners face another ordeal as Daniela Bittner remains in ICE custody.",
-      "url": "https://www.foxnews.com/us/former-owner-peanut-squirrel-viral-pet-euthanized-ny-officials-detained-ice",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-12T18:10:16-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/squirrel-owners.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
       "id": "fox-business:https://www.foxbusiness.com/economy/jensen-huang-joins-list-high-profile-founders-ousted-from-own-companies",
       "title": "Jensen Huang joins list of high-profile founders ousted from their own companies",
       "summary": "Jensen Huang's exit from Nvidia puts him alongside Jack Dorsey, Jerry Yang and Dov Charney on the list of founders forced out of the companies they created.",
@@ -4229,38 +4462,6 @@
       "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/nvidia-jensen-huang-ces-2026.jpg",
       "kind": "article",
       "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/democrat-cindy-holscher-wins-kansas-governors-race-extending-partys-hold-governors-mansion",
-      "title": "Democrat Cindy Holscher wins Kansas governor's race, extending party's hold on governor's mansion",
-      "summary": "Democratic state Sen. Cindy Holscher wins the Kansas governor's race over Trump-backed Republican Ty Masterson, keeping the governor's mansion in Democratic hands.",
-      "url": "https://www.foxnews.com/politics/democrat-cindy-holscher-wins-kansas-governors-race-extending-partys-hold-governors-mansion",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-12T18:06:47-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/cindy-holscher-wins-kansas.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/mamdani-prepares-fulfill-promise-axe-nypd-unit-responsible-controlling-protest-violence",
-      "title": "Mamdani prepares to fulfill promise to axe NYPD unit responsible for controlling protest violence",
-      "summary": "Mayor Zohran Mamdani is reportedly preparing to disband the NYPD's Strategic Response Group after months of failing to fulfill his promise to do so.",
-      "url": "https://www.foxnews.com/politics/mamdani-prepares-fulfill-promise-axe-nypd-unit-responsible-controlling-protest-violence",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-12T17:02:42-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/federal-agents-raid-nyc-chinatown-protesters-fox-news-003.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns",
@@ -4296,38 +4497,6 @@
       "video_id": "_poPnBy2mow"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/politics/democrats-turn-schumer-historic-election-wins-potential-challenger-emerges",
-      "title": "Democrats turn on Schumer after historic election wins as potential challenger emerges",
-      "summary": "Chuck Schumer faces a fracturing caucus as Bernie Sanders, Elissa Slotkin and four newly elected senators reject his bid for Democratic leader.",
-      "url": "https://www.foxnews.com/politics/democrats-turn-schumer-historic-election-wins-potential-challenger-emerges",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-12T15:55:24-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/chuck-schumer-senate-press-conference.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/top-trump-officials-democrats-admit-hit-list-investigations-new-congress",
-      "title": "The top Trump officials Democrats admit are on their hit list for investigations in the new Congress",
-      "summary": "Democrats say Howard Lutnick, Stephen Miller, Tom Homan and Marco Rubio could face impeachment efforts and congressional hearings in January.",
-      "url": "https://www.foxnews.com/politics/top-trump-officials-democrats-admit-hit-list-investigations-new-congress",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-12T15:29:09-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-stephen-miller.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
       "id": "fox-business:https://www.foxbusiness.com/markets/nvidia-loses-its-godfather-ai-now-faces-first-big-test-without-him",
       "title": "Nvidia loses its 'Godfather of AI' and now faces first big test without him",
       "summary": "Jensen Huang's resignation sent Nvidia stock plunging 14% before losses narrowed, as analysts weigh the AI giant's path forward without its co-founder.",
@@ -4344,38 +4513,6 @@
       "feed_id": "fox-business-markets"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/us/matt-lambert-dc-doctor-identified-gunman-deadly-attack-after-hoa-feud",
-      "title": "Who is Matt Lambert? Doctor identified as gunman in deadly gym shooting in ritzy DC neighborhood",
-      "summary": "Dr. Matt Lambert allegedly posted a manifesto referencing an engineering report minutes before the deadly Vida gym shooting in Logan Circle.",
-      "url": "https://www.foxnews.com/us/matt-lambert-dc-doctor-identified-gunman-deadly-attack-after-hoa-feud",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-12T14:44:17-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dc-gunman-invoked-luigi-before-deadly-shooting.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/hospital-sewers-breeding-grounds-dangerous-superbugs-study-finds",
-      "title": "Hospital sewers may be breeding grounds for dangerous superbugs, study finds",
-      "summary": "A Nature Communications study found hospital wastewater promotes antibiotic-resistant E. coli, with bacteria on sewer pipes three times as resistant.",
-      "url": "https://www.foxnews.com/health/hospital-sewers-breeding-grounds-dangerous-superbugs-study-finds",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-12T14:43:03-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/woman-in-hospital.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
       "id": "fox-business:https://www.foxbusiness.com/media/how-24-year-old-built-37-million-media-empire-asking-billionaires-advice",
       "title": "How a 24-year-old built a $37 million media empire by asking billionaires for advice",
       "summary": "James Dumoulin built a $37 million media empire by the age of 24 after a spontaneous Mark Cuban interview launched The School of Hard Knocks.",
@@ -4390,103 +4527,6 @@
       "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/james-dumoulin-fbn-studio.jpg",
       "kind": "article",
       "feed_id": "fox-business-latest"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/business-leaders/nvidias-jensen-huang-regime-change-warning-companies-investors-everywhere-business-expert-cautions",
-      "title": "Nvidia’s Jensen Huang regime change a warning to companies and investors everywhere, business expert cautions",
-      "summary": "Concentration of U.S. economic power in a handful of foundational tech companies led by outsized personalities creates deep structural vulnerability, business futurist Doug Stephens warns.",
-      "url": "https://www.foxbusiness.com/business-leaders/nvidias-jensen-huang-regime-change-warning-companies-investors-everywhere-business-expert-cautions",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-12T14:15:17-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/05/jensen-huang-nvidia-may-2026.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/harry-kane-nfl-kicker-patriots-drake-maye-new-england-press-conference",
-      "title": "Harry Kane An NFL Kicker? Patriots Star Drake Maye Supports It",
-      "summary": "New England Patriots quarterback Drake Maye fully endorses Harry Kane’s dream of one day becoming an NFL kicker.",
-      "url": "https://www.foxnews.com/sports/harry-kane-nfl-kicker-patriots-drake-maye-new-england-press-conference",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-12T14:05:41-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/harry.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/microsoft-365-hit-multi-region-connectivity-issues-amid-elevated-infrastructure-load",
-      "title": "Microsoft 365 hit by multi-region connectivity issues amid elevated infrastructure load",
-      "summary": "Microsoft on Thursday confirmed an infrastructure issue causing elevated loads is behind widespread 365 connectivity errors across multiple regions.",
-      "url": "https://www.foxbusiness.com/technology/microsoft-365-hit-multi-region-connectivity-issues-amid-elevated-infrastructure-load",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-11-12T14:01:18-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/Microsoft-Logo.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/oklahoma-man-73-executed-plotting-murder-lovers-husband-offers-no-last-words",
-      "title": "Oklahoma man, 73, executed for plotting murder of lover's husband, offers no last words",
-      "summary": "James Pavatt was pronounced dead after lethal injection for plotting the 2001 murder of Rob Andrew, who was gunned down in his garage just before Thanksgiving.",
-      "url": "https://www.foxnews.com/us/oklahoma-man-73-executed-plotting-murder-lovers-husband-offers-no-last-words",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-12T13:42:25-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/james-pavatt-execution-display.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/michael-ruiz-da-identifies-49-local-killers-slated-newsoms-death-row-clemency-crimes",
-      "title": "MICHAEL RUIZ: DA identifies 49 local killers slated for Newsom's death row clemency — and their crimes",
-      "summary": "Orange County DA Todd Spitzer details the crimes of serial killers, cop killers and yacht killers among 50 death row inmates affected by Newsom's clemency.",
-      "url": "https://www.foxnews.com/us/michael-ruiz-da-identifies-49-local-killers-slated-newsoms-death-row-clemency-crimes",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-12T13:10:55-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/spitzernewsom.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/top-50-nfl-players-first-half-2026-season-ranked",
-      "title": "The Top-50 NFL Players In The First Half Of The 2026 Season, Ranked",
-      "summary": "Who has been the best player so far in the NFL this season? We rank our top 50 players in the league.",
-      "url": "https://www.foxnews.com/sports/top-50-nfl-players-first-half-2026-season-ranked",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-12T12:11:40-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/16x9-41.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
     },
     {
       "id": "yt:HpCaV_uw0Uc",
@@ -4722,44 +4762,6 @@
       "published_date_text": "Oct 29, 2026"
     },
     {
-      "id": "yt:ChrdIPZKfLI",
-      "title": "Clavicular Reveals the Dark Side of His Viral Lifestyle | PBD Podcast #880",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=ChrdIPZKfLI",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-27T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "2 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/ChrdIPZKfLI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDa645_ZsuO7Fv4lmWVNYMSs0Fndw",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "ChrdIPZKfLI",
-      "published_date_text": "Oct 27, 2026"
-    },
-    {
-      "id": "yt:9ja9bgGqlvI",
-      "title": "Ex-Secret Service Agent Warns the Next 9/11 Won’t Be Planes | PBD Podcast #877",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=9ja9bgGqlvI",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-10-22T00:00:00-05:00",
-      "published_precision": "day",
-      "published_text": "3 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/9ja9bgGqlvI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLC2BRR2ooPwNNCmvP2Qqq1AhLpgwA",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "9ja9bgGqlvI",
-      "published_date_text": "Oct 22, 2026"
-    },
-    {
       "id": "yt:pyihDwVCc_M",
       "title": "October 7: Beyond Survival Documentary",
       "summary": "",
@@ -4939,7 +4941,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.457992-06:00",
+      "checked": "2026-11-15T13:46:47.454937-06:00",
       "error": null
     },
     {
@@ -4949,7 +4951,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.588669-06:00",
+      "checked": "2026-11-15T13:46:47.548643-06:00",
       "error": null
     },
     {
@@ -4959,7 +4961,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.610210-06:00",
+      "checked": "2026-11-15T13:46:47.620516-06:00",
       "error": null
     },
     {
@@ -4969,7 +4971,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.636261-06:00",
+      "checked": "2026-11-15T13:46:47.680746-06:00",
       "error": null
     },
     {
@@ -4979,7 +4981,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.658694-06:00",
+      "checked": "2026-11-15T13:46:47.768419-06:00",
       "error": null
     },
     {
@@ -4989,7 +4991,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.681838-06:00",
+      "checked": "2026-11-15T13:46:47.870606-06:00",
       "error": null
     },
     {
@@ -4999,7 +5001,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.705389-06:00",
+      "checked": "2026-11-15T13:46:47.935875-06:00",
       "error": null
     },
     {
@@ -5009,7 +5011,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.726220-06:00",
+      "checked": "2026-11-15T13:46:47.992829-06:00",
       "error": null
     },
     {
@@ -5019,7 +5021,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.804188-06:00",
+      "checked": "2026-11-15T13:46:48.259936-06:00",
       "error": null
     },
     {
@@ -5029,7 +5031,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.831666-06:00",
+      "checked": "2026-11-15T13:46:48.331228-06:00",
       "error": null
     },
     {
@@ -5039,7 +5041,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.859057-06:00",
+      "checked": "2026-11-15T13:46:48.532931-06:00",
       "error": null
     },
     {
@@ -5049,7 +5051,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.888667-06:00",
+      "checked": "2026-11-15T13:46:48.694292-06:00",
       "error": null
     },
     {
@@ -5059,7 +5061,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.920124-06:00",
+      "checked": "2026-11-15T13:46:48.783524-06:00",
       "error": null
     },
     {
@@ -5070,7 +5072,7 @@
       "ok": true,
       "count": 15,
       "http": 200,
-      "checked": "2026-11-15T08:11:32.954427-06:00",
+      "checked": "2026-11-15T13:46:48.875607-06:00",
       "error": null,
       "method": "youtube-atom"
     },
@@ -5082,7 +5084,7 @@
       "ok": true,
       "count": 15,
       "http": 200,
-      "checked": "2026-11-15T08:11:33.050471-06:00",
+      "checked": "2026-11-15T13:46:49.015705-06:00",
       "error": null,
       "method": "youtube-atom"
     }
