@@ -1,8 +1,332 @@
 {
-  "updated": "2026-11-14T18:02:32.355841-06:00",
+  "updated": "2026-11-15T00:24:16.270448-06:00",
   "timezone": "America/Chicago",
   "item_count": 300,
   "items": [
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/arch-manning-overcomes-sloppy-performance-clutch-td-pass-lift-texas-lsu-crucial-matchup",
+      "title": "Arch Manning turns Death Valley into LSU’s funeral as Texas buries Lane Kiffin’s CFP hopes",
+      "summary": "Lane Kiffin's $40 million LSU roster watched Arch Manning deliver a late touchdown pass to Raleek Brown that ended the Tigers' playoff dreams.",
+      "url": "https://www.foxnews.com/outkick-sports/arch-manning-overcomes-sloppy-performance-clutch-td-pass-lift-texas-lsu-crucial-matchup",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T23:57:46-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/archmanninglsu1.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/masked-dirt-bike-riders-swarm-suv-brazen-nyc-street-attack-sparking-police-crackdown",
+      "title": "Masked dirt bike riders swarm SUV in brazen NYC street attack, sparking police crackdown",
+      "summary": "Video captures masked dirt bike riders swarming and attacking an SUV on a busy Staten Island street as the NYPD warns that arrests are near.",
+      "url": "https://www.foxnews.com/us/masked-dirt-bike-riders-swarm-suv-brazen-nyc-street-attack-sparking-police-crackdown",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "us"
+      ],
+      "published": "2026-11-14T23:55:51-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/staten-island-dirt-bike-riders-attack-suv.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/benches-clear-chaotic-postgame-brawl-louisville-cardinals-top-north-carolina-tar-heels",
+      "title": "Benches clear in chaotic postgame brawl after Louisville Cardinals top North Carolina Tar Heels",
+      "summary": "A bench-clearing brawl erupted after Louisville's late interception sealed a 16-14 college football win over Bill Belichick's North Carolina.",
+      "url": "https://www.foxnews.com/outkick-sports/benches-clear-chaotic-postgame-brawl-louisville-cardinals-top-north-carolina-tar-heels",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T23:42:25-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/unc-louisville-brawl.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/kenneth-walker-iii-out-against-nfl-rushing-leader-bijan-robinson-falcons-patrick-mahomes-off-injury-report",
+      "title": "Kenneth Walker III out against NFL rushing leader Bijan Robinson's Falcons, Patrick Mahomes off injury report",
+      "summary": "Kenneth Walker III was ruled out with a groin injury, leaving rookie Emmett Johnson to lead the Kansas City Chiefs' rushing attack on Sunday.",
+      "url": "https://www.foxnews.com/outkick-sports/kenneth-walker-iii-out-against-nfl-rushing-leader-bijan-robinson-falcons-patrick-mahomes-off-injury-report",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T23:10:17-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Kansas-City-Kenneth-Walker-III.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/georgia-football-three-star-recruit-marcellus-young-casario-dies-after-medical-emergency-high-school-says",
+      "title": "Georgia football three-star recruit Marcellus Young Casario dies after 'medical emergency,' high school says",
+      "summary": "Marcellus Young Casario, a Georgia Bulldogs defensive lineman commit, died after a sudden medical emergency at his Rabun Gap boarding school.",
+      "url": "https://www.foxnews.com/outkick-sports/georgia-football-three-star-recruit-marcellus-young-casario-dies-after-medical-emergency-high-school-says",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T22:50:34-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/georgia-football-helmets.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/florida-stuns-kentucky-21-14-gators-pull-off-yet-another-upset-win-up-down-season",
+      "title": "Florida stuns Kentucky 21-14 as Gators pull off yet another upset win in up-and-down season",
+      "summary": "Florida Gators pulled off their third upset of a ranked opponent this season, stunning No. 11 Kentucky 21-14 with a gutsy two-point conversion.",
+      "url": "https://www.foxnews.com/outkick-sports/florida-stuns-kentucky-21-14-gators-pull-off-yet-another-upset-win-up-down-season",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T22:33:26-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/florida-kentucky-2.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/federal-judge-blocks-trumps-renovations-dc-golf-course-hours-before-closure",
+      "title": "Federal judge blocks Trump's renovations of DC golf course hours before its closure",
+      "summary": "A federal judge cited Donald Trump's Truth Social posts as key evidence when issuing a temporary restraining order on the East Potomac renovation.",
+      "url": "https://www.foxnews.com/outkick-sports/federal-judge-blocks-trumps-renovations-dc-golf-course-hours-before-closure",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T22:00:05-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-golf-split.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/dabo-swinney-reacts-clemson-hits-latest-low-upset-loss-georgia-tech-nobody-coming-save-us",
+      "title": "Dabo Swinney reacts after Clemson hits latest low with upset loss to Georgia Tech: 'Nobody coming to save us'",
+      "summary": "Georgia Tech rushed for 269 yards and handed Dabo Swinney one of his worst career losses as Clemson fell 20-6 at home to a team with a losing record.",
+      "url": "https://www.foxnews.com/outkick-sports/dabo-swinney-reacts-clemson-hits-latest-low-upset-loss-georgia-tech-nobody-coming-save-us",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T21:35:20-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dabo-swinney-clemson-georgia-tech.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-business:https://www.foxbusiness.com/personal-finance/irs-raises-401k-contribution-limit-1000-2027-retirement-savings-caps-increase",
+      "title": "IRS raises 401(k) contribution limit by $1,000 for 2027 as retirement savings caps increase",
+      "summary": "The IRS raised the 401(k) contribution limit to $25,500 for 2027, while catch-up contributions for workers 50 and over also climbed under new rules.",
+      "url": "https://www.foxbusiness.com/personal-finance/irs-raises-401k-contribution-limit-1000-2027-retirement-savings-caps-increase",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-14T21:33:38-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/couple-retirement-planning.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-personal-finance"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/unc-asheville-player-makes-costly-mistake-after-miracle-3-pointer-could-have-forced-overtime",
+      "title": "UNC Asheville player makes costly mistake after miracle 3-pointer that could have forced overtime",
+      "summary": "Myles Mayfield's costly intentional foul after a game-tying 3-pointer gave Georgia Tech a stunning 75-74 win over UNC Asheville in the final seconds.",
+      "url": "https://www.foxnews.com/outkick-sports/unc-asheville-player-makes-costly-mistake-after-miracle-3-pointer-could-have-forced-overtime",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T21:08:48-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/myles-mayfield-unc-asheville-georgia-tech.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-business:https://www.foxbusiness.com/technology/tesla-makes-major-cybercab-announcement-driverless-vehicle-goes-sale",
+      "title": "Tesla makes major Cybercab announcement as driverless vehicle goes on sale",
+      "summary": "Tesla's Cybercab is now available to select customers for $29,990 with a $299 monthly autonomy subscription, but Elon Musk says the fee is too high.",
+      "url": "https://www.foxbusiness.com/technology/tesla-makes-major-cybercab-announcement-driverless-vehicle-goes-sale",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business",
+        "tech"
+      ],
+      "published": "2026-11-14T20:49:28-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/tesla-cybercab-dallas-launch-november-2026.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-technology"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/top-ranked-georgia-rolls-past-missouri-moves-closer-sec-championship-game-return",
+      "title": "Top-ranked Georgia rolls past Missouri, moves closer to SEC championship game return",
+      "summary": "Nate Frazier's three rushing touchdowns helped Georgia race to a 31-point halftime lead over Missouri in a dominant return to the No. 1 ranking.",
+      "url": "https://www.foxnews.com/outkick-sports/top-ranked-georgia-rolls-past-missouri-moves-closer-sec-championship-game-return",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T20:30:05-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Georgia-Missouri.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/kristin-cavallari-steamy-bedroom-confession-ahead-40th-birthday",
+      "title": "Kristin Cavallari makes steamy bedroom confession ahead of 40th birthday",
+      "summary": "Kristin Cavallari revealed intimate details about her sex life on her \"Let's Be Honest\" podcast as she looks ahead to her upcoming 40th birthday.",
+      "url": "https://www.foxnews.com/entertainment/kristin-cavallari-steamy-bedroom-confession-ahead-40th-birthday",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T20:00:51-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/kristin-cavallari-new-york-june-2025.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/indiana-hoosiers-boost-college-football-playoff-hopes-27-13-win-usc-trojans",
+      "title": "Indiana Hoosiers boost College Football Playoff hopes with 27-13 win over USC Trojans",
+      "summary": "Indiana's defense forced costly USC Trojans turnovers in the red zone as the Hoosiers moved to 9-1 and kept their playoff hopes firmly alive.",
+      "url": "https://www.foxnews.com/outkick-sports/indiana-hoosiers-boost-college-football-playoff-hopes-27-13-win-usc-trojans",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T20:00:18-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/indiana-usc-2.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti",
+      "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
+      "summary": "El Salvador President Nayib Bukele shared video of armed robot dogs storming Sylvio Cator Stadium as forces joined Haitian police in a gang crackdown on the violent island nation.",
+      "url": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "world"
+      ],
+      "published": "2026-11-14T19:51:47-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/robot-el-salvdor.gif",
+      "kind": "article",
+      "feed_id": "fox-news-world"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/health/millions-americans-use-marijuana-sleep-study-raises-troubling-questions",
+      "title": "Millions of Americans use marijuana to sleep, but new study raises troubling questions",
+      "summary": "A Northwestern Medicine study found that marijuana users had objectively worse sleep quality, even though they didn't perceive their sleep as worse. Other experts weighed in.",
+      "url": "https://www.foxnews.com/health/millions-americans-use-marijuana-sleep-study-raises-troubling-questions",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "health"
+      ],
+      "published": "2026-11-14T19:45:30-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/couple-relaxing-smoking-marijuana-joint.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-health"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/private-planes-roadtrips-aew-goes-above-beyond-phoenix-full-gear-despite-travel-chaos",
+      "title": "Private planes and roadtrips: AEW goes above and beyond to get to Phoenix for Full Gear despite travel chaos",
+      "summary": "Tony Khan dispatched private jets to hub locations to fly AEW talent to Phoenix after nationwide flight cancelations threatened Full Gear.",
+      "url": "https://www.foxnews.com/outkick-sports/private-planes-roadtrips-aew-goes-above-beyond-phoenix-full-gear-despite-travel-chaos",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T19:29:47-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/laguardia-airport-flight-information-board.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/michigan-loses-kyle-whittingham-job-noise-grows-oregon-keeps-playoff-hopes-alive",
+      "title": "Michigan loses again and the noise around Kyle Whittingham's job grows as Oregon keeps playoff hopes alive",
+      "summary": "The No. 16 Oregon Ducks defeated Michigan on Saturday, dropping the Wolverines to 5-5 as noise continues to grow around Kyle Whittingham's job.",
+      "url": "https://www.foxnews.com/outkick-sports/michigan-loses-kyle-whittingham-job-noise-grows-oregon-keeps-playoff-hopes-alive",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T19:25:41-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kyle-whittingham-michigan-oregon-football.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/tennessee-volunteers-overcome-sluggish-offense-jet-lag-take-down-texas-am-keep-cfp-hopes-alive",
+      "title": "Tennessee Volunteers overcome sluggish offense, jet lag to take down Texas A&M and keep CFP hopes alive",
+      "summary": "The Tennessee Volunteers overcame an FAA ground stop delay and a quarterback injury to beat the Texas A&M Aggies on the road to keep CFP hopes alive.",
+      "url": "https://www.foxnews.com/outkick-sports/tennessee-volunteers-overcome-sluggish-offense-jet-lag-take-down-texas-am-keep-cfp-hopes-alive",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-14T19:05:06-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arion-carter-jeremiah-telander-tennessee-volunteers-fox-news_.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-business:https://www.foxbusiness.com/economy/new-orleans-port-seeks-tanker-seizure-cruise-ship-crash-sparks-lawsuit",
+      "title": "New Orleans port seeks tanker seizure after cruise ship crash sparks $1M lawsuit",
+      "summary": "A federal lawsuit seeks more than $1 million for damage to a New Orleans port terminal after an asphalt tanker collided with a river cruise ship on the Mississippi River.",
+      "url": "https://www.foxbusiness.com/economy/new-orleans-port-seeks-tanker-seizure-cruise-ship-crash-sparks-lawsuit",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-14T19:01:31-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/new-orleans-cruise-ship-crash-tanker-mississippi-river4.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-economy"
+    },
     {
       "id": "fox-business:https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time",
       "title": "SpaceX makes history as Starship spacecraft caught by launch tower for first time",
@@ -814,7 +1138,7 @@
     },
     {
       "id": "fox-news:https://www.foxnews.com/politics/dems-seize-midterm-rout-demand-ice-reform-polls-reveal-twist-prioritized-immigration",
-      "title": "Dems seize on midterm rout to demand ICE reform but polls reveal a twist in who prioritized immigration",
+      "title": "Dems seize on midterm rout to demand ICE reform, but polls reveal a twist in who prioritized immigration",
       "summary": "Rep.-elect Bobby Pulido and Texas Democrats push 2028 candidates to prioritize immigration reform after flipping Republican-leaning districts.",
       "url": "https://www.foxnews.com/politics/dems-seize-midterm-rout-demand-ice-reform-polls-reveal-twist-prioritized-immigration",
       "source": "Fox News",
@@ -830,7 +1154,7 @@
     },
     {
       "id": "fox-news:https://www.foxnews.com/politics/democrats-eye-killing-senate-filibuster-lawmaker-warns-move-could-double-edged-sword",
-      "title": "Democrats eye killing Senate filibuster as lawmaker warns move could be a 'double-edged sword'",
+      "title": "Democrats eye killing Senate filibuster, and lawmaker warns move could be a 'double-edged sword'",
       "summary": "Ed Markey says the filibuster must be \"on the table\" as Democrats take the Senate, while Andy Kim warns the move could be a \"double-edged sword.\"",
       "url": "https://www.foxnews.com/politics/democrats-eye-killing-senate-filibuster-lawmaker-warns-move-could-double-edged-sword",
       "source": "Fox News",
@@ -894,8 +1218,8 @@
     },
     {
       "id": "fox-news:https://www.foxnews.com/politics/dems-descend-denver-size-2028-who-wants-race",
-      "title": "Dems descend on Denver to size up 2028. We asked who wants in the race",
-      "summary": "Josh Shapiro, Elissa Slotkin, Cory Booker and Ruben Gallego tested 2028 messaging at a Denver conference as Chris Van Hollen bowed out early.",
+      "title": "Dems descend on Denver to size up 2028; we asked who wants in the race",
+      "summary": "Josh Shapiro, Elissa Slotkin, Cory Booker and Ruben Gallego tested 2028 messaging at a Denver conference, and Chris Van Hollen bowed out early.",
       "url": "https://www.foxnews.com/politics/dems-descend-denver-size-2028-who-wants-race",
       "source": "Fox News",
       "source_id": "fox-news",
@@ -1026,7 +1350,7 @@
     {
       "id": "fox-news:https://www.foxnews.com/us/pentagons-former-ufo-investigator-offers-simple-theory-mysterious-jellyfish-shaped-object-video",
       "title": "Pentagon's former UFO investigator offers simple theory for mysterious jellyfish-shaped object on video",
-      "summary": "Video near Joint Base Elmendorf-Richardson captures a jellyfish-shaped object with dangling strands, but a former Pentagon UFO investigator suggests kite.",
+      "summary": "Video near Joint Base Elmendorf-Richardson captured a jellyfish-shaped object with dangling strands, but a former Pentagon UFO investigator suggests its a kite.",
       "url": "https://www.foxnews.com/us/pentagons-former-ufo-investigator-offers-simple-theory-mysterious-jellyfish-shaped-object-video",
       "source": "Fox News",
       "source_id": "fox-news",
@@ -3895,7 +4219,7 @@
       "published": "2026-11-12T00:00:00-06:00",
       "published_precision": "day",
       "published_text": "2 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/HpCaV_uw0Uc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAvTj-u5-v3bVmsSDcHDgUxhOsTzQ",
+      "thumbnail": "https://i.ytimg.com/vi/HpCaV_uw0Uc/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD_n2x3WDGcoUoFJegVVlnjEcDFKA",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "HpCaV_uw0Uc",
@@ -4126,182 +4450,6 @@
       "feed_id": "fox-business-economy"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/health/woman-claims-hospital-injected-wrong-drug-spine-knee-surgery-leaving-unable-walk",
-      "title": "Woman claims hospital injected wrong drug into her spine during knee surgery, leaving her unable to walk",
-      "summary": "Linda Gilbert's lawsuit alleges Ascension Saint Thomas Midtown injected potassium phosphate instead of mepivacaine, causing incomplete paraplegia.",
-      "url": "https://www.foxnews.com/health/woman-claims-hospital-injected-wrong-drug-spine-knee-surgery-leaving-unable-walk",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-11T13:13:33-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/surgeons-in-operating-room.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/israels-political-shake-up-enters-new-phase-former-pm-plays-kingmaker-deadline-looms",
-      "title": "Israel's political shake-up enters new phase as former PM plays kingmaker — and deadline looms",
-      "summary": "Benjamin Netanyahu called for unity, but Gadi Eisenkot canceled Likud talks after calling the outgoing prime minister's speech \"delusional.\"",
-      "url": "https://www.foxnews.com/world/israels-political-shake-up-enters-new-phase-former-pm-plays-kingmaker-deadline-looms",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-11T12:36:36-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Israeli-Knesset-2026.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/giants-bijan-robinson-rumor-nfl-trade-deadline-falcons",
-      "title": "Giants Reportedly Pursued Trade For Falcons Superstar RB Bijan Robinson",
-      "summary": "The New York Giants reportedly contacted the Atlanta Falcons about acquiring superstar RB Bijan Robinson before the 2026 NFL trade deadline.",
-      "url": "https://www.foxnews.com/sports/giants-bijan-robinson-rumor-nfl-trade-deadline-falcons",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-11T10:44:50-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/bijan2.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/joel-klatt-show-college-football-playoff-second-rankings",
-      "title": "Klatt’s CFP Takeaways: Rankings Committee Is ‘Devaluing The Regular Season’",
-      "summary": "Joel Klatt reacted to the second slate of College Football Playing rankings, and he's not thrilled about the \"SEC feedback loop\".",
-      "url": "https://www.foxnews.com/sports/joel-klatt-show-college-football-playoff-second-rankings",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-11T09:31:27-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/1111thumb.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/inside-holocaust-memorial-heart-arab-world-founder-reveals-changed-everything",
-      "title": "Inside Holocaust memorial in heart of Arab world as founder reveals what changed everything",
-      "summary": "Inside Dubai's Crossroads of Civilizations Museum, founder Ahmed Obaid Al Mansoori reveals how a temporary Holocaust tribute became a permanent gallery.",
-      "url": "https://www.foxnews.com/world/inside-holocaust-memorial-heart-arab-world-founder-reveals-changed-everything",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-11T09:24:26-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Holocaust_dubai.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/instagrams-ai-may-catch-teens-lying-about-age",
-      "title": "Instagram's AI may catch teens lying about their age",
-      "summary": "Meta's AI age-estimation technology now scans Instagram accounts worldwide, placing millions of teens into stricter safety settings automatically.",
-      "url": "https://www.foxnews.com/tech/instagrams-ai-may-catch-teens-lying-about-age",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-11T09:20:08-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/florida-social-media-kids-ban-fox-news.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/health-insurance-scams-watch-during-open-enrollment",
-      "title": "Health insurance scams to watch for during open enrollment",
-      "summary": "The FTC sent warning letters to 25 companies over misleading health insurance ads as open enrollment brings a surge of deceptive offers online.",
-      "url": "https://www.foxnews.com/tech/health-insurance-scams-watch-during-open-enrollment",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-11T09:15:59-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/adhd-meds-doctor.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/common-heart-pill-scrutiny-older-patients-study-weighs-risks-stopping",
-      "title": "Common heart pill under scrutiny for older patients as study weighs risks of stopping",
-      "summary": "A new clinical trial found 13% of older adults who stopped statins had a heart attack, stroke or died, compared with 9% who continued treatment.",
-      "url": "https://www.foxnews.com/health/common-heart-pill-scrutiny-older-patients-study-weighs-risks-stopping",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-11T07:00:29-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/woman-taking-statins.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/manchester-united-reportedly-nearing-deal-hire-usa-coach-mauricio-pochettino",
-      "title": "Manchester United Reportedly Nearing Deal To Hire USA Coach Mauricio Pochettino",
-      "summary": "Mauricio Pochettino is leaving the United States men’s national team for Manchester United.",
-      "url": "https://www.foxnews.com/sports/manchester-united-reportedly-nearing-deal-hire-usa-coach-mauricio-pochettino",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-11T03:52:08-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/gettyimages-2298705121-scaled-e1794346895292.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/fears-stars-as-no-5-michigan-state-knocks-off-no-2-duke-7973-in-champions-classic",
-      "title": "Jeremy Fears Jr. Leads No. 5 Michigan State Past No. 2 Duke In Champions Classic",
-      "summary": "Jeremy Fears Jr. had 18 points, 11 assists and seven rebounds as No. 5 Michigan State shut down No. 2 Duke for a rugged 79-73 win.",
-      "url": "https://www.foxnews.com/sports/fears-stars-as-no-5-michigan-state-knocks-off-no-2-duke-7973-in-champions-classic",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-10T22:19:30-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1200/675/gettyimages-2304518439-e1794367144710.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/us-evacuates-13-military-aircraft-second-uk-base-new-iran-threat-raises-alarm",
-      "title": "US evacuates 13 military aircraft from second UK base as new Iran threat raises alarm",
-      "summary": "More than a dozen U.S. Air Force aircraft left RAF Mildenhall after a reported Iran-linked threat triggered the second-highest military alert level.",
-      "url": "https://www.foxnews.com/world/us-evacuates-13-military-aircraft-second-uk-base-new-iran-threat-raises-alarm",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-10T19:53:31-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/us-air-force-kc-135.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
       "id": "yt:uRd_aUt3CcY",
       "title": "LIVE: Iraq Civil War ERUPTING - IRGC To Target Baghdad Leadership",
       "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com 📲 Download Tousi TV app — available on iPhone and Android. X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
@@ -4319,150 +4467,6 @@
       "video_id": "uRd_aUt3CcY"
     },
     {
-      "id": "fox-business:https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
-      "title": "Gas prices fall below $4 a gallon for first time since July",
-      "summary": "AAA data shows the national average gas price dropped below $4 a gallon for the first time in months as winter blend fuel and lower demand ease costs.",
-      "url": "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-10T17:12:23-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/gas-pump-prices-iran-conflict.png",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/american-girl-7-killed-mexican-cartel-operation-mother-blames-police-helicopter-report",
-      "title": "American girl, 7, killed during Mexican cartel operation; mother blames police helicopter: report",
-      "summary": "Aranza Aidelany Pardo's mother says a Tamaulipas state police helicopter fired the shot that killed her 7-year-old during a Gulf Cartel operation.",
-      "url": "https://www.foxnews.com/world/american-girl-7-killed-mexican-cartel-operation-mother-blames-police-helicopter-report",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-10T16:59:56-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/matamoros-mexico-rio-grande-border.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/arch-manning-texas-silencing-doubters",
-      "title": "Arch Manning Is Silencing The Doubters, And Texas Is Reaping The Rewards",
-      "summary": "Arch Manning has faced familiar doubts before. After another slow start, the Texas quarterback is finding his rhythm again — and reminding everyone why expectations were so high.",
-      "url": "https://www.foxnews.com/sports/arch-manning-texas-silencing-doubters",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-10T16:51:35-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/16x9-2026-11-10t121304.225-1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/senior-us-army-soldier-arrested-uk-suspicion-spying-russia",
-      "title": "Senior US Army soldier arrested in UK on suspicion of spying for Russia",
-      "summary": "U.K. police arrested a senior U.S. Army soldier in a Russia-linked espionage probe, drawing a sharp warning from FBI Director Kash Patel.",
-      "url": "https://www.foxnews.com/world/senior-us-army-soldier-arrested-uk-suspicion-spying-russia",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-10T16:51:09-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/metropolitan-police.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/mojtaba-khamenei-aide-chilling-40-years-warning-surfaces-us-push-iran-deal",
-      "title": "Mojtaba Khamenei aide's chilling '40 years' warning surfaces amid US push for Iran deal",
-      "summary": "Mohsen Rezaei once warned that ceasefire talks could last decades, as JD Vance reportedly reached out to him about resuming U.S.-Iran peace talks.",
-      "url": "https://www.foxnews.com/world/mojtaba-khamenei-aide-chilling-40-years-warning-surfaces-us-push-iran-deal",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-10T16:33:04-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Mohsen-Rezaei.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/health/viral-heightmaxxing-trend-teen-boys-taking-cancer-drugs-grow-taller-doctors-warn-risks",
-      "title": "Viral ‘heightmaxxing’ trend has teen boys taking cancer drugs to grow taller, doctors warn of risks",
-      "summary": "Erdafitinib, a cancer medication, is being misused by teens chasing height growth. Medical experts detail the severe risks of the heightmaxxing trend.",
-      "url": "https://www.foxnews.com/health/viral-heightmaxxing-trend-teen-boys-taking-cancer-drugs-grow-taller-doctors-warn-risks",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "health"
-      ],
-      "published": "2026-11-10T16:14:27-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/doctor-measuring-teen-boy.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-health"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/short-seller-flagged-jensen-huangs-uncomfortably-close-ties-alleged-chinese-spy-months-ago",
-      "title": "Short seller flagged Jensen Huang’s 'uncomfortably close' ties to alleged Chinese spy months ago",
-      "summary": "Culper Research flagged Jensen Huang's \"uncomfortably close relationship\" with Alice Huang months before the Nvidia CEO disclosed the affair.",
-      "url": "https://www.foxbusiness.com/markets/short-seller-flagged-jensen-huangs-uncomfortably-close-ties-alleged-chinese-spy-months-ago",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-10T15:41:50-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/alice-huang-jensen-huang-2.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/tv-anchor-found-dead-gunshot-wound-head-officials-arrest-husband",
-      "title": "TV anchor found dead with gunshot wound to head, officials arrest husband",
-      "summary": "The broadcaster’s husband claimed he was playing with a firearm when it discharged inside their home, according to a provincial official",
-      "url": "https://www.foxnews.com/world/tv-anchor-found-dead-gunshot-wound-head-officials-arrest-husband",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-10T14:59:04-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pakistani-anchor-1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/ai-deciding-whos-dangerous-michigan-prisons",
-      "title": "Is AI deciding who's dangerous in Michigan prisons?",
-      "summary": "Michigan's new prison scoring system claims 30% better violence prediction, but Recidiviz says it doesn't actually use AI to classify inmates.",
-      "url": "https://www.foxnews.com/tech/ai-deciding-whos-dangerous-michigan-prisons",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-10T14:30:01-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/michigan-corrections-ai-scoring-1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
       "id": "yt:u3VNZaqPqFI",
       "title": "Facebook Whistleblower Fears Zuckerberg More Than Musk | PBD Podcast #888",
       "summary": "",
@@ -4475,7 +4479,7 @@
       "published": "2026-11-10T00:00:00-06:00",
       "published_precision": "day",
       "published_text": "4 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/u3VNZaqPqFI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAb2wsz60GwZXt17jqmepXWUIuIpQ",
+      "thumbnail": "https://i.ytimg.com/vi/u3VNZaqPqFI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD1Ognsjf5qiicdv34ZQWuddQ62jA",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "u3VNZaqPqFI",
@@ -4615,7 +4619,7 @@
       "published": "2026-11-06T00:00:00-06:00",
       "published_precision": "day",
       "published_text": "8 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/rP1Tr46xhx4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDCI3b5YvBN4syQv98LBt5ddT4Wmg",
+      "thumbnail": "https://i.ytimg.com/vi/rP1Tr46xhx4/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAAD3HoSya_jYFySKuy1irCAcX-PQ",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "rP1Tr46xhx4",
@@ -4653,7 +4657,7 @@
       "published": "2026-10-29T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "2 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/NpjEK5BtjQ0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfJDKusmptNyY4fXEbjugnjLWqGA",
+      "thumbnail": "https://i.ytimg.com/vi/NpjEK5BtjQ0/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLA2HhpRM4Z0q4usJYdPeBdK5RJwnQ",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "NpjEK5BtjQ0",
@@ -4672,7 +4676,7 @@
       "published": "2026-10-27T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "2 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/ChrdIPZKfLI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAkG8lPJj7A9qxKHcqgzg7QrKiMlg",
+      "thumbnail": "https://i.ytimg.com/vi/ChrdIPZKfLI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDa645_ZsuO7Fv4lmWVNYMSs0Fndw",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "ChrdIPZKfLI",
@@ -4691,7 +4695,7 @@
       "published": "2026-10-22T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "3 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/9ja9bgGqlvI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDxmLYdSaZcve2DltxiZT5pttADnQ",
+      "thumbnail": "https://i.ytimg.com/vi/9ja9bgGqlvI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLC2BRR2ooPwNNCmvP2Qqq1AhLpgwA",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "9ja9bgGqlvI",
@@ -4710,29 +4714,29 @@
       "published": "2026-10-20T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "3 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/3UgyPEqnOBE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC0ohLYH64RTF_whymEe4ia7z9-LA",
+      "thumbnail": "https://i.ytimg.com/vi/3UgyPEqnOBE/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD4-vAawtkP6uamN657Pv1ga0575A",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "3UgyPEqnOBE",
       "published_date_text": "Oct 20, 2026"
     },
     {
-      "id": "yt:7GLlKU1Jq7Q",
-      "title": "Logan Paul Reveals the $100 Million Mistake He Made With Prime | PBD Podcast #856",
+      "id": "yt:-ulnlWH7JqQ",
+      "title": "Delta Force Legend Reveals What War Really Does to a Man - John McPhee | PBD Podcast #873",
       "summary": "",
-      "url": "https://www.youtube.com/watch?v=7GLlKU1Jq7Q",
+      "url": "https://www.youtube.com/watch?v=-ulnlWH7JqQ",
       "source": "PBD Podcast",
       "source_id": "pbd-podcast",
       "sections": [
         "video"
       ],
-      "published": "2026-10-15T18:02:32.354294-05:00",
+      "published": "2026-10-18T00:24:16.268209-05:00",
       "published_precision": "relative",
-      "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/7GLlKU1Jq7Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBf-UkE_m1LW5_OXn5znPF02o2s2w",
+      "published_text": "4 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/-ulnlWH7JqQ/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBQpLtMKZYLYUVzLfupsTAS4tYHHw",
       "kind": "video",
       "feed_id": "pbd-podcast",
-      "video_id": "7GLlKU1Jq7Q"
+      "video_id": "-ulnlWH7JqQ"
     },
     {
       "id": "yt:pyihDwVCc_M",
@@ -4906,23 +4910,22 @@
       "published_date_text": "May 3, 2026"
     },
     {
-      "id": "yt:x3b2n1HkILM",
-      "title": "Mahyar Tousi On Fox News: How IRGC Tricked Tucker Carlson",
+      "id": "yt:tWj9wMonsJs",
+      "title": "Mahyar Tousi On Fox News: Regime Change In Iran Explained",
       "summary": "",
-      "url": "https://www.youtube.com/watch?v=x3b2n1HkILM",
+      "url": "https://www.youtube.com/watch?v=tWj9wMonsJs",
       "source": "Tousi TV",
       "source_id": "tousi-tv",
       "sections": [
         "video"
       ],
-      "published": "2026-04-11T00:00:00-05:00",
-      "published_precision": "day",
+      "published": "2026-04-19T00:24:10.276979-05:00",
+      "published_precision": "relative",
       "published_text": "7 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/x3b2n1HkILM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCRddOm_yDAhS9ojyEauIPpeUZr7A",
+      "thumbnail": "https://i.ytimg.com/vi/tWj9wMonsJs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLcKW4h-FeL6dpXSXc9SuhSjrJuw",
       "kind": "video",
       "feed_id": "tousi-tv",
-      "video_id": "x3b2n1HkILM",
-      "published_date_text": "Apr 11, 2026"
+      "video_id": "tWj9wMonsJs"
     }
   ],
   "status": [
@@ -4933,7 +4936,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:03.184586-06:00",
+      "checked": "2026-11-15T00:24:03.906985-06:00",
       "error": null
     },
     {
@@ -4943,7 +4946,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:03.391207-06:00",
+      "checked": "2026-11-15T00:24:04.035745-06:00",
       "error": null
     },
     {
@@ -4953,7 +4956,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:03.517743-06:00",
+      "checked": "2026-11-15T00:24:04.053693-06:00",
       "error": null
     },
     {
@@ -4963,7 +4966,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:03.627641-06:00",
+      "checked": "2026-11-15T00:24:04.069681-06:00",
       "error": null
     },
     {
@@ -4973,7 +4976,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:03.734856-06:00",
+      "checked": "2026-11-15T00:24:04.083663-06:00",
       "error": null
     },
     {
@@ -4983,7 +4986,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:03.839300-06:00",
+      "checked": "2026-11-15T00:24:04.095072-06:00",
       "error": null
     },
     {
@@ -4993,7 +4996,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:03.962106-06:00",
+      "checked": "2026-11-15T00:24:04.111275-06:00",
       "error": null
     },
     {
@@ -5003,7 +5006,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:04.069173-06:00",
+      "checked": "2026-11-15T00:24:04.128437-06:00",
       "error": null
     },
     {
@@ -5013,7 +5016,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:04.368928-06:00",
+      "checked": "2026-11-15T00:24:04.175794-06:00",
       "error": null
     },
     {
@@ -5023,7 +5026,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:04.583833-06:00",
+      "checked": "2026-11-15T00:24:04.200022-06:00",
       "error": null
     },
     {
@@ -5033,7 +5036,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:04.824300-06:00",
+      "checked": "2026-11-15T00:24:04.249273-06:00",
       "error": null
     },
     {
@@ -5043,7 +5046,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:04.949383-06:00",
+      "checked": "2026-11-15T00:24:04.299204-06:00",
       "error": null
     },
     {
@@ -5053,7 +5056,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-14T18:02:05.226947-06:00",
+      "checked": "2026-11-15T00:24:04.323544-06:00",
       "error": null
     },
     {
@@ -5064,7 +5067,7 @@
       "ok": true,
       "count": 30,
       "http": "404,200",
-      "checked": "2026-11-14T18:02:05.398513-06:00",
+      "checked": "2026-11-15T00:24:04.347373-06:00",
       "error": null,
       "method": "youtube-channel-page"
     },
@@ -5076,7 +5079,7 @@
       "ok": true,
       "count": 30,
       "http": "404,200",
-      "checked": "2026-11-14T18:02:19.083088-06:00",
+      "checked": "2026-11-15T00:24:10.277118-06:00",
       "error": null,
       "method": "youtube-channel-page"
     }
