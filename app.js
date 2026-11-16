@@ -13,8 +13,12 @@
     { id: "tech", label: "Tech" },
     { id: "sports", label: "Sports" },
     { id: "video", label: "Video / Shows" },
-    { id: "saved", label: "Saved" }
+    { id: "saved", label: "Saved" },
+    { id: "about", label: "About" }
   ];
+
+  const NEUTRAL_SOURCES = ["ap", "reuters", "newsnation"];
+  const TOP_STORY_CAP = 10;
 
   const state = {
     data: null,
@@ -75,9 +79,13 @@
       const u = new URL(url);
       if (u.protocol !== "https:" && u.protocol !== "http:") return false;
       let host = u.hostname.toLowerCase().replace(/^www\./, "");
+      const blocked = ["cnn.com", "msn.com", "msnbc.com"];
+      if (blocked.some((h) => host === h || host.endsWith("." + h))) return false;
       const ok = extra.concat([
         "foxnews.com", "foxbusiness.com", "fncstatic.com",
-        "youtube.com", "youtu.be", "ytimg.com"
+        "youtube.com", "youtu.be", "ytimg.com",
+        "apnews.com", "reuters.com", "newsnationnow.com",
+        "news.google.com", "flipboard.com"
       ]);
       return ok.some((h) => host === h || host.endsWith("." + h));
     } catch (e) {
@@ -150,17 +158,69 @@
     return "Last updated " + formatExact(d);
   }
 
+
+  function aboutPage() {
+    const box = el("section", { class: "about" });
+    box.appendChild(el("h2", { text: "About News Tracker" }));
+    box.appendChild(el("p", { text: "This app lists headlines from Fox News, Fox Business, the Associated Press, Reuters, NewsNation, Tousi TV and the PBD Podcast. Each card shows the source’s headline, summary, time and link. The app does not add commentary or invent stories." }));
+    box.appendChild(el("h3", { text: "Bias ratings" }));
+    box.appendChild(el("p", { text: "AllSides, an independent media-bias rater, was checked on Nov 15, 2026. It rates Reuters as Center and NewsNation as Center, and it rates the Associated Press as Lean Left. Those ratings are for online news coverage, not TV. Because the Associated Press is not rated Center, this app does not describe all three as center-rated." }));
+    const allsides = el("p");
+    allsides.appendChild(document.createTextNode("AllSides pages: "));
+    const links = [
+      ["Associated Press", "https://www.allsides.com/news-source/associated-press-media-bias"],
+      ["Reuters", "https://www.allsides.com/news-source/reuters-media-bias"],
+      ["NewsNation", "https://www.allsides.com/news-source/newsnation-media-bias"]
+    ];
+    links.forEach((pair, i) => {
+      if (i) allsides.appendChild(document.createTextNode(", "));
+      allsides.appendChild(el("a", { href: pair[1], target: "_blank", rel: "noopener noreferrer", text: pair[0] }));
+    });
+    allsides.appendChild(document.createTextNode("."));
+    box.appendChild(allsides);
+    box.appendChild(el("h3", { text: "The Neutral filter" }));
+    box.appendChild(el("p", { text: "The Neutral filter shows Associated Press, Reuters and NewsNation together, so you can read those outlets side by side with Fox News, Fox Business, Tousi TV and the PBD Podcast. You can also tap AP, Reuters or NewsNation alone." }));
+    box.appendChild(el("h3", { text: "Where the headlines come from" }));
+    const ul = el("ul");
+    [
+      "Fox News and Fox Business: official RSS feeds on moxie.foxnews.com and moxie.foxbusiness.com.",
+      "Associated Press: AP no longer publishes a working public RSS feed on apnews.com. This app uses AP’s official Flipboard magazines. Each card opens the article on apnews.com.",
+      "Reuters: Reuters ended its public RSS feeds in 2020. This app uses a Google News RSS search limited to reuters.com. Each card opens the Reuters article through Google News, not through MSN or another aggregator.",
+      "NewsNation: official RSS feeds on newsnationnow.com.",
+      "Tousi TV and the PBD Podcast: official YouTube channels."
+    ].forEach((line) => ul.appendChild(el("li", { text: line })));
+    box.appendChild(ul);
+    box.appendChild(el("p", { text: "This app does not use CNN, MSN or MSNBC. Times are shown in Central Time. Saved stories stay on this device only. Fox News does not publish a Texas or DFW RSS feed, so that section is not included. Top Stories keeps a cap of the newest stories from each source so one outlet cannot fill the whole list." }));
+    return box;
+  }
+
   function currentItems(now) {
     const q = state.query.trim().toLowerCase();
     let items;
     if (state.section === "saved") {
       items = state.saved.slice();
+    } else if (state.section === "about") {
+      items = [];
     } else if (state.section === "top") {
       items = (state.data && state.data.items) || [];
     } else {
       items = ((state.data && state.data.items) || []).filter((it) => (it.sections || []).includes(state.section));
     }
-    if (state.source !== "all") items = items.filter((it) => it.source_id === state.source);
+    if (state.source === "neutral") {
+      items = items.filter((it) => NEUTRAL_SOURCES.includes(it.source_id));
+    } else if (state.source !== "all") {
+      items = items.filter((it) => it.source_id === state.source);
+    }
+    if (state.section === "top" && (state.source === "all" || state.source === "neutral")) {
+      const counts = {};
+      items = items.filter((it) => {
+        const sid = it.source_id || "other";
+        const n = counts[sid] || 0;
+        if (n >= TOP_STORY_CAP) return false;
+        counts[sid] = n + 1;
+        return true;
+      });
+    }
     if (state.lastHourOnly) items = items.filter((it) => isLastHour(it, now));
     if (q) {
       items = items.filter((it) => {
@@ -236,7 +296,13 @@
     link.appendChild(body);
     node.appendChild(link);
     const actions = el("div", { class: "card-actions" });
-    actions.appendChild(el("span", { class: "open-hint", text: href ? (item.kind === "video" ? "Opens the video on YouTube" : "Opens the article on the source’s site") : "Link not available" }));
+    let hint = "Link not available";
+    if (href) {
+      if (item.kind === "video") hint = "Opens the video on YouTube";
+      else if (item.via === "google-news") hint = "Opens the " + (item.source || "publisher") + " article through Google News";
+      else hint = "Opens the article on the source’s site";
+    }
+    actions.appendChild(el("span", { class: "open-hint", text: hint }));
     const saveBtn = el("button", {
       type: "button",
       class: "save",
@@ -300,6 +366,10 @@
 
     const items = currentItems(now);
     const sectionLabel = (SECTIONS.find((s) => s.id === state.section) || {}).label || "";
+    if (state.section === "about") {
+      main.appendChild(aboutPage());
+      return;
+    }
     if (!state.data && !items.length) {
       main.appendChild(el("p", { class: "loading", text: "Loading headlines…" }));
       return;
@@ -331,7 +401,7 @@
     }
 
     const note = el("footer", { class: "note" });
-    note.appendChild(document.createTextNode("Headlines, summaries and times are shown as published by Fox News, Fox Business, Tousi TV and the PBD Podcast. This app does not add commentary. Saved stories stay on this device only. Fox News does not publish a Texas or DFW RSS feed, so that section is not included."));
+    note.appendChild(document.createTextNode("Headlines, summaries and times are shown as published by each source. This app does not add commentary. Saved stories stay on this device only. See About for source details."));
     main.appendChild(note);
   }
 

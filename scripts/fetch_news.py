@@ -21,7 +21,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "news.json"
-MAX_ITEMS = 300
+MAX_ITEMS = 400
 TZ = ZoneInfo("America/Chicago")
 UA = "NewsTracker/1.0 (personal news reader; +https://phillipalvaranga-arch.github.io/news-tracker/)"
 CTX = ssl.create_default_context()
@@ -79,12 +79,82 @@ YOUTUBE = [
      "sections": ["video"], "kind": "video"},
 ]
 
+# Official AP Flipboard magazines (AP runs this Flipboard account; items link to apnews.com).
+# apnews.com has no working public RSS feed (official .rss paths are disallowed / return 403).
+AP_FEEDS = [
+    {"id": "ap-top", "name": "AP — Top Stories", "source": "Associated Press", "source_id": "ap",
+     "url": "https://flipboard.com/@associatedpress/top-stories-u7govdf1z.rss", "sections": ["latest"], "kind": "article"},
+    {"id": "ap-us", "name": "AP — U.S.", "source": "Associated Press", "source_id": "ap",
+     "url": "https://flipboard.com/@associatedpress/u.s.-news-lhl4uphvz.rss", "sections": ["us"], "kind": "article"},
+    {"id": "ap-world", "name": "AP — World", "source": "Associated Press", "source_id": "ap",
+     "url": "https://flipboard.com/@associatedpress/international-news-miluvhmaz.rss", "sections": ["world"], "kind": "article"},
+    {"id": "ap-politics", "name": "AP — Politics", "source": "Associated Press", "source_id": "ap",
+     "url": "https://flipboard.com/@associatedpress/politics-h8vn14lnz.rss", "sections": ["politics"], "kind": "article"},
+    {"id": "ap-business", "name": "AP — Business", "source": "Associated Press", "source_id": "ap",
+     "url": "https://flipboard.com/@associatedpress/business-and-finance-pbj3bpclz.rss", "sections": ["business"], "kind": "article"},
+    {"id": "ap-tech", "name": "AP — Technology", "source": "Associated Press", "source_id": "ap",
+     "url": "https://flipboard.com/@associatedpress/technology-uvt65hdqz.rss", "sections": ["tech"], "kind": "article"},
+    {"id": "ap-health", "name": "AP — Health", "source": "Associated Press", "source_id": "ap",
+     "url": "https://flipboard.com/@associatedpress/health-l59qepnvz.rss", "sections": ["health"], "kind": "article"},
+    {"id": "ap-sports", "name": "AP — Sports", "source": "Associated Press", "source_id": "ap",
+     "url": "https://flipboard.com/@associatedpress/sports-uv5v9mtcz.rss", "sections": ["sports"], "kind": "article"},
+]
+
+# Reuters discontinued public RSS in 2020. Google News RSS limited to reuters.com is the working option.
+# Card links go through Google News and open the Reuters article. Do not use MSN or other aggregators.
+GN = "https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
+REUTERS_FEEDS = [
+    {"id": "reuters-latest", "name": "Reuters — Latest", "source": "Reuters", "source_id": "reuters",
+     "url": GN.format(q="when:24h+site:reuters.com"), "sections": ["latest"], "kind": "article", "via": "google-news"},
+    {"id": "reuters-us", "name": "Reuters — U.S.", "source": "Reuters", "source_id": "reuters",
+     "url": GN.format(q="when:24h+site:reuters.com/world/us"), "sections": ["us"], "kind": "article", "via": "google-news"},
+    {"id": "reuters-world", "name": "Reuters — World", "source": "Reuters", "source_id": "reuters",
+     "url": GN.format(q="when:24h+site:reuters.com/world"), "sections": ["world"], "kind": "article", "via": "google-news"},
+    {"id": "reuters-business", "name": "Reuters — Business", "source": "Reuters", "source_id": "reuters",
+     "url": GN.format(q="when:24h+site:reuters.com/business"), "sections": ["business"], "kind": "article", "via": "google-news"},
+    {"id": "reuters-markets", "name": "Reuters — Markets", "source": "Reuters", "source_id": "reuters",
+     "url": GN.format(q="when:24h+site:reuters.com/markets"), "sections": ["business"], "kind": "article", "via": "google-news"},
+    {"id": "reuters-tech", "name": "Reuters — Technology", "source": "Reuters", "source_id": "reuters",
+     "url": GN.format(q="when:7d+site:reuters.com/technology"), "sections": ["tech"], "kind": "article", "via": "google-news"},
+    {"id": "reuters-health", "name": "Reuters — Health", "source": "Reuters", "source_id": "reuters",
+     "url": GN.format(q="when:7d+site:reuters.com/business/healthcare-pharmaceuticals"), "sections": ["health"], "kind": "article", "via": "google-news"},
+    {"id": "reuters-sports", "name": "Reuters — Sports", "source": "Reuters", "source_id": "reuters",
+     "url": GN.format(q="when:24h+site:reuters.com/sports"), "sections": ["sports"], "kind": "article", "via": "google-news"},
+]
+
+# Official NewsNation RSS. Tech and sports section feeds were empty when checked.
+NN_FEEDS = [
+    {"id": "nn-latest", "name": "NewsNation — Latest", "source": "NewsNation", "source_id": "newsnation",
+     "url": "https://www.newsnationnow.com/feed/", "sections": ["latest"], "kind": "article"},
+    {"id": "nn-us", "name": "NewsNation — U.S.", "source": "NewsNation", "source_id": "newsnation",
+     "url": "https://www.newsnationnow.com/us-news/feed/", "sections": ["us"], "kind": "article"},
+    {"id": "nn-world", "name": "NewsNation — World", "source": "NewsNation", "source_id": "newsnation",
+     "url": "https://www.newsnationnow.com/world/feed/", "sections": ["world"], "kind": "article"},
+    {"id": "nn-politics", "name": "NewsNation — Politics", "source": "NewsNation", "source_id": "newsnation",
+     "url": "https://www.newsnationnow.com/politics/feed/", "sections": ["politics"], "kind": "article"},
+    {"id": "nn-business", "name": "NewsNation — Business", "source": "NewsNation", "source_id": "newsnation",
+     "url": "https://www.newsnationnow.com/business/feed/", "sections": ["business"], "kind": "article"},
+    {"id": "nn-health", "name": "NewsNation — Health", "source": "NewsNation", "source_id": "newsnation",
+     "url": "https://www.newsnationnow.com/health/feed/", "sections": ["health"], "kind": "article"},
+]
+
+RSS_FEEDS = FOX_FEEDS + AP_FEEDS + REUTERS_FEEDS + NN_FEEDS
+
 ALLOWED_ARTICLE_HOSTS = (
     "foxnews.com", "foxbusiness.com",
+    "apnews.com",
+    "reuters.com",
+    "newsnationnow.com",
+    "news.google.com",  # Reuters items only; fetcher also checks the RSS <source>
 )
 ALLOWED_THUMB_HOSTS = (
     "foxnews.com", "foxbusiness.com", "fncstatic.com",
     "ytimg.com", "youtube.com",
+    "apnews.com", "flipboard.com",
+    "newsnationnow.com",
+)
+BLOCKED_HOSTS = (
+    "cnn.com", "msn.com", "msnbc.com",
 )
 
 
@@ -155,13 +225,27 @@ def first_attr(el, paths, attr: str) -> str:
     return ""
 
 
+def _host(url: str) -> str:
+    from urllib.parse import urlparse
+    host = (urlparse(url).hostname or "").lower()
+    if host.startswith("www."):
+        host = host[4:]
+    return host
+
+
+def host_blocked(url: str) -> bool:
+    try:
+        host = _host(url)
+        return any(host == h or host.endswith("." + h) for h in BLOCKED_HOSTS)
+    except Exception:
+        return True
+
+
 def host_ok(url: str, allowed: tuple[str, ...]) -> bool:
     try:
-        from urllib.parse import urlparse
-        host = urlparse(url).hostname or ""
-        host = host.lower()
-        if host.startswith("www."):
-            host = host[4:]
+        if host_blocked(url):
+            return False
+        host = _host(url)
         return any(host == h or host.endswith("." + h) for h in allowed)
     except Exception:
         return False
@@ -200,31 +284,71 @@ def parse_rss_date(value: str) -> str | None:
         return None
 
 
-def parse_fox_feed(xml_bytes: bytes, feed: dict) -> list[dict]:
+def clean_title(title: str, feed: dict) -> str:
+    if feed.get("source_id") == "reuters":
+        title = re.sub(r"\s+-\s+Reuters\s*$", "", title, flags=re.I).strip()
+    return title
+
+
+def rss_source_host(item) -> str:
+    node = item.find("source")
+    if node is not None and node.get("url"):
+        return _host(node.get("url"))
+    return ""
+
+
+def parse_rss_feed(xml_bytes: bytes, feed: dict) -> list[dict]:
     root = ET.fromstring(xml_bytes)
     items = []
+    via = feed.get("via")
+    expected = None
+    if feed["source_id"] == "ap":
+        expected = "apnews.com"
+    elif feed["source_id"] == "reuters":
+        expected = "reuters.com"
+    elif feed["source_id"] == "newsnation":
+        expected = "newsnationnow.com"
     for item in root.findall("./channel/item"):
-        title = htmlmod.unescape(xml_text(item, "title"))
-        link = xml_text(item, "link") or xml_text(item, "guid")
+        title = clean_title(htmlmod.unescape(xml_text(item, "title")), feed)
+        link = (xml_text(item, "link") or xml_text(item, "guid")).strip()
         if not title or not link:
             continue
-        if not host_ok(link, ALLOWED_ARTICLE_HOSTS):
+        if host_blocked(link):
             continue
+        if via == "google-news":
+            # Keep only items whose Google News <source> is the intended publisher.
+            src_host = rss_source_host(item)
+            if expected and src_host and src_host != expected and not src_host.endswith("." + expected):
+                continue
+            if not host_ok(link, ("news.google.com",)):
+                continue
+        else:
+            if not host_ok(link, ALLOWED_ARTICLE_HOSTS):
+                continue
+            if expected and not host_ok(link, (expected,)):
+                continue
         summary = shorten(strip_html(xml_text(item, "description")))
+        # Google News descriptions are just a repeated headline link; don't treat that as a summary.
+        if via == "google-news":
+            summary = ""
         published = parse_rss_date(xml_text(item, "pubDate"))
         thumb = first_attr(
             item,
             ["./media:content", "./media:thumbnail", "./media:group/media:content", "./media:group/media:thumbnail"],
             "url",
         )
+        if not thumb:
+            enc = item.find("enclosure")
+            if enc is not None and enc.get("url") and (enc.get("type") or "").startswith("image"):
+                thumb = enc.get("url")
         if thumb and not host_ok(thumb, ALLOWED_THUMB_HOSTS):
             thumb = None
         url = canon_url(link)
-        items.append({
+        rec = {
             "id": f"{feed['source_id']}:{url}",
             "title": title,
             "summary": summary,
-            "url": link.strip(),
+            "url": url,
             "source": feed["source"],
             "source_id": feed["source_id"],
             "sections": list(feed["sections"]),
@@ -233,8 +357,15 @@ def parse_fox_feed(xml_bytes: bytes, feed: dict) -> list[dict]:
             "thumbnail": thumb or None,
             "kind": "article",
             "feed_id": feed["id"],
-        })
+        }
+        if via:
+            rec["via"] = via
+        items.append(rec)
     return items
+
+
+def parse_fox_feed(xml_bytes: bytes, feed: dict) -> list[dict]:
+    return parse_rss_feed(xml_bytes, feed)
 
 
 def parse_youtube_atom(xml_bytes: bytes, chan: dict) -> list[dict]:
@@ -537,8 +668,23 @@ def merge_items(existing: list, incoming: list) -> list:
             counts[sid] = n + 1
     guaranteed = [it for it in items if it["id"] in guaranteed_ids]
     rest = [it for it in items if it["id"] not in guaranteed_ids]
-    room = max(0, MAX_ITEMS - len(guaranteed))
-    chosen = guaranteed + rest[:room]
+    # After the per-source floor, cap how many items any one source can keep
+    # so a busy feed cannot fill most of the file.
+    max_per_source = 60
+    counts = {}
+    for it in guaranteed:
+        sid = it.get("source_id") or "other"
+        counts[sid] = counts.get(sid, 0) + 1
+    extras = []
+    for it in rest:
+        sid = it.get("source_id") or "other"
+        if counts.get(sid, 0) >= max_per_source:
+            continue
+        extras.append(it)
+        counts[sid] = counts.get(sid, 0) + 1
+        if len(guaranteed) + len(extras) >= MAX_ITEMS:
+            break
+    chosen = guaranteed + extras
     chosen.sort(key=sort_key, reverse=True)
     return chosen
 
@@ -559,14 +705,14 @@ def main() -> int:
     incoming = []
     status = []
 
-    for feed in FOX_FEEDS:
+    for feed in RSS_FEEDS:
         entry = {"id": feed["id"], "name": feed["name"], "url": feed["url"], "ok": False,
                  "count": 0, "http": None, "checked": to_iso(now_ct()), "error": None}
         try:
             code, body, ctype = fetch_bytes(feed["url"])
             entry["http"] = code
             if code == 200 and body and b"<item" in body:
-                items = parse_fox_feed(body, feed)
+                items = parse_rss_feed(body, feed)
                 entry["count"] = len(items)
                 entry["ok"] = True
                 incoming.extend(items)
@@ -621,12 +767,16 @@ def main() -> int:
         "sources": [
             {"id": "fox-news", "name": "Fox News", "site": "https://www.foxnews.com/"},
             {"id": "fox-business", "name": "Fox Business", "site": "https://www.foxbusiness.com/"},
+            {"id": "ap", "name": "Associated Press", "site": "https://apnews.com/", "group": "neutral"},
+            {"id": "reuters", "name": "Reuters", "site": "https://www.reuters.com/", "group": "neutral"},
+            {"id": "newsnation", "name": "NewsNation", "site": "https://www.newsnationnow.com/", "group": "neutral"},
             {"id": "tousi-tv", "name": "Tousi TV", "site": "https://www.youtube.com/@tousitv"},
             {"id": "pbd-podcast", "name": "PBD Podcast", "site": "https://www.youtube.com/@pbdpodcast"},
         ],
         "notes": [
             "Headlines, summaries and times come from the source feeds or the official source pages. This file does not add commentary.",
             "Fox News does not publish a Texas or DFW RSS feed at moxie.foxnews.com, so that section is not included.",
+            "AllSides, checked on Nov 15, 2026, rates Reuters and NewsNation as Center and the Associated Press as Lean Left, for online news coverage.",
         ],
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)

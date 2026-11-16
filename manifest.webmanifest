@@ -1,7 +1,7 @@
 {
   "name": "News Tracker",
   "short_name": "News Tracker",
-  "description": "Headlines from Fox News, Fox Business, Tousi TV and the PBD Podcast.",
+  "description": "Headlines from Fox News, Fox Business, the Associated Press, Reuters, NewsNation, Tousi TV and the PBD Podcast.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

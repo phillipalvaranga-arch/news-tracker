@@ -142,6 +142,9 @@ html[data-theme="dark"] .thumb { background: #222838; }
 .badge.fox-business { background: #16305f; color: #fff; }
 .badge.tousi-tv { background: #7a1f2b; color: #fff; }
 .badge.pbd-podcast { background: #1e3a5f; color: #fff; }
+.badge.ap { background: #8b1e1e; color: #fff; }
+.badge.reuters { background: #d35400; color: #fff; }
+.badge.newsnation { background: #0e4d6b; color: #fff; }
 .badge.hour { background: var(--red); color: #fff; }
 .card h2 {
   margin: 0; font-size: 1.08rem; line-height: 1.35; font-weight: 700;
@@ -172,6 +175,13 @@ html[data-theme="dark"] .thumb { background: #222838; }
 html[data-theme="dark"] .ok { color: #6dca8a; }
 .fail { color: var(--red); }
 footer.note { margin-top: 28px; color: var(--muted); font-size: 0.85rem; line-height: 1.5; }
+.about { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 18px 8px; box-shadow: var(--shadow); max-width: 720px; }
+.about h2 { margin: 0 0 10px; font-size: 1.2rem; }
+.about h3 { margin: 18px 0 8px; font-size: 1rem; }
+.about p, .about li { color: var(--muted); font-size: 0.98rem; line-height: 1.5; }
+.about ul { margin: 0 0 12px; padding-left: 1.2rem; }
+.about a { color: inherit; }
+
 
 @media (max-width: 600px) {
   .top { gap: 8px; padding-left: 12px; padding-right: 12px; }
