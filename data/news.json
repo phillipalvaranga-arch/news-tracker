@@ -1,8 +1,269 @@
 {
-  "updated": "2026-11-15T17:41:11.796828-06:00",
+  "updated": "2026-11-15T21:09:49.098557-06:00",
   "timezone": "America/Chicago",
   "item_count": 300,
   "items": [
+    {
+      "id": "fox-business:https://www.foxbusiness.com/technology/new-york-hit-lawsuit-over-states-new-social-media-warning-label-law",
+      "title": "New York hit with lawsuit over state's new social media warning label law",
+      "summary": "NetChoice sued over New York's social media law, arguing it blocks protected speech by forcing users to view warnings about mental health harms.",
+      "url": "https://www.foxbusiness.com/technology/new-york-hit-lawsuit-over-states-new-social-media-warning-label-law",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business",
+        "tech"
+      ],
+      "published": "2026-11-15T21:57:34-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/teens-using-phones.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-technology"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/49ers-offense-580-yards-bad-cowboys-defense-christian-mccaffrey-masterclass",
+      "title": "49ers offense puts up over 580 yards against a bad Cowboys defense behind a Christian McCaffrey masterclass",
+      "summary": "Kaelon Black's bulldozing TD and Deebo Samuel's 70-yard reverse blew open a tight game as the San Francisco 49ers torched Dallas for 584 yards.",
+      "url": "https://www.foxnews.com/outkick-sports/49ers-offense-580-yards-bad-cowboys-defense-christian-mccaffrey-masterclass",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T21:44:53-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/deebo-samuel-touchdown-cowboys-49ers.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/mike-vrabel-doesnt-want-patriots-bitch-complain-bitches-complains-players",
+      "title": "Mike Vrabel doesn't want Patriots to 'b---h and complain' but he b----es and complains about his players a lot",
+      "summary": "Mike Vrabel says winners don't complain, but his post-loss press conference in Munich told a very different story after the Patriots' 35-10 defeat.",
+      "url": "https://www.foxnews.com/outkick-sports/mike-vrabel-doesnt-want-patriots-bitch-complain-bitches-complains-players",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T21:33:59-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/nfl-patriots-mike-vrabel-012626-1.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/young-paraglider-dies-after-reported-emergency-sends-him-crashing-field-during-illinois-flight",
+      "title": "Young paraglider dies after reported emergency sends him crashing into field during Illinois flight",
+      "summary": "Officials are investigating a fatal paragliding incident involving a 21-year-old man from a Chicago suburb who shared his aerial adventures and daring stunts online.",
+      "url": "https://www.foxnews.com/us/young-paraglider-dies-after-reported-emergency-sends-him-crashing-field-during-illinois-flight",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "us"
+      ],
+      "published": "2026-11-15T21:33:45-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/paraglider-1.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue",
+      "title": "Pete Buttigieg breaks with Democrats on student loan handouts, admits party ‘overtorqued’ on issue",
+      "summary": "Pete Buttigieg said the Democratic Party \"overtorqued\" on student loans, admitting that he struggles to justify loan forgiveness to non-college relatives.",
+      "url": "https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T21:07:33-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pete-buttigeg-american-flag-rally.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/raiders-fans-stayed-seated-fernando-mendoza-scored-wheelchair-bound-mom-could-see-him-celebrate",
+      "title": "Raiders fans stayed seated when Fernando Mendoza scored so his wheelchair bound mom could see him celebrate",
+      "summary": "Las Vegas Raiders fans stayed seated after Fernando Mendoza's first NFL touchdown so his mother, who battles multiple sclerosis, could watch.",
+      "url": "https://www.foxnews.com/outkick-sports/raiders-fans-stayed-seated-fernando-mendoza-scored-wheelchair-bound-mom-could-see-him-celebrate",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T21:02:11-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/fernando-mendoza-throws-raiders-seahawks.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80",
+      "title": "Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80",
+      "summary": "The Guadalajara cartel boss convicted in DEA agent Enrique \"Kiki\" Camarena's murder died at 80, decades after the killing triggered Operation Leyenda.",
+      "url": "https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "world"
+      ],
+      "published": "2026-11-15T20:54:06-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/miguel-angel-felix-gallardo-mugshot-mexican-soldiers.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-world"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/lane-kiffin-blames-lsu-40-million-roster-loss-texas-better-rosters",
+      "title": "Lane Kiffin blames LSU's $40+ million roster after loss to Texas: 'we'll have better rosters’",
+      "summary": "Lane Kiffin blamed LSU's roster after losing to the Texas Longhorns despite forcing three Arch Manning interceptions and dominating key stats.",
+      "url": "https://www.foxnews.com/outkick-sports/lane-kiffin-blames-lsu-40-million-roster-loss-texas-better-rosters",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T20:39:03-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lane-kiffin-lsu-tigers-football-baton-rouge.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/massive-fire-erupts-outside-metlife-stadium-bills-defeat-jets-week-10",
+      "title": "Massive fire erupts outside MetLife Stadium after Bills defeat Jets in Week 10",
+      "summary": "Video shows flames and thick black smoke billowing over MetLife Stadium near the adjacent train station after the Bills' 31-12 win over the Jets.",
+      "url": "https://www.foxnews.com/outkick-sports/massive-fire-erupts-outside-metlife-stadium-bills-defeat-jets-week-10",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T20:32:42-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/new-york-jets-metlife-stadium.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/nfl-legends-son-makes-incredible-one-handed-catch-help-high-school-win-championship-pennsylvania",
+      "title": "NFL legend's son makes incredible one-handed catch to help high school win championship in Pennsylvania",
+      "summary": "Jett Harrison's stunning one-handed catch helped St. Joseph's Prep win the Philadelphia Catholic League title against the school his father attended.",
+      "url": "https://www.foxnews.com/outkick-sports/nfl-legends-son-makes-incredible-one-handed-catch-help-high-school-win-championship-pennsylvania",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T20:18:12-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/xxavier-thomas-jett-harrison-piaa-championship.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/russell-brands-wife-opens-up-after-comedians-rape-conviction-shares-message-from-imprisoned-husband",
+      "title": "Russell Brand’s wife opens up after comedian’s rape conviction, shares message from imprisoned husband",
+      "summary": "Laura Brand appeared alone on the couple's weekly Sunday Service YouTube vlog, sharing a message Russell Brand asked her to read from prison.",
+      "url": "https://www.foxnews.com/entertainment/russell-brands-wife-opens-up-after-comedians-rape-conviction-shares-message-from-imprisoned-husband",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T20:08:25-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/russell-brand-laura.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/seahawks-receiver-tory-horton-made-one-smartest-plays-youll-ever-see-seattles-win-las-vegas",
+      "title": "Seahawks receiver Tory Horton made one of the smartest plays you'll ever see in Seattle's win over Las Vegas",
+      "summary": "Tory Horton's brilliant kickoff swat burned critical seconds off the clock and triggered the two-minute warning in the Seattle Seahawks' win.",
+      "url": "https://www.foxnews.com/outkick-sports/seahawks-receiver-tory-horton-made-one-smartest-plays-youll-ever-see-seattles-win-las-vegas",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T20:05:53-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tory-horton-touchdown-seahawks-saints.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/milaysia-fulwiley-denies-police-account-baton-rouge-arrest-cop-literally-lying",
+      "title": "MiLaysia Fulwiley denies police account after Baton Rouge arrest, says 'the cop is literally lying'",
+      "summary": "MiLaysia Fulwiley faces five charges including aggravated battery after allegedly striking a Baton Rouge officer with her car during a traffic stop.",
+      "url": "https://www.foxnews.com/outkick-sports/milaysia-fulwiley-denies-police-account-baton-rouge-arrest-cop-literally-lying",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T20:05:48-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lsu-milaysia-fulwiley-3.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/marshals-star-luke-grimes-admits-he-worried-about-doing-yellowstone-spinoff-without-on-screen-wife",
+      "title": "'Marshals' star Luke Grimes admits he was 'worried' about doing 'Yellowstone' spinoff without on-screen wife",
+      "summary": "Luke Grimes says doing \"Marshals\" without Kelsey Asbille was his biggest worry, admitting he couldn't picture Kayce Dutton without Monica.",
+      "url": "https://www.foxnews.com/entertainment/marshals-star-luke-grimes-admits-he-worried-about-doing-yellowstone-spinoff-without-on-screen-wife",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-15T20:00:10-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/luke-and-kelsey.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/world/blinken-warns-us-ground-invasion-iran-would-be-disaster-tehran-escalates-attacks",
+      "title": "Blinken warns US ground invasion of Iran would be 'absolute disaster' as Tehran escalates attacks",
+      "summary": "Former Secretary of State Antony Blinken warned a U.S. ground invasion of Iran would be an \"absolute disaster\" as Tehran launched drones at Bahrain.",
+      "url": "https://www.foxnews.com/world/blinken-warns-us-ground-invasion-iran-would-be-disaster-tehran-escalates-attacks",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "world"
+      ],
+      "published": "2026-11-15T19:17:38-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/blinken-iran.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-world"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/world/tiktoker-arrested-big-cat-mauls-teen-death-video-shoot-private-farm",
+      "title": "TikToker arrested after big cat mauls teen to death during video shoot at private farm",
+      "summary": "A TikToker and farm owner were arrested after a big cat fatally mauled a teenage worker during a video shoot in Pakistan, Lahore officials said.",
+      "url": "https://www.foxnews.com/world/tiktoker-arrested-big-cat-mauls-teen-death-video-shoot-private-farm",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "world"
+      ],
+      "published": "2026-11-15T19:14:22-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pakistan-tiger-attack.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-world"
+    },
     {
       "id": "yt:Eaf2MMYyGts",
       "title": "Nvidia's Scandal BURIED the Midterms",
@@ -3610,8 +3871,8 @@
       ],
       "published": "2026-11-13T18:56:28+00:00",
       "published_precision": "minute",
-      "published_text": "1 day ago",
-      "thumbnail": "https://i3.ytimg.com/vi/J-weHQRVmHw/hqdefault.jpg",
+      "published_text": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/J-weHQRVmHw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcLGc6DKhNCfbHoTSjoWUrkPz2OQ&usqp=CBQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "J-weHQRVmHw",
@@ -3925,155 +4186,6 @@
       "feed_id": "fox-business-latest"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/outkick-sports/weird-coach-not-talk-team-after-game-extremely-weird",
-      "title": "Is it weird for a coach to not talk to his team after a game, or is it extremely weird?",
-      "summary": "Auston Matthews revealed that Maple Leafs coach Jim Hiller doesn't usually talk to the team after games, raising eyebrows as Toronto sits 8-11-2.",
-      "url": "https://www.foxnews.com/outkick-sports/weird-coach-not-talk-team-after-game-extremely-weird",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-13T16:14:10-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/hiller-leafs-bench.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/deals/t-mobile-samsung-galaxy-s26-deals",
-      "title": "How to get the Samsung Galaxy S26+ or S26 for $0 upfront through T-Mobile's latest deal",
-      "summary": "T-Mobile's T-Mix plans let new and existing customers get the Samsung Galaxy S26+ or Samsung Galaxy S26 for $0 upfront with no trade-in required.",
-      "url": "https://www.foxnews.com/deals/t-mobile-samsung-galaxy-s26-deals",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-13T16:02:21-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/524/galaxy-s26ultra_family-scaled-1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/sports/nfl-trade-deadline-who-were-biggest-winners-losers-league-execs-react-top-deals",
-      "title": "NFL Trade Deadline: Who Were Biggest Winners, Losers? League Execs React To Top Deals",
-      "summary": "From the Kirk Cousins deal to the biggest winners and losers, NFL execs dish on this year's trade deadline.",
-      "url": "https://www.foxnews.com/sports/nfl-trade-deadline-who-were-biggest-winners-losers-league-execs-react-top-deals",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-13T15:45:30-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/artboard-1jeff-2.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/tanker-slams-docked-new-orleans-river-cruiser-carrying-129-passengers-sparking-rescue",
-      "title": "New Orleans boat crash called ‘miracle on the Mississippi’ as everyone is accounted for, officials say",
-      "summary": "Louisiana Gov. Jeff Landry called it \"a literal miracle on the Mississippi\" after a tanker capsized the American Heritage cruiser in New Orleans.",
-      "url": "https://www.foxnews.com/us/tanker-slams-docked-new-orleans-river-cruiser-carrying-129-passengers-sparking-rescue",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest",
-        "us"
-      ],
-      "published": "2026-11-13T15:42:30-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/cruiseship.gif",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/rep-lauren-boebert-projected-lose-house-seat-another-democratic-flip",
-      "title": "Rep Lauren Boebert projected to lose House seat in another Democratic flip",
-      "summary": "Rep. Lauren Boebert, R-Colo., lost her congressional seat to Democratic challenger Eileen Laubacher. Boebert, an ally of President Trump, was seeking a fourth term.",
-      "url": "https://www.foxnews.com/politics/rep-lauren-boebert-projected-lose-house-seat-another-democratic-flip",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest",
-        "politics"
-      ],
-      "published": "2026-11-13T15:37:39-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lauren-boebert.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/former-cia-director-john-brennans-son-arrested-after-fbi-uncovers-dozens-alleged-child-porn-images",
-      "title": "Former CIA Director John Brennan's son arrested after FBI uncovers dozens of alleged child porn images",
-      "summary": "Kyle Brennan, 40, son of former CIA Director John Brennan, was arrested on a federal child pornography charge after an FBI investigation, prosecutors say.",
-      "url": "https://www.foxnews.com/politics/former-cia-director-john-brennans-son-arrested-after-fbi-uncovers-dozens-alleged-child-porn-images",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest",
-        "politics"
-      ],
-      "published": "2026-11-13T15:36:32-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/524/john-brennan-cia-fox-news.jpeg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/outkick-sports/curt-cignetti-taunts-cfp-committee-obliterated-cam-skattebo-freezes-gracie-hunt-checks",
-      "title": "Curt Cignetti taunts the CFP committee and then gets obliterated, Cam Skattebo freezes & Gracie Hunt checks in",
-      "summary": "Curt Cignetti fires back at the CFP committee over Indiana's five-spot drop, but fans were quick to point out the Hoosiers' zero ranked wins.",
-      "url": "https://www.foxnews.com/outkick-sports/curt-cignetti-taunts-cfp-committee-obliterated-cam-skattebo-freezes-gracie-hunt-checks",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-13T15:35:49-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/curt-cignetti-indiana-hoosiers-football.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected",
-      "title": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
-      "summary": "Chuck Schumer faces a rare contested Senate leadership race as Chris Van Hollen pushes to abolish the filibuster and shake up Democratic strategy.",
-      "url": "https://www.foxnews.com/politics/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest",
-        "politics"
-      ],
-      "published": "2026-11-13T15:15:55-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/chris-van-hollen.png?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/pete-hegseth-impeachment-effort-dies-house-absent-democrats-couldnt-beat-traffic",
-      "title": "Pete Hegseth impeachment effort dies in the House as absent Democrats couldn't beat the traffic",
-      "summary": "Pete Hegseth narrowly avoided becoming only the third cabinet secretary ever impeached after 11 absent Democrats failed to reach the House floor.",
-      "url": "https://www.foxnews.com/politics/pete-hegseth-impeachment-effort-dies-house-absent-democrats-couldnt-beat-traffic",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest",
-        "politics"
-      ],
-      "published": "2026-11-13T15:13:17-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/thomas-massie-november-9-2026.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
       "id": "yt:KNp7TD9r8RA",
       "title": "88% Of Employees DONT Want Him To Resign",
       "summary": "The discussion raises questions about accountability, workplace confidence and the relationship between executives and their teams when an organization faces controversy or pressure for change.",
@@ -4091,70 +4203,6 @@
       "video_id": "KNp7TD9r8RA"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/sports/pochettino-manchester-united-manager-top-issues",
-      "title": "4 Things Pochettino Must Fix At Manchester United",
-      "summary": "What do Mauricio Pochettino and Mary Poppins have in common?",
-      "url": "https://www.foxnews.com/sports/pochettino-manchester-united-manager-top-issues",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-13T15:07:23-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/931/523/pochettino_on_the_move.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-sports"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/entertainment/hunting-wives-star-malin-akerman-ditches-la-lifestyle-dream-raising-son-1950s",
-      "title": "'Hunting Wives’ star Malin Akerman ditches LA lifestyle for ‘dream’ of raising son like it’s the 1950s",
-      "summary": "Malin Akerman told the \"Call Her Daddy\" podcast how moving to Connecticut gave her 13-year-old son a 1950s-style childhood she calls a dream.",
-      "url": "https://www.foxnews.com/entertainment/hunting-wives-star-malin-akerman-ditches-la-lifestyle-dream-raising-son-1950s",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-13T15:06:34-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/malin-akerman-anine-bing-cocktail-party.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/two-top-trump-cabinet-officials-go-war-over-china-spy-scandal-amid-explosive-accusations-report",
-      "title": "Two top Trump Cabinet officials go to war over China spy scandal amid explosive accusations: report",
-      "summary": "A White House Situation Room meeting erupted after Nvidia CEO Jensen Huang's affair with a suspected Chinese spy tied to chip diversions was revealed.",
-      "url": "https://www.foxnews.com/politics/two-top-trump-cabinet-officials-go-war-over-china-spy-scandal-amid-explosive-accusations-report",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-13T14:49:44-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/bessent-lutnick-001.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/animal-rights-activist-attacks-nyc-horse-carriage-driver-skateboard-tirade-union-says",
-      "title": "Animal rights activist attacks NYC horse carriage driver with skateboard during tirade, union says",
-      "summary": "Abigail Holbrook allegedly punched two Central Park horse carriage drivers and struck one with a skateboard after screaming about animal abuse.",
-      "url": "https://www.foxnews.com/us/animal-rights-activist-attacks-nyc-horse-carriage-driver-skateboard-tirade-union-says",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-13T14:43:44-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/central-park-fight.gif",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
       "id": "fox-business:https://www.foxbusiness.com/markets/nvidia-stock-slide-wipes-out-billions-value-jensen-huang-days",
       "title": "Nvidia stock slide wipes out more than $20B in value for Jensen Huang over 5 days",
       "summary": "The declining share price of Nvidia this week has wiped out around $20 billion of the value of ex-CEO Jensen Huang's stock holdings in the company.",
@@ -4169,38 +4217,6 @@
       "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
       "kind": "article",
       "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/android-tv-box-malware-found-devices",
-      "title": "Android TV box malware found in 1.3M devices",
-      "summary": "Google says Videostrong deliberately installed backdoor malware in over 1.3 million Android TV boxes, turning them into a botnet for criminals.",
-      "url": "https://www.foxnews.com/tech/android-tv-box-malware-found-devices",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-13T14:30:07-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/family-watching-tv-fox-news-001.jpeg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones",
-      "title": "Eric Trump-partnered robotics CEO addresses 'Terminator' fears as he sends combat humanoids into war zones",
-      "summary": "Foundation Future Robotics co-founder Mike LeBlanc says the MK 2 humanoid is ready to engage enemies with machine guns in Ukraine's combat zone.",
-      "url": "https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "tech"
-      ],
-      "published": "2026-11-13T14:20:04-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Foundation-Photo-3_001.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-tech"
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/fox-news-tech/new-candidate-emerges-replace-jensen-huang-nvidia-ceo",
@@ -4519,22 +4535,6 @@
       "video_id": "_poPnBy2mow"
     },
     {
-      "id": "fox-business:https://www.foxbusiness.com/markets/nvidia-loses-its-godfather-ai-now-faces-first-big-test-without-him",
-      "title": "Nvidia loses its 'Godfather of AI' and now faces first big test without him",
-      "summary": "Jensen Huang's resignation sent Nvidia stock plunging 14% before losses narrowed, as analysts weigh the AI giant's path forward without its co-founder.",
-      "url": "https://www.foxbusiness.com/markets/nvidia-loses-its-godfather-ai-now-faces-first-big-test-without-him",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-12T14:53:10-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/former-nvidia-ceo-jensen-huang.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
       "id": "yt:HpCaV_uw0Uc",
       "title": "“England Is Done” - Dominik Tarczyński on Mass Immigration & Europe’s Future | PBD Podcast #889",
       "summary": "",
@@ -4546,8 +4546,8 @@
       ],
       "published": "2026-11-12T00:00:00-06:00",
       "published_precision": "day",
-      "published_text": "2 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/HpCaV_uw0Uc/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD_n2x3WDGcoUoFJegVVlnjEcDFKA",
+      "published_text": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/HpCaV_uw0Uc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAvTj-u5-v3bVmsSDcHDgUxhOsTzQ",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "HpCaV_uw0Uc",
@@ -4582,8 +4582,8 @@
       ],
       "published": "2026-11-10T00:00:00-06:00",
       "published_precision": "day",
-      "published_text": "4 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/u3VNZaqPqFI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLD1Ognsjf5qiicdv34ZQWuddQ62jA",
+      "published_text": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/u3VNZaqPqFI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAb2wsz60GwZXt17jqmepXWUIuIpQ",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "u3VNZaqPqFI",
@@ -4635,8 +4635,8 @@
       ],
       "published": "2026-11-07T23:00:34+00:00",
       "published_precision": "minute",
-      "published_text": "7 days ago",
-      "thumbnail": "https://i1.ytimg.com/vi/L44gJxqEu88/hqdefault.jpg",
+      "published_text": "8 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/L44gJxqEu88/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDf6y_FEmHYr6hCfgRggC0JHqLk-w&usqp=CBQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "L44gJxqEu88",
@@ -4722,8 +4722,8 @@
       ],
       "published": "2026-11-06T00:00:00-06:00",
       "published_precision": "day",
-      "published_text": "8 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/rP1Tr46xhx4/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAAD3HoSya_jYFySKuy1irCAcX-PQ",
+      "published_text": "9 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/rP1Tr46xhx4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDCI3b5YvBN4syQv98LBt5ddT4Wmg",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "rP1Tr46xhx4",
@@ -4741,8 +4741,8 @@
       ],
       "published": "2026-11-05T22:15:03+00:00",
       "published_precision": "minute",
-      "published_text": "9 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/T18mCvFkUUo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDUOwE4TT3sPmGrDqFC2eGYh0oQJA",
+      "published_text": "10 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/T18mCvFkUUo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDUOwE4TT3sPmGrDqFC2eGYh0oQJA&usqp=CBQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "T18mCvFkUUo",
@@ -4761,7 +4761,7 @@
       "published": "2026-10-29T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "2 weeks ago",
-      "thumbnail": "https://i.ytimg.com/vi/NpjEK5BtjQ0/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLA2HhpRM4Z0q4usJYdPeBdK5RJwnQ",
+      "thumbnail": "https://i.ytimg.com/vi/NpjEK5BtjQ0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfJDKusmptNyY4fXEbjugnjLWqGA",
       "kind": "video",
       "feed_id": "pbd-podcast",
       "video_id": "NpjEK5BtjQ0",
@@ -4780,7 +4780,7 @@
       "published": "2026-10-07T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/pyihDwVCc_M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAEHNaWu3_2PnxLGfFoW-rFyEaO5w",
+      "thumbnail": "https://i.ytimg.com/vi/pyihDwVCc_M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAEHNaWu3_2PnxLGfFoW-rFyEaO5w&usqp=CBQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "pyihDwVCc_M",
@@ -4799,7 +4799,7 @@
       "published": "2026-10-06T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "1 month ago",
-      "thumbnail": "https://i.ytimg.com/vi/AX-1zZ4WrEU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCcVlGH_Ud41erh7efD-USMFfNdNg",
+      "thumbnail": "https://i.ytimg.com/vi/AX-1zZ4WrEU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCcVlGH_Ud41erh7efD-USMFfNdNg&usqp=CBQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "AX-1zZ4WrEU",
@@ -4818,7 +4818,7 @@
       "published": "2026-08-31T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/EsXqKAALqOg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBROOfbighAWilkIY2ww4S_mF7E0A",
+      "thumbnail": "https://i.ytimg.com/vi/EsXqKAALqOg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBROOfbighAWilkIY2ww4S_mF7E0A&usqp=CBQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "EsXqKAALqOg",
@@ -4837,7 +4837,7 @@
       "published": "2026-08-29T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "2 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/BH4X449Og-o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjDP6787zMeNv02nM-o_Fm-qRj5g",
+      "thumbnail": "https://i.ytimg.com/vi/BH4X449Og-o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjDP6787zMeNv02nM-o_Fm-qRj5g&usqp=CBQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "BH4X449Og-o",
@@ -4856,7 +4856,7 @@
       "published": "2026-07-08T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "4 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/9Dfu9_z3574/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjFYhUykYFQ2nGgzDYWnNFNpJ9Nw",
+      "thumbnail": "https://i.ytimg.com/vi/9Dfu9_z3574/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjFYhUykYFQ2nGgzDYWnNFNpJ9Nw&usqp=CBQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "9Dfu9_z3574",
@@ -4875,7 +4875,7 @@
       "published": "2026-06-13T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "5 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/oZldWNKgRww/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD3PKMxcmIEDN3ErU2oiZtPh4B0KQ",
+      "thumbnail": "https://i.ytimg.com/vi/oZldWNKgRww/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD3PKMxcmIEDN3ErU2oiZtPh4B0KQ&usqp=CBQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "oZldWNKgRww",
@@ -4894,7 +4894,7 @@
       "published": "2026-05-17T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "5 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/F4KyDSLLW2I/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC8MzsBLXEPLuooWmO0O0eW1YGOTQ",
+      "thumbnail": "https://i.ytimg.com/vi/F4KyDSLLW2I/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC8MzsBLXEPLuooWmO0O0eW1YGOTQ&usqp=CBQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "F4KyDSLLW2I",
@@ -4913,7 +4913,7 @@
       "published": "2026-05-05T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "6 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/N_Fm6doDZu4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDgZkgORvTpR57PHIm6qhe-28cJmQ",
+      "thumbnail": "https://i.ytimg.com/vi/N_Fm6doDZu4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDgZkgORvTpR57PHIm6qhe-28cJmQ&usqp=CBQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "N_Fm6doDZu4",
@@ -4932,7 +4932,7 @@
       "published": "2026-05-03T00:00:00-05:00",
       "published_precision": "day",
       "published_text": "6 months ago",
-      "thumbnail": "https://i.ytimg.com/vi/o8hE33ilMwk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAjQB1vGto-x0cKgdfiecDXGDuPqg",
+      "thumbnail": "https://i.ytimg.com/vi/o8hE33ilMwk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAjQB1vGto-x0cKgdfiecDXGDuPqg&usqp=CBQ",
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "o8hE33ilMwk",
@@ -4947,7 +4947,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:10.252780-06:00",
+      "checked": "2026-11-15T21:09:15.262773-06:00",
       "error": null
     },
     {
@@ -4957,7 +4957,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:10.613651-06:00",
+      "checked": "2026-11-15T21:09:15.294189-06:00",
       "error": null
     },
     {
@@ -4967,7 +4967,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:10.699671-06:00",
+      "checked": "2026-11-15T21:09:15.379864-06:00",
       "error": null
     },
     {
@@ -4977,7 +4977,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:10.715841-06:00",
+      "checked": "2026-11-15T21:09:15.395975-06:00",
       "error": null
     },
     {
@@ -4987,7 +4987,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:10.732393-06:00",
+      "checked": "2026-11-15T21:09:15.415770-06:00",
       "error": null
     },
     {
@@ -4997,7 +4997,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:10.748430-06:00",
+      "checked": "2026-11-15T21:09:15.505536-06:00",
       "error": null
     },
     {
@@ -5007,7 +5007,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:11.149742-06:00",
+      "checked": "2026-11-15T21:09:15.528938-06:00",
       "error": null
     },
     {
@@ -5017,7 +5017,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:11.235083-06:00",
+      "checked": "2026-11-15T21:09:15.616934-06:00",
       "error": null
     },
     {
@@ -5027,7 +5027,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:11.311401-06:00",
+      "checked": "2026-11-15T21:09:15.698818-06:00",
       "error": null
     },
     {
@@ -5037,7 +5037,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:11.340960-06:00",
+      "checked": "2026-11-15T21:09:15.780254-06:00",
       "error": null
     },
     {
@@ -5047,7 +5047,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:11.366412-06:00",
+      "checked": "2026-11-15T21:09:15.802585-06:00",
       "error": null
     },
     {
@@ -5057,7 +5057,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:11.392397-06:00",
+      "checked": "2026-11-15T21:09:15.877695-06:00",
       "error": null
     },
     {
@@ -5067,7 +5067,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-15T17:41:11.427158-06:00",
+      "checked": "2026-11-15T21:09:15.950637-06:00",
       "error": null
     },
     {
@@ -5076,11 +5076,11 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjJec0wv1EUomjrBNt1xCTA",
       "channel_id": "UCjJec0wv1EUomjrBNt1xCTA",
       "ok": true,
-      "count": 15,
-      "http": 200,
-      "checked": "2026-11-15T17:41:11.536562-06:00",
+      "count": 30,
+      "http": "404,200",
+      "checked": "2026-11-15T21:09:16.030846-06:00",
       "error": null,
-      "method": "youtube-atom"
+      "method": "youtube-channel-page"
     },
     {
       "id": "pbd-podcast",
@@ -5088,11 +5088,11 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGX7nGXpz-CmO_Arg-cgJ7A",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "ok": true,
-      "count": 15,
-      "http": 200,
-      "checked": "2026-11-15T17:41:11.651470-06:00",
+      "count": 30,
+      "http": "404,200",
+      "checked": "2026-11-15T21:09:35.794603-06:00",
       "error": null,
-      "method": "youtube-atom"
+      "method": "youtube-channel-page"
     }
   ],
   "sources": [
