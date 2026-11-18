@@ -1,8 +1,195 @@
 {
-  "updated": "2026-11-17T20:06:17.210345-06:00",
+  "updated": "2026-11-17T21:00:09.204506-06:00",
   "timezone": "America/Chicago",
   "item_count": 340,
   "items": [
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMioAFBVV95cUxNd2RKMVUzUDZkWjJXc1hROEF4WVlJMUc0RmFZS3J6eDdvTEtVUlNqd3E4SVF5bTFZQjVFTk50MzVzeHM4TTc0eTRJOG8zNEFBeTA0TklBVF9kWk51c211RDVlaF9BenJWSDhKYkRNMU5lOUV2N3VPaE56Q0gzQU1qcjd6YnI0TmZmN2VNNHhBeDVGVUxNVndlUkdMOS10WV9s?oc=5",
+      "title": "No. 17 Miami routs Rider for 4th straight win",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd2RKMVUzUDZkWjJXc1hROEF4WVlJMUc0RmFZS3J6eDdvTEtVUlNqd3E4SVF5bTFZQjVFTk50MzVzeHM4TTc0eTRJOG8zNEFBeTA0TklBVF9kWk51c211RDVlaF9BenJWSDhKYkRNMU5lOUV2N3VPaE56Q0gzQU1qcjd6YnI0TmZmN2VNNHhBeDVGVUxNVndlUkdMOS10WV9s?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-18T02:47:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-sports",
+      "via": "google-news"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXVIT0VoOTAtWnNpWjBvTlRGS0o1aEp1RklzQjZLTVFOb1pha3FPSUJJaFJrMjIzQzZ5WGtOUG5OUl9VM2paLTZ3aEY4d3ZLMFN5NUdkSU5aT09EOWs1MFp1eUVSbzh6VVkyaEFuTWo0cS1Tb1RGVlJKdWdoSXlsbkZJRFJnT2tDMHNINXhGSDlDVzZnWTVkV2pYWGcwZnhjMEk1RHZQSWlsQkJCNW5KbGJR?oc=5",
+      "title": "Bank of Japan governor says central bank should keep raising rates",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXVIT0VoOTAtWnNpWjBvTlRGS0o1aEp1RklzQjZLTVFOb1pha3FPSUJJaFJrMjIzQzZ5WGtOUG5OUl9VM2paLTZ3aEY4d3ZLMFN5NUdkSU5aT09EOWs1MFp1eUVSbzh6VVkyaEFuTWo0cS1Tb1RGVlJKdWdoSXlsbkZJRFJnT2tDMHNINXhGSDlDVzZnWTVkV2pYWGcwZnhjMEk1RHZQSWlsQkJCNW5KbGJR?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-18T02:39:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-markets",
+      "via": "google-news"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkp2TXVyVlBKWGdvb0tXUmxfTjFQOTM2M0JiOWFlYlNRUjVkM2JoZHdBcS1PWHV3MkhiV3hZcGd4eEhxc1RpeF9HZDlNMlRUNkk3ZXVHSjFPenZpVzdGYk9hd0c1Sl9fZ2FPZmFaQjNsa2g4ZllfYUdBb1ZmMUZhOGg1SDJaRWdaNE9mZEFPYkxocjlZemFiY1ZGRVFoQ0lxWnU1cWQxakUxeDhiNXYyVVFMVno?oc=5",
+      "title": "Florida State survives shooting barrage to beat Ball State",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkp2TXVyVlBKWGdvb0tXUmxfTjFQOTM2M0JiOWFlYlNRUjVkM2JoZHdBcS1PWHV3MkhiV3hZcGd4eEhxc1RpeF9HZDlNMlRUNkk3ZXVHSjFPenZpVzdGYk9hd0c1Sl9fZ2FPZmFaQjNsa2g4ZllfYUdBb1ZmMUZhOGg1SDJaRWdaNE9mZEFPYkxocjlZemFiY1ZGRVFoQ0lxWnU1cWQxakUxeDhiNXYyVVFMVno?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-18T02:38:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-sports",
+      "via": "google-news"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzN3b0EtbWRDaXdIWDZFWDgyUG4zNzBRNllPSFhCcFRiNS13d0EtUjBTNzRWY1pFZmo3Tnd3azlfSHp0X1lBSlFBMlVpUDAxWHlzX2dmOENGUUYwNjdza1JqLXZwWWtNTEpURF94Rzh5d1pRT0FzMlRzb0N4QmxWNEVwb2Y0bEhqU19UeDR0RFdmSUY1R2ZjYy1xWm82am1MOG9udzJIVkxBZ0Y1eFVRWWl0VQ?oc=5",
+      "title": "Scandal-hit KPMG Australia cuts an additional 230 jobs",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzN3b0EtbWRDaXdIWDZFWDgyUG4zNzBRNllPSFhCcFRiNS13d0EtUjBTNzRWY1pFZmo3Tnd3azlfSHp0X1lBSlFBMlVpUDAxWHlzX2dmOENGUUYwNjdza1JqLXZwWWtNTEpURF94Rzh5d1pRT0FzMlRzb0N4QmxWNEVwb2Y0bEhqU19UeDR0RFdmSUY1R2ZjYy1xWm82am1MOG9udzJIVkxBZ0Y1eFVRWWl0VQ?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-18T02:34:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-business",
+      "via": "google-news"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMitgFBVV95cUxNejk5ZEZIYmRJXy1hSjVHWnV0WkloVE5xRTJlUHpXekU2dGQwdXRkVkFnWWRsX0R1dWkwZ2xVb0JDdjNjalhTcy1KNENUR2RTRWFRVDhNV2NCYnAzejJZOUdLelUwZUI5T2ZPTFNzY1h1RjJuN3BmcnFFaEtKb1FkRU5YQW5qTTFCUXZYRjRwQzRzS3RCbGI0VzExaGczUmNIdVNCSW56cnVJZ1hGN1M1N2VGT2pvQQ?oc=5",
+      "title": "Pitt rolls past Villanova as Baye Ndongo turns in career night",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejk5ZEZIYmRJXy1hSjVHWnV0WkloVE5xRTJlUHpXekU2dGQwdXRkVkFnWWRsX0R1dWkwZ2xVb0JDdjNjalhTcy1KNENUR2RTRWFRVDhNV2NCYnAzejJZOUdLelUwZUI5T2ZPTFNzY1h1RjJuN3BmcnFFaEtKb1FkRU5YQW5qTTFCUXZYRjRwQzRzS3RCbGI0VzExaGczUmNIdVNCSW56cnVJZ1hGN1M1N2VGT2pvQQ?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-18T02:32:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-sports",
+      "via": "google-news"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2hZaDcxRmZFbXBvalNuSzA2SXZoRXowUHRrUUl2TDBIdVg1clNTUEE2QUpNTHdjZzAzRVhJQThTS01kZDk2NkNHWi1sUkxUSFhqRS1mV20tQWVmdE81enNOWE1aOW5PelZzbnd2Y05SX2tqR2czNnU3cGZWMUliSFhNZHFKQUowSzdueHlzUlFSa3d3M3d5TnpIMlkwU1M1dUo3UWZDanB3dEFkVE1pdg?oc=5",
+      "title": "Providence uses late 14-0 run to turn back Sacred Heart",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2hZaDcxRmZFbXBvalNuSzA2SXZoRXowUHRrUUl2TDBIdVg1clNTUEE2QUpNTHdjZzAzRVhJQThTS01kZDk2NkNHWi1sUkxUSFhqRS1mV20tQWVmdE81enNOWE1aOW5PelZzbnd2Y05SX2tqR2czNnU3cGZWMUliSFhNZHFKQUowSzdueHlzUlFSa3d3M3d5TnpIMlkwU1M1dUo3UWZDanB3dEFkVE1pdg?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-18T02:30:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-sports",
+      "via": "google-news"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUpoWGNHaG5OXzc0UUFiOE10T3B2WmN5cGJnTHVRVWoxVDlzSlFWTDlJeDVjMTRJTEFhVV9mR0lob3h6eENwUDl6VEQxSXRLNW1DR1ItS0VGcFNBYjVWZVdkRmpZQ05nUlJFRDQ1NDJsV0xrWDdmdGNSZE5POE5WeTA1X3ZKd3RoUTJZS1JESFRhaWxHeHBKUkpBNzlIdGNlc2twYzRHZ3diUVZVOFJIRQ?oc=5",
+      "title": "Butler buries Western Carolina with balanced scoring",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUpoWGNHaG5OXzc0UUFiOE10T3B2WmN5cGJnTHVRVWoxVDlzSlFWTDlJeDVjMTRJTEFhVV9mR0lob3h6eENwUDl6VEQxSXRLNW1DR1ItS0VGcFNBYjVWZVdkRmpZQ05nUlJFRDQ1NDJsV0xrWDdmdGNSZE5POE5WeTA1X3ZKd3RoUTJZS1JESFRhaWxHeHBKUkpBNzlIdGNlc2twYzRHZ3diUVZVOFJIRQ?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-18T02:29:29+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-sports",
+      "via": "google-news"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/us-news/west/public-online-court-portals-down-california",
+      "title": "Public online court portals down across California",
+      "summary": "Amid a string of technological malfunctions nationwide, court access websites and other online services are down across California in response to a possible cybersecurity threat.",
+      "url": "https://www.newsnationnow.com/us-news/west/public-online-court-portals-down-california",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-18T02:22:47+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/Screenshot-2026-11-17-124749.png?w=900",
+      "kind": "article",
+      "feed_id": "nn-latest"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0JncWNHdDQ0ZGZxLUVTUnk2NWNGWUhXbU5hcklDcXh4SWFoV0ZmcVJVazhFTU9tUDNrY0dKek5fZmxJUEVjaFFyMFZpSEQ4cHZJX1hQcWdTLXdCdXpiTVoxN01lZnNNRHFzaDVheUs3d3Q4a2VvREN0TThubEpaTXB2RUhFTUg5dHBjdUZrcGd5ZG84T1RwcE9qVWw?oc=5",
+      "title": "Xavier survives scare from Cleveland State",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0JncWNHdDQ0ZGZxLUVTUnk2NWNGWUhXbU5hcklDcXh4SWFoV0ZmcVJVazhFTU9tUDNrY0dKek5fZmxJUEVjaFFyMFZpSEQ4cHZJX1hQcWdTLXdCdXpiTVoxN01lZnNNRHFzaDVheUs3d3Q4a2VvREN0TThubEpaTXB2RUhFTUg5dHBjdUZrcGd5ZG84T1RwcE9qVWw?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-18T02:19:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-sports",
+      "via": "google-news"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/cuomo-show/retired-army-majors-disagree-dirty-bomb",
+      "title": "Retired Army majors disagree on dirty bomb threat",
+      "summary": "Trump told reporters the U.S. takes the potential threat of a dirty bomb from Iran “very seriously because they happen to be crazy.”",
+      "url": "https://www.newsnationnow.com/cuomo-show/retired-army-majors-disagree-dirty-bomb",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "latest",
+        "us",
+        "politics"
+      ],
+      "published": "2026-11-18T02:18:29+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/08/1230-Report-Trump-Iran.png?w=900",
+      "kind": "article",
+      "feed_id": "nn-politics"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmp3REJQam1xdjkyMkpCN1JlSkotTnJNM0JEWDVFNmJqZ2FHbmNIN2E0V2twa2N3djBLTXlNNVJvcDJmZVNXMlBlQnk2VG1FTThnX0hQbVRqS2dKbVVBdXl6MWR5ZHo0S2VneWt2bUdwVjE4TnNxaHFLN0hHNU9IUVljVnNXLWJTeHdORFFJX3BfQXhPTThEbGFYQXhYaGNneHRHcVRGS2NyOFhxTzVN?oc=5",
+      "title": "Oil prices fall as higher US crude stocks temper supply risks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmp3REJQam1xdjkyMkpCN1JlSkotTnJNM0JEWDVFNmJqZ2FHbmNIN2E0V2twa2N3djBLTXlNNVJvcDJmZVNXMlBlQnk2VG1FTThnX0hQbVRqS2dKbVVBdXl6MWR5ZHo0S2VneWt2bUdwVjE4TnNxaHFLN0hHNU9IUVljVnNXLWJTeHdORFFJX3BfQXhPTThEbGFYQXhYaGNneHRHcVRGS2NyOFhxTzVN?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-18T02:16:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-business",
+      "via": "google-news"
+    },
     {
       "id": "reuters:https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc1VzUmE4VkZSMHJ3WkZFUlFQaWxBM0lnSUtDSm9JVTJsbGFscVBybUJuQXFlbmpQSTRCbnhlbnNIS2VHN0ozdWMydGMxUWF5SldZcUxnT0pfZGctbUFRLXNISnY2M3NhNGZ1RnVxV3ltMkhkNzVhTGJoSEZTd01DX1Q4ck5LMkFOaGlnQzdYSUJBbnlYX2ZGb3JCR3V2RkNLOGRPb1JnYzM5MzJGNGdvaE9CS2FXRmNCLUN3?oc=5",
       "title": "EU reaches provisional deal to speed permits for renewable energy projects",
@@ -21,6 +208,22 @@
       "via": "google-news"
     },
     {
+      "id": "newsnation:https://www.newsnationnow.com/entertainment-news/hayden-panettiere-mother-brian-hickerson",
+      "title": "Hayden Panettiere’s mother says Brian Hickerson is why her daughter died",
+      "summary": "\"Sadly, she allowed Brian to reel her back in,” Lesley Vogel remarked on \"Inside Edition.\"",
+      "url": "https://www.newsnationnow.com/entertainment-news/hayden-panettiere-mother-brian-hickerson",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-18T01:59:46+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/08/GettyImages-1247917302_8fad1e-e1787158633971_9191bc.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-latest"
+    },
+    {
       "id": "reuters:https://news.google.com/rss/articles/CBMipAFBVV95cUxPN21XWEEzSktPNU5xZlVkZjJSblVMS0pvdmV0UWg0cXpBT0RFUHVxZG5MdVFxQkNvUkV6ZWU4dzVnc1ZwaENMNE0zbktsbUdJZXpZT3Uzek1DTnFYX21NLS1IaWMtQWRqMm9NaERVT1Y1akFhQ3RTR3M1ck96V2hGelFvVEZJY3VnYXEtNTlIOHltOXRTNlh4UzdMb1p2S1VCbGZ0Vw?oc=5",
       "title": "Purdue rides hot shooting to win over Lipscomb",
       "summary": "",
@@ -31,6 +234,41 @@
         "sports"
       ],
       "published": "2026-11-18T01:54:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-sports",
+      "via": "google-news"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5",
+      "title": "Asia stocks set to snap losing streak on Nvidia beat as Anthropic looms",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "latest",
+        "world"
+      ],
+      "published": "2026-11-18T01:46:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-world",
+      "via": "google-news"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWFud1R4VGdQZ0VsdlRIZTg0aGZESzRuRVRVaC1pVjV6V2VoSEZoZXN2ZnVHNFU3cUdMQmtwWUdsLW0wN0EyV2tYblJYLVVaZXp6WTh6WDNTaTJTZzNzNkJqY1JiTS1lbFBhcFhtWENocE9SdUZIYzV0YlRHb25sbXdWaDhCTEN6dVBxbl9Fa3JLSFZIYTlzWGpDbmZsY2VP?oc=5",
+      "title": "Report: WNBA commissioner seeks league stake buyback",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWFud1R4VGdQZ0VsdlRIZTg0aGZESzRuRVRVaC1pVjV6V2VoSEZoZXN2ZnVHNFU3cUdMQmtwWUdsLW0wN0EyV2tYblJYLVVaZXp6WTh6WDNTaTJTZzNzNkJqY1JiTS1lbFBhcFhtWENocE9SdUZIYzV0YlRHb25sbXdWaDhCTEN6dVBxbl9Fa3JLSFZIYTlzWGpDbmZsY2VP?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "sports"
+      ],
+      "published": "2026-11-18T01:45:01+00:00",
       "published_precision": "minute",
       "thumbnail": null,
       "kind": "article",
@@ -52,6 +290,23 @@
       "thumbnail": null,
       "kind": "article",
       "feed_id": "reuters-sports",
+      "via": "google-news"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3BnNkxnajFsX0xFNklvRnJ0OHJtQVR0Zk56aGhVN19YY0Z5aFRjMnVTb1pIakt6cHNXajVNalNrUmVUWWpZWjk1Ukh6T0RhY2ZTX2dLRTdpWTNlVU1vY1hGUl84SlIwcUNQcW51NzlzZDFoNHNiT3hiSHpfSl9ENUhtWWExWWxkT2ZYUUJ4WHdWWjVSOVpkQzZycmpaOXhnbm96Q0RWMmJLYnlkTDFJRFVWbGhqWXkydEE?oc=5",
+      "title": "Dollar holds near 19-month high as data supports case for US rate hikes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3BnNkxnajFsX0xFNklvRnJ0OHJtQVR0Zk56aGhVN19YY0Z5aFRjMnVTb1pIakt6cHNXajVNalNrUmVUWWpZWjk1Ukh6T0RhY2ZTX2dLRTdpWTNlVU1vY1hGUl84SlIwcUNQcW51NzlzZDFoNHNiT3hiSHpfSl9ENUhtWWExWWxkT2ZYUUJ4WHdWWjVSOVpkQzZycmpaOXhnbm96Q0RWMmJLYnlkTDFJRFVWbGhqWXkydEE?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "world"
+      ],
+      "published": "2026-11-18T01:34:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-world",
       "via": "google-news"
     },
     {
@@ -164,7 +419,8 @@
       "source": "NewsNation",
       "source_id": "newsnation",
       "sections": [
-        "us"
+        "us",
+        "latest"
       ],
       "published": "2026-11-18T00:53:09+00:00",
       "published_precision": "minute",
@@ -629,13 +885,32 @@
       "source": "Reuters",
       "source_id": "reuters",
       "sections": [
-        "business"
+        "business",
+        "latest"
       ],
       "published": "2026-11-17T23:15:18+00:00",
       "published_precision": "minute",
       "thumbnail": null,
       "kind": "article",
       "feed_id": "reuters-business",
+      "via": "google-news"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEJSYmJOTF9ISXdkYWVNd0Z3RnJvQnRjSlhEVWJ4bWo1UVVvblNOUnczc0FtOUlSODM5UzRNOUF5T3lIYTNrRVZKNEZTaVFQcnMwaG9JSWdnNkJmRVVtcTluWmFEU1k0dFVVVDJ4SWlEcUNpWEo1aktKYzFGblgxTldZSGVNRjV3N3VyMVNFelYxQ1d4Zlo3LXdQN2E4RUFuNjB4UWdYX1FxQ3pERUdCenJ3?oc=5",
+      "title": "Bahrain says air defences intercepted Iranian attacks",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEJSYmJOTF9ISXdkYWVNd0Z3RnJvQnRjSlhEVWJ4bWo1UVVvblNOUnczc0FtOUlSODM5UzRNOUF5T3lIYTNrRVZKNEZTaVFQcnMwaG9JSWdnNkJmRVVtcTluWmFEU1k0dFVVVDJ4SWlEcUNpWEo1aktKYzFGblgxTldZSGVNRjV3N3VyMVNFelYxQ1d4Zlo3LXdQN2E4RUFuNjB4UWdYX1FxQ3pERUdCenJ3?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "latest",
+        "world"
+      ],
+      "published": "2026-11-17T23:15:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-world",
       "via": "google-news"
     },
     {
@@ -689,6 +964,23 @@
       "thumbnail": null,
       "kind": "article",
       "feed_id": "reuters-sports",
+      "via": "google-news"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHR2OFlkRzA2a2VLNzJTQ3VQNThCbWljNjVZMkpmSVp3a2ZRUTZnQUhuaXBRdEx0Smw1X2VMUkdZcXVMQjk4cDMwSXhJOHVOX0lnRzBiUnNZc0I5OGRYcF9kTVA1NkIwcFl4MC11SnNVek1ENWJ5Tng4RWVVZ2x3UmpMbkVqRGMxRG1BV3padm5WWEh4YXFhVk9YRnEtcy1iZHNjRnRSUjR4T1VBMzRjNV9neFdJQQ?oc=5",
+      "title": "US judge extends deadline for Trump deposition in BBC defamation case",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHR2OFlkRzA2a2VLNzJTQ3VQNThCbWljNjVZMkpmSVp3a2ZRUTZnQUhuaXBRdEx0Smw1X2VMUkdZcXVMQjk4cDMwSXhJOHVOX0lnRzBiUnNZc0I5OGRYcF9kTVA1NkIwcFl4MC11SnNVek1ENWJ5Tng4RWVVZ2x3UmpMbkVqRGMxRG1BV3padm5WWEh4YXFhVk9YRnEtcy1iZHNjRnRSUjR4T1VBMzRjNV9neFdJQQ?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-17T23:01:42+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-latest",
       "via": "google-news"
     },
     {
@@ -813,24 +1105,6 @@
       "via": "google-news"
     },
     {
-      "id": "reuters:https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M?oc=5",
-      "title": "Huang pitches Nvidia comeback, WSJ reports SEC probing the chipmaker",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "latest",
-        "business"
-      ],
-      "published": "2026-11-17T22:29:38+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-business",
-      "via": "google-news"
-    },
-    {
       "id": "reuters:https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUkwbGtoM19wY1lwRmZLX3VIWVdUdFFtUjBSRUwtZmVOajBvMXByY3FNQXFBbUpNVnljV1FfZ3VjZURlcjY2Sm1BUlRxaXoxcGNMcUZrbjRqQldRT3RBMGdNdDdHME9KR0hnSkN2Tk5UblZNeGhZa1RkQnBfSFFnVE1nb0pZb0FsVzVUeUV4NnNSRG5kRzBLVnkyQmwxb0lJZmQxbXhpLW41dXVORFNvVnZMX0lLdw?oc=5",
       "title": "Giannis Antetokounmpo downplays emotions as Heat face Bucks",
       "summary": "",
@@ -841,23 +1115,6 @@
         "sports"
       ],
       "published": "2026-11-17T22:26:15+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-sports",
-      "via": "google-news"
-    },
-    {
-      "id": "reuters:https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmtMaVVoWjJYRW1iTE9vWUVzNFFUVDJuTzFYd05MTWlzb3doUFNuSks5aUFUYnlmMFlmYTlTel9lOXBxbHFNTVItd09pWTNKUjB0N2d5UkdQOVFJUUdFTUN0TEQtS0twTmJuaHpLN01ZT1BjdkxCX281UmZ5Zi0xWmdYYlFsSU5PWXFfR3Z4ZXI3dkNYMDNNVl9tZFdaTjZl?oc=5",
-      "title": "Top seed Zverev powers past Shelton to punch semi-final ticket",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmtMaVVoWjJYRW1iTE9vWUVzNFFUVDJuTzFYd05MTWlzb3doUFNuSks5aUFUYnlmMFlmYTlTel9lOXBxbHFNTVItd09pWTNKUjB0N2d5UkdQOVFJUUdFTUN0TEQtS0twTmJuaHpLN01ZT1BjdkxCX281UmZ5Zi0xWmdYYlFsSU5PWXFfR3Z4ZXI3dkNYMDNNVl9tZFdaTjZl?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-17T22:24:49+00:00",
       "published_precision": "minute",
       "thumbnail": null,
       "kind": "article",
@@ -1054,55 +1311,36 @@
       "via": "google-news"
     },
     {
-      "id": "reuters:https://news.google.com/rss/articles/CBMipwFBVV95cUxOeThBSWdtWUF4bFNrUG1PYVJ4RTNKbUkzb0xaRHhrYlkzR1dhZV9rVTNYdXpEMGhtWmtBdnNGX0I2U2FaNWpFcGJxcGJ2ZXhmYWRPNnJyQTRfTGlHbEtHdW55d2tTMk12MHpxSVJnNGREdkF6TXNyQ01KbWZGZVVuNXhOM0VfRi1oWnlmUXZtd0lzSXVHVWpLek1VZ3lRNVhUMzZJc0NoOA?oc=5",
-      "title": "Brandon Lowe, Adrian Morejon decline QOs, 2 players accept",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeThBSWdtWUF4bFNrUG1PYVJ4RTNKbUkzb0xaRHhrYlkzR1dhZV9rVTNYdXpEMGhtWmtBdnNGX0I2U2FaNWpFcGJxcGJ2ZXhmYWRPNnJyQTRfTGlHbEtHdW55d2tTMk12MHpxSVJnNGREdkF6TXNyQ01KbWZGZVVuNXhOM0VfRi1oWnlmUXZtd0lzSXVHVWpLek1VZ3lRNVhUMzZJc0NoOA?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
+      "id": "fox-business:https://www.foxbusiness.com/economy/ford-recalls-60000-transit-vans-over-software-glitch-shuts-off-lights",
+      "title": "Ford recalls 60,000 Transit vans over software glitch that shuts off lights",
+      "summary": "Ford is recalling nearly 61,000 2026 Transit vans over a software glitch that can freeze the body control module and shut off trailer lights.",
+      "url": "https://www.foxbusiness.com/economy/ford-recalls-60000-transit-vans-over-software-glitch-shuts-off-lights",
+      "source": "Fox Business",
+      "source_id": "fox-business",
       "sections": [
-        "sports"
+        "business"
       ],
-      "published": "2026-11-17T21:55:44+00:00",
+      "published": "2026-11-17T21:49:54-05:00",
       "published_precision": "minute",
-      "thumbnail": null,
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/ford-transit-van-2026.png",
       "kind": "article",
-      "feed_id": "reuters-sports",
-      "via": "google-news"
+      "feed_id": "fox-business-economy"
     },
     {
-      "id": "reuters:https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnlYcmo5d0lDRkhkb0JpLXl5MWhjTE4wV0JiQXJMaklFZEF5bmF2SjNyaWZvOFpfNDVXMHk1b2p2UC1MaFFIdzhhU0hoZGhGRmZqUzFlcU45ZExpbWQwTm02VWFIYW4tdzBTdkhuTGVxNFpSYV9fUlBIaU1GVGRHRzQzYXE0d1V4aE9LRXlhdEt4aHJlaVV0S1JTamhZMExKTTh0Yi1NV2hVcmswMkk4VjFVYw?oc=5",
-      "title": "Atletico Madrid forward Lookman out with high-grade knee sprain",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnlYcmo5d0lDRkhkb0JpLXl5MWhjTE4wV0JiQXJMaklFZEF5bmF2SjNyaWZvOFpfNDVXMHk1b2p2UC1MaFFIdzhhU0hoZGhGRmZqUzFlcU45ZExpbWQwTm02VWFIYW4tdzBTdkhuTGVxNFpSYV9fUlBIaU1GVGRHRzQzYXE0d1V4aE9LRXlhdEt4aHJlaVV0S1JTamhZMExKTTh0Yi1NV2hVcmswMkk4VjFVYw?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
+      "id": "fox-business:https://www.foxbusiness.com/lifestyle/popular-tire-brand-recalls-tires-over-hidden-defect-could-cause-sudden-crash-while-driving",
+      "title": "Popular tire brand recalls tires over hidden defect that could cause a sudden crash while driving",
+      "summary": "Yokohama is recalling hundreds of light truck tires after a manufacturing defect raised concerns about sudden air loss and a possible loss of vehicle control.",
+      "url": "https://www.foxbusiness.com/lifestyle/popular-tire-brand-recalls-tires-over-hidden-defect-could-cause-sudden-crash-while-driving",
+      "source": "Fox Business",
+      "source_id": "fox-business",
       "sections": [
-        "sports"
+        "business"
       ],
-      "published": "2026-11-17T21:51:43+00:00",
+      "published": "2026-11-17T21:49:25-05:00",
       "published_precision": "minute",
-      "thumbnail": null,
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/tire-change-001.jpg",
       "kind": "article",
-      "feed_id": "reuters-sports",
-      "via": "google-news"
-    },
-    {
-      "id": "reuters:https://news.google.com/rss/articles/CBMisAFBVV95cUxOeW1xUVRnUnpCbDhYQXQycTVQaGUyckJZN09hdXNhc1dZMG1YaGhMY2xpZVNNdHZoa3pqYUNSVUlEOUxPc2dmbnhIcnRRVlM0bF9GM0JQUUJxUG5XRVBZOVhlN3ZWQS02YnBySUQ0QlNqZEJYZmZJajVOWDRxR210VnppSlltcGtIeGdaMXBWdlpVNEstSjBWbm5aZGZHQWxWSVRnWElWOUxtSkF1YmVHNg?oc=5",
-      "title": "No. 8 Houston scoots by Rutgers in Players Era 8 tourney",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeW1xUVRnUnpCbDhYQXQycTVQaGUyckJZN09hdXNhc1dZMG1YaGhMY2xpZVNNdHZoa3pqYUNSVUlEOUxPc2dmbnhIcnRRVlM0bF9GM0JQUUJxUG5XRVBZOVhlN3ZWQS02YnBySUQ0QlNqZEJYZmZJajVOWDRxR210VnppSlltcGtIeGdaMXBWdlpVNEstSjBWbm5aZGZHQWxWSVRnWElWOUxtSkF1YmVHNg?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-17T21:50:35+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-sports",
-      "via": "google-news"
+      "feed_id": "fox-business-latest"
     },
     {
       "id": "newsnation:https://www.newsnationnow.com/business/tech/faa-ground-stop-catastrophe-doomsday-clock",
@@ -1123,38 +1361,37 @@
       "feed_id": "nn-politics"
     },
     {
-      "id": "reuters:https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXNnbUZVR2ZnM1ZvWkQ3RnlNVGZYMXJLOTg0Z3NDbm5jRnlDWDkxa01nQU5kNG1tTGlnUDRTUjNxVlc2bkVMNUdydU51ZTF5MjNpb19yYzNUR1JuQWI0N2tlZU9RUWctRkxxb3FtbjBfVWNYQXlxc3lxN0pXam1fYlZNVEdYRzN5YnFVR2VTU04wR1loNGNab0tSSmlmZlNkenNnYVFJWGdMY3FjYVp3LTN5ZURpZklBd2ZUTmM5dDhTOExkcXc?oc=5",
-      "title": "Brazil regulator pauses Enel Sao Paulo case after majority back ending contract",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXNnbUZVR2ZnM1ZvWkQ3RnlNVGZYMXJLOTg0Z3NDbm5jRnlDWDkxa01nQU5kNG1tTGlnUDRTUjNxVlc2bkVMNUdydU51ZTF5MjNpb19yYzNUR1JuQWI0N2tlZU9RUWctRkxxb3FtbjBfVWNYQXlxc3lxN0pXam1fYlZNVEdYRzN5YnFVR2VTU04wR1loNGNab0tSSmlmZlNkenNnYVFJWGdMY3FjYVp3LTN5ZURpZklBd2ZUTmM5dDhTOExkcXc?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-17T21:48:00+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-business",
-      "via": "google-news"
-    },
-    {
-      "id": "reuters:https://news.google.com/rss/articles/CBMixwFBVV95cUxNUC04OWFrRGJvME93RTVFVGJDRUJyeEhHeWs1R3F0OHYwUVZ2LWFCeWNMRW14aVgxQUxJNjNEZnlBd3E0UHhSaXh0MDZOY0F5X25obFhGU3V6cHhCYUJBei0xcC1xcGNseUdDa0JnbmtaWFFwNU5Xczd3RkxPTWdlV1M1ZmIxa202aFY3d0dwaTl1OUZBYy1aODc2SVQ1TTNOQzFnYTh0S3N6WDFudTB5U29COUJQUHF6Rkd1bnFlbXBtX05OMjdJ?oc=5",
-      "title": "EU charges Temu for not doing enough to stop illegal product sales on its platforms",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUC04OWFrRGJvME93RTVFVGJDRUJyeEhHeWs1R3F0OHYwUVZ2LWFCeWNMRW14aVgxQUxJNjNEZnlBd3E0UHhSaXh0MDZOY0F5X25obFhGU3V6cHhCYUJBei0xcC1xcGNseUdDa0JnbmtaWFFwNU5Xczd3RkxPTWdlV1M1ZmIxa202aFY3d0dwaTl1OUZBYy1aODc2SVQ1TTNOQzFnYTh0S3N6WDFudTB5U29COUJQUHF6Rkd1bnFlbXBtX05OMjdJ?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/ken-griffin-target-zohran-mamdani-officially-sold-58-million-apartment-ny-jets-owner",
+      "title": "Ken Griffin, target of Zohran Mamdani, has officially sold his $58 million apartment to NY Jets owner",
+      "summary": "Ken Griffin says NYC Mayor Zohran Mamdani's pied-à-terre tax pushed him to double down on Miami, selling an apartment to Jets owner Woody Johnson.",
+      "url": "https://www.foxnews.com/outkick-sports/ken-griffin-target-zohran-mamdani-officially-sold-58-million-apartment-ny-jets-owner",
+      "source": "Fox News",
+      "source_id": "fox-news",
       "sections": [
         "latest"
       ],
-      "published": "2026-11-17T21:41:12+00:00",
+      "published": "2026-11-17T21:42:50-05:00",
       "published_precision": "minute",
-      "thumbnail": null,
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/mamdani-ken-griffin.png?ve=1&tl=1",
       "kind": "article",
-      "feed_id": "reuters-latest",
-      "via": "google-news"
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/us/major-drug-kingpin-the-kraken-captured-california-after-yearslong-hunt",
+      "title": "Major drug kingpin ‘The Kraken’ captured in California after yearslong hunt",
+      "summary": "Alleged Guatemalan cocaine kingpin Axel Montejo Saenz, known as \"Kraken,\" was arrested in San Diego after agents seized over 5,500 kilograms of cocaine, authorities said.",
+      "url": "https://www.foxnews.com/us/major-drug-kingpin-the-kraken-captured-california-after-yearslong-hunt",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "us"
+      ],
+      "published": "2026-11-17T21:41:40-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/axel-montejo-saenz-kraken-arrest-san-diego.png?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-us"
     },
     {
       "id": "newsnation:https://www.newsnationnow.com/us-news/northeast/hbo-documentary-wrongful-conviction-baltimore-murder",
@@ -1173,6 +1410,22 @@
       "feed_id": "nn-us"
     },
     {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/former-yankees-slugger-mark-teixeira-celebrates-congress-version-mr-irrelevant-office-lottery",
+      "title": "Former Yankees slugger Mark Teixeira celebrates as Congress’s version of Mr Irrelevant at office lottery",
+      "summary": "Mark Teixeira drew chip No. 105 of 105 in the House freshman office lottery, earning Congress's \"Mr. Irrelevant\" tag and a playful un-victory lap.",
+      "url": "https://www.foxnews.com/outkick-sports/former-yankees-slugger-mark-teixeira-celebrates-congress-version-mr-irrelevant-office-lottery",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-17T21:35:13-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/mark-teixeira-office-lottery-draw.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
       "id": "newsnation:https://www.newsnationnow.com/travel/sean-duffy-nationwide-ground-stop-republican-senators",
       "title": "Nationwide ground stop root cause remains unclear, Sean Duffy says",
       "summary": "Secretary Sean Duffy added that he is unapologetic about shutting down the airspace and that safety comes first.",
@@ -1189,128 +1442,20 @@
       "feed_id": "nn-latest"
     },
     {
-      "id": "reuters:https://news.google.com/rss/articles/CBMitAFBVV95cUxPcHhfT2loRExMZDdycnJpNWt3cjNGNmJreU5LMDF1QU94cWYzVzJRZ3ZCd21ad2J1blRyd3VQbnNUSGUtQXhoekNJbmYzdGtmamtIQURwekpWWWJDRjN1b0tmMm9rNzRqOENLZUVHXy1sdEFKR2NFN0lER1VPQ1VuSjJqcURrOE5FUFNBSHVSR1VXMTU4aHBTZHBGX0Z6VnZ5SHlUQ0NJYnl0VDRDX090SFkyR1I?oc=5",
-      "title": "Road-weary Rockets chasing bounce-back effort vs. Pacers",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcHhfT2loRExMZDdycnJpNWt3cjNGNmJreU5LMDF1QU94cWYzVzJRZ3ZCd21ad2J1blRyd3VQbnNUSGUtQXhoekNJbmYzdGtmamtIQURwekpWWWJDRjN1b0tmMm9rNzRqOENLZUVHXy1sdEFKR2NFN0lER1VPQ1VuSjJqcURrOE5FUFNBSHVSR1VXMTU4aHBTZHBGX0Z6VnZ5SHlUQ0NJYnl0VDRDX090SFkyR1I?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
+      "id": "fox-business:https://www.foxbusiness.com/fox-news-food-drink/mcdonalds-brings-back-macaulay-culkin-home-alone-meal-pizza-twist",
+      "title": "McDonald’s brings back Macaulay Culkin for ‘Home Alone’ meal with a pizza twist",
+      "summary": "Kevin McCallister's cheese pizza gets a twist as McDonald's adds McShaker Fries, pizza dipping sauce and an Everything Sundae McFlurry this Christmas.",
+      "url": "https://www.foxbusiness.com/fox-news-food-drink/mcdonalds-brings-back-macaulay-culkin-home-alone-meal-pizza-twist",
+      "source": "Fox Business",
+      "source_id": "fox-business",
       "sections": [
-        "sports"
-      ],
-      "published": "2026-11-17T21:32:47+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-sports",
-      "via": "google-news"
-    },
-    {
-      "id": "reuters:https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzlQNkRIYnBLTXZJY3o5dnpaZDJkX18wTUNhOHZuaXRkNi1Yam9TY1N2amM4dkdVeDRYQURKX1ZVSjFCS2JIdTYwUzM4a3pPZUplWDdtWjU3SWg3TC1QbFZOQmdVTE93TzRNV0JDY3YtaW96cGlEd0d3c0F5NGFPZHAwWVhwTGRwUWRoX09MZjN6aml1YnJNRGFNNGgxeFZTb18zYXBURVQ?oc=5",
-      "title": "At hearing, US Navy chief blasted over Iran war and its toll on sailors",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzlQNkRIYnBLTXZJY3o5dnpaZDJkX18wTUNhOHZuaXRkNi1Yam9TY1N2amM4dkdVeDRYQURKX1ZVSjFCS2JIdTYwUzM4a3pPZUplWDdtWjU3SWg3TC1QbFZOQmdVTE93TzRNV0JDY3YtaW96cGlEd0d3c0F5NGFPZHAwWVhwTGRwUWRoX09MZjN6aml1YnJNRGFNNGgxeFZTb18zYXBURVQ?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-17T21:31:43+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-us",
-      "via": "google-news"
-    },
-    {
-      "id": "reuters:https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWVwUXVkcFBaZ3VKNW82dWk3eU9VcDctS0Nsd0wzRHlTV3kxLW9ZbkpnNzFBbTllQ2Z6VVh1ZnpqNGZJNmtRVW9CNWNweXBOcGdFWFBOVDhOVVduRkRRZGc5Um9xVnlxOGZQTzRtYS1QWERzYTg1QWR2OFR4WnF4LWdWblJCcXJxMmR1Smp1aTgzN3dTY09jcGpfSTU5cjFuZXIzUnEyX0pMczQ?oc=5",
-      "title": "Nvidia facing SEC probe after Huang's resignation, WSJ reports",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWVwUXVkcFBaZ3VKNW82dWk3eU9VcDctS0Nsd0wzRHlTV3kxLW9ZbkpnNzFBbTllQ2Z6VVh1ZnpqNGZJNmtRVW9CNWNweXBOcGdFWFBOVDhOVVduRkRRZGc5Um9xVnlxOGZQTzRtYS1QWERzYTg1QWR2OFR4WnF4LWdWblJCcXJxMmR1Smp1aTgzN3dTY09jcGpfSTU5cjFuZXIzUnEyX0pMczQ?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "latest",
-        "tech"
-      ],
-      "published": "2026-11-17T21:28:31+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-tech",
-      "via": "google-news"
-    },
-    {
-      "id": "reuters:https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzY1ZVJpMEF5SkVrMm5oVXBaUE9FNFVkUTNxQllsbHo0YXpJMnZQc0Zjc2c2Z2FjRTNYdHAxdi1ZaEFJZkFIRUxqaVNHWUpTZTdydVZtejBWd2Rqa2llYVJDR2MwdjFORHhPSkc0WXAxbml3NWdiTkx5bW9FbE9xdUl1Y1paSnZMcG1OM3RSSHV1TGhHWl92dEpGenJGTXpSbXV3OVRfQzdHTXNqX1NXRzVaY1NGdEFwOTNWSm5R?oc=5",
-      "title": "Nvidia chair says the board will not rehire Huang as CEO",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzY1ZVJpMEF5SkVrMm5oVXBaUE9FNFVkUTNxQllsbHo0YXpJMnZQc0Zjc2c2Z2FjRTNYdHAxdi1ZaEFJZkFIRUxqaVNHWUpTZTdydVZtejBWd2Rqa2llYVJDR2MwdjFORHhPSkc0WXAxbml3NWdiTkx5bW9FbE9xdUl1Y1paSnZMcG1OM3RSSHV1TGhHWl92dEpGenJGTXpSbXV3OVRfQzdHTXNqX1NXRzVaY1NGdEFwOTNWSm5R?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "latest",
         "business"
       ],
-      "published": "2026-11-17T21:24:00+00:00",
+      "published": "2026-11-17T21:21:36-05:00",
       "published_precision": "minute",
-      "thumbnail": null,
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/mcdonalds.png",
       "kind": "article",
-      "feed_id": "reuters-business",
-      "via": "google-news"
-    },
-    {
-      "id": "reuters:https://news.google.com/rss/articles/CBMizwFBVV95cUxQazJFWTJkVUZ1ZEd6eDR1VEtvREpLSzFOSFRyX2RaWUlaeEt3OGw0THRHVXk1T3doaDJRb1JIS2ZnQVNUbnZGeURDR3VwWmhZeURmUWF0cndTZ2g3X3VabFBNNFZDSkloVjRWUDdwdlFqWEtRUFUtc1BvZ3RkYTdBVndxM3NWZHRhME1zaEhfZElXQWRiUFByU1hlOVF4eGZtQVhwbkpvTWQtTUxneklSdjZIZHVXS21nR2dzbHduazFlaEVKbGlpbDZDMEVLMEU?oc=5",
-      "title": "US loses measles elimination status after nearly three decades; Mexico, Bolivia also lose designation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQazJFWTJkVUZ1ZEd6eDR1VEtvREpLSzFOSFRyX2RaWUlaeEt3OGw0THRHVXk1T3doaDJRb1JIS2ZnQVNUbnZGeURDR3VwWmhZeURmUWF0cndTZ2g3X3VabFBNNFZDSkloVjRWUDdwdlFqWEtRUFUtc1BvZ3RkYTdBVndxM3NWZHRhME1zaEhfZElXQWRiUFByU1hlOVF4eGZtQVhwbkpvTWQtTUxneklSdjZIZHVXS21nR2dzbHduazFlaEVKbGlpbDZDMEVLMEU?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "latest",
-        "business",
-        "health"
-      ],
-      "published": "2026-11-17T21:20:39+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-health",
-      "via": "google-news"
-    },
-    {
-      "id": "reuters:https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXdUMzJNWXItalNlM2xFWFlCdUM3X1lqTllNY0htY2lQZl8tYUYybkE4bFlwRWlaUFBJZ3NBcnVfSUY0cmtyeS1ZSHpNN2dKdHU2S19RVF9nbTBnY3VkaWpRMFdCSzFWbDdReFV0RzJaRXprS1ZaZmNFLVNiWTRZb0JlUzE5MGtMbWF5eUJwM0pwY2FQcEpBTFBzRW9HVXdTRUpQYi03Nk9uOXpUUTFMYUxLM05UR3VCY2c?oc=5",
-      "title": "Russian military transport aircraft crashes in Siberia, 19 dead, defence ministry says",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXdUMzJNWXItalNlM2xFWFlCdUM3X1lqTllNY0htY2lQZl8tYUYybkE4bFlwRWlaUFBJZ3NBcnVfSUY0cmtyeS1ZSHpNN2dKdHU2S19RVF9nbTBnY3VkaWpRMFdCSzFWbDdReFV0RzJaRXprS1ZaZmNFLVNiWTRZb0JlUzE5MGtMbWF5eUJwM0pwY2FQcEpBTFBzRW9HVXdTRUpQYi03Nk9uOXpUUTFMYUxLM05UR3VCY2c?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "latest",
-        "world"
-      ],
-      "published": "2026-11-17T21:15:32+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-world",
-      "via": "google-news"
-    },
-    {
-      "id": "reuters:https://news.google.com/rss/articles/CBMiowFBVV95cUxPLUxVcEh6TkcwcjJOUm1JOGRQTlFsOWF0Y3BhTlp0b1kwZXhfNGFQOWxPN2I1dUE1MmhkcHRfUWE5SWJlYTdUWDltQlFuZjBfcW1pbEFTbmRiZkhoRWRBZXoxc2QtbF8tbm84bU5JTV9Fa25LSG1lQ1lNOWJVMjd3ckM1YUtBR2d6Rkt5SWtYdDNNQ01qQVFrX2MxeS1LalhtUFA0?oc=5",
-      "title": "Georgetown, Navy each coming in hot for matchup in DC",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLUxVcEh6TkcwcjJOUm1JOGRQTlFsOWF0Y3BhTlp0b1kwZXhfNGFQOWxPN2I1dUE1MmhkcHRfUWE5SWJlYTdUWDltQlFuZjBfcW1pbEFTbmRiZkhoRWRBZXoxc2QtbF8tbm84bU5JTV9Fa25LSG1lQ1lNOWJVMjd3ckM1YUtBR2d6Rkt5SWtYdDNNQ01qQVFrX2MxeS1LalhtUFA0?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "sports"
-      ],
-      "published": "2026-11-17T21:09:36+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-sports",
-      "via": "google-news"
+      "feed_id": "fox-business-latest"
     },
     {
       "id": "newsnation:https://www.newsnationnow.com/crime/chesapeake-shooting-death-mother-mistake",
@@ -1327,6 +1472,22 @@
       "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/Copy-of-Template-for-Vertical-Images.jpg?w=900",
       "kind": "article",
       "feed_id": "nn-us"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/landman-star-ali-larter-sizzles-low-cut-mini-dress-behind-the-scenes-season-three-photos",
+      "title": "‘Landman’ star Ali Larter sizzles in low-cut mini dress in behind-the-scenes Season 3 photos",
+      "summary": "Ali Larter shares behind-the-scenes photos from \"Landman\" Season 3 in Texas, including a selfie with Sam Elliott and a TCU football game appearance.",
+      "url": "https://www.foxnews.com/entertainment/landman-star-ali-larter-sizzles-low-cut-mini-dress-behind-the-scenes-season-three-photos",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-17T21:05:09-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/ali-larter-smiles-landman.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
     },
     {
       "id": "newsnation:https://www.newsnationnow.com/crime/murdaugh-murder-trial/alex-murdaugh-murder-trial-evidence-unsealed",
@@ -2146,7 +2307,7 @@
       ],
       "published": "2026-11-17T18:23:35-05:00",
       "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/captain-cautious-america-peoria-murder-case-composite.png?ve=1&tl=1",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/captain-cautious-america-peoria-murder-case-composite.png?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-us"
     },
@@ -2912,39 +3073,6 @@
       "feed_id": "fox-news-latest"
     },
     {
-      "id": "newsnation:https://www.newsnationnow.com/travel/grand-canyon-missing-plane-found-dead",
-      "title": "Missing plane found at Grand Canyon National Park, 3 aboard dead",
-      "summary": "At least three people are dead after officials found a missing aircraft at the North Rim of the Grand Canyon National Park, in Northern Arizona, Monday.",
-      "url": "https://www.newsnationnow.com/travel/grand-canyon-missing-plane-found-dead",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-17T15:09:43+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/724442394_1517006857135727_8656749206915614168_n-e1794924558998.jpg?w=900",
-      "kind": "article",
-      "feed_id": "nn-us"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/cybersecurity/websites-zoom-salesforce-ikea-iphone-crypto-attack",
-      "title": "Major websites including Zoom, Salesforce, IKEA hit with crypto attack",
-      "summary": "A targeted crypto ne attack hit some of the world's largest websites and targeted iphones, security analysts say.",
-      "url": "https://www.newsnationnow.com/cybersecurity/websites-zoom-salesforce-ikea-iphone-crypto-attack",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "world",
-        "business"
-      ],
-      "published": "2026-11-17T15:04:25+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/09/GettyImages-1233188561.jpg?w=900",
-      "kind": "article",
-      "feed_id": "nn-business"
-    },
-    {
       "id": "fox-news:https://www.foxnews.com/media/maine-judge-rules-school-board-committee-discriminated-against-church-lease-argument",
       "title": "Maine judge rules school board committee discriminated against church over lease argument",
       "summary": "A federal judge ruled Friday that Maine school officials discriminated against The Pines Church of Bangor with bad motivations over religious-based questions.",
@@ -3061,22 +3189,6 @@
       "video_id": "gURZ_gQ6Nek"
     },
     {
-      "id": "newsnation:https://www.newsnationnow.com/us-news/immigration/border-coverage/illegal-border-crossings-continue-downward-trend-as-trump-warns-of-migrant-caravans",
-      "title": "Illegal border crossings continue downward trend as Trump warns of migrant caravans",
-      "summary": "Illegal border crossings along the Southwest border have mostly stayed well below 10,000 every month since President Trump took office for a second term.",
-      "url": "https://www.newsnationnow.com/us-news/immigration/border-coverage/illegal-border-crossings-continue-downward-trend-as-trump-warns-of-migrant-caravans",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-17T13:51:16+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/AP25323503566947.jpg?w=900",
-      "kind": "article",
-      "feed_id": "nn-us"
-    },
-    {
       "id": "fox-news:https://www.foxnews.com/food-drink/pizza-hut-co-founder-dies-95-iconic-chain-returns-its-roots-nearly-70-years-after-600-start",
       "title": "Pizza Hut returns to its beloved roots nearly 70 years after $600 start",
       "summary": "From a $600 loan to a $300 million PepsiCo sale, Dan Carney helped build Pizza Hut into the world's largest pizza chain, now embracing its nostalgic past.",
@@ -3189,70 +3301,6 @@
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/1200/675/faa-ground-stop-atc.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/world/ex-hostage-recounts-captivity-iran-backed-militia-stronghold-now-targeted-iraqi-prime-minister",
-      "title": "Ex-hostage recounts captivity in Iran-backed militia stronghold now targeted by Iraqi prime minister",
-      "summary": "Israeli-Russian researcher Elizabeth Tsurkov describes where Iran-backed Iraqi terrorists held her captive for months as Iraq's Trump-backed prime minister orders a crackdown on the militia.",
-      "url": "https://www.foxnews.com/world/ex-hostage-recounts-captivity-iran-backed-militia-stronghold-now-targeted-iraqi-prime-minister",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "world"
-      ],
-      "published": "2026-11-17T13:04:00-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kataib-hezbollah-iraq.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/sen-rand-paul-sen-elect-andy-barr-back-rep-james-comer-kentucky-governor",
-      "title": "Sen Rand Paul and Sen-elect Andy Barr back Rep James Comer for Kentucky governor",
-      "summary": "Sen. Rand Paul and Rep. Andy Barr both backed Rep. James Comer for Kentucky governor after the congressman announced a gubernatorial bid.",
-      "url": "https://www.foxnews.com/politics/sen-rand-paul-sen-elect-andy-barr-back-rep-james-comer-kentucky-governor",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-17T12:48:36-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/cb3713dd-sen-rand-paul-nov-10-2026.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/sherrill-commits-20-2m-deportation-defense-condemning-rutgers-border-patrol-speaker",
-      "title": "Sherrill commits $20.2M to deportation defense while condemning Rutgers over Border Patrol speaker",
-      "summary": "Mikie Sherrill condemned Rutgers College Republicans over a Gregory Bovino event while pouring $20.2 million into New Jersey's deportation defense program.",
-      "url": "https://www.foxnews.com/politics/sherrill-commits-20-2m-deportation-defense-condemning-rutgers-border-patrol-speaker",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-17T12:47:16-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/sherrill-ice-tracking-portal.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/mamdani-takes-swipe-trump-administrations-response-tech-outages-far-from-what-many-wanted-hear",
-      "title": "Mamdani takes swipe at Trump administration's response to tech outages: 'Far from what many wanted to hear'",
-      "summary": "New York City Mayor Zohran Mamdani on Tuesday blasted the federal government's response to multiple technical outages that impacted Americans.",
-      "url": "https://www.foxnews.com/politics/mamdani-takes-swipe-trump-administrations-response-tech-outages-far-from-what-many-wanted-hear",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-17T12:45:30-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/zohran-mamdani-nypd-strategic-response-group.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/markets/jensen-huang-willing-return-nvidia-ceo-own-my-mistakes-completely",
@@ -4747,55 +4795,6 @@
       "video_id": "uRd_aUt3CcY"
     },
     {
-      "id": "fox-business:https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
-      "title": "Gas prices fall below $4 a gallon for first time since July",
-      "summary": "AAA data shows the national average gas price dropped below $4 a gallon for the first time in months as winter blend fuel and lower demand ease costs.",
-      "url": "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-10T17:12:23-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/gas-pump-prices-iran-conflict.png",
-      "kind": "article",
-      "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/markets/short-seller-flagged-jensen-huangs-uncomfortably-close-ties-alleged-chinese-spy-months-ago",
-      "title": "Short seller flagged Jensen Huang’s 'uncomfortably close' ties to alleged Chinese spy months ago",
-      "summary": "Culper Research flagged Jensen Huang's \"uncomfortably close relationship\" with Alice Huang months before the Nvidia CEO disclosed the affair.",
-      "url": "https://www.foxbusiness.com/markets/short-seller-flagged-jensen-huangs-uncomfortably-close-ties-alleged-chinese-spy-months-ago",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-10T15:41:50-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/alice-huang-jensen-huang-2.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-markets"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/technology/amazon-ring-launches-flying-security-drones-patrol-robots-guard-homes-businesses",
-      "title": "Amazon's Ring launches flying security drones, patrol robots to guard homes, businesses",
-      "summary": "Ring expands beyond fixed cameras with a new flying indoor drone and autonomous business robot built to patrol, investigate and eliminate blind spots.",
-      "url": "https://www.foxbusiness.com/technology/amazon-ring-launches-flying-security-drones-patrol-robots-guard-homes-businesses",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business",
-        "tech"
-      ],
-      "published": "2026-11-10T13:41:47-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/amazon-ring.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-technology"
-    },
-    {
       "id": "yt:u3VNZaqPqFI",
       "title": "Facebook Whistleblower Fears Zuckerberg More Than Musk | PBD Podcast #888",
       "summary": "",
@@ -5771,7 +5770,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:09.367603-06:00",
+      "checked": "2026-11-17T21:00:00.005050-06:00",
       "error": null
     },
     {
@@ -5781,7 +5780,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:09.543654-06:00",
+      "checked": "2026-11-17T21:00:00.123392-06:00",
       "error": null
     },
     {
@@ -5791,7 +5790,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:09.680059-06:00",
+      "checked": "2026-11-17T21:00:00.197349-06:00",
       "error": null
     },
     {
@@ -5801,7 +5800,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:10.052069-06:00",
+      "checked": "2026-11-17T21:00:00.284441-06:00",
       "error": null
     },
     {
@@ -5811,7 +5810,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:10.110681-06:00",
+      "checked": "2026-11-17T21:00:00.358478-06:00",
       "error": null
     },
     {
@@ -5821,7 +5820,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:10.276420-06:00",
+      "checked": "2026-11-17T21:00:00.418549-06:00",
       "error": null
     },
     {
@@ -5831,7 +5830,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:10.438145-06:00",
+      "checked": "2026-11-17T21:00:00.502925-06:00",
       "error": null
     },
     {
@@ -5841,7 +5840,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:10.569655-06:00",
+      "checked": "2026-11-17T21:00:00.576420-06:00",
       "error": null
     },
     {
@@ -5851,7 +5850,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:10.669917-06:00",
+      "checked": "2026-11-17T21:00:00.812711-06:00",
       "error": null
     },
     {
@@ -5861,7 +5860,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:10.740717-06:00",
+      "checked": "2026-11-17T21:00:00.903509-06:00",
       "error": null
     },
     {
@@ -5871,7 +5870,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:10.863003-06:00",
+      "checked": "2026-11-17T21:00:01.033578-06:00",
       "error": null
     },
     {
@@ -5881,7 +5880,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:10.970236-06:00",
+      "checked": "2026-11-17T21:00:01.152888-06:00",
       "error": null
     },
     {
@@ -5891,7 +5890,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:06:11.058608-06:00",
+      "checked": "2026-11-17T21:00:01.253714-06:00",
       "error": null
     },
     {
@@ -5901,7 +5900,7 @@
       "ok": true,
       "count": 100,
       "http": 200,
-      "checked": "2026-11-17T20:06:11.168201-06:00",
+      "checked": "2026-11-17T21:00:01.417989-06:00",
       "error": null
     },
     {
@@ -5911,7 +5910,7 @@
       "ok": true,
       "count": 8,
       "http": 200,
-      "checked": "2026-11-17T20:06:11.639696-06:00",
+      "checked": "2026-11-17T21:00:01.949373-06:00",
       "error": null
     },
     {
@@ -5921,7 +5920,7 @@
       "ok": true,
       "count": 100,
       "http": 200,
-      "checked": "2026-11-17T20:06:11.975999-06:00",
+      "checked": "2026-11-17T21:00:02.169352-06:00",
       "error": null
     },
     {
@@ -5931,7 +5930,7 @@
       "ok": true,
       "count": 100,
       "http": 200,
-      "checked": "2026-11-17T20:06:12.355731-06:00",
+      "checked": "2026-11-17T21:00:02.728808-06:00",
       "error": null
     },
     {
@@ -5939,9 +5938,9 @@
       "name": "Reuters — Markets",
       "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/markets&hl=en-US&gl=US&ceid=US:en",
       "ok": true,
-      "count": 37,
+      "count": 42,
       "http": 200,
-      "checked": "2026-11-17T20:06:12.729457-06:00",
+      "checked": "2026-11-17T21:00:03.346005-06:00",
       "error": null
     },
     {
@@ -5951,7 +5950,7 @@
       "ok": true,
       "count": 35,
       "http": 200,
-      "checked": "2026-11-17T20:06:12.971147-06:00",
+      "checked": "2026-11-17T21:00:03.673352-06:00",
       "error": null
     },
     {
@@ -5961,7 +5960,7 @@
       "ok": true,
       "count": 46,
       "http": 200,
-      "checked": "2026-11-17T20:06:13.210959-06:00",
+      "checked": "2026-11-17T21:00:03.975510-06:00",
       "error": null
     },
     {
@@ -5969,9 +5968,9 @@
       "name": "Reuters — Sports",
       "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/sports&hl=en-US&gl=US&ceid=US:en",
       "ok": true,
-      "count": 98,
+      "count": 97,
       "http": 200,
-      "checked": "2026-11-17T20:06:13.629103-06:00",
+      "checked": "2026-11-17T21:00:04.312027-06:00",
       "error": null
     },
     {
@@ -5979,9 +5978,9 @@
       "name": "NewsNation — Latest",
       "url": "https://www.newsnationnow.com/feed/",
       "ok": true,
-      "count": 14,
+      "count": 18,
       "http": 200,
-      "checked": "2026-11-17T20:06:13.983784-06:00",
+      "checked": "2026-11-17T21:00:04.690665-06:00",
       "error": null
     },
     {
@@ -5991,7 +5990,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-17T20:06:14.136157-06:00",
+      "checked": "2026-11-17T21:00:04.859773-06:00",
       "error": null
     },
     {
@@ -6001,7 +6000,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-17T20:06:14.973478-06:00",
+      "checked": "2026-11-17T21:00:05.911033-06:00",
       "error": null
     },
     {
@@ -6011,7 +6010,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-17T20:06:15.750167-06:00",
+      "checked": "2026-11-17T21:00:06.068737-06:00",
       "error": null
     },
     {
@@ -6021,7 +6020,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-17T20:06:15.835478-06:00",
+      "checked": "2026-11-17T21:00:06.213363-06:00",
       "error": null
     },
     {
@@ -6031,7 +6030,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-17T20:06:15.999855-06:00",
+      "checked": "2026-11-17T21:00:07.151811-06:00",
       "error": null
     },
     {
@@ -6042,7 +6041,7 @@
       "ok": true,
       "count": 15,
       "http": 200,
-      "checked": "2026-11-17T20:06:16.881577-06:00",
+      "checked": "2026-11-17T21:00:08.817870-06:00",
       "error": null,
       "method": "youtube-atom"
     },
@@ -6054,7 +6053,7 @@
       "ok": true,
       "count": 15,
       "http": 200,
-      "checked": "2026-11-17T20:06:17.028379-06:00",
+      "checked": "2026-11-17T21:00:09.042548-06:00",
       "error": null,
       "method": "youtube-atom"
     }
