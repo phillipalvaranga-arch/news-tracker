@@ -142,10 +142,16 @@ html[data-theme="dark"] .thumb { background: #222838; }
 .badge.fox-business { background: #16305f; color: #fff; }
 .badge.tousi-tv { background: #7a1f2b; color: #fff; }
 .badge.pbd-podcast { background: #1e3a5f; color: #fff; }
-.badge.ap { background: #8b1e1e; color: #fff; }
 .badge.reuters { background: #d35400; color: #fff; }
 .badge.newsnation { background: #0e4d6b; color: #fff; }
 .badge.hour { background: var(--red); color: #fff; }
+.bias {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
 .card h2 {
   margin: 0; font-size: 1.08rem; line-height: 1.35; font-weight: 700;
 }

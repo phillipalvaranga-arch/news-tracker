@@ -17,7 +17,26 @@
     { id: "about", label: "About" }
   ];
 
-  const NEUTRAL_SOURCES = ["ap", "reuters", "newsnation"];
+  const NEUTRAL_SOURCES = ["reuters", "newsnation"];
+  const REMOVED_SOURCE_IDS = ["ap"];
+  const FALLBACK_BIAS = {
+    "fox-news": { label: "Right", url: "https://www.allsides.com/news-source/fox-news-media-bias" },
+    "fox-business": { label: "Lean Right", url: "https://www.allsides.com/news-source/fox-business-media-bias" },
+    "reuters": { label: "Center", url: "https://www.allsides.com/news-source/reuters-media-bias" },
+    "newsnation": { label: "Center", url: "https://www.allsides.com/news-source/newsnation-media-bias" },
+    "tousi-tv": { label: "Not rated by AllSides", url: null },
+    "pbd-podcast": { label: "Not rated by AllSides", url: null }
+  };
+  const BLOCKED_HOSTS = [
+    "cnn.com", "msn.com", "msnbc.com",
+    "nytimes.com", "washingtonpost.com", "npr.org",
+    "abcnews.go.com", "abc.com", "cbsnews.com", "cbs.com",
+    "nbcnews.com", "nbc.com", "apnews.com", "ap.org",
+    "latimes.com", "huffpost.com", "huffingtonpost.com",
+    "theguardian.com", "vox.com", "thedailybeast.com",
+    "politico.com", "msnow.com"
+  ];
+
   const TOP_STORY_CAP = 10;
 
   const state = {
@@ -41,7 +60,11 @@
   function loadSaved() {
     try {
       const raw = JSON.parse(localStorage.getItem(SAVED_KEY) || "[]");
-      return Array.isArray(raw) ? raw : [];
+      const list = Array.isArray(raw) ? raw.filter(itemAllowed) : [];
+      if (Array.isArray(raw) && list.length !== raw.length) {
+        try { localStorage.setItem(SAVED_KEY, JSON.stringify(list)); } catch (e) {}
+      }
+      return list;
     } catch (e) {
       return [];
     }
@@ -79,18 +102,33 @@
       const u = new URL(url);
       if (u.protocol !== "https:" && u.protocol !== "http:") return false;
       let host = u.hostname.toLowerCase().replace(/^www\./, "");
-      const blocked = ["cnn.com", "msn.com", "msnbc.com"];
-      if (blocked.some((h) => host === h || host.endsWith("." + h))) return false;
-      const ok = extra.concat([
+      if (BLOCKED_HOSTS.some((h) => host === h || host.endsWith("." + h))) return false;
+      const ok = (extra || []).concat([
         "foxnews.com", "foxbusiness.com", "fncstatic.com",
         "youtube.com", "youtu.be", "ytimg.com",
-        "apnews.com", "reuters.com", "newsnationnow.com",
-        "news.google.com", "flipboard.com"
+        "reuters.com", "newsnationnow.com",
+        "news.google.com"
       ]);
       return ok.some((h) => host === h || host.endsWith("." + h));
     } catch (e) {
       return false;
     }
+  }
+
+  function itemAllowed(it) {
+    if (!it) return false;
+    const sid = it.source_id || "";
+    const name = (it.source || "").trim().toLowerCase();
+    if (REMOVED_SOURCE_IDS.includes(sid) || name === "associated press" || name === "ap") return false;
+    if (it.url && !allowedHost(it.url, [])) return false;
+    return true;
+  }
+
+  function biasFor(item) {
+    const sources = (state.data && state.data.sources) || [];
+    const rec = sources.find((s) => s.id === item.source_id);
+    if (rec && rec.bias && rec.bias.label) return rec.bias;
+    return FALLBACK_BIAS[item.source_id] || null;
   }
 
   function parsePublished(item) {
@@ -162,13 +200,14 @@
   function aboutPage() {
     const box = el("section", { class: "about" });
     box.appendChild(el("h2", { text: "About News Tracker" }));
-    box.appendChild(el("p", { text: "This app lists headlines from Fox News, Fox Business, the Associated Press, Reuters, NewsNation, Tousi TV and the PBD Podcast. Each card shows the source’s headline, summary, time and link. The app does not add commentary or invent stories." }));
+    box.appendChild(el("p", { text: "This app lists headlines from Fox News, Fox Business, Reuters, NewsNation, Tousi TV and the PBD Podcast. Each card shows the source’s headline, summary, time and link. The app does not add commentary or invent stories." }));
     box.appendChild(el("h3", { text: "Bias ratings" }));
-    box.appendChild(el("p", { text: "AllSides, an independent media-bias rater, was checked on Nov 15, 2026. It rates Reuters as Center and NewsNation as Center, and it rates the Associated Press as Lean Left. Those ratings are for online news coverage, not TV. Because the Associated Press is not rated Center, this app does not describe all three as center-rated." }));
+    box.appendChild(el("p", { text: "AllSides, an independent media-bias rater, was checked on Nov 17, 2026. It rates Fox News Digital as Right, Fox Business as Lean Right, Reuters as Center, and NewsNation as Center. Those ratings are for online news coverage, not TV. Tousi TV and the PBD Podcast have no AllSides rating, so they are labeled Not rated by AllSides. Sources AllSides rates Left or Lean Left, including the Associated Press, are not included." }));
     const allsides = el("p");
     allsides.appendChild(document.createTextNode("AllSides pages: "));
     const links = [
-      ["Associated Press", "https://www.allsides.com/news-source/associated-press-media-bias"],
+      ["Fox News Digital", "https://www.allsides.com/news-source/fox-news-media-bias"],
+      ["Fox Business", "https://www.allsides.com/news-source/fox-business-media-bias"],
       ["Reuters", "https://www.allsides.com/news-source/reuters-media-bias"],
       ["NewsNation", "https://www.allsides.com/news-source/newsnation-media-bias"]
     ];
@@ -179,18 +218,17 @@
     allsides.appendChild(document.createTextNode("."));
     box.appendChild(allsides);
     box.appendChild(el("h3", { text: "The Neutral filter" }));
-    box.appendChild(el("p", { text: "The Neutral filter shows Associated Press, Reuters and NewsNation together, so you can read those outlets side by side with Fox News, Fox Business, Tousi TV and the PBD Podcast. You can also tap AP, Reuters or NewsNation alone." }));
+    box.appendChild(el("p", { text: "The Neutral filter shows Reuters and NewsNation together, so you can read those outlets side by side with Fox News, Fox Business, Tousi TV and the PBD Podcast. You can also tap Reuters or NewsNation alone." }));
     box.appendChild(el("h3", { text: "Where the headlines come from" }));
     const ul = el("ul");
     [
       "Fox News and Fox Business: official RSS feeds on moxie.foxnews.com and moxie.foxbusiness.com.",
-      "Associated Press: AP no longer publishes a working public RSS feed on apnews.com. This app uses AP’s official Flipboard magazines. Each card opens the article on apnews.com.",
-      "Reuters: Reuters ended its public RSS feeds in 2020. This app uses a Google News RSS search limited to reuters.com. Each card opens the Reuters article through Google News, not through MSN or another aggregator.",
+      "Reuters: Reuters ended its public RSS feeds in 2020. This app uses a Google News RSS search limited to reuters.com, and only items whose source is reuters.com are kept. Each card opens the Reuters article through Google News, not through MSN or another aggregator.",
       "NewsNation: official RSS feeds on newsnationnow.com.",
       "Tousi TV and the PBD Podcast: official YouTube channels."
     ].forEach((line) => ul.appendChild(el("li", { text: line })));
     box.appendChild(ul);
-    box.appendChild(el("p", { text: "This app does not use CNN, MSN or MSNBC. Times are shown in Central Time. Saved stories stay on this device only. Fox News does not publish a Texas or DFW RSS feed, so that section is not included. Top Stories keeps a cap of the newest stories from each source so one outlet cannot fill the whole list." }));
+    box.appendChild(el("p", { text: "This app does not use CNN, MSN, MSNBC, the Associated Press, The New York Times, The Washington Post, NPR, ABC, CBS or NBC, and it does not pull those outlets in through Google News or Flipboard. Times are shown in Central Time. Saved stories stay on this device only. Fox News does not publish a Texas or DFW RSS feed, so that section is not included. Top Stories keeps a cap of the newest stories from each source so one outlet cannot fill the whole list." }));
     return box;
   }
 
@@ -206,6 +244,7 @@
     } else {
       items = ((state.data && state.data.items) || []).filter((it) => (it.sections || []).includes(state.section));
     }
+    items = items.filter(itemAllowed);
     if (state.source === "neutral") {
       items = items.filter((it) => NEUTRAL_SOURCES.includes(it.source_id));
     } else if (state.source !== "all") {
@@ -288,6 +327,10 @@
     const body = el("div", { class: "card-body" });
     const meta = el("div", { class: "meta" });
     meta.appendChild(el("span", { class: "badge " + (item.source_id || ""), text: item.source || "Source not listed" }));
+    const bias = biasFor(item);
+    if (bias && bias.label) {
+      meta.appendChild(el("span", { class: "bias", text: bias.label, title: bias.url ? "AllSides rating" : "No AllSides rating" }));
+    }
     if (hour) meta.appendChild(el("span", { class: "badge hour", text: "Last hour" }));
     meta.appendChild(el("span", { text: timeLabel(item, now) }));
     body.appendChild(meta);
@@ -409,7 +452,9 @@
     try {
       const r = await fetch(DATA_URL + "?t=" + Date.now(), { cache: "no-store" });
       if (!r.ok) throw new Error("Could not load headlines (" + r.status + ")");
-      state.data = await r.json();
+      const data = await r.json();
+      if (data && Array.isArray(data.items)) data.items = data.items.filter(itemAllowed);
+      state.data = data;
       updatedLine.textContent = formatUpdated(state.data.updated);
       render();
       if (manual) toast("Headlines refreshed");

@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Fetch headlines from Fox News, Fox Business, Tousi TV and the PBD Podcast.
+"""Fetch headlines from Fox News, Fox Business, Reuters, NewsNation, Tousi TV and the PBD Podcast.
 
 Writes data/news.json. Browsers cannot read these feeds directly (CORS),
 so this script is meant to run in GitHub Actions on a schedule.
+Sources rated Left or Lean Left by AllSides are not included.
 """
 from __future__ import annotations
 
@@ -79,27 +80,6 @@ YOUTUBE = [
      "sections": ["video"], "kind": "video"},
 ]
 
-# Official AP Flipboard magazines (AP runs this Flipboard account; items link to apnews.com).
-# apnews.com has no working public RSS feed (official .rss paths are disallowed / return 403).
-AP_FEEDS = [
-    {"id": "ap-top", "name": "AP — Top Stories", "source": "Associated Press", "source_id": "ap",
-     "url": "https://flipboard.com/@associatedpress/top-stories-u7govdf1z.rss", "sections": ["latest"], "kind": "article"},
-    {"id": "ap-us", "name": "AP — U.S.", "source": "Associated Press", "source_id": "ap",
-     "url": "https://flipboard.com/@associatedpress/u.s.-news-lhl4uphvz.rss", "sections": ["us"], "kind": "article"},
-    {"id": "ap-world", "name": "AP — World", "source": "Associated Press", "source_id": "ap",
-     "url": "https://flipboard.com/@associatedpress/international-news-miluvhmaz.rss", "sections": ["world"], "kind": "article"},
-    {"id": "ap-politics", "name": "AP — Politics", "source": "Associated Press", "source_id": "ap",
-     "url": "https://flipboard.com/@associatedpress/politics-h8vn14lnz.rss", "sections": ["politics"], "kind": "article"},
-    {"id": "ap-business", "name": "AP — Business", "source": "Associated Press", "source_id": "ap",
-     "url": "https://flipboard.com/@associatedpress/business-and-finance-pbj3bpclz.rss", "sections": ["business"], "kind": "article"},
-    {"id": "ap-tech", "name": "AP — Technology", "source": "Associated Press", "source_id": "ap",
-     "url": "https://flipboard.com/@associatedpress/technology-uvt65hdqz.rss", "sections": ["tech"], "kind": "article"},
-    {"id": "ap-health", "name": "AP — Health", "source": "Associated Press", "source_id": "ap",
-     "url": "https://flipboard.com/@associatedpress/health-l59qepnvz.rss", "sections": ["health"], "kind": "article"},
-    {"id": "ap-sports", "name": "AP — Sports", "source": "Associated Press", "source_id": "ap",
-     "url": "https://flipboard.com/@associatedpress/sports-uv5v9mtcz.rss", "sections": ["sports"], "kind": "article"},
-]
-
 # Reuters discontinued public RSS in 2020. Google News RSS limited to reuters.com is the working option.
 # Card links go through Google News and open the Reuters article. Do not use MSN or other aggregators.
 GN = "https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
@@ -138,23 +118,65 @@ NN_FEEDS = [
      "url": "https://www.newsnationnow.com/health/feed/", "sections": ["health"], "kind": "article"},
 ]
 
-RSS_FEEDS = FOX_FEEDS + AP_FEEDS + REUTERS_FEEDS + NN_FEEDS
+RSS_FEEDS = FOX_FEEDS + REUTERS_FEEDS + NN_FEEDS
 
 ALLOWED_ARTICLE_HOSTS = (
     "foxnews.com", "foxbusiness.com",
-    "apnews.com",
     "reuters.com",
     "newsnationnow.com",
-    "news.google.com",  # Reuters items only; fetcher also checks the RSS <source>
+    "news.google.com",  # Reuters items only; fetcher also requires RSS <source> reuters.com
 )
 ALLOWED_THUMB_HOSTS = (
     "foxnews.com", "foxbusiness.com", "fncstatic.com",
     "ytimg.com", "youtube.com",
-    "apnews.com", "flipboard.com",
     "newsnationnow.com",
 )
+# Left or Lean Left outlets, plus common aggregators, must not appear even indirectly.
 BLOCKED_HOSTS = (
     "cnn.com", "msn.com", "msnbc.com",
+    "nytimes.com", "washingtonpost.com", "npr.org",
+    "abcnews.go.com", "abc.com", "cbsnews.com", "cbs.com",
+    "nbcnews.com", "nbc.com", "apnews.com", "ap.org",
+    "latimes.com", "huffpost.com", "huffingtonpost.com",
+    "theguardian.com", "vox.com", "thedailybeast.com",
+    "politico.com", "msnow.com",
+)
+REMOVED_SOURCE_IDS = frozenset({"ap"})
+
+# AllSides ratings checked on Nov 17, 2026 from each official source page.
+SOURCE_BIAS = {
+    "fox-news": {
+        "rater": "AllSides", "rating": "Right", "label": "Right",
+        "url": "https://www.allsides.com/news-source/fox-news-media-bias", "checked": "2026-11-17",
+    },
+    "fox-business": {
+        "rater": "AllSides", "rating": "Lean Right", "label": "Lean Right",
+        "url": "https://www.allsides.com/news-source/fox-business-media-bias", "checked": "2026-11-17",
+    },
+    "reuters": {
+        "rater": "AllSides", "rating": "Center", "label": "Center",
+        "url": "https://www.allsides.com/news-source/reuters-media-bias", "checked": "2026-11-17",
+    },
+    "newsnation": {
+        "rater": "AllSides", "rating": "Center", "label": "Center",
+        "url": "https://www.allsides.com/news-source/newsnation-media-bias", "checked": "2026-11-17",
+    },
+    "tousi-tv": {
+        "rater": "AllSides", "rating": None, "label": "Not rated by AllSides",
+        "url": None, "checked": "2026-11-17",
+    },
+    "pbd-podcast": {
+        "rater": "AllSides", "rating": None, "label": "Not rated by AllSides",
+        "url": None, "checked": "2026-11-17",
+    },
+}
+
+LEFT_TITLE_SUFFIX = re.compile(
+    r"\s[-–—]\s+(CNN|MSNBC|MSN|MS NOW|AP News|AP|Associated Press|"
+    r"The New York Times|New York Times|NYT|The Washington Post|Washington Post|"
+    r"NPR|ABC News|CBS News|NBC News|Los Angeles Times|The Guardian|HuffPost|"
+    r"The Daily Beast|Vox|Politico)\s*$",
+    re.I,
 )
 
 
@@ -302,9 +324,7 @@ def parse_rss_feed(xml_bytes: bytes, feed: dict) -> list[dict]:
     items = []
     via = feed.get("via")
     expected = None
-    if feed["source_id"] == "ap":
-        expected = "apnews.com"
-    elif feed["source_id"] == "reuters":
+    if feed["source_id"] == "reuters":
         expected = "reuters.com"
     elif feed["source_id"] == "newsnation":
         expected = "newsnationnow.com"
@@ -316,11 +336,20 @@ def parse_rss_feed(xml_bytes: bytes, feed: dict) -> list[dict]:
         if host_blocked(link):
             continue
         if via == "google-news":
-            # Keep only items whose Google News <source> is the intended publisher.
+            # Keep only Reuters items from reuters.com. Drop anything Google News
+            # attributes to another publisher, including left-leaning outlets.
             src_host = rss_source_host(item)
-            if expected and src_host and src_host != expected and not src_host.endswith("." + expected):
+            src_el = item.find("source")
+            src_name = (src_el.text or "").strip() if src_el is not None and src_el.text else ""
+            if expected != "reuters.com":
                 continue
-            if not host_ok(link, ("news.google.com",)):
+            if src_host != "reuters.com" and not src_host.endswith(".reuters.com"):
+                continue
+            if src_name and src_name.lower() not in {"reuters"}:
+                continue
+            if LEFT_TITLE_SUFFIX.search(title):
+                continue
+            if host_blocked(link) or not host_ok(link, ("news.google.com", "reuters.com")):
                 continue
         else:
             if not host_ok(link, ALLOWED_ARTICLE_HOSTS):
@@ -623,12 +652,32 @@ def apply_relative_time(item: dict, now: datetime) -> None:
         item["published_precision"] = "relative"
 
 
+
+def item_keep(it: dict) -> bool:
+    """Drop removed sources and any item that points at a blocked publisher."""
+    if not it or not it.get("id"):
+        return False
+    if it.get("source_id") in REMOVED_SOURCE_IDS:
+        return False
+    if (it.get("source") or "").strip().lower() in {"associated press", "ap"}:
+        return False
+    url = it.get("url") or ""
+    if url and host_blocked(url):
+        return False
+    if it.get("source_id") == "reuters":
+        if url and not host_ok(url, ("news.google.com", "reuters.com")):
+            return False
+    return True
+
+
 def merge_items(existing: list, incoming: list) -> list:
     by_id = {}
     for it in existing:
-        if isinstance(it, dict) and it.get("id"):
+        if isinstance(it, dict) and item_keep(it):
             by_id[it["id"]] = it
     for it in incoming:
+        if not item_keep(it):
+            continue
         prev = by_id.get(it["id"])
         if not prev:
             by_id[it["id"]] = it
@@ -765,18 +814,17 @@ def main() -> int:
         "items": items,
         "status": status,
         "sources": [
-            {"id": "fox-news", "name": "Fox News", "site": "https://www.foxnews.com/"},
-            {"id": "fox-business", "name": "Fox Business", "site": "https://www.foxbusiness.com/"},
-            {"id": "ap", "name": "Associated Press", "site": "https://apnews.com/", "group": "neutral"},
-            {"id": "reuters", "name": "Reuters", "site": "https://www.reuters.com/", "group": "neutral"},
-            {"id": "newsnation", "name": "NewsNation", "site": "https://www.newsnationnow.com/", "group": "neutral"},
-            {"id": "tousi-tv", "name": "Tousi TV", "site": "https://www.youtube.com/@tousitv"},
-            {"id": "pbd-podcast", "name": "PBD Podcast", "site": "https://www.youtube.com/@pbdpodcast"},
+            {"id": "fox-news", "name": "Fox News", "site": "https://www.foxnews.com/", "bias": SOURCE_BIAS["fox-news"]},
+            {"id": "fox-business", "name": "Fox Business", "site": "https://www.foxbusiness.com/", "bias": SOURCE_BIAS["fox-business"]},
+            {"id": "reuters", "name": "Reuters", "site": "https://www.reuters.com/", "group": "neutral", "bias": SOURCE_BIAS["reuters"]},
+            {"id": "newsnation", "name": "NewsNation", "site": "https://www.newsnationnow.com/", "group": "neutral", "bias": SOURCE_BIAS["newsnation"]},
+            {"id": "tousi-tv", "name": "Tousi TV", "site": "https://www.youtube.com/@tousitv", "bias": SOURCE_BIAS["tousi-tv"]},
+            {"id": "pbd-podcast", "name": "PBD Podcast", "site": "https://www.youtube.com/@pbdpodcast", "bias": SOURCE_BIAS["pbd-podcast"]},
         ],
         "notes": [
             "Headlines, summaries and times come from the source feeds or the official source pages. This file does not add commentary.",
             "Fox News does not publish a Texas or DFW RSS feed at moxie.foxnews.com, so that section is not included.",
-            "AllSides, checked on Nov 15, 2026, rates Reuters and NewsNation as Center and the Associated Press as Lean Left, for online news coverage.",
+            "Sources rated Left or Lean Left by AllSides are not included. AllSides ratings were checked on Nov 17, 2026.",
         ],
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)

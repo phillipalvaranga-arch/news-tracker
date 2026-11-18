@@ -1,4 +1,4 @@
-const C = 'news-v2';
+const C = 'news-v3';
 const F = [
   './',
   'index.html',
