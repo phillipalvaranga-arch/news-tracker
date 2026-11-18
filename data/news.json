@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:04:43.120809-06:00",
+  "updated": "2026-11-17T20:06:17.210345-06:00",
   "timezone": "America/Chicago",
   "item_count": 340,
   "items": [
@@ -52,6 +52,23 @@
       "thumbnail": null,
       "kind": "article",
       "feed_id": "reuters-sports",
+      "via": "google-news"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUl9qNG8yZ1d6cDFab081QkxvQ2Y3SWdrMjZsVlU4Rlk0d1U3U2Z1V1c0cDRyU0xGX2ZVUEFVWWtaVEgyd2JteFlQelpIOW9qOVpMWjBsQXZKVk80OEZJNXBReWowY3liRUtHUzNRRnVOWUV6RElvMG9INmlxNXNaLVo0NkhZa0JrTnlGTF9vaTJra1Z4cnIzeWNwRDdQc3hlWWFnV0t2dGJuMjRQb2JCNDlhOXBJaTdmZWE2T0x4d2oydw?oc=5",
+      "title": "Troubled Australian retailer David Jones to cut 1,500 jobs, union says",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUl9qNG8yZ1d6cDFab081QkxvQ2Y3SWdrMjZsVlU4Rlk0d1U3U2Z1V1c0cDRyU0xGX2ZVUEFVWWtaVEgyd2JteFlQelpIOW9qOVpMWjBsQXZKVk80OEZJNXBReWowY3liRUtHUzNRRnVOWUV6RElvMG9INmlxNXNaLVo0NkhZa0JrTnlGTF9vaTJra1Z4cnIzeWNwRDdQc3hlWWFnV0t2dGJuMjRQb2JCNDlhOXBJaTdmZWE2T0x4d2oydw?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-18T01:32:00+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-business",
       "via": "google-news"
     },
     {
@@ -154,6 +171,23 @@
       "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/10/6ad0dd14df6f27.54292314.jpeg?w=900",
       "kind": "article",
       "feed_id": "nn-us"
+    },
+    {
+      "id": "reuters:https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMlVxQ0E2NVZDVWV3Z3d6WG9iZnlQZjh3aXNIS0ZydmhVRDJKZi1fS0ZOUUEwb1dGVlJnclFiS2lOXzd3OG9HRmhMc0NfLS1WaHY2dVg3SmZuWW5DX0E?oc=5",
+      "title": "MDA Space Ltd. (MDA.TO) | Stock Price & Latest News",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMlVxQ0E2NVZDVWV3Z3d6WG9iZnlQZjh3aXNIS0ZydmhVRDJKZi1fS0ZOUUEwb1dGVlJnclFiS2lOXzd3OG9HRmhMc0NfLS1WaHY2dVg3SmZuWW5DX0E?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-18T00:41:03+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-markets",
+      "via": "google-news"
     },
     {
       "id": "reuters:https://news.google.com/rss/articles/CBMikAFBVV95cUxQTTlCaGQ1TDN3dE5DV3JKS2MzVVZhRXkxUFBXOXZ1TXNlRmE3YlhUZjdaWVEzb3p5elNjSU5iUUJvbGFOZVNuM0g1SHZsbGhfMFhNMXhjc0s5QzUwZWstdmdJanhiVkkwQ29ybXdfaEZ5SFNpZ2owQzlZdmNGUzZIQUc2aWNJdGN3a1ZjVzFPUVU?oc=5",
@@ -881,6 +915,23 @@
       "feed_id": "nn-us"
     },
     {
+      "id": "reuters:https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlZ0WEtRMXJVZ3ltWEczVXQ0YXQySzUxUXdGWFhnQ3Vtbnk5NC1haEZHR3FkZnVQeXVOMkotOUxaVWJSQkhVR3VwM05BQWdhVlhRcWdibzRaZURpUTVHenpUS3Z6UFNmRnlaNlF5aFV0N3B1N0tNVGlaR2EyREM0Nk9GZFN5VHpyZjFlNkFOLVlEdFFfbEd0TVJHMTlPYXl4ODlCdUJuV1ZZNFhRcXU3eEJtRndtQnI2Zk5jbW5JWVZIMTIx?oc=5",
+      "title": "Energean, BP Egypt asset talks stall without government backing, sources say",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlZ0WEtRMXJVZ3ltWEczVXQ0YXQySzUxUXdGWFhnQ3Vtbnk5NC1haEZHR3FkZnVQeXVOMkotOUxaVWJSQkhVR3VwM05BQWdhVlhRcWdibzRaZURpUTVHenpUS3Z6UFNmRnlaNlF5aFV0N3B1N0tNVGlaR2EyREM0Nk9GZFN5VHpyZjFlNkFOLVlEdFFfbEd0TVJHMTlPYXl4ODlCdUJuV1ZZNFhRcXU3eEJtRndtQnI2Zk5jbW5JWVZIMTIx?oc=5",
+      "source": "Reuters",
+      "source_id": "reuters",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-17T22:08:35+00:00",
+      "published_precision": "minute",
+      "thumbnail": null,
+      "kind": "article",
+      "feed_id": "reuters-business",
+      "via": "google-news"
+    },
+    {
       "id": "reuters:https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXRMSHA4bzJZN2d4aDhraDgyZVJDSkZ3alhjeTZVZGx3WWwza1BxYm4zWTBQdmJsVndNM3Fic1NxQmFhZ2NHZXJXQTBkS0FqTGdNVDhDVEFOaEhDZEZCVkpnb2VqbkhlQTd0a0Jkb0pQX25td1hJeDNYQU9qdk5EMXpkM1A4dk1kbFNBYW50WmJEczZMaDJJc0hfT0tWYVhUR2RCN1lLYm4xN2RqYlUwTm9DckRGVXVpLUE?oc=5",
       "title": "Root cause of US aviation shutdown not yet determined, Duffy says",
       "summary": "",
@@ -1311,40 +1362,6 @@
       "video_id": "NqvnqpiPBSE"
     },
     {
-      "id": "reuters:https://news.google.com/rss/articles/CBMixAFBVV95cUxNVHNRbUZwRi1QUU83RFgxY3hDWUtOLUM4WUctMjVpRklnQWw4Z0ZfRFlwc3V4Nm5jWHVxbk9lcF8xQjZyOU9GUXVGelpLc0pkRkFhcnBiZE0zNlN3cjRkSHo4UkY1Z1d2Y1BpLVFLOXpCUGkxZW16WmVlSXJzME51THBQS0g0QTZnaVVZTWJ5LTAxMXlSZFd6M3d1ckhZQzBFYm9MWEI3ay1zbDVyeWNsTmRVNFBKXzJ5dXZ1ZjlXQmhUMFkt?oc=5",
-      "title": "US LNG feedgas slips as Sabine Pass demand drops, Freeport facility constrained",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVHNRbUZwRi1QUU83RFgxY3hDWUtOLUM4WUctMjVpRklnQWw4Z0ZfRFlwc3V4Nm5jWHVxbk9lcF8xQjZyOU9GUXVGelpLc0pkRkFhcnBiZE0zNlN3cjRkSHo4UkY1Z1d2Y1BpLVFLOXpCUGkxZW16WmVlSXJzME51THBQS0g0QTZnaVVZTWJ5LTAxMXlSZFd6M3d1ckhZQzBFYm9MWEI3ay1zbDVyeWNsTmRVNFBKXzJ5dXZ1ZjlXQmhUMFkt?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-17T20:59:53+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-business",
-      "via": "google-news"
-    },
-    {
-      "id": "reuters:https://news.google.com/rss/articles/CBMilgFBVV95cUxOTU85SHR5dHdlQ0ZFRnhqdzRJVGtpRW1CMFRfc3NMcVlzZ05Ldm5xSjFUTExZTmpHeUdHVHV3LVJzYjVsZXotajlINVRzbnl0M2k1RElmTFpIdlZ3c1N3dkt1NnUyYm5xM0RmZjJack53OTNRY1kyTlpUbklQQWdSYVNCOWRWcUdYMGpLcWdXbmJuRzBhX2c?oc=5",
-      "title": "How Kennedy let measles run wild in America",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTU85SHR5dHdlQ0ZFRnhqdzRJVGtpRW1CMFRfc3NMcVlzZ05Ldm5xSjFUTExZTmpHeUdHVHV3LVJzYjVsZXotajlINVRzbnl0M2k1RElmTFpIdlZ3c1N3dkt1NnUyYm5xM0RmZjJack53OTNRY1kyTlpUbklQQWdSYVNCOWRWcUdYMGpLcWdXbmJuRzBhX2c?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-17T20:58:31+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-latest",
-      "via": "google-news"
-    },
-    {
       "id": "fox-news:https://www.foxnews.com/outkick-sports/lawsuit-alleges-ai-app-bron-used-lebron-james-tattoos-voice-jersey-promote-sports-betting-tool",
       "title": "New lawsuit alleges AI app 'Bron' used LeBron James’ tattoos, voice and jersey to promote sports-betting tool",
       "summary": "LeBron James alleges an AI sports-betting app called \"Bron\" faked his endorsement, with its ad viewed about 1 million times before it was taken down.",
@@ -1359,23 +1376,6 @@
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lebron-james-hands-on-hips.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "reuters:https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU9PZWl4NWx6T0xLbFo5OHV4THh2STNtRWpkeE16alJLSWpkOF9FM045cl9CallmaVRfQzVtRWYyeE4tUUlXb1hxRmpVR2JoR2VBYU9zLVJSdTdkMWFBYllRQUVrbFRUNXFfVm5CNnVjTm5OcUFEcVo0VDNMLWpkTkhHcmdvTWlSWThVTzFNWU1pNFo1MU9pdEdwRzdWUTM0WTdjZVc3d3RJUW5V?oc=5",
-      "title": "Nvidia's insurance protects board but not company coffers from litigation",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU9PZWl4NWx6T0xLbFo5OHV4THh2STNtRWpkeE16alJLSWpkOF9FM045cl9CallmaVRfQzVtRWYyeE4tUUlXb1hxRmpVR2JoR2VBYU9zLVJSdTdkMWFBYllRQUVrbFRUNXFfVm5CNnVjTm5OcUFEcVo0VDNMLWpkTkhHcmdvTWlSWThVTzFNWU1pNFo1MU9pdEdwRzdWUTM0WTdjZVc3d3RJUW5V?oc=5",
-      "source": "Reuters",
-      "source_id": "reuters",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-17T20:58:04+00:00",
-      "published_precision": "minute",
-      "thumbnail": null,
-      "kind": "article",
-      "feed_id": "reuters-business",
-      "via": "google-news"
     },
     {
       "id": "fox-news:https://www.foxnews.com/outkick-sports/ring-of-honor-deonna-purrazzo-fires-back-notion-independent-wrestling-dead-think-theyre-so-wrong",
@@ -5771,7 +5771,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:33.553662-06:00",
+      "checked": "2026-11-17T20:06:09.367603-06:00",
       "error": null
     },
     {
@@ -5781,7 +5781,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:33.657774-06:00",
+      "checked": "2026-11-17T20:06:09.543654-06:00",
       "error": null
     },
     {
@@ -5791,7 +5791,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:33.723968-06:00",
+      "checked": "2026-11-17T20:06:09.680059-06:00",
       "error": null
     },
     {
@@ -5801,7 +5801,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:33.816320-06:00",
+      "checked": "2026-11-17T20:06:10.052069-06:00",
       "error": null
     },
     {
@@ -5811,7 +5811,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:33.881870-06:00",
+      "checked": "2026-11-17T20:06:10.110681-06:00",
       "error": null
     },
     {
@@ -5821,7 +5821,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:33.914991-06:00",
+      "checked": "2026-11-17T20:06:10.276420-06:00",
       "error": null
     },
     {
@@ -5831,7 +5831,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:33.979767-06:00",
+      "checked": "2026-11-17T20:06:10.438145-06:00",
       "error": null
     },
     {
@@ -5841,7 +5841,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:34.018093-06:00",
+      "checked": "2026-11-17T20:06:10.569655-06:00",
       "error": null
     },
     {
@@ -5851,7 +5851,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:34.069368-06:00",
+      "checked": "2026-11-17T20:06:10.669917-06:00",
       "error": null
     },
     {
@@ -5861,7 +5861,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:34.139560-06:00",
+      "checked": "2026-11-17T20:06:10.740717-06:00",
       "error": null
     },
     {
@@ -5871,7 +5871,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:34.340856-06:00",
+      "checked": "2026-11-17T20:06:10.863003-06:00",
       "error": null
     },
     {
@@ -5881,7 +5881,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:34.408422-06:00",
+      "checked": "2026-11-17T20:06:10.970236-06:00",
       "error": null
     },
     {
@@ -5891,7 +5891,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-17T20:04:34.491572-06:00",
+      "checked": "2026-11-17T20:06:11.058608-06:00",
       "error": null
     },
     {
@@ -5901,7 +5901,7 @@
       "ok": true,
       "count": 100,
       "http": 200,
-      "checked": "2026-11-17T20:04:34.633299-06:00",
+      "checked": "2026-11-17T20:06:11.168201-06:00",
       "error": null
     },
     {
@@ -5911,7 +5911,7 @@
       "ok": true,
       "count": 8,
       "http": 200,
-      "checked": "2026-11-17T20:04:35.033573-06:00",
+      "checked": "2026-11-17T20:06:11.639696-06:00",
       "error": null
     },
     {
@@ -5921,7 +5921,7 @@
       "ok": true,
       "count": 100,
       "http": 200,
-      "checked": "2026-11-17T20:04:35.302777-06:00",
+      "checked": "2026-11-17T20:06:11.975999-06:00",
       "error": null
     },
     {
@@ -5929,9 +5929,9 @@
       "name": "Reuters — Business",
       "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/business&hl=en-US&gl=US&ceid=US:en",
       "ok": true,
-      "count": 99,
+      "count": 100,
       "http": 200,
-      "checked": "2026-11-17T20:04:35.721745-06:00",
+      "checked": "2026-11-17T20:06:12.355731-06:00",
       "error": null
     },
     {
@@ -5939,9 +5939,9 @@
       "name": "Reuters — Markets",
       "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/markets&hl=en-US&gl=US&ceid=US:en",
       "ok": true,
-      "count": 40,
+      "count": 37,
       "http": 200,
-      "checked": "2026-11-17T20:04:36.182853-06:00",
+      "checked": "2026-11-17T20:06:12.729457-06:00",
       "error": null
     },
     {
@@ -5951,7 +5951,7 @@
       "ok": true,
       "count": 35,
       "http": 200,
-      "checked": "2026-11-17T20:04:36.440719-06:00",
+      "checked": "2026-11-17T20:06:12.971147-06:00",
       "error": null
     },
     {
@@ -5961,7 +5961,7 @@
       "ok": true,
       "count": 46,
       "http": 200,
-      "checked": "2026-11-17T20:04:36.741706-06:00",
+      "checked": "2026-11-17T20:06:13.210959-06:00",
       "error": null
     },
     {
@@ -5971,7 +5971,7 @@
       "ok": true,
       "count": 98,
       "http": 200,
-      "checked": "2026-11-17T20:04:37.005523-06:00",
+      "checked": "2026-11-17T20:06:13.629103-06:00",
       "error": null
     },
     {
@@ -5981,7 +5981,7 @@
       "ok": true,
       "count": 14,
       "http": 200,
-      "checked": "2026-11-17T20:04:37.359977-06:00",
+      "checked": "2026-11-17T20:06:13.983784-06:00",
       "error": null
     },
     {
@@ -5991,7 +5991,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-17T20:04:37.429445-06:00",
+      "checked": "2026-11-17T20:06:14.136157-06:00",
       "error": null
     },
     {
@@ -6001,7 +6001,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-17T20:04:38.572451-06:00",
+      "checked": "2026-11-17T20:06:14.973478-06:00",
       "error": null
     },
     {
@@ -6011,7 +6011,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-17T20:04:39.830175-06:00",
+      "checked": "2026-11-17T20:06:15.750167-06:00",
       "error": null
     },
     {
@@ -6021,7 +6021,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-17T20:04:39.894537-06:00",
+      "checked": "2026-11-17T20:06:15.835478-06:00",
       "error": null
     },
     {
@@ -6031,7 +6031,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-17T20:04:41.916992-06:00",
+      "checked": "2026-11-17T20:06:15.999855-06:00",
       "error": null
     },
     {
@@ -6042,7 +6042,7 @@
       "ok": true,
       "count": 15,
       "http": 200,
-      "checked": "2026-11-17T20:04:42.734019-06:00",
+      "checked": "2026-11-17T20:06:16.881577-06:00",
       "error": null,
       "method": "youtube-atom"
     },
@@ -6054,7 +6054,7 @@
       "ok": true,
       "count": 15,
       "http": 200,
-      "checked": "2026-11-17T20:04:42.899634-06:00",
+      "checked": "2026-11-17T20:06:17.028379-06:00",
       "error": null,
       "method": "youtube-atom"
     }
