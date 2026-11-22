@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T12:56:01.586987-06:00",
+  "updated": "2026-11-22T17:59:23.600938-06:00",
   "timezone": "America/Chicago",
   "item_count": 343,
   "items": [
@@ -18,6 +18,318 @@
       "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Sam_Altman_UAE.jpg?ve=1&tl=1",
       "kind": "article",
       "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/politics/next-congress-focus-ai-healthcare-jobs-brad-schneider",
+      "title": "Democratic Rep says next Congress will focus on using AI to improve healthcare, jobs and agriculture",
+      "summary": "“We can make sure that we do have people overseeing and protecting American interests, American citizens from the risk of AI, while at the same time, making sure that American companies and American technologies are leading the way,” Schneider said.",
+      "url": "https://www.newsnationnow.com/politics/next-congress-focus-ai-healthcare-jobs-brad-schneider",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-22T23:57:16+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/schneiderbrad_040825gn01_w.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-politics"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/politics/ai-bill-congress-jay-obernolte",
+      "title": "GOP Rep 'optimistic' about passing AI bill before next Congress",
+      "summary": "The California Republican has been among the leading voices in Congress pushing for federal AI legislations as states move ahead with their own regulations.",
+      "url": "https://www.newsnationnow.com/politics/ai-bill-congress-jay-obernolte",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-22T23:45:02+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/obernoltejay_011426gn01_w.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-politics"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/health/ozempic-wegovy-thanksgiving-dinner",
+      "title": "On Ozempic or Wegovy? Here's how to navigate Thanksgiving dinner",
+      "summary": "Dr. Sue Decotiis says patients should not skip their medication just to indulge during the holiday.",
+      "url": "https://www.newsnationnow.com/health/ozempic-wegovy-thanksgiving-dinner",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "health"
+      ],
+      "published": "2026-11-22T22:17:30+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/07/GettyImages-2279484867_693208-e1783009938301_80f485.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-health"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/politics/biden-era-government-funding-bill-unconstitutional-appeals-court-rules",
+      "title": "$1.7T Biden-era government funding bill found unconstitutional, appeals court rules",
+      "summary": "The New Orleans-based 5th U.S. Circuit ‌Court of Appeals voted 9-8, stating that voting by proxy went against the Constitution's Quorum Clause",
+      "url": "https://www.newsnationnow.com/politics/biden-era-government-funding-bill-unconstitutional-appeals-court-rules",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-22T22:15:38+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/AP26023007786845-e1795113897889.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-politics"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/politics/democrats-house-majority-election-history",
+      "title": "Democrats secure largest House majority in election in three decades",
+      "summary": "Democrats’ wins in this year’s elections came amid an uphill battle for the GOP, with issues like the unpopular war in Iran",
+      "url": "https://www.newsnationnow.com/politics/democrats-house-majority-election-history",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "us",
+        "politics"
+      ],
+      "published": "2026-11-22T22:12:20+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/AP26322523891312-e1795017644377_c68b76.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-politics"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/us-news/infrastructure/clayton-outages-disruptions-aging-system-nationwide-ground-stop-banks",
+      "title": "Clayton: Americans should prepare for system upgrades, warns of 'bumps in the road'",
+      "summary": "Clayton compared it to refurbishing a home in there's \"going to be things that you do not expect.\"",
+      "url": "https://www.newsnationnow.com/us-news/infrastructure/clayton-outages-disruptions-aging-system-nationwide-ground-stop-banks",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-22T22:08:42+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/clyatonjay_071526nk02_w.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-politics"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/us-news/strange/george-washington-hair-sells-for-4000-auction",
+      "title": "George Washington's hair just sold at auction. Here's how much it fetched",
+      "summary": "It's one of dozens of known locks that have survived more than two centuries.",
+      "url": "https://www.newsnationnow.com/us-news/strange/george-washington-hair-sells-for-4000-auction",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-22T22:06:25+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/vargas-4-3.png?w=900",
+      "kind": "article",
+      "feed_id": "nn-politics"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/politics/trump-wind-power-bipartisan-bill-energy",
+      "title": "Trump hates wind power. A bill he supports may help it get built",
+      "summary": "The legislation passed the Senate late Thursday night and now heads to the House, where it faces an uncertain future",
+      "url": "https://www.newsnationnow.com/politics/trump-wind-power-bipartisan-bill-energy",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-22T22:03:57+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/WindEnergy_Wilson-Frazin_AdobeStock.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-politics"
+    },
+    {
+      "id": "yt:ZhauycRUMek",
+      "title": "The Plan No One in the U.S. Knows About",
+      "summary": "In 1966, the JASON scientific advisory group studied the military consequences of using tactical nuclear weapons in Southeast Asia. Its report concluded that the potential military benefits did not justify the political costs and danger of escalation.",
+      "url": "https://www.youtube.com/watch?v=ZhauycRUMek",
+      "source": "PBD Podcast",
+      "source_id": "pbd-podcast",
+      "sections": [
+        "video"
+      ],
+      "published": "2026-11-22T22:00:15+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://i3.ytimg.com/vi/ZhauycRUMek/hqdefault.jpg",
+      "kind": "video",
+      "feed_id": "pbd-podcast",
+      "video_id": "ZhauycRUMek"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/politics/foxx-concedes-hubbard-north-carolina-house-race",
+      "title": "Foxx concedes to Hubbard in North Carolina House race",
+      "summary": "Hubbard led by 330 votes in the race for North Carolina’s 5th Congressional District, according to the latest reported totals in the recount.",
+      "url": "https://www.newsnationnow.com/politics/foxx-concedes-hubbard-north-carolina-house-race",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-22T21:57:43+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/AP26312701855096-e1795373582321.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-politics"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/politics/trump-stock-market-blames-democrats-midterm-wins",
+      "title": "Trump blames $6T stock market slide on Democrats' midterm wins",
+      "summary": "“The Market is down more than 6 Trillion Dollars since the Democrats’ rather strange ‘win’ on November 3rd,” Trump wrote on Truth Social.",
+      "url": "https://www.newsnationnow.com/politics/trump-stock-market-blames-democrats-midterm-wins",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "politics",
+        "business"
+      ],
+      "published": "2026-11-22T21:47:30+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/AP26323327795780-e1795095114622_8e0230.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-business"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/cybersecurity/us-ports-face-onslaught-of-cyber-attacks",
+      "title": "US ports face onslaught of cyber attacks",
+      "summary": "The port’s chief executive, Kent Britton, told the outlet that attacks surged from “known bad actor” countries and organizations that are searching for high-profile targets.",
+      "url": "https://www.newsnationnow.com/cybersecurity/us-ports-face-onslaught-of-cyber-attacks",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-22T21:19:22+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/port_long-beach_tariffs_02202026_AP26051700597179-2.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-politics"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/world/russian-cargo-ship-fire-finland-baltic-sea",
+      "title": "Russian cargo ship set ablaze in Baltic Sea drifts into Gulf of Finland",
+      "summary": "The 16-member crew aboard the Sparta II escaped in lifeboats following Saturday’s attack and were rescued by a nearby Russian ship.",
+      "url": "https://www.newsnationnow.com/world/russian-cargo-ship-fire-finland-baltic-sea",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "latest",
+        "world"
+      ],
+      "published": "2026-11-22T21:06:45+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/AP26326360940710-e1795357325399.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-world"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/business/your-money/five-estate-planning-documents-to-prepare-alongside-your-will",
+      "title": "5 documents every adult should prepare alongside a will",
+      "summary": "These five documents can help prevent confusion, court battles and costly delays.",
+      "url": "https://www.newsnationnow.com/business/your-money/five-estate-planning-documents-to-prepare-alongside-your-will",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T21:04:29+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/03/GettyImages-936987338-e1736615888553.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-latest"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/health/measles-outbreak-infants-early-mmr-vaccine-experts",
+      "title": "Measles surge has parents asking: Should babies get vaccinated earlier?",
+      "summary": "A growing measles outbreak has parents worried about babies who aren't yet eligible for routine vaccination.",
+      "url": "https://www.newsnationnow.com/health/measles-outbreak-infants-early-mmr-vaccine-experts",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "health"
+      ],
+      "published": "2026-11-22T20:43:24+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/08/measles_mumps_rubella_vaccine_mmr_06102026_AP26161619525773-1.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-health"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/us-news/infrastructure/how-pedestrian-train-collisions-impact-railroad-workers",
+      "title": "How pedestrian train collisions impact  railroad workers",
+      "summary": "When a train hits a car or pedestrian, the physical consequences are almost always devastating for those who are hit, but many rarely consider the emotional toll on the engineers and conductors involved.",
+      "url": "https://www.newsnationnow.com/us-news/infrastructure/how-pedestrian-train-collisions-impact-railroad-workers",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "health"
+      ],
+      "published": "2026-11-22T20:39:41+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/Screenshot-2026-11-16-114307-e1795101599380.png?w=900",
+      "kind": "article",
+      "feed_id": "nn-health"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/us-news/immigration/washington-governor-seattle-ice-airport-detained-two-people",
+      "title": "Washington governor decries ‘out-of-control’ ICE at Seattle airport",
+      "summary": "“ICE is completely and totally out of control,” Ferguson wrote",
+      "url": "https://www.newsnationnow.com/us-news/immigration/washington-governor-seattle-ice-airport-detained-two-people",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "politics"
+      ],
+      "published": "2026-11-22T20:19:30+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/CA_fergusonbob_getty-e1784220060875_aaeda9.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-politics"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/politics/democrats-congress-high-costs-prices",
+      "title": "Democrats swept Congress on high prices. Here’s how they plan to bring costs down",
+      "summary": "Since the election, Democrats have doubled down on that rhetoric, pledging to tackle elevated costs once their House and Senate majorities become official in January.",
+      "url": "https://www.newsnationnow.com/politics/democrats-congress-high-costs-prices",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "us",
+        "politics"
+      ],
+      "published": "2026-11-22T20:15:39+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/Affordability_112026_Rego_Illo_CJ-Adobe.png?w=900",
+      "kind": "article",
+      "feed_id": "nn-politics"
+    },
+    {
+      "id": "newsnation:https://www.newsnationnow.com/health/employer-benefits-glp1-wegovy-zepbound-lilly-novo",
+      "title": "GLP-1 drugs reduce hospitalizations, but the math still doesn't work for employers",
+      "summary": "A new CVS Health report found GLP-1 drugs cut hospitalizations and reduced medical costs, but the savings weren't enough to offset the high price of the medications.",
+      "url": "https://www.newsnationnow.com/health/employer-benefits-glp1-wegovy-zepbound-lilly-novo",
+      "source": "NewsNation",
+      "source_id": "newsnation",
+      "sections": [
+        "latest",
+        "business",
+        "health"
+      ],
+      "published": "2026-11-22T20:12:18+00:00",
+      "published_precision": "minute",
+      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/10/GettyImages-2216837836-e1792883443508.jpg?w=900",
+      "kind": "article",
+      "feed_id": "nn-health"
     },
     {
       "id": "reuters:https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4UWJCbDZsTEh3OS1mM3RieVNhQ1FQY282M2M3MnNnRW9qSk9WYzl0SHRNMFZ0X0lQcExKZkpKcnlIOEtNMW9hNFdKR05OWmU4d051ekNubXRIbXRpUXZ5SmlleG5SOVE?oc=5",
@@ -70,6 +382,22 @@
       "feed_id": "nn-politics"
     },
     {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/chiefs-bills-take-care-business-ahead-nfl-biggest-regular-season-game",
+      "title": "Chiefs and Bills take care of business ahead of the NFL’s biggest regular-season game",
+      "summary": "The Kansas City Chiefs beat Arizona 34-7 and the Buffalo Bills handled Miami 26-9 to set up a Thanksgiving showdown in the race for the AFC’s No. 1 seed.",
+      "url": "https://www.foxnews.com/outkick-sports/chiefs-bills-take-care-business-ahead-nfl-biggest-regular-season-game",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T18:46:08-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/patrick-mahomes-josh-allen-chiefs-bills-playoff.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
       "id": "reuters:https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUhXUjN4WGxrQVpITklfcVFxakdsblp6NnZQNWxYU0cwWEwxejlTRTNtU19zcm1rcWQ1ZVJBeXAyTUt5cE5CWXd4QmtOSmp2WUZqVjREQmhYcTBXOXlwX2NBQ3R6TkNQcXl5QkNfR3U4ZUVuR29qZWxfN0hHQkozYnJCSENya28xeWRqZTVSNURCVzB3b3QtRFpQbVFkdDByVzZMUDdZQjRFdk0?oc=5",
       "title": "Ten-man United hammered 4-0 by Liverpool in Pochettino debut",
       "summary": "",
@@ -86,6 +414,55 @@
       "kind": "article",
       "feed_id": "reuters-sports",
       "via": "google-news"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
+      "title": "Trump says Iran unleashed missile, drone surge after midterms",
+      "summary": "President Donald Trump says Iran launched more missiles and drones over the past week than at any point in over a year, and all were knocked down with no damage.",
+      "url": "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "world"
+      ],
+      "published": "2026-11-22T18:33:06-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/donald-trump-black-history-month-feb.-18-2026.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-world"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/travis-kelce-passes-rob-gronkowski-all-time-nfl-list-two-touchdown-game-chiefs",
+      "title": "Travis Kelce passes Rob Gronkowski on all-time NFL list with two-touchdown game for Chiefs",
+      "summary": "Travis Kelce passed Rob Gronkowski for third on the NFL's all-time tight end touchdowns list, hauling in two scores as the Kansas City Chiefs rolled.",
+      "url": "https://www.foxnews.com/outkick-sports/travis-kelce-passes-rob-gronkowski-all-time-nfl-list-two-touchdown-game-chiefs",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T18:25:40-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/travis-kelce-chiefs-cardinals-arrowhead.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/ravens-silenced-marlon-humphrey-words-what-theyll-hear-after-another-loss-will-pale-comparison",
+      "title": "Ravens silenced Marlon Humphrey for his words but what they'll hear after another loss will pale in comparison",
+      "summary": "Ravens tried to address criticism with Humphrey suspension but cannot quiet noise after 35-33 to the Carolina Panthers, their sixth consecutive loss.",
+      "url": "https://www.foxnews.com/outkick-sports/ravens-silenced-marlon-humphrey-words-what-theyll-hear-after-another-loss-will-pale-comparison",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T18:21:45-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/marlon-humphrey-baltimore-ravens-warmup-fox-news_.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
     },
     {
       "id": "reuters:https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1ZQQTFqN0xpOERieUhlT0puQ0pnQnNnRnQtaW8yb3VGWkFvM3hGeTA3QlBrR1VCNUhjS21TQ1JISlNWMG5mdlc3NVVmOUZ0LWZrMTB4R3h4YlpIVnJObWVQcmhLUDFiRnhCY1c1RTE5NzhwQzIwTXQ3MkxfN1hQSU9ZbkVidFZCWE1PWWxHMWgtem5ZSzBoOU1oYUVuZ0NEOW00V0Jlb1pEUVdrNUF3blEtSEw4dkpsYU9ya0w0N3UxTmRE?oc=5",
@@ -191,6 +568,23 @@
       "via": "google-news"
     },
     {
+      "id": "fox-news:https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers",
+      "title": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers",
+      "summary": "Iran reportedly positioned 14 tankers at Kharg Island to breach the U.S. blockade, as President Donald Trump dared Tehran to test American naval forces in the Gulf.",
+      "url": "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "world"
+      ],
+      "published": "2026-11-22T17:43:24-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/trump-iran-hormuz.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-world"
+    },
+    {
       "id": "reuters:https://news.google.com/rss/articles/CBMipgFBVV95cUxPZkR1ZzdZNHhVSlhUdzNyU1lNdmEtVkNvdTBnVTFlQk93Qm1BdEFjakJHQmIyNUZlQlB2QmVzanhDWEU3Ql8xbWdRM2p5WVI2TlZSMXNrcGZud01HTmYzbkd2ejE5eW9zSmNlS3d5aERTYVhnQV9lZ0RCUXJBVnFZWWFGTmFjOElJcVZPc3MwMW53QVF2Y215SHR3TFZ0NXVrQkFScEJR?oc=5",
       "title": "Man City miss chance to go top of WSL with shock loss to Spurs",
       "summary": "",
@@ -206,6 +600,22 @@
       "kind": "article",
       "feed_id": "reuters-sports",
       "via": "google-news"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/mets-tarik-skubal-agree-record-contract-mlb-lockout-looms-offseason",
+      "title": "Mets, Tarik Skubal agree to record contract as MLB lockout looms over offseason",
+      "summary": "Tarik Skubal's record $450 million Mets deal features $30 million in deferrals and a $45 million signing bonus as MLB's Dec. 1 labor deadline looms.",
+      "url": "https://www.foxnews.com/outkick-sports/mets-tarik-skubal-agree-record-contract-mlb-lockout-looms-offseason",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T17:36:24-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/skubal-featured-tigers.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
     },
     {
       "id": "reuters:https://news.google.com/rss/articles/CBMisgFBVV95cUxQZWU0NzBjLUw2SUJmRlJzQTg0OUJJcVVzeVJabm1sODJKMnI0SVVOOFlTRVVFZWc3b0sxNW1tMExKVkpUbVhyMEtpbFhzbGZjZ24zb1k4WWdEdHZkdDExU1FSLW9JWVdBaThwQ1NCMThybnpVbW9mcnBUbF94UHloVkxHUWthVHdUWFJxWGlQZWwtcmZaZUY3Q3BSZUswU3BpRFNPYmdGeFo2ZllZMzdLRkhB?oc=5",
@@ -224,6 +634,22 @@
       "kind": "article",
       "feed_id": "reuters-sports",
       "via": "google-news"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/media/abdul-el-sayed-suggests-israel-should-not-be-jewish-state-opposes-ethno-states",
+      "title": "Abdul El-Sayed suggests Israel should not be a Jewish state, says he opposes ‘ethno-states’",
+      "summary": "Michigan Democratic Sen.-elect Abdul El-Sayed suggested that Israel must choose between being a Jewish state and a democracy, urging equal rights above all else.",
+      "url": "https://www.foxnews.com/media/abdul-el-sayed-suggests-israel-should-not-be-jewish-state-opposes-ethno-states",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T17:30:13-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/abdul-el-sayed-michigan-democratic-convention-fox-news_.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
     },
     {
       "id": "reuters:https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1VMUS1oUkxlYzRWaDg5WjNPbGJoV2t1LTlRNkVMWnF6a3Q3aUljXzlCal9hWmdhWnlkYzdKNjdFVGdwVk1WUFFucGdfbUlnY3RtUjBsdFBxVTdmTGNjcnJ1a0VDNnk5eFh5NDdWaGNWcjNWcFI2WkoxZnFUbkI5UHZ6YTdYZUVMa19Ldk5YTERtX3ZialpvbjI4eFVoQ0Eyd2l0NGxoVQ?oc=5",
@@ -295,6 +721,23 @@
       "kind": "article",
       "feed_id": "reuters-latest",
       "via": "google-news"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/world/tehran-threatens-break-legs-trump-corridor-prepares-launch-irans-border",
+      "title": "Tehran threatens to 'break legs' as 'Trump corridor' prepares to launch on Iran's border",
+      "summary": "Armenia launches the U.S.-backed Trump Route corridor despite Iran's stark warning it would \"break their legs\" if Trump crossed its red line.",
+      "url": "https://www.foxnews.com/world/tehran-threatens-break-legs-trump-corridor-prepares-launch-irans-border",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "world"
+      ],
+      "published": "2026-11-22T17:13:15-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-pashinyan-velayati.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-world"
     },
     {
       "id": "reuters:https://news.google.com/rss/articles/CBMiswFBVV95cUxOVENta1NVX1lkc0RqX0N4UlZaTUc0WUpOWDFnM1JIcDRoak4ycWo3ZXRlNE5xN3VvZHFNSW9FX2YtRk1KdVROMkRPSVFJZlBGbEgySXV1OXd5TzhNRFZSbGVwdDRSUnBwSzFuNzNucGxaTHRaV1UyNEVQc1NRR1JXcU5LN2xmaGxWQ0ZvNlFUc2F3eEllNVZfUXhKWmFGdDdKZnp0b3B0dnNVTkZzTGFFN3o4QQ?oc=5",
@@ -490,8 +933,8 @@
     },
     {
       "id": "newsnation:https://www.newsnationnow.com/travel/delta-air-lines-flights-delayed-automation-issue-atlanta-airport",
-      "title": "Delta Air Lines flights delayed after issue with automation system at Atlanta airport",
-      "summary": "Millions are preparing to fly for Thanksgiving, and one of the nation's busiest airports is already dealing with delays.",
+      "title": "Delta says key system is back online after widespread delays",
+      "summary": "The technology problem disrupted flights across the airline's network and triggered delays at Atlanta's airport.",
       "url": "https://www.newsnationnow.com/travel/delta-air-lines-flights-delayed-automation-issue-atlanta-airport",
       "source": "NewsNation",
       "source_id": "newsnation",
@@ -503,6 +946,54 @@
       "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/05/GettyImages-2157750376.jpg?w=900",
       "kind": "article",
       "feed_id": "nn-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/media/jennifer-lopez-claims-not-being-typical-white-actress-made-harder-land-hollywood-movie-roles",
+      "title": "Jennifer Lopez claims not being a ‘typical’ White actress made it harder to land Hollywood movie roles",
+      "summary": "Jennifer Lopez claims Hollywood overlooked her as a Latina actress, saying she had to create her \"own lane\" as critics push back on social media.",
+      "url": "https://www.foxnews.com/media/jennifer-lopez-claims-not-being-typical-white-actress-made-harder-land-hollywood-movie-roles",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T16:33:52-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/524/jennifer-lopez-golden-globes.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-business:https://www.foxbusiness.com/sports/jj-mccarthy-surprises-fans-disney-store-times-square-highlight-expanded-disney-champion-nfl-collection",
+      "title": "JJ McCarthy surprises fans at Disney Store Times Square, highlights expanded Disney | Champion NFL Collection",
+      "summary": "J.J. McCarthy surprised fans at the Disney Store Times Square, naming the Giants teammate who embodies Wreck-It Ralph and which iconic films he'll be showing his son.",
+      "url": "https://www.foxbusiness.com/sports/jj-mccarthy-surprises-fans-disney-store-times-square-highlight-expanded-disney-champion-nfl-collection",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-22T16:33:26-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jj-mccarthy-disney.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/food-drink/solo-diners-asking-restaurants-half-size-portions-sparking-debate-menu-flexibility",
+      "title": "Solo diners are asking restaurants for half-size portions, sparking debate over menu flexibility",
+      "summary": "Solo dining is up 22% year over year, and some chefs will happily make half orders so diners alone can try more dishes without wasting food.",
+      "url": "https://www.foxnews.com/food-drink/solo-diners-asking-restaurants-half-size-portions-sparking-debate-menu-flexibility",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T16:32:02-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/man-eating-pizza.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
     },
     {
       "id": "reuters:https://news.google.com/rss/articles/CBMiwAFBVV95cUxQamwxc3l5ZE4tbTNFOHBzTENId3ZZYmpzOFFDckRhZjc3SG4tTHJyZlZKRVk0cHRZVS12ZlNvZGNFbXIwRUkwTnRGZXc4RnZyYUxQWUkySWJheS0xbExINklQb0FJOUNEUGE1cUh4RUFIcFJmMUZVd2JESFBQWlVqeHNfQUZxVkZuQmhQWEcyLVBrV1hsbVJYOEhyYVlUaGQ0aXhacVpmZ09UMGpWOW9kbUEwT2JrWjM2bEExUWMtQks?oc=5",
@@ -540,6 +1031,54 @@
       "via": "google-news"
     },
     {
+      "id": "fox-news:https://www.foxnews.com/media/hakeem-jeffries-calls-trump-chief-staff-stephen-miller-stone-cold-racist-refuses-sit-down-him",
+      "title": "Hakeem Jeffries calls Trump chief of staff Stephen Miller a ‘stone-cold racist,’ refuses to sit down with him",
+      "summary": "Hakeem Jeffries said he refuses to meet Stephen Miller, calling him a \"stone-cold racist\" and slamming his role in the Trump administration's mass deportation agenda.",
+      "url": "https://www.foxnews.com/media/hakeem-jeffries-calls-trump-chief-staff-stephen-miller-stone-cold-racist-refuses-sit-down-him",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T16:24:17-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/hakeem-jeffries-stephen-miller-split.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/week-12-ap-top-25-poll-big-ten-powers-rightfully-punished-longhorns-jump-crimson-tide",
+      "title": "Week 12 AP Top 25 Poll sees Big Ten powers rightfully punished while Longhorns jump the Crimson Tide",
+      "summary": "Texas surged back into the AP Top 25's Top 5 after UCLA and Indiana fell on the road, while Alabama fans fume over the Longhorns' late-season inside move.",
+      "url": "https://www.foxnews.com/outkick-sports/week-12-ap-top-25-poll-big-ten-powers-rightfully-punished-longhorns-jump-crimson-tide",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T16:23:42-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/curt-cignetti-indiana-timeout-scaled.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/dk-metcalf-disqualified-steelers-game-unsportsmanlike-penalties-poking-opponents-facemask",
+      "title": "DK Metcalf disqualified from Steelers game for unsportsmanlike penalties including poking opponent's facemask",
+      "summary": "DK Metcalf's frustration boiled over vs. the Philadelphia Eagles as a jawing match with Cooper DeJean escalated into an unsportsmanlike conduct penalty.",
+      "url": "https://www.foxnews.com/outkick-sports/dk-metcalf-disqualified-steelers-game-unsportsmanlike-penalties-poking-opponents-facemask",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T16:22:33-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/nfl-steelers-dk-metcalf-122225-4.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
       "id": "reuters:https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbVhZanItQzQtSUpybTFaaC1hd3JSdEhmSmtRRm9lNmUydjNfcktzWGhJaWd6UUxoYTY5aEZCdDF0OUZ5MU5iXzUwQkxZS2xrYTlVa3RTdjFzZUlTNzQzNTdtdUQ2VEdiSmJJYjdjeHNOckRRMnFmeVJFWW1fbmJQM2FYV0xZTDdOeUN5WmVqWlp4bVBWSzYtblktOXFtRXBqQzUzNFZhclowSWU0d0JGRVlFYVNVZHA1MUF0ZkR2V29JaDlkRWI0ZEY1c1dxXy1nN002dDJR?oc=5",
       "title": "India's food regulator to take Bisleri to court over water quality finding",
       "summary": "",
@@ -557,6 +1096,22 @@
       "kind": "article",
       "feed_id": "reuters-health",
       "via": "google-news"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/tcu-fires-sonny-dykes-spring-extension-fans-reactions-say-it-all",
+      "title": "TCU fires Sonny Dykes after giving him a spring extension, and fans' reactions say it all",
+      "summary": "TCU football fired head coach Sonny Dykes after a 38-17 loss to the Utah Utes, with AD Mike Buddie citing a slide from the Horned Frogs' Fiesta Bowl peak.",
+      "url": "https://www.foxnews.com/outkick-sports/tcu-fires-sonny-dykes-spring-extension-fans-reactions-say-it-all",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T16:11:08-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tcu-sonny-dykes-fired-1.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
     },
     {
       "id": "reuters:https://news.google.com/rss/articles/CBMilAFBVV95cUxOenRLOU5yemk3LUk0eFdIVmhSTFJOSDBxNDdJOGxTaDdDNVpBNWN6RV9JRFpVTkVMQU1QSnRVS21EZ2VDTmxYSDVIaUZvYlNNSG9IdHREdkxCdHlGTmNTc0JtMXE5bzFIdGRMejJ3N2J2SS1EUlM2b3JvdnJRNmF6bHRWZ0p3clRhVXMtYzZNbHBLSi14?oc=5",
@@ -629,6 +1184,22 @@
       "via": "google-news"
     },
     {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/landry-kiffin-not-dressed-golf-ball-rain-lane-return-knoxville",
+      "title": "Landry Kiffin was not dressed for the golf ball rain that fell during Lane's return to Knoxville",
+      "summary": "Landry Kiffin says she \"wasn't dressed for it to rain golf balls\" as Tennessee fans threw mustard and golf balls at Neyland Stadium during LSU's loss.",
+      "url": "https://www.foxnews.com/outkick-sports/landry-kiffin-not-dressed-golf-ball-rain-lane-return-knoxville",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T16:02:25-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/lane-kiffin-daughter.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
       "id": "reuters:https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
       "title": "Russia starts towing ship hit by drones in Baltic, Finland says",
       "summary": "",
@@ -664,6 +1235,22 @@
       "kind": "article",
       "feed_id": "reuters-world",
       "via": "google-news"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/entertainment/dream-jeannie-star-barbara-eden-95-still-rides-exercise-bike-35-minutes-stay-fit",
+      "title": "'I Dream of Jeannie' star Barbara Eden, 95, still rides exercise bike for 35 minutes to stay fit",
+      "summary": "Barbara Eden reveals the stationary bike routine and personal trainer workouts keeping her fit as the \"I Dream of Jeannie\" star turns 95.",
+      "url": "https://www.foxnews.com/entertainment/dream-jeannie-star-barbara-eden-95-still-rides-exercise-bike-35-minutes-stay-fit",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T16:00:21-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/barbara-eden-split.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
     },
     {
       "id": "newsnation:https://www.newsnationnow.com/podcasts-newsnation/inside-frances-protests-a-catholic-revival-one-nation-under-god",
@@ -732,6 +1319,22 @@
       "feed_id": "nn-business"
     },
     {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/uclas-quarterback-made-one-worst-plays-season-might-cost-bruins-cfb-playoff-spot",
+      "title": "UCLA's quarterback made one of the worst plays of the season, and it might cost the Bruins a CFB playoff spot",
+      "summary": "Madden Iamaleava's baffling second-overtime blunder left tight end Josh Phifer wide open as the UCLA Bruins fell 18-16 in triple overtime to Michigan.",
+      "url": "https://www.foxnews.com/outkick-sports/uclas-quarterback-made-one-worst-plays-season-might-cost-bruins-cfb-playoff-spot",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T15:55:21-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/madden-iamaleava-drops-back-pass-michigan.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
       "id": "newsnation:https://www.newsnationnow.com/business/your-money/thanksgiving-dishes-cost-inflation",
       "title": "Thanksgiving dishes won’t cost much more this year",
       "summary": "Inflation-weary Americans have at least some good news to cheer this holiday season.",
@@ -765,6 +1368,22 @@
       "via": "google-news"
     },
     {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/famous-bald-eagle-lincoln-goes-rogue-eagles-game-unexpected-joy-flight",
+      "title": "Famous bald eagle Lincoln goes rogue before Eagles game, takes an unexpected joy flight",
+      "summary": "Lincoln, the Budweiser Super Bowl commercial bald eagle, went rogue before the Philadelphia Eagles hosted Pittsburgh Steelers at Lincoln Financial Field.",
+      "url": "https://www.foxnews.com/outkick-sports/famous-bald-eagle-lincoln-goes-rogue-eagles-game-unexpected-joy-flight",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T15:36:42-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/american-bald-eagle-lincoln-financial-field-scaled.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
       "id": "reuters:https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFF4Qkg5N3paMmFqSmNlMHNOLUxSdDRrMGUxZ2JabXFWTXVfdk5zTElYaUZOSktfZ2ZPMmR5WGp0Y3lheHFjZkRmYWFpWjZXMFlnSlFwRWJGMEZPSmJCLTZiUGlVSTJIUUZmZGExSjNBeWllYW9yXzUwanNIOHpKT21qVmJKQng0bzlwOQ?oc=5",
       "title": "MotoGP maestro Marquez wins record eighth premier class title in Portugal",
       "summary": "",
@@ -781,6 +1400,40 @@
       "kind": "article",
       "feed_id": "reuters-sports",
       "via": "google-news"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx",
+      "title": "Democrats clinch historic House majority as Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx",
+      "summary": "Democrats secured their largest House majority since 1992, setting up clashes with Trump over investigations, health care and Republican policies.",
+      "url": "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "politics"
+      ],
+      "published": "2026-11-22T15:34:07-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/931/523/house.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-politics"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/health/common-sleep-habit-linked-50-higher-death-risk-heart-patients-recent-study-finds",
+      "title": "Common sleep habit linked to 50% higher death risk in heart patients, recent study finds",
+      "summary": "A PLOS One study of 3,287 US adults with heart disease links sleeping nine or more hours to a 51% higher risk of all-cause mortality over 15 years.",
+      "url": "https://www.foxnews.com/health/common-sleep-habit-linked-50-higher-death-risk-heart-patients-recent-study-finds",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest",
+        "health"
+      ],
+      "published": "2026-11-22T15:30:36-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/woman-sleep-apnea-wearing-cpap-machines.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-health"
     },
     {
       "id": "reuters:https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzQy1reEZqWHFscmJaYzVNdV81OUFBcTdPWXhsendYZGN4VU5ER1d1R0REM2J3QWIwUDdOWll6djBoN1NjV1QwNG4tci1EellpVm1Cc3dxLWZwbjFmRHc?oc=5",
@@ -922,6 +1575,38 @@
       "feed_id": "nn-politics"
     },
     {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/mauricio-pochettino-debut-man-united-manager-turns-historical-nightmare-liverpool",
+      "title": "Mauricio Pochettino's debut as Man United manager turns into historical nightmare against Liverpool",
+      "summary": "Mauricio Pochettino's Manchester United debut turned historic as Leny Yoro's red card and two quick Liverpool goals made unwanted Premier League history.",
+      "url": "https://www.foxnews.com/outkick-sports/mauricio-pochettino-debut-man-united-manager-turns-historical-nightmare-liverpool",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T14:53:13-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pochettino-man-united-featured.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/chiefs-defender-goes-full-pro-wrestling-wwe-like-tackle-cardinals-tight-end",
+      "title": "Chiefs defender goes full pro wrestling with WWE-like tackle on Cardinals tight end",
+      "summary": "Kansas City Chiefs rookie Nohl Williams nearly delivered a Samoan Drop on Cardinals tight end Elijah Higgins in a viral hit that popped his helmet off.",
+      "url": "https://www.foxnews.com/outkick-sports/chiefs-defender-goes-full-pro-wrestling-wwe-like-tackle-cardinals-tight-end",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T14:52:16-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/elijah-higgins-nohl-williams-nfl-chiefs.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
       "id": "reuters:https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVJGSFAwUDRvcFpuYmZ5UkRSOTFYV3FnaHNZdW5jODhkUHhtX0xUY0xUMTM0YnNqeDJnd05MZUxqajVaTmNZVzdOX0Q3V1l2dFFjOGtqZ25yVTJiekNOZXh6WlNJU1hGWnZEM2tmV2hHdHFGcjYwSjZSMW9hMkZrVzY2OEppUFItanhJWEJ0dkx4czZ4N3UzSDI1WjdOc0lpWnFObHkwazNUOUl0X3M2VS1hOEdjVlU2X0xj?oc=5",
       "title": "Struggling Warriors counting on home-court advantage vs. Celtics",
       "summary": "",
@@ -940,6 +1625,22 @@
       "via": "google-news"
     },
     {
+      "id": "fox-news:https://www.foxnews.com/outkick-sports/massive-17-foot-shark-face-to-face-scientists-incredible-deep-sea-footage",
+      "title": "Massive 17-foot shark comes face-to-face with scientists in incredible deep-sea footage",
+      "summary": "Viral video captures a massive bluntnose sixgill shark pressing her snout against a submersible window 1,700 feet beneath the Atlantic near the Bahamas.",
+      "url": "https://www.foxnews.com/outkick-sports/massive-17-foot-shark-face-to-face-scientists-incredible-deep-sea-footage",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T14:36:49-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/broadnose-sevengill-sharks-durban_001.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
+    },
+    {
       "id": "reuters:https://news.google.com/rss/articles/CBMipAFBVV95cUxOR05PNEdfSVdZS2J6QUJXa0NBTHFqMFdjY2ZrdlVmMFBMUTE1VjR1SzY3VEYxWGlleXpjX1ZnR0FKNW84TW5tZC1BQlhvdFpRUkNpWGc2UFFiU3lubF9HR1NtVjk0TlRHREY0MXRBajM5dW5FSnhrZ045YWNKbk0wR2NkNEJHWjZyZU94MDZ2bzRfLTRJTXlUUEU4Qmc5VldxLTEwaA?oc=5",
       "title": "Stars aiming for fifth straight victory as Penguins visit",
       "summary": "",
@@ -955,6 +1656,22 @@
       "kind": "article",
       "feed_id": "reuters-sports",
       "via": "google-news"
+    },
+    {
+      "id": "fox-news:https://www.foxnews.com/food-drink/jim-beam-pause-production-flagship-kentucky-distillery-major-shift-iconic-american-whiskey-brand",
+      "title": "Jim Beam to pause production at flagship Kentucky distillery in major shift for iconic American whiskey brand",
+      "summary": "Jim Beam shifts bourbon production to its Booker Noe Distillery in Boston, Kentucky, as whiskey inventory hits three times annual U.S. demand, per IWSR.",
+      "url": "https://www.foxnews.com/food-drink/jim-beam-pause-production-flagship-kentucky-distillery-major-shift-iconic-american-whiskey-brand",
+      "source": "Fox News",
+      "source_id": "fox-news",
+      "sections": [
+        "latest"
+      ],
+      "published": "2026-11-22T14:26:28-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/split-image-of-jim-beam-distillery-and-pouring-jim-beam-whiskey.jpg?ve=1&tl=1",
+      "kind": "article",
+      "feed_id": "fox-news-latest"
     },
     {
       "id": "reuters:https://news.google.com/rss/articles/CBMiowFBVV95cUxPRzhoMmlKblZCQjhxUGhQU1RoekZTN0JDTklhV3J1ZjZPTWhka25meUNjR1dNeElsRTUwamJmQXNKandjNGthd0ZfMTVXWWhNSS01NVNWWE9EX0NoSU1PcUY5MmZnM2drQmpwdnpUNXZ5clItdXYzTTQwQllqS2czQU9Lc1F2bHg3eS03Y0U0b3phWkRTTXdxRWZqZzBSVDA4aW1Z?oc=5",
@@ -1095,6 +1812,22 @@
       "kind": "article",
       "feed_id": "reuters-business",
       "via": "google-news"
+    },
+    {
+      "id": "fox-business:https://www.foxbusiness.com/energy/un-cop31-climate-summit-collapses-turkey-fossil-fuels",
+      "title": "UN climate summit collapses in Turkey over fossil fuels, carbon capture and climate finance",
+      "summary": "United Nations climate talks in Antalya ended without a deal for the first time since 2009 amid clashes over fossil fuels, carbon capture and climate finance.",
+      "url": "https://www.foxbusiness.com/energy/un-cop31-climate-summit-collapses-turkey-fossil-fuels",
+      "source": "Fox Business",
+      "source_id": "fox-business",
+      "sections": [
+        "business"
+      ],
+      "published": "2026-11-22T13:48:51-05:00",
+      "published_precision": "minute",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/cop31-turkey-1.jpg",
+      "kind": "article",
+      "feed_id": "fox-business-latest"
     },
     {
       "id": "reuters:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXRtSTl3ZVQ5bzZYVUExVXh0T1ZpaVkwel9NcGNlX1c1WXkyc2Izd3JXdTZVTzBlZlpuRWs5NHFXZ1l0TFVwS0oxT202ODRnUGRzRE9TX3FJNThGOVlLUkdXVXVKclBtcTR5VS1jcDB4S21lcGszLXo4Zmg4b3Z4dFJERzh2bGM5V25FNmNYSDJWSUJvQjBDS0ZXM1Y2emM1TGJjbWlpMlpSdw?oc=5",
@@ -2145,55 +2878,6 @@
       "feed_id": "fox-news-latest"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/us/harvard-scientist-may-never-prove-mysterious-space-objects-origin-after-mission-scrapped",
-      "title": "Harvard scientist may never prove mysterious space object’s origin after mission scrapped",
-      "summary": "Avi Loeb claims JAXA's canceled Hayabusa2 landing mission on 1998 KY26 ends the only chance to prove the object is the lost Soviet probe Phobos 1.",
-      "url": "https://www.foxnews.com/us/harvard-scientist-may-never-prove-mysterious-space-objects-origin-after-mission-scrapped",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest",
-        "us"
-      ],
-      "published": "2026-11-22T06:00:27-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/NASA-ASTEROID-ALERT-3.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/media/magas-cool-factor-faces-test-dallas-young-republicans-confront-midterm-defeats",
-      "title": "MAGA’s cool factor faces a test as Dallas Young Republicans confront midterm defeats",
-      "summary": "Dallas Young Republicans president Chad Cohen says the MAGA movement is still young and totally behind President Donald Trump, but fellow members are on the fence.",
-      "url": "https://www.foxnews.com/media/magas-cool-factor-faces-test-dallas-young-republicans-confront-midterm-defeats",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-22T06:00:11-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/524/young-men-conservative-dating-apps.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/entertainment/kate-middleton-unexpected-house-rule-george-charlotte-louis-author",
-      "title": "Kate Middleton's unexpected house rule for George, Charlotte and Louis: author",
-      "summary": "Like Queen Elizabeth II, who washed dishes at Balmoral, Kate Middleton uses chores, baking and gardening to keep her royal children grounded in normalcy.",
-      "url": "https://www.foxnews.com/entertainment/kate-middleton-unexpected-house-rule-george-charlotte-louis-author",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-22T06:00:04-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Royal-Family-Children.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
       "id": "newsnation:https://www.newsnationnow.com/us-news/blackout-wednesday-warning-dui-danger",
       "title": "Blackout Wednesday warning: The DUI danger beyond alcohol",
       "summary": "The night before Thanksgiving is known as \"Blackout Wednesday,\" but safety experts warn the danger extends far beyond alcohol.",
@@ -2228,39 +2912,6 @@
       "feed_id": "nn-health"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-maritime-mysteries-patriotic-performers",
-      "title": "American Culture Quiz: Test yourself on maritime mysteries and patriotic performers",
-      "summary": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of maritime mysteries, patriotic performers and a lot more.",
-      "url": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-maritime-mysteries-patriotic-performers",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-22T05:00:35-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/updated-quiz-collage-1122.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/apex-predator-center-farmers-vs-environmentalists-fight-trump-weighs-major-move-out-control",
-      "title": "Apex predator at center of farmers vs environmentalists fight as Trump weighs major move: 'Out of control'",
-      "summary": "Minnesota farmer Shayne Isane says gray wolves killed three calves in one night, costing thousands as Trump moves to reconsider federal protections.",
-      "url": "https://www.foxnews.com/politics/apex-predator-center-farmers-vs-environmentalists-fight-trump-weighs-major-move-out-control",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest",
-        "politics"
-      ],
-      "published": "2026-11-22T05:00:08-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Jonathan-Shayne.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
       "id": "newsnation:https://www.newsnationnow.com/prime/gta-6-big-mike-forbs-game",
       "title": "GTA 6 voice actor: Game’s realism resonates with players",
       "summary": "Big Mike Forbs portrays club owner Boobie Ike in the blockbuster game.",
@@ -2275,22 +2926,6 @@
       "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/gta-6.jpeg?w=900",
       "kind": "article",
       "feed_id": "nn-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/culture/jaindl-farms-white-house-thanksgiving-turkeys",
-      "title": "The Pennsylvania farm behind a White House Thanksgiving turkey tradition",
-      "summary": "For more than six decades, Jaindl Farms in Orefield, Pennsylvania, has supplied turkeys to presidents for the White House Thanksgiving meal. FOX's Pete Cuddihy visits the family-owned farm behind the presidential tradition.",
-      "url": "https://www.foxnews.com/culture/jaindl-farms-white-house-thanksgiving-turkeys",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-22T03:55:01-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jaindl-turkey-farms.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
     },
     {
       "id": "newsnation:https://www.newsnationnow.com/us-news/northeast/fat-hawk-loses-weight",
@@ -2443,22 +3078,6 @@
       "feed_id": "nn-politics"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/outkick-sports/georgia-top-college-football-playoff-seed-sight-dominating-road-win-no-21-south-carolina",
-      "title": "Georgia has top College Football Playoff seed in sight with dominating road win over No 21 South Carolina",
-      "summary": "The Georgia Bulldogs suffocated South Carolina's offense at Williams-Brice Stadium as Nate Frazier scored two touchdowns in the top-ranked team's win.",
-      "url": "https://www.foxnews.com/outkick-sports/georgia-top-college-football-playoff-seed-sight-dominating-road-win-no-21-south-carolina",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T23:12:16-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kirby-smart-georgia-bulldogs-south-carolina.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
       "id": "newsnation:https://www.newsnationnow.com/politics/hubbard-leads-foxx-by-330-votes-after-recount",
       "title": "Hubbard leads Foxx by 330 votes after recount",
       "summary": "Democrat Chuck Hubbard remains in the lead over incumbent Rep. Virginia Foxx (R-N.C.) after a nearly finalized recount changed only one vote. Hubbard leads by 330 votes in the race for North Carolina’s 5th Congressional District. Decision Desk HQ, The Hill’s nonpartisan election results partner, has not projected a…",
@@ -2473,71 +3092,6 @@
       "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/AP26309613182679-e1794152918742_73ccec.jpg?w=900",
       "kind": "article",
       "feed_id": "nn-politics"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/three-killed-one-injured-shooting-ohio-baby-shower-police-say",
-      "title": "Three killed, one injured in shooting at Ohio baby shower, police say",
-      "summary": "Three people, including the unborn child's father, were killed at a baby shower shooting at Pandora's Magical Events Venue in Parma, Ohio, police say.",
-      "url": "https://www.foxnews.com/us/three-killed-one-injured-shooting-ohio-baby-shower-police-say",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest",
-        "us"
-      ],
-      "published": "2026-11-21T23:08:26-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/pandora-magic-parma-ohio-shooting.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/deals/holiday-gifts-for-her",
-      "title": "Christmas gifts she'll actually use (and love)",
-      "summary": "From cozy home upgrades to beauty essentials, these gifts are a practical and thoughtful way to say Merry Christmas.",
-      "url": "https://www.foxnews.com/deals/holiday-gifts-for-her",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T23:02:23-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/woman-opening-gift.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/outkick-sports/florida-escapes-vanderbilt-courtesy-lucky-bounce-close-sec-finish",
-      "title": "Florida escapes against Vanderbilt courtesy of lucky bounce in another close SEC finish",
-      "summary": "Aaron Philo piled up 314 total yards and two touchdowns as Jon Sumrall's Florida Gators rallied late to edge Vanderbilt in a wild SEC finish.",
-      "url": "https://www.foxnews.com/outkick-sports/florida-escapes-vanderbilt-courtesy-lucky-bounce-close-sec-finish",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T22:38:53-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Jeramiah-McCloud-Florida-football.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/deals/fsa-hsa-last-minute-funds",
-      "title": "Make the most of your FSA/HSA money before year-end with these 18 finds",
-      "summary": "Get health trackers, massagers, hand sanitizer and more with HSA and FSA money before the year is up.",
-      "url": "https://www.foxnews.com/deals/fsa-hsa-last-minute-funds",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T22:34:29-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/last-chance-to-use-your-fsahsa-dollars-what-to-buy-before-the-deadline-hits.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
     },
     {
       "id": "newsnation:https://www.newsnationnow.com/crime/scott-spivey-deputies-charged-road-rage-shooters-bond-release",
@@ -2589,119 +3143,6 @@
       "feed_id": "nn-latest"
     },
     {
-      "id": "fox-news:https://www.foxnews.com/deals/tibo-cutting-board",
-      "title": "This non-toxic cutting board is up to 40% off — and it even sharpens knives",
-      "summary": "Shop this dual-sided titanium and wheat straw cutting board with separate surfaces for meat and produce, plus a built-in knife sharpener. FOX readers save up to 40%.",
-      "url": "https://www.foxnews.com/deals/tibo-cutting-board",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T22:05:26-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/Tibo.jpeg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/us-news/southeast/american-heritage-passengers-future-guests-to-be-fully-refunded-following-tanker-crash",
-      "title": "American Heritage passengers, future guests to be fully refunded following tanker crash",
-      "summary": "All passengers aboard the American Heritage when it was struck by the Atlantic Asphalt tanker will get full refunds, American Cruise Lines officials reported.",
-      "url": "https://www.newsnationnow.com/us-news/southeast/american-heritage-passengers-future-guests-to-be-fully-refunded-following-tanker-crash",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-21T21:59:05+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/American-Heritage.png?w=900",
-      "kind": "article",
-      "feed_id": "nn-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/outkick-sports/lane-kiffin-takes-side-exit-tennessee-sends-lsu-home-move-doorstep-college-football-playoff",
-      "title": "Lane Kiffin takes the side exit as Tennessee sends LSU home and moves to the doorstep of CFP",
-      "summary": "Tennessee football fans threw golf balls onto the Neyland Stadium field as Lane Kiffin and LSU exited early, with the Vols now one win from the CFP.",
-      "url": "https://www.foxnews.com/outkick-sports/lane-kiffin-takes-side-exit-tennessee-sends-lsu-home-move-doorstep-college-football-playoff",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T21:55:03-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lane-kiffin-josh-heupel-neyland-stadium.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/deals/tornado-pro",
-      "title": "I have 42 trees and bushes in my yard – this leaf blower is saving my sanity",
-      "summary": "The Tornado Pro handheld leaf blower charges via USB-C in 45 minutes and features a built-in flashlight. It is now available with an exclusive 20% discount.",
-      "url": "https://www.foxnews.com/deals/tornado-pro",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T21:49:36-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/Tornado-Pro-1.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/florida-man-sentenced-death-cold-calculated-murder-attorney-body-never-found",
-      "title": "Florida man sentenced to death for 'cold, calculated' murder of attorney whose body was never found",
-      "summary": "Former Florida plastic surgeon Tomasz Kosowski got the death penalty for murdering lawyer Cozzi, whose remains were never recovered after the 2023 killing.",
-      "url": "https://www.foxnews.com/us/florida-man-sentenced-death-cold-calculated-murder-attorney-body-never-found",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest",
-        "us"
-      ],
-      "published": "2026-11-21T21:45:20-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Tomasz-Kosowski-sentencing.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/deals/hugz-weighted-animals",
-      "title": "These cute weighted stuffed animals make great gifts — FOX readers save 15%",
-      "summary": "From Highland cows to sharks, Hugz weighted stuffed animals offer calming, hug-like comfort for kids and adults in a heatable, coolable design. Save 15% with code FOX15.",
-      "url": "https://www.foxnews.com/deals/hugz-weighted-animals",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T21:21:41-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/Monkey_3.jpeg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/outkick-sports/indianas-national-championship-defense-brink-overtime-upset-washington",
-      "title": "Indiana's national championship defense on the brink after overtime upset to Washington",
-      "summary": "Washington's 27-24 dramatic overtime upset of No. 8 Indiana at Husky Stadium dealt a major blow to the Hoosiers' College Football Playoff hopes.",
-      "url": "https://www.foxnews.com/outkick-sports/indianas-national-championship-defense-brink-overtime-upset-washington",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T21:20:10-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/paul-mencke-drew-azzopardi-blocked-field-goal.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
       "id": "fox-business:https://www.foxbusiness.com/politics/trump-opens-door-bipartisan-deal-credit-card-rates-americans-face-record-debt",
       "title": "Trump opens door to bipartisan deal on credit card rates as Americans face record debt",
       "summary": "Donald Trump says he would work with Democrats on a 10% credit card interest rate cap as the New York Fed reports balances have hit a record $1.29 trillion.",
@@ -2716,170 +3157,6 @@
       "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/donald-trump-credit-card-interest-rate-cap.jpg",
       "kind": "article",
       "feed_id": "fox-business-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/entertainment/ronny-hallin-played-maxine-laverne-shirley-dies-88-decades-television-report",
-      "title": "Ronny Hallin, who played Maxine on 'Laverne & Shirley,' dies at 88 after decades in television: report",
-      "summary": "Ronny Hallin, sister of Garry Marshall and Penny Marshall, died at 88 after a career behind hit sitcoms like \"Happy Days\" and \"Mork & Mindy.\"",
-      "url": "https://www.foxnews.com/entertainment/ronny-hallin-played-maxine-laverne-shirley-dies-88-decades-television-report",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T21:05:15-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ronny.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/outkick-sports/ucla-qb-concerns-deepen-ty-dieffenbach-carted-off-triple-overtime-upset-loss-michigan",
-      "title": "UCLA QB concerns deepen as Ty Dieffenbach is carted off in triple-overtime upset loss to Michigan",
-      "summary": "UCLA quarterback Ty Dieffenbach was stretchered off in overtime against Michigan, and Madden Iamaleava stepped in",
-      "url": "https://www.foxnews.com/outkick-sports/ucla-qb-concerns-deepen-ty-dieffenbach-carted-off-triple-overtime-upset-loss-michigan",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T21:00:18-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Ty-Dieffenbach-UCLA-QB.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/podcasts-newsnation/prison-labor-sentenced-to-work-the-truth-of-the-matter",
-      "title": "Prison Labor: Sentenced to Work | The Truth of the Matter",
-      "summary": "Host Hena Doba talks with Tulane University law professor Carla LaRoche about America's multibillion-dollar prison labor system, where hundreds of thousands of inmates work for pennies an hour or nothing at all. Who profits from their labor?",
-      "url": "https://www.newsnationnow.com/podcasts-newsnation/prison-labor-sentenced-to-work-the-truth-of-the-matter",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T21:00:00+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/TOTM-PRISON-LABOR-NO-TEXT-1.png?w=900",
-      "kind": "article",
-      "feed_id": "nn-latest"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/business/tech/ap-fbi-investigating-apparent-hack-of-a-key-criminal-justice-information-database-ap-source-says",
-      "title": "FBI investigating apparent hack of criminal database: Source",
-      "summary": "President Donald Trump said in a Fox News Channel interview: “We just heard about it, and I will say that it’s not good.”",
-      "url": "https://www.newsnationnow.com/business/tech/ap-fbi-investigating-apparent-hack-of-a-key-criminal-justice-information-database-ap-source-says",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "us",
-        "politics"
-      ],
-      "published": "2026-11-21T20:52:44+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/6b0205c389c991.30119682.jpeg?w=900",
-      "kind": "article",
-      "feed_id": "nn-politics"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/politics/17-major-federal-agencies-flagged-cybersecurity-gaps-watchdog-warns-increased-attack-risk",
-      "title": "17 major federal agencies flagged over cybersecurity gaps as watchdog warns of increased attack risk",
-      "summary": "A new Government Accountability Office report found 17 of 22 federal agencies, including HHS and DHS, failed to fully address zero trust guidance, raising cyberattack risks.",
-      "url": "https://www.foxnews.com/politics/17-major-federal-agencies-flagged-cybersecurity-gaps-watchdog-warns-increased-attack-risk",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest",
-        "politics"
-      ],
-      "published": "2026-11-21T20:36:18-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/internet-scammer-presents-cybersecurity-threat.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-politics"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/entertainment-news/kate-cancer-doc-shares-recovery",
-      "title": "Kate Middleton shares deeply personal details about cancer recovery",
-      "summary": "Princess Kate is opening up about her cancer battle in a deeply personal new documentary, \"Heal.\"",
-      "url": "https://www.newsnationnow.com/entertainment-news/kate-cancer-doc-shares-recovery",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "latest",
-        "world"
-      ],
-      "published": "2026-11-21T20:25:54+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/09/AP24072595809723-e1711129798670.jpg?w=800",
-      "kind": "article",
-      "feed_id": "nn-world"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/outkick-sports/raiders-owner-calls-madden-film-absolute-crime-treatment-late-father-al-davis",
-      "title": "Raiders owner calls 'Madden' film an 'absolute crime' for its treatment of late father Al Davis",
-      "summary": "Mark Davis said he was \"hurt\" by the \"Madden\" movie's portrayal of his father Al Davis, blasting the Darryl Stingley scene as unfair to his dad's legacy.",
-      "url": "https://www.foxnews.com/outkick-sports/raiders-owner-calls-madden-film-absolute-crime-treatment-late-father-al-davis",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T20:15:05-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Mark-Davis-Las-Vegas-Raiders.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/us/nyc-suspect-chinatown-fatal-beating-5-open-cases-mamdani-pushes-plan-close-rikers",
-      "title": "NYC suspect in Chinatown fatal beating had 5 open cases as Mamdani pushes plan to close Rikers",
-      "summary": "Alexander Florentino faced five open cases before the fatal Chinatown attack, arriving as Zohran Mamdani unveiled a plan to close Rikers Island by 2032.",
-      "url": "https://www.foxnews.com/us/nyc-suspect-chinatown-fatal-beating-5-open-cases-mamdani-pushes-plan-close-rikers",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest",
-        "us"
-      ],
-      "published": "2026-11-21T20:10:23-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/riker_s-island-001.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-us"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/outkick-sports/titans-jaylen-harrell-allegedly-assaulted-rideshare-driver-tampa-car-accident-police-say",
-      "title": "Titans' Jaylen Harrell allegedly 'assaulted' rideshare driver before Tampa car accident, police say",
-      "summary": "Tennessee Titans' Jaylen Harrell is hospitalized after a serious Tampa car accident in which police say he allegedly \"assaulted\" the rideshare driver mid-ride.",
-      "url": "https://www.foxnews.com/outkick-sports/titans-jaylen-harrell-allegedly-assaulted-rideshare-driver-tampa-car-accident-police-say",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T19:40:10-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jaylen-harrell-titans-49ers-levi-stadium.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
-    },
-    {
-      "id": "fox-news:https://www.foxnews.com/outkick-sports/no-5-texas-dominates-arkansas-arch-manning-heating-college-football-playoffs",
-      "title": "Fifth-ranked Texas dominates Arkansas as Arch Manning is heating up ahead of the College Football Playoff",
-      "summary": "Arch Manning was surgical in Texas' fifth straight win, throwing for 287 yards and two touchdowns as the No. 5 Longhorns steamrolled Arkansas.",
-      "url": "https://www.foxnews.com/outkick-sports/no-5-texas-dominates-arkansas-arch-manning-heating-college-football-playoffs",
-      "source": "Fox News",
-      "source_id": "fox-news",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T19:20:02-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arch-manning-touchdown-texas-arkansas.jpg?ve=1&tl=1",
-      "kind": "article",
-      "feed_id": "fox-news-latest"
     },
     {
       "id": "yt:wOk08Y8D_N8",
@@ -2897,161 +3174,6 @@
       "kind": "video",
       "feed_id": "tousi-tv",
       "video_id": "wOk08Y8D_N8"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/politics/trump-fda-heidi-overton-nominee-withdrawl",
-      "title": "Overton's nomination withdrawal means no clear end for FDA leadership vacuum",
-      "summary": "The Trump administration's last-minute pulling of Overton's nomination caught senators by surprise this week.",
-      "url": "https://www.newsnationnow.com/politics/trump-fda-heidi-overton-nominee-withdrawl",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "latest",
-        "us",
-        "politics",
-        "health"
-      ],
-      "published": "2026-11-21T18:58:36+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/overtonheidi_092426gn18_w.jpg?w=900",
-      "kind": "article",
-      "feed_id": "nn-health"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/business/tech/tom-cotton-howard-lutnick-ai-chip-smuggling-nvidia-china",
-      "title": "Cotton accuses Lutnick of ignoring alerts on AI chip smuggling to China",
-      "summary": "The incident has sparked questions and calls for transparency on both sides of the aisle.",
-      "url": "https://www.newsnationnow.com/business/tech/tom-cotton-howard-lutnick-ai-chip-smuggling-nvidia-china",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "latest",
-        "us",
-        "politics"
-      ],
-      "published": "2026-11-21T18:45:43+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/cottontom_072826gn02_w.jpg?w=900",
-      "kind": "article",
-      "feed_id": "nn-politics"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/us-news/midwest/lead-exposure-risks-bomb-iowa-middletown-detonation",
-      "title": "The dangers of lead and how to minimize exposure",
-      "summary": "Experts weigh in on lead exposure after army plant delays explosion.",
-      "url": "https://www.newsnationnow.com/us-news/midwest/lead-exposure-risks-bomb-iowa-middletown-detonation",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "latest",
-        "us"
-      ],
-      "published": "2026-11-21T18:38:49+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/snapshot-4-4.jpg?w=640",
-      "kind": "article",
-      "feed_id": "nn-us"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/us-news/sports/protect-college-sports-act-transfer-ncaa",
-      "title": "House to consider modified version of Protect College Sports Act",
-      "summary": "The bill already passed the Senate in a sweeping bipartisan vote in late September.",
-      "url": "https://www.newsnationnow.com/us-news/sports/protect-college-sports-act-transfer-ncaa",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "latest",
-        "us",
-        "politics"
-      ],
-      "published": "2026-11-21T18:30:01+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/college_athletes_091426gn02_w_4a8735.jpg?w=900",
-      "kind": "article",
-      "feed_id": "nn-politics"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/health/moving-states-healthcare-insurance",
-      "title": "Moving to a new state? Your healthcare might get more complicated",
-      "summary": "Here’s what to keep in mind before you make a move across state lines, especially if you are under 30.",
-      "url": "https://www.newsnationnow.com/health/moving-states-healthcare-insurance",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "us",
-        "business",
-        "health"
-      ],
-      "published": "2026-11-21T17:58:34+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/HealthQ_MOVING_webimage-e1794934795431.png?w=900",
-      "kind": "article",
-      "feed_id": "nn-health"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/politics/trump-limits-congresss-confidential-contractor-information",
-      "title": "Trump limits Congress's accesses to confidential agency, contractor information",
-      "summary": "The order says Congress cannot seek information from government workers or contractors without a “valid legislative purpose.”",
-      "url": "https://www.newsnationnow.com/politics/trump-limits-congresss-confidential-contractor-information",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "politics"
-      ],
-      "published": "2026-11-21T17:14:59+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/6a79137ebfa149.91717202-e1795274136651.jpeg?w=900",
-      "kind": "article",
-      "feed_id": "nn-politics"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/us-news/midwest/idnr-investigating-apparent-cyberattack-on-algonquin-dam",
-      "title": "IDNR investigating apparent cyberattack on Algonquin Dam",
-      "summary": "Officials say there is no indication the incident is related to any of the other outage incidents that happened earlier this week.",
-      "url": "https://www.newsnationnow.com/us-news/midwest/idnr-investigating-apparent-cyberattack-on-algonquin-dam",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "us"
-      ],
-      "published": "2026-11-21T17:09:36+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/GettyImages-1322517295.jpg?w=900",
-      "kind": "article",
-      "feed_id": "nn-us"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/business/best-cities-start-small-business-raleigh-austin-lendingtree",
-      "title": "These are the best cities in America to start a small business",
-      "summary": "One region dominated the rankings, while three California metros landed at the bottom.",
-      "url": "https://www.newsnationnow.com/business/best-cities-start-small-business-raleigh-austin-lendingtree",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-21T16:44:29+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/GettyImages-2224973227.jpg?w=900",
-      "kind": "article",
-      "feed_id": "nn-business"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/crime/fbi-breach-crime-data-cyberattack",
-      "title": "FBI looking into possible breach of its crime database: Report",
-      "summary": "The agency’s National Crime Information Center was breached by apparent hackers.",
-      "url": "https://www.newsnationnow.com/crime/fbi-breach-crime-data-cyberattack",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "latest",
-        "us"
-      ],
-      "published": "2026-11-21T16:09:29+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/AP25017577278279-e1764097438828.jpg?w=900",
-      "kind": "article",
-      "feed_id": "nn-us"
     },
     {
       "id": "yt:yP6zXAtUYXw",
@@ -3088,23 +3210,6 @@
       "video_id": "E5dHVlPZm1E"
     },
     {
-      "id": "newsnation:https://www.newsnationnow.com/world/iran-underground-missile-city-twin-launcher-strait-of-hormuz",
-      "title": "Iran posts video of new underground 'missile city'",
-      "summary": "Earlier this week, the Senate narrowly failed to pass a War Powers Resolution that would direct the president to end the war.",
-      "url": "https://www.newsnationnow.com/world/iran-underground-missile-city-twin-launcher-strait-of-hormuz",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "latest",
-        "world"
-      ],
-      "published": "2026-11-21T13:38:42+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/09/GettyImages-2297008962.jpg?w=900",
-      "kind": "article",
-      "feed_id": "nn-world"
-    },
-    {
       "id": "fox-business:https://www.foxbusiness.com/economy/anthropic-ipo-signals-beginning-gold-rush-small-businesses-says-biz-tech-ceo",
       "title": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, biz tech CEO says",
       "summary": "Anthropic's $1.5 trillion IPO signals a \"gold rush\" for solopreneurs, Novo CEO Michael Rangel says, as small business AI adoption jumped to one in eight.",
@@ -3119,75 +3224,6 @@
       "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/anthropic-dario-amodei-nasdaq.jpg",
       "kind": "article",
       "feed_id": "fox-business-economy"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/world/denmark-russia-assassination-plot-rapper-kyivstoner",
-      "title": "Denmark accuses Russia of plot to kill US-Ukrainian rapper",
-      "summary": "Denmark police say the intended target was rapper Kyvistoner, who held a concert in the country on Sept. 25.",
-      "url": "https://www.newsnationnow.com/world/denmark-russia-assassination-plot-rapper-kyivstoner",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "latest",
-        "us",
-        "world"
-      ],
-      "published": "2026-11-21T12:03:36+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/2026-11-20T215536Z_532223806_RC2VROAEMCB7_RTRMADP_3_UKRAINE-CRISIS-DENMARK.jpg?w=900",
-      "kind": "article",
-      "feed_id": "nn-world"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/health/pancreatic-cancer-drug-stops-tumor-growth",
-      "title": "New pancreatic cancer drug stops tumor growth: Study",
-      "summary": "The drug shrank the tumors of more than 60% of the 60 patients tested and made it completely undetectable in 8%.",
-      "url": "https://www.newsnationnow.com/health/pancreatic-cancer-drug-stops-tumor-growth",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "latest",
-        "us",
-        "health"
-      ],
-      "published": "2026-11-21T11:47:16+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/gettyimages-2287013334-594x594-1.jpg?w=594",
-      "kind": "article",
-      "feed_id": "nn-health"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/crime/former-rikers-inmate-geragos-push-to-close-facility",
-      "title": "Former Rikers inmate says 'prisoners run the jail' amid closure push",
-      "summary": "Former Rikers Island inmate says the infamous facility deserves to be shut down, though he doesn't believe that's logistically possible.",
-      "url": "https://www.newsnationnow.com/crime/former-rikers-inmate-geragos-push-to-close-facility",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "us",
-        "latest"
-      ],
-      "published": "2026-11-21T08:00:00+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/rikers-new-jails.jpg?w=900",
-      "kind": "article",
-      "feed_id": "nn-us"
-    },
-    {
-      "id": "newsnation:https://www.newsnationnow.com/katie-pavlich-tonight/texas-execution-pentobarbital",
-      "title": "Texas execution renews debate over lethal drug",
-      "summary": "NewsNation senior investigative producer Allison Weiner tells “Katie Pavlich Tonight” that multiple factors could be at play.",
-      "url": "https://www.newsnationnow.com/katie-pavlich-tonight/texas-execution-pentobarbital",
-      "source": "NewsNation",
-      "source_id": "newsnation",
-      "sections": [
-        "latest"
-      ],
-      "published": "2026-11-21T08:00:00+00:00",
-      "published_precision": "minute",
-      "thumbnail": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/Untitled-August-23-2026-at-23.27.37-5-Exclusive-Bug-26.png?w=900",
-      "kind": "article",
-      "feed_id": "nn-latest"
     },
     {
       "id": "fox-business:https://www.foxbusiness.com/economy/walmart-shoppers-stocked-up-emergency-supplies-after-series-tech-outages-report",
@@ -4722,38 +4758,6 @@
       "feed_id": "fox-business-latest"
     },
     {
-      "id": "fox-business:https://www.foxbusiness.com/retail/childrens-place-plans-store-closures-filing-bankruptcy-sets-gift-card-deadline",
-      "title": "The Children's Place plans store closures after filing for bankruptcy, sets gift card deadline",
-      "summary": "The Children's Place is seeking a buyer after filing for bankruptcy, with store closures ahead and a Dec. 12 deadline for customers to redeem gift cards and rewards points.",
-      "url": "https://www.foxbusiness.com/retail/childrens-place-plans-store-closures-filing-bankruptcy-sets-gift-card-deadline",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-16T09:50:18-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/childrens-place-entrance.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-latest"
-    },
-    {
-      "id": "fox-business:https://www.foxbusiness.com/fox-news-air-space/monday-air-travel-faces-key-test-faa-ground-stop-possible-cause-emerges",
-      "title": "Monday air travel faces key test after FAA ground stop as possible cause emerges",
-      "summary": "Transportation Secretary Sean Duffy expects flights to normalize Monday after an FAA communications outage caused widespread cancellations and delays nationwide.",
-      "url": "https://www.foxbusiness.com/fox-news-air-space/monday-air-travel-faces-key-test-faa-ground-stop-possible-cause-emerges",
-      "source": "Fox Business",
-      "source_id": "fox-business",
-      "sections": [
-        "business"
-      ],
-      "published": "2026-11-16T08:00:46-05:00",
-      "published_precision": "minute",
-      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/passengers-lined-up-at-airport.jpg",
-      "kind": "article",
-      "feed_id": "fox-business-latest"
-    },
-    {
       "id": "yt:11XzgtoQHx8",
       "title": "LIVE: 19 U.S. Warships Arrive Outside Iran - IRGC Under Attack In South",
       "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
@@ -5285,25 +5289,6 @@
       "video_id": "uRd_aUt3CcY"
     },
     {
-      "id": "yt:u3VNZaqPqFI",
-      "title": "Facebook Whistleblower Fears Zuckerberg More Than Musk | PBD Podcast #888",
-      "summary": "",
-      "url": "https://www.youtube.com/watch?v=u3VNZaqPqFI",
-      "source": "PBD Podcast",
-      "source_id": "pbd-podcast",
-      "sections": [
-        "video"
-      ],
-      "published": "2026-11-10T00:00:00-06:00",
-      "published_precision": "day",
-      "published_text": "5 days ago",
-      "thumbnail": "https://i.ytimg.com/vi/u3VNZaqPqFI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAb2wsz60GwZXt17jqmepXWUIuIpQ",
-      "kind": "video",
-      "feed_id": "pbd-podcast",
-      "video_id": "u3VNZaqPqFI",
-      "published_date_text": "Nov 10, 2026"
-    },
-    {
       "id": "yt:y9fWZi6kRPo",
       "title": "LIVE: Vance Moves To Save IRGC - Rubio Rejects Iran Deal - U.S. Military Deploy Towards Iran",
       "summary": "🔴 Become a member of Tousi TV+ at https://tousi.tv ⭐ Explore Tousi Capital: https://tousicapital.com 📲 Download Tousi TV app — available on iPhone and Android. X: @TousiTVOfficial Instagram: @TousiTV TikTok: @TousiTVOfficial",
@@ -5809,7 +5794,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:53.993666-06:00",
+      "checked": "2026-11-22T17:58:23.144582-06:00",
       "error": null
     },
     {
@@ -5819,7 +5804,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:54.106894-06:00",
+      "checked": "2026-11-22T17:58:23.299779-06:00",
       "error": null
     },
     {
@@ -5829,7 +5814,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:54.127723-06:00",
+      "checked": "2026-11-22T17:58:23.316443-06:00",
       "error": null
     },
     {
@@ -5839,7 +5824,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:54.149716-06:00",
+      "checked": "2026-11-22T17:58:23.409985-06:00",
       "error": null
     },
     {
@@ -5849,7 +5834,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:54.181032-06:00",
+      "checked": "2026-11-22T17:58:23.431608-06:00",
       "error": null
     },
     {
@@ -5859,7 +5844,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:54.266206-06:00",
+      "checked": "2026-11-22T17:58:23.446157-06:00",
       "error": null
     },
     {
@@ -5869,7 +5854,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:54.290209-06:00",
+      "checked": "2026-11-22T17:58:23.462276-06:00",
       "error": null
     },
     {
@@ -5879,7 +5864,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:54.312852-06:00",
+      "checked": "2026-11-22T17:58:23.481038-06:00",
       "error": null
     },
     {
@@ -5889,7 +5874,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:54.443344-06:00",
+      "checked": "2026-11-22T17:58:23.516293-06:00",
       "error": null
     },
     {
@@ -5899,7 +5884,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:54.463060-06:00",
+      "checked": "2026-11-22T17:58:23.596996-06:00",
       "error": null
     },
     {
@@ -5909,7 +5894,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:54.485548-06:00",
+      "checked": "2026-11-22T17:58:23.621142-06:00",
       "error": null
     },
     {
@@ -5919,7 +5904,7 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:54.567638-06:00",
+      "checked": "2026-11-22T17:58:23.656104-06:00",
       "error": null
     },
     {
@@ -5929,97 +5914,97 @@
       "ok": true,
       "count": 25,
       "http": 200,
-      "checked": "2026-11-22T12:55:54.653053-06:00",
+      "checked": "2026-11-22T17:58:23.684941-06:00",
       "error": null
     },
     {
       "id": "reuters-latest",
       "name": "Reuters — Latest",
       "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&hl=en-US&gl=US&ceid=US:en",
-      "ok": true,
-      "count": 100,
-      "http": 200,
-      "checked": "2026-11-22T12:55:54.748804-06:00",
-      "error": null
+      "ok": false,
+      "count": 0,
+      "http": 503,
+      "checked": "2026-11-22T17:58:23.736901-06:00",
+      "error": "HTTP 503; no RSS items returned"
     },
     {
       "id": "reuters-us",
       "name": "Reuters — U.S.",
       "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/world/us&hl=en-US&gl=US&ceid=US:en",
-      "ok": true,
-      "count": 2,
-      "http": 200,
-      "checked": "2026-11-22T12:55:55.116933-06:00",
-      "error": null
+      "ok": false,
+      "count": 0,
+      "http": 503,
+      "checked": "2026-11-22T17:58:29.431138-06:00",
+      "error": "HTTP 503; no RSS items returned"
     },
     {
       "id": "reuters-world",
       "name": "Reuters — World",
       "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/world&hl=en-US&gl=US&ceid=US:en",
-      "ok": true,
-      "count": 27,
-      "http": 200,
-      "checked": "2026-11-22T12:55:55.304199-06:00",
-      "error": null
+      "ok": false,
+      "count": 0,
+      "http": 503,
+      "checked": "2026-11-22T17:58:35.823234-06:00",
+      "error": "HTTP 503; no RSS items returned"
     },
     {
       "id": "reuters-business",
       "name": "Reuters — Business",
       "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/business&hl=en-US&gl=US&ceid=US:en",
-      "ok": true,
-      "count": 9,
-      "http": 200,
-      "checked": "2026-11-22T12:55:55.579176-06:00",
-      "error": null
+      "ok": false,
+      "count": 0,
+      "http": 503,
+      "checked": "2026-11-22T17:58:42.558161-06:00",
+      "error": "HTTP 503; no RSS items returned"
     },
     {
       "id": "reuters-markets",
       "name": "Reuters — Markets",
       "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/markets&hl=en-US&gl=US&ceid=US:en",
-      "ok": true,
-      "count": 51,
-      "http": 200,
-      "checked": "2026-11-22T12:55:55.802829-06:00",
-      "error": null
+      "ok": false,
+      "count": 0,
+      "http": 503,
+      "checked": "2026-11-22T17:58:50.211396-06:00",
+      "error": "HTTP 503; no RSS items returned"
     },
     {
       "id": "reuters-tech",
       "name": "Reuters — Technology",
       "url": "https://news.google.com/rss/search?q=when:7d+site:reuters.com/technology&hl=en-US&gl=US&ceid=US:en",
-      "ok": true,
-      "count": 27,
-      "http": 200,
-      "checked": "2026-11-22T12:55:56.085340-06:00",
-      "error": null
+      "ok": false,
+      "count": 0,
+      "http": 503,
+      "checked": "2026-11-22T17:58:58.661425-06:00",
+      "error": "HTTP 503; no RSS items returned"
     },
     {
       "id": "reuters-health",
       "name": "Reuters — Health",
       "url": "https://news.google.com/rss/search?q=when:7d+site:reuters.com/business/healthcare-pharmaceuticals&hl=en-US&gl=US&ceid=US:en",
-      "ok": true,
-      "count": 38,
-      "http": 200,
-      "checked": "2026-11-22T12:55:56.323075-06:00",
-      "error": null
+      "ok": false,
+      "count": 0,
+      "http": 503,
+      "checked": "2026-11-22T17:59:05.854214-06:00",
+      "error": "HTTP 503; no RSS items returned"
     },
     {
       "id": "reuters-sports",
       "name": "Reuters — Sports",
       "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com/sports&hl=en-US&gl=US&ceid=US:en",
-      "ok": true,
-      "count": 96,
-      "http": 200,
-      "checked": "2026-11-22T12:55:56.590964-06:00",
-      "error": null
+      "ok": false,
+      "count": 0,
+      "http": 503,
+      "checked": "2026-11-22T17:59:10.926297-06:00",
+      "error": "HTTP 503; no RSS items returned"
     },
     {
       "id": "nn-latest",
       "name": "NewsNation — Latest",
       "url": "https://www.newsnationnow.com/feed/",
       "ok": true,
-      "count": 14,
+      "count": 18,
       "http": 200,
-      "checked": "2026-11-22T12:55:56.970285-06:00",
+      "checked": "2026-11-22T17:59:17.390523-06:00",
       "error": null
     },
     {
@@ -6029,7 +6014,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-22T12:55:57.163941-06:00",
+      "checked": "2026-11-22T17:59:17.547155-06:00",
       "error": null
     },
     {
@@ -6039,7 +6024,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-22T12:55:58.008324-06:00",
+      "checked": "2026-11-22T17:59:18.867408-06:00",
       "error": null
     },
     {
@@ -6049,7 +6034,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-22T12:55:59.333746-06:00",
+      "checked": "2026-11-22T17:59:20.284507-06:00",
       "error": null
     },
     {
@@ -6059,7 +6044,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-22T12:55:59.429278-06:00",
+      "checked": "2026-11-22T17:59:21.254085-06:00",
       "error": null
     },
     {
@@ -6069,7 +6054,7 @@
       "ok": true,
       "count": 50,
       "http": 200,
-      "checked": "2026-11-22T12:56:00.154014-06:00",
+      "checked": "2026-11-22T17:59:22.143236-06:00",
       "error": null
     },
     {
@@ -6080,7 +6065,7 @@
       "ok": true,
       "count": 15,
       "http": 200,
-      "checked": "2026-11-22T12:56:00.944554-06:00",
+      "checked": "2026-11-22T17:59:23.488674-06:00",
       "error": null,
       "method": "youtube-atom"
     },
@@ -6092,7 +6077,7 @@
       "ok": true,
       "count": 15,
       "http": 200,
-      "checked": "2026-11-22T12:56:01.455677-06:00",
+      "checked": "2026-11-22T17:59:23.514534-06:00",
       "error": null,
       "method": "youtube-atom"
     }
